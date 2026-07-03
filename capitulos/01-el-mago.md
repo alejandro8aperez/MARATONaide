@@ -22,7 +22,7 @@ Y entonces, mientras sus pies golpeaban el asfalto al ritmo de una respiración 
 
 ***
 
-El kilómetro tres y medio trajo un paisaje nuevo. La ruta había salido del barrio residencial y ahora corría paralela a una línea del metro elevado. Los trenes pasaban con un rumor sordo, indiferentes a la multitud de corredores que se movía debajo.
+El kilómetro tres y medio trajo un paisaje nuevo. La ruta había dejado San Juan y doblado hacia el sur por la Avenida 80, una vía ancha que corría paralela a la línea elevada del Metroplús. Los trenes pasaban con un rumor sordo, indiferentes a la multitud de corredores que se movía debajo.
 
 Runy sintió que alguien se ponía a su altura.
 

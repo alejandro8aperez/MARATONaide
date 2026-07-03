@@ -32,7 +32,7 @@ En la recepción del hotel, una señora de uniforme le deseó suerte. Le dio una
 
 Afuera, la ciudad todavía estaba oscura. Medellín no duerme nunca, pero a las cinco de la mañana titubea, como un animal grande que se da la vuelta en la cama antes de despertar del todo. Las luces de los cerros parpadeaban. El Valle del Aburrá era un tazón de niebla y neón.
 
-Caminó hacia la Plaza de Armas sintiendo el peso de las zapatillas contra el asfalto. Nada le dolía todavía. Todo estaba intacto. El cuerpo no sabía lo que le esperaba.
+Caminó hacia Parques del Río sintiendo el peso de las zapatillas contra el asfalto. Nada le dolía todavía. Todo estaba intacto. El cuerpo no sabía lo que le esperaba.
 
 ***
 
@@ -52,7 +52,7 @@ No dijo nada. Siguió caminando.
 
 Y entonces lo vio.
 
-Entre dos columnas de la Plaza de Armas, en una zona de sombra donde la luz del amanecer no llegaba, había una figura de pie que no se movía.
+Entre dos columnas del parque, en una zona de sombra donde la luz del amanecer no llegaba, había una figura de pie que no se movía.
 
 No era un corredor. No tenía dorsal, no llevaba ropa deportiva. Una capa oscura le cubría el cuerpo de los hombros a los pies. No se le veía el rostro. No parecía estar mirando nada en particular, pero Runy sintió, con una certeza que no podía explicar, que aquella figura lo estaba mirando a él.
 

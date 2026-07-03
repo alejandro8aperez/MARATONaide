@@ -28,7 +28,7 @@ No lo sabía. Y esa falta de respuesta, en lugar de paralizarlo, lo impulsó a a
 
 ***
 
-El kilómetro uno y medio trajo un quiebre en la ruta. La masa de corredores dobló a la izquierda, dejando atrás la avenida principal para internarse en una calle más angosta, bordeada de árboles viejos y casas bajas. La luz del amanecer empezaba a filtrarse entre las ramas, creando un techo de sombras y destellos.
+El kilómetro uno y medio trajo un quiebre en la ruta. La masa de corredores dobló a la izquierda para tomar la calle San Juan en dirección al occidente. La avenida era ancha, flanqueada por el edificio de EPM a un lado y las fachadas antiguas del centro al otro. La luz del amanecer empezaba a filtrarse entre los edificios, creando un pasillo de sombras y destellos.
 
 Runy sintió que podía respirar mejor. El grupo se había estirado, los cuerpos ya no estaban tan apretados. Empezaba a encontrar su ritmo.
 
