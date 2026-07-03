@@ -9,28 +9,28 @@
 | # | Km | Tema | Filósofo |
 |---|---|---|---|
 | Prólogo | — | La salida | — |
-| 0 | 0–2 | El Loco · el salto | Camus |
-| I | 2–4 | El Mago · la voluntad creadora | Camus |
-| II | 4–6 | La Sacerdotisa · el saber oculto | Nietzsche |
-| III | 6–8 | La Emperatriz · la naturaleza | Nietzsche |
-| IV | 8–10 | El Emperador · la ley | Nietzsche |
-| V | 10–12 | El Hierofante · la voz antigua | Sartre |
-| VI | 12–14 | Los Enamorados · la elección | Epicteto |
-| VII | 14–16 | El Carro · la conquista | Sartre |
-| VIII | 16–18 | La Fuerza · la bestia domada | Merleau-Ponty |
-| IX | 18–20 | El Ermitaño · la luz interna | Merleau-Ponty |
-| X | 20–22 | La Rueda · el giro | Schopenhauer |
-| XI | 22–24 | La Justicia · la balanza | Schopenhauer |
-| XII | 24–26 | El Colgado · el sacrificio | Bergson |
-| XIII | 26–28 | La Muerte · la transformación | San Agustín |
-| XIV | 28–30 | La Templanza · la síntesis | Bergson |
-| XV | 30–32 | El Diablo · la cadena | Heidegger |
-| XVI | 32–34 | La Torre · el derrumbe | Heidegger |
-| XVII | 34–36 | La Estrella · la esperanza | Lévinas |
-| XVIII | 36–38 | La Luna · la ilusión | Lévinas |
-| XIX | 38–40 | El Sol · la claridad | Lévinas |
-| XX | 40–42 | El Juicio · el despertar | Todos (cierre) |
-| XXI | meta | El Mundo · la completitud | Sísifo (final) |
+| 0 | 0–2 | El salto | Camus |
+| I | 2–4 | La voluntad creadora | Camus |
+| II | 4–6 | El saber oculto | Nietzsche |
+| III | 6–8 | La naturaleza | Nietzsche |
+| IV | 8–10 | La ley | Nietzsche |
+| V | 10–12 | La voz antigua | Sartre |
+| VI | 12–14 | La elección | Epicteto |
+| VII | 14–16 | La conquista | Sartre |
+| VIII | 16–18 | La bestia domada | Merleau-Ponty |
+| IX | 18–20 | La luz interna | Merleau-Ponty |
+| X | 20–22 | El giro | Schopenhauer |
+| XI | 22–24 | La balanza | Schopenhauer |
+| XII | 24–26 | El sacrificio | Bergson |
+| XIII | 26–28 | La transformación | San Agustín |
+| XIV | 28–30 | La síntesis | Bergson |
+| XV | 30–32 | La cadena | Heidegger |
+| XVI | 32–34 | El derrumbe | Heidegger |
+| XVII | 34–36 | La esperanza | Lévinas |
+| XVIII | 36–38 | La ilusión | Lévinas |
+| XIX | 38–40 | La claridad | Lévinas |
+| XX | 40–42 | El despertar | Todos (cierre) |
+| XXI | meta | La completitud | Sísifo (final) |
 
 ## Notas
 
