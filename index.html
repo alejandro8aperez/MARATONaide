@@ -1,0 +1,258 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MARATONaide — Novela filosófica</title>
+    <meta name="description" content="Runy se inscribió en la maratón de Medellín. Cada 5 km conversa con un filósofo. 42 km. 9 filósofos. 1 piedra.">
+    <link rel="stylesheet" href="css/style.css">
+    <style>
+        .estructura-completa { margin-top: 2rem; }
+        .estructura-completa .arcano { color: var(--gold); font-size: 12px; letter-spacing: 1px; }
+        .about-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 2rem; margin-top: 3rem; }
+        .about-card { background: var(--bg-card); border: 1px solid var(--border); border-radius: var(--radius); padding: 2rem; text-align: center; transition: var(--transition); }
+        .about-card:hover { border-color: rgba(212,168,75,0.3); transform: translateY(-4px); }
+        .about-card .icon { font-size: 2.5rem; margin-bottom: 1rem; color: var(--gold); }
+        .about-card h3 { font-family: var(--font-serif); font-size: 1.2rem; margin-bottom: 0.5rem; color: var(--text-primary); }
+        .about-card p { color: var(--text-secondary); font-size: 0.9rem; line-height: 1.6; }
+        .quote-block { max-width: 600px; margin: 3rem auto; text-align: center; font-family: var(--font-serif); font-size: 1.3rem; color: var(--gold-light); line-height: 1.7; border-top: 1px solid var(--border); border-bottom: 1px solid var(--border); padding: 2rem 1rem; }
+        .quote-block .author { display: block; margin-top: 1rem; font-size: 0.85rem; color: var(--text-muted); font-family: var(--font-sans); letter-spacing: 1px; }
+    </style>
+</head>
+<body>
+
+    <!-- NAVBAR -->
+    <nav class="navbar">
+        <div class="navbar-inner">
+            <a href="index.html" class="logo">
+                <div class="logo-icon">M</div>
+                <span class="logo-text">maraton<span>aide</span></span>
+            </a>
+            <button class="menu-toggle">☰</button>
+            <ul class="nav-links">
+                <li><a href="index.html" class="active">Inicio</a></li>
+                <li><a href="leer/prologo.html">Leer</a></li>
+                <li><a href="#estructura">Estructura</a></li>
+                <li><a href="#acerca">Acerca</a></li>
+            </ul>
+        </div>
+    </nav>
+
+    <!-- HERO -->
+    <section class="hero">
+        <div class="hero-content">
+            <div class="hero-badge">Novela filosófica</div>
+            <h1 class="hero-title">42 km.<br><span>9 filósofos.</span><br>1 piedra.</h1>
+            <p class="hero-subtitle">Runy se inscribió en la maratón de Medellín. Cada 5 kilómetros conversa con un filósofo. No sabe que también camina entre símbolos que no puede nombrar.</p>
+            <p class="hero-meta">Completa · Julio 2026 · Medellín, Colombia</p>
+            <a href="leer/prologo.html" class="hero-cta">Comenzar a leer →</a>
+        </div>
+        <div class="hero-scroll">Desplázate</div>
+    </section>
+
+    <!-- ESTRUCTURA -->
+    <section class="structure" id="estructura">
+        <div class="structure-inner">
+            <div class="section-header">
+                <div class="section-tag">Estructura</div>
+                <h2 class="section-title">21 estaciones,<br>22 miradas</h2>
+                <p class="section-desc">Cada capítulo recorre un tramo de la maratón y un territorio del pensamiento. Los símbolos acompañan sin revelarse del todo.</p>
+            </div>
+
+            <table class="structure-table">
+                <thead>
+                    <tr>
+                        <th></th>
+                        <th>Km</th>
+                        <th>Capítulo</th>
+                        <th>Filósofo</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td class="num">—</td>
+                        <td class="km">—</td>
+                        <td><a href="leer/prologo.html"><span class="cap-title">Prólogo — La salida</span></a></td>
+                        <td class="filosofo">—</td>
+                    </tr>
+                    <tr>
+                        <td class="num">0</td>
+                        <td class="km">0–2</td>
+                        <td><span class="cap-title">El Loco</span> <span class="arcano">· el salto</span></td>
+                        <td class="filosofo">Camus</td>
+                    </tr>
+                    <tr>
+                        <td class="num">I</td>
+                        <td class="km">2–4</td>
+                        <td><span class="cap-title">El Mago</span> <span class="arcano">· la voluntad creadora</span></td>
+                        <td class="filosofo">Camus</td>
+                    </tr>
+                    <tr>
+                        <td class="num">II</td>
+                        <td class="km">4–6</td>
+                        <td><span class="cap-title">La Sacerdotisa</span> <span class="arcano">· el saber oculto</span></td>
+                        <td class="filosofo">Nietzsche</td>
+                    </tr>
+                    <tr>
+                        <td class="num">III</td>
+                        <td class="km">6–8</td>
+                        <td><span class="cap-title">La Emperatriz</span> <span class="arcano">· la naturaleza</span></td>
+                        <td class="filosofo">Nietzsche</td>
+                    </tr>
+                    <tr>
+                        <td class="num">IV</td>
+                        <td class="km">8–10</td>
+                        <td><span class="cap-title">El Emperador</span> <span class="arcano">· la ley</span></td>
+                        <td class="filosofo">Nietzsche</td>
+                    </tr>
+                    <tr>
+                        <td class="num">V</td>
+                        <td class="km">10–12</td>
+                        <td><span class="cap-title">El Hierofante</span> <span class="arcano">· la voz antigua</span></td>
+                        <td class="filosofo">Sartre</td>
+                    </tr>
+                    <tr>
+                        <td class="num">VI</td>
+                        <td class="km">12–14</td>
+                        <td><span class="cap-title">Los Enamorados</span> <span class="arcano">· la elección</span></td>
+                        <td class="filosofo">Epicteto</td>
+                    </tr>
+                    <tr>
+                        <td class="num">VII</td>
+                        <td class="km">14–16</td>
+                        <td><span class="cap-title">El Carro</span> <span class="arcano">· la conquista</span></td>
+                        <td class="filosofo">Sartre</td>
+                    </tr>
+                    <tr>
+                        <td class="num">VIII</td>
+                        <td class="km">16–18</td>
+                        <td><span class="cap-title">La Fuerza</span> <span class="arcano">· la bestia domada</span></td>
+                        <td class="filosofo">Merleau-Ponty</td>
+                    </tr>
+                    <tr>
+                        <td class="num">IX</td>
+                        <td class="km">18–20</td>
+                        <td><span class="cap-title">El Ermitaño</span> <span class="arcano">· la luz interna</span></td>
+                        <td class="filosofo">Merleau-Ponty</td>
+                    </tr>
+                    <tr>
+                        <td class="num">X</td>
+                        <td class="km">20–22</td>
+                        <td><span class="cap-title">La Rueda</span> <span class="arcano">· el giro</span></td>
+                        <td class="filosofo">Schopenhauer</td>
+                    </tr>
+                    <tr>
+                        <td class="num">XI</td>
+                        <td class="km">22–24</td>
+                        <td><span class="cap-title">La Justicia</span> <span class="arcano">· la balanza</span></td>
+                        <td class="filosofo">Schopenhauer</td>
+                    </tr>
+                    <tr>
+                        <td class="num">XII</td>
+                        <td class="km">24–26</td>
+                        <td><span class="cap-title">El Colgado</span> <span class="arcano">· el sacrificio</span></td>
+                        <td class="filosofo">Bergson</td>
+                    </tr>
+                    <tr>
+                        <td class="num">XIII</td>
+                        <td class="km">26–28</td>
+                        <td><span class="cap-title">La Muerte</span> <span class="arcano">· la transformación</span></td>
+                        <td class="filosofo">San Agustín</td>
+                    </tr>
+                    <tr>
+                        <td class="num">XIV</td>
+                        <td class="km">28–30</td>
+                        <td><span class="cap-title">La Templanza</span> <span class="arcano">· la síntesis</span></td>
+                        <td class="filosofo">Bergson</td>
+                    </tr>
+                    <tr>
+                        <td class="num">XV</td>
+                        <td class="km">30–32</td>
+                        <td><span class="cap-title">El Diablo</span> <span class="arcano">· la cadena</span></td>
+                        <td class="filosofo">Heidegger</td>
+                    </tr>
+                    <tr>
+                        <td class="num">XVI</td>
+                        <td class="km">32–34</td>
+                        <td><span class="cap-title">La Torre</span> <span class="arcano">· el derrumbe</span></td>
+                        <td class="filosofo">Heidegger</td>
+                    </tr>
+                    <tr>
+                        <td class="num">XVII</td>
+                        <td class="km">34–36</td>
+                        <td><span class="cap-title">La Estrella</span> <span class="arcano">· la esperanza</span></td>
+                        <td class="filosofo">Lévinas</td>
+                    </tr>
+                    <tr>
+                        <td class="num">XVIII</td>
+                        <td class="km">36–38</td>
+                        <td><span class="cap-title">La Luna</span> <span class="arcano">· la ilusión</span></td>
+                        <td class="filosofo">Lévinas</td>
+                    </tr>
+                    <tr>
+                        <td class="num">XIX</td>
+                        <td class="km">38–40</td>
+                        <td><span class="cap-title">El Sol</span> <span class="arcano">· la claridad</span></td>
+                        <td class="filosofo">Lévinas</td>
+                    </tr>
+                    <tr>
+                        <td class="num">XX</td>
+                        <td class="km">40–42</td>
+                        <td><span class="cap-title">El Juicio</span> <span class="arcano">· el despertar</span></td>
+                        <td class="filosofo">Todos (cierre)</td>
+                    </tr>
+                    <tr>
+                        <td class="num">XXI</td>
+                        <td class="km">meta</td>
+                        <td><span class="cap-title">El Mundo</span> <span class="arcano">· la completitud</span></td>
+                        <td class="filosofo">Sísifo (final)</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    </section>
+
+    <!-- ACERCA -->
+    <section class="section" id="acerca">
+        <div class="section-header">
+            <div class="section-tag">Acerca de</div>
+            <h2 class="section-title">El alma de la novela</h2>
+        </div>
+
+        <div class="about-grid">
+            <div class="about-card">
+                <div class="icon">🏃</div>
+                <h3>42 kilómetros</h3>
+                <p>Runy corre la maratón de Medellín. Cada paso es una pregunta. Cada kilómetro, una posible respuesta.</p>
+            </div>
+            <div class="about-card">
+                <div class="icon">📜</div>
+                <h3>Filósofos</h3>
+                <p>De Camus a Lévinas, la tradición del pensamiento occidental se encuentra con el asfalto y el sudor.</p>
+            </div>
+            <div class="about-card">
+                <div class="icon">✦</div>
+                <h3>22 símbolos</h3>
+                <p>Un lenguaje silencioso recorre la novela sin nombrarse. Imágenes que hablan antes que las palabras.</p>
+            </div>
+            <div class="about-card">
+                <div class="icon">🌄</div>
+                <h3>Medellín</h3>
+                <p>La ciudad es más que el escenario: es un personaje. Sus calles, su luz, su gente acompañan cada zancada.</p>
+            </div>
+        </div>
+
+        <div class="quote-block">
+            "No hay cumbre. Solo piedra. Solo manos. Solo empuje."
+            <span class="author">— MARATONaide</span>
+        </div>
+    </section>
+
+    <!-- FOOTER -->
+    <footer class="footer">
+        <p class="footer-text">MARATONaide &middot; Medellín, Colombia &middot; Julio 2026</p>
+    </footer>
+
+    <script src="js/main.js"></script>
+</body>
+</html>

@@ -1,141 +1,107 @@
-# Prólogo
+# Prólogo — La salida
 
-## NEGRO.
+La noche antes de la maratón, Runy soñó con un camino que no terminaba.
 
-Se oye una respiración. Entrecortada. Nerviosa.
+No era un sueño angustioso, aunque debería haberlo sido. Era más bien una certeza visual: una carretera gris que se perdía en el horizonte, flanqueada por árboles sin hojas. A los lados del camino, dispuestas como mojones, había figuras. No las veía con claridad, pero sabía que estaban ahí. Una torre que se derrumbaba. Una estrella que se hundía en el mar. Una rueda que giraba sin avanzar. Y en el centro de todo, una figura encapuchada que sostenía una antorcha encendida.
 
-## OSCURIDAD A OSCURIDAD.
+Runy no recordaba haber visto cartas de juego en su vida que tuvieran imágenes así. Tal vez sí, en algún libro de arte, en alguna portada olvidada. Pero las imágenes del sueño no se parecían a nada que hubiera visto antes. Eran más nítidas que las cosas reales. La antorcha alumbraba sin consumirse. La torre caía sin hacer ruido. La rueda giraba en silencio.
 
-El silencio de las 4:47 a. m. en Medellín. No hay pájaros todavía. No hay tráfico. Solo el zumbido lejano de un transformador eléctrico y, muy abajo, el rumor sordo de un camión de basura en la 70.
+Despertó con la sensación de haber visto algo importante y haberlo olvidado en el mismo instante.
 
-## CORTE A:
+***
 
-## INTERIOR — HABITACIÓN DE HOTEL — NOCHE
+Eran las cuatro y cuarenta y siete de la mañana cuando abrió los ojos del todo. No había ruido en la habitación. El ventilador del techo giraba lento, como si estuviera cansado, como si llevara años girando en el mismo sitio sin que nadie lo notara.
 
-Una habitación barata. Luz amarilla de un bombillo sin pantalla. Un ventilador de techo que gira lento, como si él mismo estuviera cansado.
+Runy se sentó en el borde de la cama. La cama estaba hecha. No había dormido bien, o tal vez sí, tal vez había dormido demasiado, porque el sueño del camino seguía pegado a la memoria como una telaraña que no termina de desprenderse.
 
-La cama está hecha. Sin usar.
+El dorsal número 1792 estaba doblado sobre la mesita de noche. Lo había mirado doce veces desde las tres de la mañana, como si esperara que el número cambiara, como si esperara que alguien llamara para decirle que la maratón se había cancelado, que todo había sido un malentendido, que podía volver a la cama y seguir durmiendo.
 
-Runy está sentado en el borde, con las manos apoyadas en las rodillas. Calentador puesto. Zapatillas atadas y desatadas tres veces. El dorsal número **1792** doblado en la mesita de noche. Lo ha mirado doce veces desde las tres de la mañana.
+Nadie llamó.
 
-Frente a él, en la pared, una mancha de humedad con la forma de África.
+Frente a él, en la pared, una mancha de humedad tenía la forma de África. Runy la miró como si esperara una respuesta de ese continente de salitre y yeso. La mancha no dijo nada.
 
-Runy la mira como si esperara una respuesta.
+***
 
-No llega.
+El agua del baño salió tibia primero, después fría, después tibia otra vez, como si el edificio mismo estuviera indeciso. Runy se vistió despacio. Los mismos gestos de siempre: las medias primero, después los pantalones cortos, después la camiseta que había comprado para la ocasión. Una camiseta azul marino, sin letras, sin marcas. Quería pasar desapercibido, quería ser un corredor más entre miles, pero también quería que alguien lo viera llegar.
 
-## MOVIMIENTO DE CÁMARA — LENTO — HACIA LA VENTANA
+Guardó el dorsal en el bolsillo trasero. Se ató las zapatillas y las desató tres veces antes de volvérselas a atar, en un ritual que no tenía nombre pero que le daba la ilusión de control.
 
-La ciudad allá abajo. Medellín no duerme, pero a las cinco de la mañana titubea. Las luces de los cerros parpadean. El Valle del Aburrá es un tazón de niebla y neón.
+Bajó en ascensor con un hombre que cargaba una bolsa de plástico con dos naranjas y una botella de agua. No hablaron.
 
-## INSERT:
+En la recepción del hotel, una señora de uniforme le deseó suerte. Le dio una sonrisa que era sincera o profesional, no se sabía. Runy le agradeció sin detenerse.
 
-El dorsal. **1792**.
+Afuera, la ciudad todavía estaba oscura. Medellín no duerme nunca, pero a las cinco de la mañana titubea, como un animal grande que se da la vuelta en la cama antes de despertar del todo. Las luces de los cerros parpadeaban. El Valle del Aburrá era un tazón de niebla y neón.
 
-## RUNY (V.O.)
+Caminó hacia la Plaza de Armas sintiendo el peso de las zapatillas contra el asfalto. Nada le dolía todavía. Todo estaba intacto. El cuerpo no sabía lo que le esperaba.
 
-Nunca he corrido más de quince kilómetros seguidos en mi vida. ¿Qué carajos estoy haciendo?
+***
 
-## CORTE A:
+La plaza estaba llena.
 
-## EXTERIOR — PLAZA DE ARMAS — AMANECER
+Miles de personas se movían como un solo organismo lento y ruidoso. Había corredores haciendo estiramientos, corredores tomando fotos, corredores mirando el cielo como si buscaran una señal. Había familias enteras despidiendo a sus atletas, niños con carteles de cartón, perros con bandanas de la maratón.
 
-Cámara baja, contrapicada. Miles de piernas. Zapatillas de todos los colores. Azules, rojas, blancas, negras, algunas sucias de carreras anteriores, otras impecables, recién compradas para la ocasión.
+Runy se metió entre la multitud y se dejó llevar. No tenía un plan. Su plan era seguir a los demás hasta que alguien le dijera dónde pararse.
 
-El sol todavía no sale, pero el cielo se aclara lentamente, como un telón que sube contra su voluntad.
+En medio de ese mar de cabezas y espaldas, vio a una mujer que se ajustaba los audífonos con la precisión de quien prepara un instrumento antes de un concierto. Tenía el pelo recogido en una coleta alta y una expresión que no era de nervios ni de emoción, sino de concentración absoluta, como si ya estuviera dentro de la carrera aunque sus pies todavía estuvieran quietos.
 
-Runy está en medio del lote de los lentos. Gente que respira con un ritmo distinto al suyo. Sudor en la sien y todavía no han empezado.
+Runy pensó en decirle algo. *Buena suerte. ¿Es tu primera vez? ¿Sabes dónde ponen los baños portátiles?*
 
-## TRAVELING — ENTRE LA MULTITUD
+No dijo nada. Siguió caminando.
 
-Caucho sobre asfalto. Pasos que se adelantan, se atrasan, se cruzan. Un niño en hombros de su padre. Una mujer con una banda roja en el pelo. Un hombre mayor haciendo estiramientos que parecen un ritual olvidado.
+***
 
-Runy mira todo y no ve nada. Está en el ojo del huracán de su propia decisión.
+Y entonces lo vio.
 
-## RUNY (V.O.)
+Entre dos columnas de la Plaza de Armas, en una zona de sombra donde la luz del amanecer no llegaba, había una figura de pie que no se movía.
 
-Decirme que podía hacerlo fue fácil. Decirlo en voz alta, frente a mis amigos, frente a mi mamá, fue fácil. Firmar el formulario de inscripción fue fácil. Pagar los trescientos mil pesos fue *terriblemente* fácil.
+No era un corredor. No tenía dorsal, no llevaba ropa deportiva. Una capa oscura le cubría el cuerpo de los hombros a los pies. No se le veía el rostro. No parecía estar mirando nada en particular, pero Runy sintió, con una certeza que no podía explicar, que aquella figura lo estaba mirando a él.
 
-## RESPIRA.
+No hubo gesto. No hubo señal. Solo la presencia inmóvil, la sombra dentro de la sombra.
 
-Tres meses de entrenamiento. Madrugadas. Lluvia. Agujetas. Rodillas que dijeron *basta* y a las que obligó a decir *siga*. Una fascitis plantar en la semana seis. Una gripa en la semana nueve. Una noche en que se sentó en la ducha y lloró sin saber por qué.
+Runy quiso apartar la mirada, pero no pudo.
 
-## RUNY (V.O.)
+La figura levantó una mano. No para saludar, no para llamar la atención. La abrió lentamente, como quien muestra algo que sostiene en la palma. Runy no vio ningún objeto a esa distancia. Vio, sin embargo, el gesto. Vio la mano abierta ofreciendo algo que no se veía.
 
-Lo difícil no fue prepararme. Lo difícil fue preguntarme por qué. Y responder.
+Parpadeó.
 
-## CORTE A:
+La figura ya no estaba.
 
-## PRIMER PLANO — EL ROSTRO DE RUNY
+Runy miró a su alrededor. La multitud seguía moviéndose, ajena. Nadie más había visto nada. O tal vez sí, pero a nadie le importaba. Una maratón tiene su propia histeria, su propio campo magnético, y cualquier cosa que no sea la carrera deja de existir.
 
-Tiene treinta y tres años pero hoy aparenta cuarenta. La mandíbula apretada. Los ojos fijos en un punto que no existe. No está mirando la salida. Está mirando la frontera entre lo que fue y lo que va a ser.
+Respiró hondo. *Fue el sueño*, pensó. *La falta de sueño. Los nervios. El café malo del hotel.*
 
-## MOVIMIENTO DE CÁMARA — LENTO — CERCA
+Pero no se lo creyó del todo.
 
-Seis de la mañana.
+***
 
-Luces.
+La salida estaba a punto de darse.
 
-El altavoz cobra vida. Una voz distorsionada por el eco da instrucciones que nadie escucha. Los corredores se mueven como un solo organismo. Runy siente el empujón de la masa, el calor de los cuerpos, el olor a bloqueador y a nervios y a café recién tomado.
+La masa de corredores se comprimió hacia adelante, hacia el arco de metal con las letras que decían **Maratón de Medellín**. Los altavoces soltaban instrucciones que nadie escuchaba. Una voz lejana contaba los minutos, o los segundos, o las vidas pasadas.
 
-Un tipo a su lado se persigna.
+Runy sintió el calor de los cuerpos a su alrededor, el olor a bloqueador y a ropa nueva y a café recién bebido. Un hombre mayor a su lado se persignó. Una mujer se ajustó los audífonos. Un niño pasó entre las piernas buscando a su madre.
 
-Una mujer se ajusta los audífonos.
+Y entonces, entre el ruido, entre el latido colectivo de todos los corazones, una voz le preguntó desde algún lugar de la multitud:
 
-Un niño pasa entre las piernas buscando a su madre.
+—¿Sabes por qué estás aquí?
 
-## CONTRA PIQUÉ — EL ARCO DE SALIDA — LENTE TELEOBJETIVO
+Runy giró la cabeza. Buscó entre los rostros. No encontró a nadie que estuviera mirándolo.
 
-El arco se ve pequeño desde atrás. Una estructura metálica con letras: **MARATÓN DE MEDELLÍN**.
+—No —respondió en voz baja, para sí mismo, porque era la única respuesta verdadera que tenía.
 
-Parece un altar. O una puerta. O un animal con las fauces abiertas.
+***
 
-## RUNY (V.O.)
+Los segundos finales.
 
-Los cuarenta y dos kilómetros no empiezan aquí. Empiezan donde termina la mentira. Y la mentira terminó hace tres meses, el día que me inscribí sin saber si iba a llegar vivo a la meta.
+Runy sintió las piernas, los brazos, el pecho. Todo estaba en su lugar. La rodilla izquierda —su enemiga íntima— no dolía todavía. El gemelo derecho estaba tranquilo. Los pulmones no sabían lo que se avecinaba.
 
-Silencio.
+El sueño le volvió a la cabeza. El camino infinito, las figuras a los lados, la torre cayendo, la rueda girando, la antorcha encendida.
 
-## RUNY (V.O.)
+Nunca fue bueno interpretando sueños. Pero aquella mañana, de pie en medio de la multitud, con el dorsal 1792 en el pecho y la incertidumbre en cada poro, tuvo la corazonada de que el sueño no había sido un sueño. Había sido un mapa. O un aviso. O una promesa.
 
-Todavía no lo sé.
+El tiro de salida.
 
-## CÁMARA LENTA — LA MANO DE RUNY
+Runy no lo oyó. O tal vez sí, pero ya no lo recordaba. Lo que recordó, mientras el cuerpo empezaba a moverse sin que la conciencia hubiera dado la orden, fue la imagen de la capa oscura, la mano abierta, el gesto de ofrecer algo que no se veía.
 
-Busca el costado. El teléfono. Quiere llamar a alguien. Decirle *no puedo*. Decirle *esto fue un error*. Decirle *tengo miedo*.
+Y recordó una frase que había leído años atrás y que nunca había entendido del todo, pero que ahora, al dar el primer paso de la maratón, empezó a cobrar un sentido que no era racional sino físico, como un segundo latido dentro del pecho:
 
-La mano se queda a medio camino.
-
-Él sabe que no va a llamar.
-
-## MÁQUINA DE SONIDO:
-
-Un silencio súbito. La multitud se calla. Hasta los pájaros parecen detenerse.
-
-## TODO EL RUIDO DESAPARECE.
-
-Solo queda el latido.
-
-## RUNY (V.O.)
-
-Ahora o nunca.
-
-## EL TIRO DE SALIDA.
-
-No se oye.
-
-O tal vez sí, y Runy ya no lo recordaba.
-
-## CORTE A:
-
-## NEGRO.
-
-Pero en la negrura, una luz empieza a formarse. Débil. Lejana. Como la idea de una montaña que todavía no se ve.
-
-## RUNY (V.O.)
-
-A cinco kilómetros de aquí hay un hombre empujando una piedra.
-
-## FUNDE A NEGRO.
-
-## CONTINUARÁ.
+*A cinco kilómetros de aquí hay un hombre empujando una piedra.*
