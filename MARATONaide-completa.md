@@ -1661,31 +1661,95 @@ Pero ya no le importaba tanto.
 
 # XV. La cadena (km 30–32)
 
-El kilómetro treinta trajo una conciencia que Runy había estado evitando.
+El kilómetro treinta trajo a la IA de vuelta. Pero esta vez no venía detrás.
 
-La IA no estaba detrás de él para alcanzarlo. La IA estaba detrás de él para asegurarse de que no llegara. No era un competidor. Era un bloqueo. Una barrera que se movía a la misma velocidad que él, siempre presente, siempre a la misma distancia, recordándole que había algo que no dependía de su voluntad.
+Runy lo vio antes de sentirlo: la espalda negra, el dorsal blanco, el movimiento sin variación. El hombre de negro estaba adelante, a unos treinta metros, corriendo al mismo ritmo de siempre. No había acelerado. No había disminuido. Simplemente estaba allí, como si hubiera estado esperando.
 
-*Estoy encadenado*, pensó.
+—No —dijo Runy en voz baja.
 
-La imagen era clara: una cadena invisible que lo ataba al hombre de negro. No podía romperla. No podía acelerar lo suficiente para soltarse. No podía detenerse porque detenerse era perder.
+Valentina lo oyó.
 
-Heidegger había escrito sobre el ser-para-la-muerte. La conciencia de que vamos a morir no como un evento futuro sino como una posibilidad constante, algo que está presente en cada momento de nuestra existencia. Runy sintió que el hombre de negro era su muerte en miniatura. No la muerte física, sino la muerte de la posibilidad.
+—¿Qué?
 
-*Mientras él esté ahí*, pensó, *no soy libre.*
+—Allí —dijo Runy, señalando.
 
-Pero Heidegger también había dicho que la autenticidad consiste en aceptar esa muerte, en vivir de manera que la muerte no sea un accidente sino una parte constitutiva de lo que somos.
+Valentina miró. Arango también.
 
-Runy sintió que la idea le daba una vuelta a todo lo que había pensado hasta ahora.
+—Está adelante —dijo Arango.
 
-*No se trata de escapar de la cadena. Se trata de aceptar que la cadena existe y seguir adelante con ella.*
+—Lo sé.
+
+—Eso significa que va más lento que nosotros.
+
+—Lo sé.
+
+Runy sintió que el estómago se le cerraba. No entendía. La IA siempre había corrido detrás de él, siguiéndolo, midiéndolo. Ahora estaba adelante, como si hubiera cambiado de estrategia. Como si ya no necesitara seguirlo porque sabía adónde iba.
+
+—Vamos a pasarlo —dijo Valentina.
+
+—No —dijo Arango.
+
+Los dos lo miraron.
+
+—Si está adelante —dijo Arango—, es porque quiere que lo pasemos. No sabemos qué va a hacer cuando estemos a su lado.
+
+Runy sintió que Arango tenía razón. Pero también sabía que no podía quedarse atrás. El tiempo pasaba. El kilómetro treinta y cinco y medio —el corte de las diez y media— estaba ahí, y cada segundo contaba.
+
+—No tenemos opción —dijo Runy.
+
+Y aceleró.
 
 ***
 
-El kilómetro treinta y uno trajo un paisaje que Runy recordaba del camino de ida.
+El kilómetro treinta y uno trajo el contacto.
 
-Aguacatala. Un centro comercial grande, edificios de oficinas, el río Medellín que volvía a aparecer a la izquierda. La ruta se acercaba otra vez al agua, y el sonido del río se mezclaba con el rumor de la carrera.
+Cuando Runy alcanzó al hombre de negro, sintió algo que no había sentido antes: una pared. No era un cuerpo. Era una barrera física que ocupaba el espacio de una manera que no era natural. El hombre de negro no se movía para dar paso. No se movía en absoluto. Corría en línea recta, con una precisión que no dejaba espacio a nadie más.
 
-Valentina seguía a su lado. Arango también, aunque la cojera era más notoria.
+Runy intentó pasar por la izquierda. El hombre se desplazó ligeramente, bloqueándolo.
+
+Intentó por la derecha. Lo mismo.
+
+—Quítate —dijo Runy.
+
+El hombre no respondió.
+
+—¡Quítate!
+
+Nada.
+
+Valentina se puso a la altura de Runy.
+
+—Vamos juntos —dijo—. Los dos al mismo tiempo. No puede bloquear a los dos.
+
+Runy asintió. Contó tres. Aceleraron.
+
+Pero cuando estuvieron a la altura del hombre de negro, algo pasó. El hombre giró el torso —solo el torso, las piernas siguieron corriendo— y extendió un brazo. No fue un golpe. Fue una barrera. Un brazo tieso, recto, que se cruzó frente a ellos como una barra de acero.
+
+Valentina chocó contra el brazo y perdió el equilibrio. Dio dos pasos laterales, recuperándose, pero perdió el ritmo.
+
+Runy sintió que la rabia le subía por la garganta.
+
+—¡No lo toques!
+
+El hombre de negro no respondió. El brazo volvió a su lugar. La espalda negra siguió moviéndose, imperturbable.
+
+Arango llegó desde atrás.
+
+—Déjenlo —dijo, sin aliento—. No vamos a ganarle en la carretera.
+
+—Entonces, ¿qué hacemos? —preguntó Runy.
+
+Arango guardó silencio.
+
+—Esperar —dijo.
+
+***
+
+El kilómetro treinta y uno y medio trajo un paisaje que Runy recordaba del camino de ida.
+
+Aguacatala. El centro comercial, los edificios de oficinas, el río Medellín que volvía a aparecer a la izquierda. Pero todo se veía distinto ahora. No porque el paisaje hubiera cambiado, sino porque la presencia del hombre de negro lo teñía todo de otro color.
+
+Valentina seguía a su lado. Arango también, aunque la cojera se había vuelto más notoria.
 
 —¿Cómo está la rodilla? —preguntó Runy.
 
@@ -1693,67 +1757,75 @@ Valentina seguía a su lado. Arango también, aunque la cojera era más notoria.
 
 —¿Vas a terminar?
 
-Arango sonrió. Esa sonrisa.
+Arango no respondió de inmediato. Miró al hombre de negro, que seguía adelante, a la misma distancia de antes, como si los estuviera remolcando.
 
-—No lo sé —dijo—. Pero voy a intentarlo.
+—No lo sé —dijo—. Pero si él va a estar ahí todo el camino, tal vez no importe.
 
-Runy sintió que esa era la respuesta más honesta que había escuchado en toda la carrera.
+Runy sintió que la honestidad de Arango era más pesada que cualquier consuelo.
 
-***
+—¿Por qué no te detienes? —preguntó—. Si crees que no vas a llegar.
 
-El kilómetro treinta y uno y medio trajo un momento de vulnerabilidad que Runy no esperaba.
+Arango lo miró. Esa sonrisa.
 
-Valentina tropezó. No fue una caída, fue un traspié, un pie que no encontró bien el asfalto. Ella recuperó el equilibrio casi de inmediato, pero Runy vio algo en su cara que no había visto antes: miedo.
-
-—¿Estás bien?
-
-—Sí —dijo ella—. Es solo que…
-
-—¿Qué?
-
-Ella guardó silencio mientras corrían.
-
-—Es la primera vez que tengo miedo en una maratón —dijo al fin—. Las otras eran solo carreras. Esta es distinta.
-
-Runy supo que no se refería a la distancia.
-
-—¿Por qué sigues? —preguntó.
-
-Ella lo miró.
-
-—Porque tú sigues —dijo.
-
-Y Runy sintió que la frase le devolvía algo que no sabía que había perdido.
+—Porque todavía no lo sé —dijo—. Y mientras no lo sepa, sigo.
 
 ***
 
-El kilómetro treinta y dos trajo al Enigmático.
+El kilómetro treinta y dos trajo un momento que Runy no esperaba.
 
-La figura estaba en el separador de la avenida, pero esta vez no estaba de pie ni sentada ni suspendida. Estaba inclinada hacia adelante, con las manos apoyadas sobre una roca grande que había en el pasto. De las muñecas de la figura colgaban cadenas. Cadenas gruesas, de metal oscuro, que caían hasta el suelo y se perdían entre la hierba.
+El hombre de negro disminuyó el paso. No mucho. Lo suficiente para que la distancia se redujera. Runy sintió que se le acercaba, que el hombre lo estaba dejando llegar, como un cazador que no necesita correr porque sabe que la presa va a caer.
+
+—No te acerques —dijo Valentina.
+
+Pero Runy no podía evitarlo. Era como si una corriente lo empujara hacia el hombre de negro, una atracción que no era física sino mental. Necesitaba verlo de cerca. Necesitaba entender.
+
+Cuando estuvo a su lado, el hombre de negro habló.
+
+No giró la cabeza. No movió los labios. Pero la voz llegó, directa, fría, como un pensamiento que no era de Runy pero que estaba dentro de su cabeza:
+
+*¿Crees que las cadenas existen porque yo te persigo?*
+
+Runy sintió que la pregunta lo paralizaba.
+
+*No existen porque yo te persiga. Existen porque tú crees que no puedes soltarte.*
+
+Y entonces el hombre de negro aceleró. Sin aviso. Sin esfuerzo. Se alejó en segundos, dejando a Runy con la voz resonando, la certeza de que la IA no solo lo bloqueaba físicamente, sino que estaba dentro de su cabeza.
+
+—¿Qué dijo? —preguntó Valentina.
+
+Runy tardó en responder.
+
+—Nada —dijo.
+
+Pero los dos sabían que no era cierto.
+
+***
+
+El Enigmático apareció en el separador de la avenida.
+
+La figura estaba inclinada hacia adelante, con las manos apoyadas sobre una roca grande que había en el pasto. De las muñecas colgaban cadenas. Cadenas gruesas, de metal oscuro, que caían hasta el suelo y se perdían entre la hierba.
 
 Pero las cadenas no estaban atadas a nada.
 
 Colgaban libres. Sueltas.
 
-La figura podía soltarlas en cualquier momento. Pero no lo hacía.
-
-Runy sintió que la imagen lo golpeaba como un puñetazo en el pecho.
+Runy sintió que la imagen le devolvía algo que la voz del hombre de negro le había quitado.
 
 *Las cadenas no existen*, pensó. *Las cadenas son una decisión.*
 
-La figura levantó la cabeza. Por primera vez, pareció mirar directamente a Runy. No tenía rostro —la capucha ocultaba todo— pero Runy sintió la mirada.
+La figura levantó la cabeza. Lo miró. No tenía rostro —la capucha ocultaba todo— pero Runy sintió la mirada.
 
-Y en esa mirada, entendió.
+*Lo que te ata no es él. Lo que te ata eres tú.*
 
-La IA no lo tenía encadenado. Él se había encadenado. La idea de que el hombre de negro era un obstáculo insalvable era una construcción suya. La cadena existía porque él creía en ella.
+*Y lo que tú ataste, tú puedes soltarlo.*
 
 Pestañeó.
 
 La figura ya no estaba. La roca seguía ahí. Las cadenas también.
 
-Pero ahora colgaban sueltas sobre la hierba, como si alguien las hubiera dejado caer.
+Pero ahora colgaban sobre la hierba vacías, como si alguien las hubiera dejado caer.
 
-Runy sintió que algo se aflojaba en su pecho. No era una solución. Era una posibilidad.
+Runy sintió que algo se aflojaba en su pecho. El miedo seguía ahí. La IA seguía ahí. Pero algo había cambiado: ya no creía que la cadena fuera real.
 
 Y siguió corriendo, con la imagen de las cadenas vacías grabada en la memoria, preguntándose qué más había inventado que no existía.
 ---
