@@ -46,7 +46,7 @@ Runy disminuyó el paso y se puso a su altura.
 
 El hombre levantó la vista. Lo reconoció.
 
-—Sigue —dijo—. Pero ella y yo tenemos un acuerdo. Ella no empeora y yo no me detengo.
+—Sigue —dijo—. Pero tenemos un acuerdo, ella y yo. Ella no empeora, yo no paro.
 
 —¿Y funciona?
 

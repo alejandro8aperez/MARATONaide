@@ -58,7 +58,7 @@ Nada.
 
 Valentina se puso a la altura de Runy.
 
-—Vamos juntos —dijo—. Los dos al mismo tiempo. No puede bloquear a los dos.
+—Juntos —dijo—. Los dos al mismo tiempo. No puede bloquear a los dos.
 
 Runy asintió. Contó tres. Aceleraron.
 
@@ -122,11 +122,11 @@ Cuando estuvo a su lado, el hombre de negro habló.
 
 No giró la cabeza. No movió los labios. Pero la voz llegó, directa, fría, como un pensamiento que no era de Runy pero que estaba dentro de su cabeza:
 
-*¿Crees que las cadenas existen porque yo te persigo?*
+*¿Crees que cadenas existen porque persigo?*
 
 Runy sintió que la pregunta lo paralizaba.
 
-*No existen porque yo te persiga. Existen porque tú crees que no puedes soltarte.*
+*No existen porque persiga. Existen porque crees que no puedes soltarte.*
 
 Y entonces el hombre de negro aceleró. Sin aviso. Sin esfuerzo. Se alejó en segundos, dejando a Runy con la voz resonando, la certeza de que la IA no solo lo bloqueaba físicamente, sino que estaba dentro de su cabeza.
 

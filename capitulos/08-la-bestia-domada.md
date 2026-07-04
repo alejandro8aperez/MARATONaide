@@ -58,7 +58,7 @@ Runy sintió que la palabra le helaba el estómago.
 
 Arango guardó silencio un momento. La respiración le silbaba entre los dientes.
 
-—No sé —dijo—. Pero si yo fuera tú, no correría solo.
+—No sé —dijo—. Pero yo que vos, no corro solo.
 
 Runy lo miró.
 

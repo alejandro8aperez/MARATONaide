@@ -22,7 +22,9 @@ Runy no había leído a Bergson. Lo conocía de oídas, de referencias en otros 
 
 El reloj marcaba las horas. Pero él no estaba en ese tiempo. Estaba en otro, un tiempo interior que no se medía en minutos sino en sensaciones, en recuerdos, en la forma en que los kilómetros se acumulaban como capas de una misma experiencia.
 
-*La duración*, pensó. *Eso es lo que Bergson llamaba la duración. El tiempo real. No el que pasa. El que se vive.*
+*La duración*, pensó. *Eso es lo que Bergson llamaba la duración. El tiempo real. No el que pasa. El que—*
+
+Un calambre le subió por el gemelo izquierdo y la frase se rompió. Runy apretó los dientes, esperó a que pasara.
 
 El tiempo del reloj era el tiempo del hombre de negro. Exacto. Constante. Sin variación.
 

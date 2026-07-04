@@ -20,6 +20,8 @@ Runy sintió que la pregunta le abría algo en el pecho.
 
 —Sí —dijo.
 
+La palabra le costó. No por lo que significaba. Porque el aire no alcanzaba para decir y correr al mismo tiempo.
+
 —A mí también —dijo ella.
 
 Y siguieron corriendo.

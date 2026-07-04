@@ -64,7 +64,7 @@ Ella frunció el ceño.
 
 Ella guardó silencio un momento. Miró hacia atrás, hacia la masa de corredores que se acercaba.
 
-—Yo también lo he visto —dijo, en un tono que Runy no le había escuchado antes—. Viene apareciendo desde el kilómetro ocho. No sé quién es. Pero no me gusta.
+—Yo también —dijo, en un tono que Runy no le había escuchado antes—. Viene desde el kilómetro ocho. No sé quién es. No me gusta.
 
 Se miraron un segundo. No hicieron falta más palabras.
 

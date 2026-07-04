@@ -215,7 +215,7 @@ El kilómetro tres y medio trajo un paisaje nuevo. La ruta había dejado San Jua
 
 Runy sintió que alguien se ponía a su altura.
 
-—Vas bien —dijo una voz.
+—Buen ritmo —dijo una voz.
 
 Era ella. La mujer de la coleta. Había disminuido el paso o él lo había acelerado, no sabía. Pero ahora corría a su lado, mirando al frente, como si no hubiera dicho nada.
 
@@ -229,7 +229,7 @@ Ella sonrió sin mirarlo. Una sonrisa pequeña, casi imperceptible.
 
 —¿Se nota?
 
-—Se nota en los hombros. Los tensas cuando piensas demasiado.
+—Los hombros. Los tensas cuando piensas.
 
 Runy no supo qué decir a eso, así que no dijo nada. Corrieron en silencio unos segundos. El ruido de un tren pasando sobre ellos llenó el espacio.
 
@@ -348,7 +348,7 @@ El hombre levantó la vista. Tenía ojos cansados pero vivos, como de alguien qu
 
 El hombre sonrió. Una sonrisa que no era feliz ni triste, sino las dos cosas al mismo tiempo.
 
-—Eso es lo que estoy tratando de averiguar —dijo—. Desde hace treinta años.
+—Eso ando averiguando —dijo—. Treinta años.
 
 Y aceleró, dejando a Runy con la frase flotando en el aire.
 
@@ -433,7 +433,7 @@ Runy disminuyó el paso y se puso a su altura.
 
 El hombre levantó la vista. Lo reconoció.
 
-—Sigue —dijo—. Pero ella y yo tenemos un acuerdo. Ella no empeora y yo no me detengo.
+—Sigue —dijo—. Pero tenemos un acuerdo, ella y yo. Ella no empeora, yo no paro.
 
 —¿Y funciona?
 
@@ -520,13 +520,13 @@ La mujer de la coleta estaba en el separador de la avenida, haciendo estiramient
 
 —Casi —respondió Runy, deteniéndose a su lado—. ¿La rodilla?
 
-—No es mi rodilla. Es la del viejo.
+—No es la mía. Es la del viejo.
 
 Runy la miró sin entender.
 
 —¿Te refieres al hombre de camiseta blanca?
 
-—Se llama Arango —dijo ella—. Y su rodilla está peor de lo que dice. Lo conozco de carreras anteriores. Nunca camina. Si hoy está caminando, es porque duele de verdad.
+—Se llama Arango —dijo ella—. Su rodilla está peor de lo que dice. Lo conozco de carreras. Nunca camina. Si camina, duele.
 
 Runy miró hacia atrás, como si pudiera ver al hombre entre la multitud.
 
@@ -748,7 +748,7 @@ Ella frunció el ceño.
 
 Ella guardó silencio un momento. Miró hacia atrás, hacia la masa de corredores que se acercaba.
 
-—Yo también lo he visto —dijo, en un tono que Runy no le había escuchado antes—. Viene apareciendo desde el kilómetro ocho. No sé quién es. Pero no me gusta.
+—Yo también —dijo, en un tono que Runy no le había escuchado antes—. Viene desde el kilómetro ocho. No sé quién es. No me gusta.
 
 Se miraron un segundo. No hicieron falta más palabras.
 
@@ -974,7 +974,7 @@ Runy sintió que la palabra le helaba el estómago.
 
 Arango guardó silencio un momento. La respiración le silbaba entre los dientes.
 
-—No sé —dijo—. Pero si yo fuera tú, no correría solo.
+—No sé —dijo—. Pero yo que vos, no corro solo.
 
 Runy lo miró.
 
@@ -982,7 +982,7 @@ Runy lo miró.
 
 Arango sonrió. Esa sonrisa que no era feliz ni triste.
 
-—Estoy ofreciéndome —dijo.
+—Ofreciéndome —dijo.
 
 Y los dos siguieron corriendo lado a lado, el viejo y el joven, la rodilla mala y el corazón asustado, como un par de animales que saben que hay algo peor en el bosque.
 
@@ -1394,7 +1394,9 @@ Runy no había leído a Bergson. Lo conocía de oídas, de referencias en otros 
 
 El reloj marcaba las horas. Pero él no estaba en ese tiempo. Estaba en otro, un tiempo interior que no se medía en minutos sino en sensaciones, en recuerdos, en la forma en que los kilómetros se acumulaban como capas de una misma experiencia.
 
-*La duración*, pensó. *Eso es lo que Bergson llamaba la duración. El tiempo real. No el que pasa. El que se vive.*
+*La duración*, pensó. *Eso es lo que Bergson llamaba la duración. El tiempo real. No el que pasa. El que—*
+
+Un calambre le subió por el gemelo izquierdo y la frase se rompió. Runy apretó los dientes, esperó a que pasara.
 
 El tiempo del reloj era el tiempo del hombre de negro. Exacto. Constante. Sin variación.
 
@@ -1719,7 +1721,7 @@ Nada.
 
 Valentina se puso a la altura de Runy.
 
-—Vamos juntos —dijo—. Los dos al mismo tiempo. No puede bloquear a los dos.
+—Juntos —dijo—. Los dos al mismo tiempo. No puede bloquear a los dos.
 
 Runy asintió. Contó tres. Aceleraron.
 
@@ -1783,11 +1785,11 @@ Cuando estuvo a su lado, el hombre de negro habló.
 
 No giró la cabeza. No movió los labios. Pero la voz llegó, directa, fría, como un pensamiento que no era de Runy pero que estaba dentro de su cabeza:
 
-*¿Crees que las cadenas existen porque yo te persigo?*
+*¿Crees que cadenas existen porque persigo?*
 
 Runy sintió que la pregunta lo paralizaba.
 
-*No existen porque yo te persiga. Existen porque tú crees que no puedes soltarte.*
+*No existen porque persiga. Existen porque crees que no puedes soltarte.*
 
 Y entonces el hombre de negro aceleró. Sin aviso. Sin esfuerzo. Se alejó en segundos, dejando a Runy con la voz resonando, la certeza de que la IA no solo lo bloqueaba físicamente, sino que estaba dentro de su cabeza.
 
@@ -2058,6 +2060,8 @@ Runy la miró.
 Runy sintió que la pregunta le abría algo en el pecho.
 
 —Sí —dijo.
+
+La palabra le costó. No por lo que significaba. Porque el aire no alcanzaba para decir y correr al mismo tiempo.
 
 —A mí también —dijo ella.
 
@@ -2732,3 +2736,4 @@ Se acostó. Cerró los ojos.
 Y durmió.
 
 Por primera vez en mucho tiempo, durmió sin soñar.
+

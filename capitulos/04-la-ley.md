@@ -38,13 +38,13 @@ La mujer de la coleta estaba en el separador de la avenida, haciendo estiramient
 
 —Casi —respondió Runy, deteniéndose a su lado—. ¿La rodilla?
 
-—No es mi rodilla. Es la del viejo.
+—No es la mía. Es la del viejo.
 
 Runy la miró sin entender.
 
 —¿Te refieres al hombre de camiseta blanca?
 
-—Se llama Arango —dijo ella—. Y su rodilla está peor de lo que dice. Lo conozco de carreras anteriores. Nunca camina. Si hoy está caminando, es porque duele de verdad.
+—Se llama Arango —dijo ella—. Su rodilla está peor de lo que dice. Lo conozco de carreras. Nunca camina. Si camina, duele.
 
 Runy miró hacia atrás, como si pudiera ver al hombre entre la multitud.
 

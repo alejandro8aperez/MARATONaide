@@ -58,7 +58,7 @@ El hombre levantó la vista. Tenía ojos cansados pero vivos, como de alguien qu
 
 El hombre sonrió. Una sonrisa que no era feliz ni triste, sino las dos cosas al mismo tiempo.
 
-—Eso es lo que estoy tratando de averiguar —dijo—. Desde hace treinta años.
+—Eso ando averiguando —dijo—. Treinta años.
 
 Y aceleró, dejando a Runy con la frase flotando en el aire.
 

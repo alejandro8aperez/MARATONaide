@@ -26,7 +26,7 @@ El kilómetro tres y medio trajo un paisaje nuevo. La ruta había dejado San Jua
 
 Runy sintió que alguien se ponía a su altura.
 
-—Vas bien —dijo una voz.
+—Buen ritmo —dijo una voz.
 
 Era ella. La mujer de la coleta. Había disminuido el paso o él lo había acelerado, no sabía. Pero ahora corría a su lado, mirando al frente, como si no hubiera dicho nada.
 
@@ -40,7 +40,7 @@ Ella sonrió sin mirarlo. Una sonrisa pequeña, casi imperceptible.
 
 —¿Se nota?
 
-—Se nota en los hombros. Los tensas cuando piensas demasiado.
+—Los hombros. Los tensas cuando piensas.
 
 Runy no supo qué decir a eso, así que no dijo nada. Corrieron en silencio unos segundos. El ruido de un tren pasando sobre ellos llenó el espacio.
 
