@@ -26,7 +26,7 @@ Valentina guardó silencio mientras corrían.
 
 —No sé —dijo al fin—. Pero duele. Y mientras duela, es real.
 
-Runy sintió que la respuesta era insuficiente y perfecta al mismo tiempo.
+La respuesta era insuficiente y perfecta al mismo tiempo.
 
 ***
 
@@ -96,7 +96,7 @@ No con palabras. Con una voz que Runy sintió dentro de la cabeza, como un pensa
 
 *¿Hasta dónde vas a llegar?*
 
-Runy sintió que la pregunta lo paralizaba.
+La pregunta lo paralizó.
 
 *No me refiero a la carrera. Me refiero a todo. ¿Hasta dónde vas a llegar antes de darte cuenta de que no tiene sentido?*
 
@@ -122,4 +122,4 @@ Runy se quedó quieto un momento. Valentina lo alcanzó.
 
 Pero los dos sabían que no era cierto.
 
-Y Runy sintió que la duda que había aparecido en el kilómetro treinta y siete ahora tenía una voz. Y esa voz seguía hablando dentro de su cabeza.
+Y la duda que había aparecido en el kilómetro treinta y siete ahora tenía una voz. Y esa voz seguía hablando dentro de su cabeza.

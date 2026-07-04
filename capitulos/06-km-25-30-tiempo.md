@@ -32,7 +32,7 @@ La respuesta llegó mientras sus pies golpeaban el asfalto en un ritmo que ya er
 
 El kilómetro treinta apareció.
 
-Runy sintió que llevaba corriendo toda la vida.
+Llevaba corriendo toda la vida.
 
 Sintió que acababa de empezar.
 

@@ -2,7 +2,7 @@
 
 El kilómetro diez trajo una sorpresa.
 
-La ruta no seguía hacia el sur como esperaba. En lugar de eso, los corredores tomaron un desvío hacia la Avenida Regional, y Runy sintió que el cuerpo se relajaba al ver que el camino se duplicaba sobre sí mismo. Un ida y vuelta. Los primeros que habían pasado ya regresaban por el otro carril, y el espectáculo era extraño: ver a los mismos corredores que habían estado adelante venir ahora de frente, como en un espejo que devolviera imágenes desplazadas en el tiempo.
+La ruta no seguía hacia el sur como esperaba. En lugar de eso, los corredores tomaron un desvío hacia la Avenida Regional, y El cuerpo se relajó al ver que el camino se duplicaba sobre sí mismo. Un ida y vuelta. Los primeros que habían pasado ya regresaban por el otro carril, y el espectáculo era extraño: ver a los mismos corredores que habían estado adelante venir ahora de frente, como en un espejo que devolviera imágenes desplazadas en el tiempo.
 
 Buscó a la mujer de la coleta entre los que volvían. No la vio. Buscó a Arango. Tampoco.
 
@@ -20,7 +20,7 @@ Y él no quería ser un personaje. Quería ser solo un hombre corriendo.
 
 El kilómetro once trajo el cruce con la calle 7.
 
-Los corredores giraban en una glorieta y empezaban el regreso. Runy sintió que el cuerpo había encontrado un ritmo estable, una cadencia que podía mantener sin pensar. La respiración entraba y salía como un fuelle. Las piernas se movían solas.
+Los corredores giraban en una glorieta y empezaban el regreso. El cuerpo había encontrado un ritmo estable, una cadencia que podía mantener sin pensar. La respiración entraba y salía como un fuelle. Las piernas se movían solas.
 
 Y entonces, en el carril contrario, lo vio.
 
@@ -52,13 +52,13 @@ Un corredor a su lado lo miró con extrañeza. Runy no le prestó atención.
 
 Sartre había dicho que estamos condenados a ser libres. Que no hay una naturaleza humana predeterminada, que cada uno es lo que hace con lo que hicieron de él. Que la existencia precede a la esencia y que, por lo tanto, no hay excusas. No hay destino. No hay voz antigua que pueda decidir por nosotros.
 
-Runy sintió que la idea lo atravesaba como una corriente.
+La idea lo atravesó como una corriente.
 
 *No hay voz antigua. Solo hay esta voz, la mía.*
 
 La voz antigua, la de toda la vida, no se calló. Pero por primera vez, Runy escuchó otra cosa encima de ella: un zumbido que era el silencio del universo, el mismo silencio que Camus había descrito, el silencio que no responde porque no tiene nada que decir.
 
-Y en ese silencio, Runy sintió que podía elegir.
+Y en ese silencio, podía elegir.
 
 No sabía qué iba a elegir. Pero sabía que podía.
 
@@ -80,7 +80,7 @@ El Enigmático estaba de pie, pero no solo. A su lado había una especie de estr
 
 La figura subió a la tarima con una lentitud ceremonial. Se sentó en la silla. Y entonces, con un gesto que Runy no había visto antes, levantó la mano derecha con dos dedos extendidos y los otros doblados, como en una bendición.
 
-Runy sintió que el gesto no iba dirigido a él. Iba dirigido a todo, a la carrera entera, a la ciudad, al cielo.
+El gesto no iba dirigido a él. Iba dirigido a todo, a la carrera entera, a la ciudad, al cielo.
 
 Pero sintió también que la bendición —si eso era— no era un deseo de bienestar. Era un recordatorio. Una señal de que hay palabras que se dicen desde antes de que existiera el lenguaje, gestos que se hacen desde antes de que existieran las manos.
 

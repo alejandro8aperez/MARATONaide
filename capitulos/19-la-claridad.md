@@ -6,7 +6,7 @@ La IA se había ido. La voz en su cabeza se había callado. Pero la pregunta seg
 
 *¿Hasta dónde vas a llegar?*
 
-Y entonces, en el kilómetro treinta y ocho, mientras corría por una avenida que no reconocía, con Valentina a su lado y el sol quemándole la nuca, Runy sintió que la respuesta llegaba.
+Y entonces, en el kilómetro treinta y ocho, mientras corría por una avenida que no reconocía, con Valentina a su lado y el sol quemándole la nuca, La respuesta llegaba.
 
 —Hasta donde pueda —dijo en voz alta.
 
@@ -30,7 +30,7 @@ El kilómetro treinta y nueve trajo el paisaje más hermoso de toda la carrera.
 
 La avenida se abría y, a lo lejos, Runy veía el centro de Medellín. Los edificios altos recortados contra el cielo azul, las montañas rodeando la ciudad como paredes de un mundo que existía dentro de otro mundo.
 
-Vio la luz del sol reflejándose en los vidrios de los edificios y sintió que todo era claro. No fácil. Claro.
+Vio la luz del sol reflejándose en los vidrios de los edificios y todo era claro. No fácil. Claro.
 
 Por primera vez en kilómetros, no pensó en la IA. No pensó en Arango. No pensó en el tiempo, en la distancia, en el dolor.
 
@@ -52,13 +52,13 @@ Y en el centro de esa luz, la figura lo miró.
 
 *Ahora ves*, dijo la figura.
 
-Y Runy sintió que era cierto.
+Y era cierto.
 
 Pestañeó.
 
 La figura ya no estaba. Pero la luz seguía. La luz estaba en todas partes.
 
-Runy sintió que algo había cambiado dentro de él. No sabía qué. Pero sabía que ya no era el mismo que había empezado la carrera.
+Algo había cambiado dentro de él. No sabía qué. Pero sabía que ya no era el mismo que había empezado la carrera.
 
 ***
 
@@ -66,7 +66,7 @@ El kilómetro cuarenta trajo el marcador.
 
 Runy lo vio desde lejos: un arco inflable que cruzaba la carretera, con un letrero que decía KM 40. Debajo, un grupo de voluntarios repartía agua y miraba los relojes.
 
-Runy sintió que el kilómetro cuarenta era más que un número. Era una frontera.
+El kilómetro cuarenta era más que un número. Era una frontera.
 
 Había corrido cuarenta kilómetros. Cuarenta. La distancia de una maratón completa era 42. Faltaban dos.
 

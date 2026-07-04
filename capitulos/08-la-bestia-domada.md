@@ -4,7 +4,7 @@ El kilómetro dieciséis trajo un cambio sutil en el paisaje.
 
 Los edificios de Envigado empezaban a cerrarse alrededor de la avenida. No eran los rascacielos del centro ni las bodegas de la calle 30. Eran casas de dos pisos con balcones de hierro forjado, árboles que crecían por encima de los techos, iglesias con campanarios que se veían desde lejos. El sur del valle tenía otra luz, más dorada, más lenta.
 
-Runy sintió que el cuerpo empezaba a quejarse de verdad. No era el dolor agudo de una lesión. Era un dolor sordo, difuso, que venía de todas partes a la vez: los cuádriceps, los gemelos, la zona lumbar, los hombros. El cuerpo entero era una sola nota larga de incomodidad.
+El cuerpo empezó a quejarse de verdad. No era el dolor agudo de una lesión. Era un dolor sordo, difuso, que venía de todas partes a la vez: los cuádriceps, los gemelos, la zona lumbar, los hombros. El cuerpo entero era una sola nota larga de incomodidad.
 
 *Esto es tener un cuerpo*, pensó.
 
@@ -26,7 +26,7 @@ Cuando Runy pasó a su altura, el hombre giró la cabeza.
 
 Fue la primera vez que Runy le vio los ojos directamente. Eran negros. No oscuros, negros. Sin iris visible, sin blanco alrededor. Dos puntos negros fijos en medio de la cara.
 
-Runy sintió que el aire se le congelaba en la garganta.
+El aire se le congeló en la garganta.
 
 El hombre no dijo nada. No hizo nada. Solo lo miró mientras pasaba. Y cuando Runy estuvo a unos metros, el hombre arrancó a correr otra vez, pisándole los talones, con esa respiración que no era respiración.
 
@@ -52,7 +52,7 @@ Arango lo alcanzó en una subida suave. El hombre mayor corría con la mandíbul
 
 —Porque lleva tres kilómetros midiéndote. No es un corredor. Es un depredador.
 
-Runy sintió que la palabra le helaba el estómago.
+La palabra le heló el estómago.
 
 —¿Qué puedo hacer?
 
@@ -78,7 +78,7 @@ La figura estaba en medio de la avenida, en el separador central. Pero no estaba
 
 Runy no podía ver bien qué animal era. Parecía un perro grande, o un lobo, o tal vez un león. El animal estaba inmóvil, con los ojos cerrados, y la figura le pasaba una mano sobre la cabeza con una lentitud hipnótica. No había violencia. No había resistencia. La bestia estaba quieta, completamente rendida, no por miedo sino por confianza.
 
-Runy sintió que la imagen lo atravesaba como una lanza.
+La imagen lo atravesó como una lanza.
 
 *La bestia domada*, pensó. *No a golpes. No a fuerza. A presencia.*
 

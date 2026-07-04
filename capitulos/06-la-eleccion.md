@@ -2,7 +2,7 @@
 
 El kilómetro doce trajo un cambio de paisaje y de ánimo.
 
-La Avenida Las Vegas se estiraba hacia el sur en una recta larga que parecía no tener fin. A los lados, los edificios de oficinas daban paso a conjuntos residenciales, y el aire se volvía más limpio, como si la ciudad se estuviera quedando atrás. Runy sintió que entraba en otro territorio, no solo geográfico sino mental. Algo en la recta interminable lo empujaba a mirar hacia adelante y a preguntarse, por primera vez en kilómetros, si realmente iba a llegar.
+La Avenida Las Vegas se estiraba hacia el sur en una recta larga que parecía no tener fin. A los lados, los edificios de oficinas daban paso a conjuntos residenciales, y el aire se volvía más limpio, como si la ciudad se estuviera quedando atrás. Entraba en otro territorio, no solo geográfico sino mental. Algo en la recta interminable lo empujaba a mirar hacia adelante y a preguntarse, por primera vez en kilómetros, si realmente iba a llegar.
 
 *Medio maratón está cerca*, pensó. *Trece kilómetros. La mitad.*
 

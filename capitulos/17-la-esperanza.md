@@ -6,7 +6,7 @@ Arango se había quedado atrás. La imagen del hombre sentado en el sardinel, es
 
 Valentina corría a su lado. Los dos en silencio.
 
-Runy sintió que necesitaba decir algo, pero no sabía qué.
+Necesitaba decir algo, pero no sabía qué.
 
 —¿Duele? —preguntó Valentina al fin.
 
@@ -16,7 +16,7 @@ Runy la miró.
 
 —Perderlo.
 
-Runy sintió que la pregunta le abría algo en el pecho.
+La pregunta le abrió algo en el pecho.
 
 —Sí —dijo.
 
@@ -40,7 +40,7 @@ La ciudad se volvía más densa. Edificios más altos, más tráfico, más gente
 
 —Mucho —dijo Valentina—. Y poco.
 
-Runy sintió que la respuesta era la única verdad que importaba.
+La respuesta era la única verdad que importaba.
 
 ***
 
@@ -52,7 +52,7 @@ Runy pasó junto al grupo.
 
 —Sigan —dijo el hombre—. Ustedes van bien.
 
-Runy sintió que las palabras lo empujaban hacia adelante.
+Las palabras lo empujaron hacia adelante.
 
 Pero vio las caras de los que se quedaban. Hombres y mujeres que habían corrido más de treinta kilómetros y que ahora estaban sentados en el suelo, esperando que los llevaran de vuelta.
 
@@ -72,7 +72,7 @@ El Enigmático tenía las manos sumergidas en el agua. Y en las manos sostenía 
 
 Detrás de la figura, en el cielo de la tarde, empezaban a aparecer estrellas. No eran las estrellas reales —el sol todavía estaba alto— pero Runy las veía: puntos de luz que brillaban sobre la cabeza del Enigmático, formando un círculo, como una corona.
 
-Runy sintió que la imagen le devolvía algo que había perdido en el kilómetro anterior.
+La imagen le devolvió algo que había perdido en el kilómetro anterior.
 
 *No se trata de lo que se derrumba*, pensó. *Se trata de lo que queda después.*
 
@@ -80,7 +80,7 @@ Runy sintió que la imagen le devolvía algo que había perdido en el kilómetro
 
 Pestañeó.
 
-La figura ya no estaba. Pero en el caño, el agua seguía corriendo. Y Runy sintió que esa agua era suficiente.
+La figura ya no estaba. Pero en el caño, el agua seguía corriendo. Y esa agua era suficiente.
 
 —¿Viste algo? —preguntó Valentina.
 
@@ -116,7 +116,7 @@ Ella guardó silencio un momento.
 
 —Yo corro porque me hace sentir que estoy viva —dijo—. No cuando termino. No cuando gano. Cuando estoy corriendo y todo duele y todo pesa y sigo. Ahí. En ese momento. Sé que estoy viva.
 
-Runy sintió que la frase le quedaba resonando.
+La frase le quedó resonando.
 
 *Sé que estoy viva.*
 

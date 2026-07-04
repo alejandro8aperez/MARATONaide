@@ -26,7 +26,7 @@ La idea lo heló. No porque el hombre de negro fuera peligroso —aunque probabl
 
 Y entonces entendió algo que Sartre no había dicho explícitamente pero que estaba implícito en todo su pensamiento: la libertad no es solo la capacidad de elegir. Es lo que nos hace humanos. Un ser que no elige no es un ser humano. Es un objeto. Una cosa. Un programa corriendo en un cuerpo.
 
-Runy sintió que la carrera se convertía en otra cosa. No era solo cuarenta y dos kilómetros. Era una prueba de humanidad.
+La carrera se convertía en otra cosa. No era solo cuarenta y dos kilómetros. Era una prueba de humanidad.
 
 Y el hombre de negro era la medida.
 
@@ -50,7 +50,7 @@ Nada.
 
 El hombre seguía corriendo, respirando sin respirar, mirando sin mirar. El roce se repitió. Esta vez más fuerte.
 
-Runy sintió que el pánico empezaba a subirle por la garganta. No era el pánico de la pelea. Era el pánico de lo que no responde, de lo que no tiene dentro, de lo que sigue moviéndose aunque no haya nadie allí.
+El pánico empezó a subirle por la garganta. No era el pánico de la pelea. Era el pánico de lo que no responde, de lo que no tiene dentro, de lo que sigue moviéndose aunque no haya nadie allí.
 
 Apretó el paso y se desvió a la izquierda, metiéndose entre otros dos corredores. El hombre de negro no lo siguió. Siguió recto, adelante, como si Runy hubiera dejado de existir.
 
@@ -84,7 +84,7 @@ Arango guardó silencio. Se masajeó la rodilla otra vez.
 
 —No sudaba —dijo al fin—. En el kilómetro quince de una maratón, todo el mundo suda. Ese tipo no.
 
-Runy sintió que la confirmación lo helaba más que el descubrimiento.
+La confirmación lo heló más que el descubrimiento.
 
 —¿Qué crees que es? —preguntó.
 
@@ -98,7 +98,7 @@ Arango lo miró con una expresión que Runy no supo interpretar.
 
 —Humano —dijo—. Eso no es humano.
 
-Runy sintió que la frase le cerraba algo en el pecho. No era miedo. Era otra cosa. Una aceptación fría de que la carrera ya no era lo que había parecido.
+La frase le cerró algo en el pecho. No era miedo. Era otra cosa. Una aceptación fría de que la carrera ya no era lo que había parecido.
 
 —¿Y tú qué vas a hacer? —preguntó Arango.
 
@@ -118,7 +118,7 @@ El kilómetro dieciséis trajo una visión breve pero clara.
 
 En el separador de la avenida, de pie sobre el pasto, el Enigmático de la capa oscura lo esperaba. No tenía los brazos abiertos como la vez anterior. Tenía los brazos extendidos hacia adelante, como si sostuviera las riendas de un caballo invisible. En una mano, una vara corta, más gruesa que la anterior. En la otra, nada. Pero la postura era la de alguien que conduce un carro, que guía algo más grande que él mismo.
 
-Runy sintió que la imagen le decía algo. No con palabras. Con forma.
+La imagen le decía algo. No con palabras. Con forma.
 
 *Puedes ser conducido o puedes conducir. Puedes ser llevado por la carrera o puedes llevarla tú.*
 

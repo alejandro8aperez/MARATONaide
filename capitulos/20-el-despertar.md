@@ -4,7 +4,7 @@ El kilómetro cuarenta trajo el marcador.
 
 Runy lo vio desde lejos: un arco inflable que cruzaba la carretera, con un letrero que decía KM 40. Debajo, un grupo de voluntarios repartía agua y miraba los relojes.
 
-Runy sintió que el kilómetro cuarenta era más que un número. Era una frontera.
+El kilómetro cuarenta era más que un número. Era una frontera.
 
 Había corrido cuarenta kilómetros. Faltaban dos.
 
@@ -20,7 +20,7 @@ El cansancio dejó de ser físico. Se volvió otra cosa. Se volvió una certeza 
 
 No era una pregunta que pidiera una respuesta. Era una pregunta que pedía una decisión.
 
-Runy sintió que su cuerpo podía seguir. Las piernas se movían por inercia. Los pulmones funcionaban. El corazón bombeaba. Todo el sistema estaba en piloto automático, listo para completar los últimos dos kilómetros sin importar lo que pasara.
+Su cuerpo podía seguir. Las piernas se movían por inercia. Los pulmones funcionaban. El corazón bombeaba. Todo el sistema estaba en piloto automático, listo para completar los últimos dos kilómetros sin importar lo que pasara.
 
 Pero la pregunta no se iba.
 
@@ -32,7 +32,7 @@ La idea apareció clara, limpia, sin drama. No era una derrota. Era una toma de 
 
 Valentina corría a su lado. Los dos en silencio. Los dos sabiendo que algo estaba a punto de pasar.
 
-Runy sintió que el cuerpo le pedía que se detuviera. No el cansancio. El cuerpo. El mismo cuerpo que había corrido cuarenta y un kilómetros, que había subido y bajado, que había sudado y dolido y seguido. Ahora le pedía que parara.
+El cuerpo le pedía que se detuviera. No el cansancio. El cuerpo. El mismo cuerpo que había corrido cuarenta y un kilómetros, que había subido y bajado, que había sudado y dolido y seguido. Ahora le pedía que parara.
 
 —Valentina —dijo.
 
@@ -88,7 +88,7 @@ Y entonces, solo, se sentó en el sardinel.
 
 El asfalto estaba caliente. El sol quemaba. Los corredores pasaban a su lado, algunos lo miraban, otros no. La mayoría no.
 
-Runy sintió que el cuerpo empezaba a enfriarse. Los músculos, que habían estado funcionando a máxima capacidad durante horas, empezaban a quejarse. Un calambre le subió por el gemelo izquierdo y se quedó. La sed llegó de golpe, seca, urgente.
+El cuerpo empezó a enfriarse. Los músculos, que habían estado funcionando a máxima capacidad durante horas, empezaban a quejarse. Un calambre le subió por el gemelo izquierdo y se quedó. La sed llegó de golpe, seca, urgente.
 
 Pero no se arrepentía.
 
@@ -106,11 +106,11 @@ Pero la figura del Enigmático no miraba hacia arriba. Miraba a Runy.
 
 *No tienes que morir para resucitar. A veces, resucitar es simplemente dejar de ser quien eras.*
 
-Runy sintió que la imagen se grababa en su memoria para siempre.
+La imagen se grabó en su memoria para siempre.
 
 —Gracias —dijo en voz alta.
 
-La figura no respondió. Pero Runy sintió que, por primera vez, la figura sonreía.
+La figura no respondió. Pero por primera vez, la figura sonreía.
 
 Pestañeó.
 

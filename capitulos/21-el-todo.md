@@ -102,7 +102,7 @@ Valentina guardó silencio un momento.
 
 —Porque me dijiste que yo sí podía —dijo—. Y quería demostrarte que tenías razón.
 
-Runy sintió algo en el pecho. No supo si era orgullo o gratitud. Probablemente eran las dos cosas.
+Algo se le movió en el pecho. No supo si era orgullo o gratitud. Probablemente eran las dos cosas.
 
 —Gracias —dijo.
 

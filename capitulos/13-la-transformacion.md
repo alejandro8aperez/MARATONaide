@@ -18,7 +18,7 @@ El kilómetro veintisiete trajo el cambio de dirección.
 
 La avenida giraba suavemente hacia la izquierda, y los corredores que venían de regreso aparecieron de frente. La ruta hacía un lazo amplio alrededor de una glorieta, y en el centro de la glorieta había un letrero grande que decía *Sabaneta*. El punto más lejano de la carrera.
 
-Runy sintió que algo se rompía dentro de él. No era físico. Era una barrera que no sabía que existía. La conciencia de que había llegado al extremo sur del recorrido, al punto más alejado de la salida, y que a partir de ahora cada paso lo acercaría de vuelta.
+Algo se rompió dentro de él. No era físico. Era una barrera que no sabía que existía. La conciencia de que había llegado al extremo sur del recorrido, al punto más alejado de la salida, y que a partir de ahora cada paso lo acercaría de vuelta.
 
 *He llegado al fondo*, pensó. *Y ahora toca volver.*
 
@@ -34,7 +34,7 @@ El kilómetro veintisiete y medio trajo el encuentro con el corte.
 
 Un voluntario con un chaleco reflectante estaba en medio de la carretera, mirando un cronómetro. A su lado, una camioneta de la organización con las puertas abiertas. Tres corredores estaban sentados adentro, con toallas en la cabeza, eliminados.
 
-Runy sintió que el corazón se le aceleraba. Calculó la distancia al voluntario. Vio el cronómetro. Vio la expresión del hombre.
+El corazón se le aceleró. Calculó la distancia al voluntario. Vio el cronómetro. Vio la expresión del hombre.
 
 —¡Quince minutos! —gritó el voluntario—. ¡Si no pasan la glorieta en quince minutos, se acabó!
 
@@ -54,7 +54,7 @@ El hombre de negro.
 
 Estaba detrás de ellos. No los había alcanzado —estaba a unos veinte metros— pero corría con esa exactitud de máquina, y la distancia no crecía ni disminuía.
 
-Runy sintió que el pánico y la rabia se mezclaban en un cóctel que no sabía cómo procesar.
+El pánico y la rabia se mezclaban en un cóctel que no sabía cómo procesar.
 
 —No nos va a dejar pasar —dijo.
 
@@ -82,7 +82,7 @@ Era como un amanecer. Pero no un amanecer real. Un amanecer que ocurría en el e
 
 Y en el centro de ese amanecer, la figura sostenía algo. Una bandera. O un estandarte. Una tela blanca que colgaba de un asta corta, y en la tela, dibujada, había una flor. Una flor blanca con cinco pétalos, simple, casi infantil.
 
-Runy sintió que la imagen no era una advertencia. Era una confirmación.
+La imagen no era una advertencia. Era una confirmación.
 
 *Esto se acaba*, pensó. *No la carrera. Esto. La forma en que veías el mundo.*
 
@@ -90,7 +90,7 @@ La figura bajó el estandarte y lo plantó en el suelo. Y cuando lo soltó, el e
 
 Runy parpadeó.
 
-El Enigmático ya no estaba. Pero el estandarte seguía allí, en el separador, y Runy sintió que marcaba algo más que un punto en la carretera.
+El Enigmático ya no estaba. Pero el estandarte seguía allí, en el separador, y marcaba algo más que un punto en la carretera.
 
 *Marcaba el lugar donde una cosa termina y otra empieza.*
 

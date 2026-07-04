@@ -34,7 +34,7 @@ Y entonces, como si la tierra misma respondiera, sintió que la fatiga se transf
 
 El kilómetro siete y medio trajo un descenso breve.
 
-La calle 30 bajaba unos metros hacia el nivel de la Avenida Las Vegas, y en ese descenso Runy sintió que podía retomar el aire. Aprovechó para mirar a los lados. Edificios de oficinas, un concesionario de carros, un letrero que anunciaba la entrada a un barrio que no reconoció.
+La calle 30 bajaba unos metros hacia el nivel de la Avenida Las Vegas, y en ese descenso podía retomar el aire. Aprovechó para mirar a los lados. Edificios de oficinas, un concesionario de carros, un letrero que anunciaba la entrada a un barrio que no reconoció.
 
 Y entonces, en la curva, vio al hombre mayor.
 
@@ -82,7 +82,7 @@ Parpadeó.
 
 La rotonda estaba vacía.
 
-Pero el pasto seguía verde. Las flores seguían abiertas. Y Runy sintió que algo había cambiado en él, algo que no sabía nombrar pero que tenía que ver con la tierra bajo los pies y el sol en la cara y el hecho de estar vivo en un cuerpo que dolía y que a pesar de todo seguía moviéndose.
+Pero el pasto seguía verde. Las flores seguían abiertas. Y algo había cambiado en él, algo que no sabía nombrar pero que tenía que ver con la tierra bajo los pies y el sol en la cara y el hecho de estar vivo en un cuerpo que dolía y que a pesar de todo seguía moviéndose.
 
 El kilómetro ocho apareció. Puesto de hidratación. Voluntarios. Agua.
 

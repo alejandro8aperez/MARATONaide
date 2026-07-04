@@ -74,7 +74,7 @@ Pero lo que llamó la atención de Runy no fue eso.
 
 Fue lo que había entre los dos árboles: un velo. Una tela delgada, casi transparente, que colgaba de las ramas como una cortina. La brisa la movía suavemente. Detrás del velo, la figura permanecía inmóvil, como una estatua al otro lado de un espejo.
 
-Runy sintió que la imagen significaba algo. Una cortina. Un velo. Algo que separa lo visible de lo invisible. Algo que está ahí para ser corrido o para quedarse para siempre.
+La imagen significaba algo. Una cortina. Un velo. Algo que separa lo visible de lo invisible. Algo que está ahí para ser corrido o para quedarse para siempre.
 
 La figura no hizo gesto. No levantó la mano. No mostró nada.
 

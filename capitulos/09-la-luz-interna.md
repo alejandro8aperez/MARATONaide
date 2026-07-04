@@ -32,7 +32,7 @@ No fue un calambre ni un tirón. Fue una preguntó que apareció en la cabeza de
 
 No la pregunta del absurdo, la de Camus. Otra. Más honda. ¿Y si no hay nada dentro? ¿Y si toda esta búsqueda de sentido, de símbolos, de filosofía, es solo ruido que el cerebro produce para no enfrentar el silencio?
 
-Runy sintió que la pregunta lo vaciaba.
+La pregunta lo vació.
 
 Merleau-Ponty había dicho que la percepción es ya significado, que el mundo no es un caos al que nosotros imponemos orden, sino que el orden está en las cosas mismas, esperando ser visto. Pero en el kilómetro diecinueve, con las piernas ardiendo y los pulmones pidiendo tregua, Runy no estaba seguro de que hubiera nada esperando ser visto.
 
@@ -78,13 +78,13 @@ El Enigmático estaba de pie sobre una pequeña elevación de tierra, al lado de
 
 La figura no miraba a Runy. Miraba hacia adelante, hacia la carretera que subía, hacia lo que venía. La linterna alumbraba un camino que nadie más veía.
 
-Runy sintió que la imagen le devolvía algo que la crisis le había quitado. No una respuesta. Una dirección.
+La imagen le devolvió algo que la crisis le había quitado. No una respuesta. Una dirección.
 
 *No hay que verlo todo*, pensó. *Hay que ver lo suficiente para dar el siguiente paso.*
 
 La figura no desapareció. Se quedó allí, inmóvil, mientras Runy pasaba a su lado, y cuando Runy miró atrás, la figura seguía allí, la linterna encendida, la llama quieta, como un faro que no necesita moverse para guiar.
 
-Runy sintió que algo se encendía dentro de él. No era esperanza. Era otra cosa. Una luz más pequeña, más modesta, pero real.
+Algo se encendió dentro de él. No era esperanza. Era otra cosa. Una luz más pequeña, más modesta, pero real.
 
 *La luz interna*, pensó. *No la que viene de afuera. La que uno encuentra cuando deja de buscar.*
 

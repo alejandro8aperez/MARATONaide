@@ -63,7 +63,7 @@ Y entonces lo vio.
 
 Entre dos columnas del parque, en una zona de sombra donde la luz del amanecer no llegaba, había una figura de pie que no se movía.
 
-No era un corredor. No tenía dorsal, no llevaba ropa deportiva. Una capa oscura le cubría el cuerpo de los hombros a los pies. No se le veía el rostro. No parecía estar mirando nada en particular, pero Runy sintió, con una certeza que no podía explicar, que aquella figura lo estaba mirando a él.
+No era un corredor. No tenía dorsal, no llevaba ropa deportiva. Una capa oscura le cubría el cuerpo de los hombros a los pies. No se le veía el rostro. No parecía estar mirando nada en particular, pero Runy supo, con una certeza que no podía explicar, que aquella figura lo estaba mirando a él.
 
 No hubo gesto. No hubo señal. Solo la presencia inmóvil, la sombra dentro de la sombra.
 
@@ -148,7 +148,7 @@ No lo sabía. Y esa falta de respuesta, en lugar de paralizarlo, lo impulsó a a
 
 El kilómetro uno y medio trajo un quiebre en la ruta. La masa de corredores dobló a la izquierda para tomar la calle San Juan en dirección al occidente. La avenida era ancha, flanqueada por el edificio de EPM a un lado y las fachadas antiguas del centro al otro. La luz del amanecer empezaba a filtrarse entre los edificios, creando un pasillo de sombras y destellos.
 
-Runy sintió que podía respirar mejor. El grupo se había estirado, los cuerpos ya no estaban tan apretados. Empezaba a encontrar su ritmo.
+Runy respiró mejor. El grupo se había estirado, los cuerpos ya no estaban tan apretados. Empezaba a encontrar su ritmo.
 
 Y fue entonces que la vio.
 
@@ -191,7 +191,7 @@ Y sonrió, porque la frase también era absurda, y porque Camus tenía razón: u
 
 El kilómetro dos trajo una tregua.
 
-No era que correr se hubiera vuelto fácil, sino que el cuerpo había dejado de protestar y empezaba a funcionar como debía. La respiración encontró su ritmo. Las piernas se movían con una cadencia que ya no requería atención consciente. Runy sintió que podía correr así para siempre —o al menos los siguientes cuarenta kilómetros, que era lo mismo.
+No era que correr se hubiera vuelto fácil, sino que el cuerpo había dejado de protestar y empezaba a funcionar como debía. La respiración encontró su ritmo. Las piernas se movían con una cadencia que ya no requería atención consciente. Podía correr así para siempre —o al menos los siguientes cuarenta kilómetros, que era lo mismo.
 
 La mujer de la coleta seguía adelante, siempre a la misma distancia. Runy había dejado de preguntarse si debía alcanzarla. Ahora corría detrás de ella como quien sigue a un faro, sin plan, sin expectativa.
 
@@ -213,7 +213,7 @@ Y entonces, mientras sus pies golpeaban el asfalto al ritmo de una respiración 
 
 El kilómetro tres y medio trajo un paisaje nuevo. La ruta había dejado San Juan y doblado hacia el sur por la Avenida 80, una vía ancha que corría paralela a la línea elevada del Metroplús. Los trenes pasaban con un rumor sordo, indiferentes a la multitud de corredores que se movía debajo.
 
-Runy sintió que alguien se ponía a su altura.
+Alguien se puso a su altura.
 
 —Buen ritmo —dijo una voz.
 
@@ -221,7 +221,7 @@ Era ella. La mujer de la coleta. Había disminuido el paso o él lo había acele
 
 Runy tardó un par de zancadas en responder.
 
-—Tú también —dijo, y sintió que la frase era increíblemente estúpida.
+—Tú también —dijo, y la frase le sonó increíblemente estúpida.
 
 Ella sonrió sin mirarlo. Una sonrisa pequeña, casi imperceptible.
 
@@ -243,7 +243,7 @@ Ella volvió a sonreír, pero esta vez la sonrisa era distinta. Más profunda.
 
 —Nunca es la misma carrera —dijo—. El cuerpo cambia. La ciudad cambia. Tú cambias. Corres cuarenta y dos kilómetros, pero en realidad corres cuarenta y dos versiones de ti mismo.
 
-Runy sintió que la frase merecía estar en un libro.
+La frase merecía estar en un libro.
 
 —¿Eres escritora? —preguntó.
 
@@ -265,7 +265,7 @@ Pero esta vez la figura no estaba quieta. Movía las manos en el aire con una le
 
 No había hatillo ahora. No había perro.
 
-La figura alzó la vara hacia el cielo, y Runy sintió, absurdamente, que algo en el aire cambiaba. Una vibración. Un rumor que no era sonido. Como si el espacio entre el cielo y la tierra se hubiera afinado, como si alguien hubiera ajustado una cuerda invisible.
+La figura alzó la vara hacia el cielo, y absurdamente, algo en el aire cambió. Una vibración. Un rumor que no era sonido. Como si el espacio entre el cielo y la tierra se hubiera afinado, como si alguien hubiera ajustado una cuerda invisible.
 
 Parpadeó.
 
@@ -364,11 +364,11 @@ Pero lo que llamó la atención de Runy no fue eso.
 
 Fue lo que había entre los dos árboles: un velo. Una tela delgada, casi transparente, que colgaba de las ramas como una cortina. La brisa la movía suavemente. Detrás del velo, la figura permanecía inmóvil, como una estatua al otro lado de un espejo.
 
-Runy sintió que la imagen significaba algo. Una cortina. Un velo. Algo que separa lo visible de lo invisible. Algo que está ahí para ser corrido o para quedarse para siempre.
+La imagen significaba algo. Una cortina. Un velo. Algo que separa lo visible de lo invisible. Algo que está ahí para ser corrido o para quedarse para siempre.
 
 La figura no hizo gesto. No levantó la mano. No mostró nada.
 
-Pero Runy sintió, con una certeza que no tenía nombre, que lo que estaba detrás del velo era lo mismo que estaba delante, solo que mirado desde el otro lado.
+Pero con una certeza que no tenía nombre, supo que lo que estaba detrás del velo era lo mismo que estaba delante, solo que mirado desde el otro lado.
 
 Parpadeó.
 
@@ -415,13 +415,13 @@ Runy sintió la verdad de eso en las piernas. No era una verdad intelectual. Era
 
 *El cuerpo es la gran razón*, pensó Runy. *La mente es solo su instrumento.*
 
-Y entonces, como si la tierra misma respondiera, sintió que la fatiga se transformaba en algo más: una aceptación. No era que el cansancio hubiera desaparecido. Era que había dejado de importar. El cuerpo corría porque sí, porque para eso había sido diseñado, porque la vida —la vida que Nietzsche quería que amáramos sin condiciones— era esto: movimiento, resistencia, belleza sin propósito.
+Y entonces, como si la tierra misma respondiera, la fatiga se transformó en algo más: una aceptación. No era que el cansancio hubiera desaparecido. Era que había dejado de importar. El cuerpo corría porque sí, porque para eso había sido diseñado, porque la vida —la vida que Nietzsche quería que amáramos sin condiciones— era esto: movimiento, resistencia, belleza sin propósito.
 
 ***
 
 El kilómetro siete y medio trajo un descenso breve.
 
-La calle 30 bajaba unos metros hacia el nivel de la Avenida Las Vegas, y en ese descenso Runy sintió que podía retomar el aire. Aprovechó para mirar a los lados. Edificios de oficinas, un concesionario de carros, un letrero que anunciaba la entrada a un barrio que no reconoció.
+La calle 30 bajaba unos metros hacia el nivel de la Avenida Las Vegas, y en ese descenso Runy recuperó el aire. Aprovechó para mirar a los lados. Edificios de oficinas, un concesionario de carros, un letrero que anunciaba la entrada a un barrio que no reconoció.
 
 Y entonces, en la curva, vio al hombre mayor.
 
@@ -463,17 +463,17 @@ Pero había algo más.
 
 En el pecho de la figura, sobre la capa oscura, brillaba un adorno que Runy no había visto antes. Una joya. Una especie de medallón circular que reflejaba la luz del sol. Y alrededor de la cabeza de la figura, aunque no había nada físico, Runy vio —o creyó ver— un resplandor, como una corona de luz que no venía del sol sino de adentro.
 
-La figura no lo miró. No hizo gesto. Pero Runy sintió, con una claridad que lo dejó sin aliento, que los brazos abiertos no eran un abrazo al mundo. Eran una invitación. Una oferta. *Toma esto. Toma la tierra. Toma el cuerpo. Toma la vida entera y no la sueltes.*
+La figura no lo miró. No hizo gesto. Pero con una claridad que lo dejó sin aliento, supo que los brazos abiertos no eran un abrazo al mundo. Eran una invitación. Una oferta. *Toma esto. Toma la tierra. Toma el cuerpo. Toma la vida entera y no la sueltes.*
 
 Parpadeó.
 
 La rotonda estaba vacía.
 
-Pero el pasto seguía verde. Las flores seguían abiertas. Y Runy sintió que algo había cambiado en él, algo que no sabía nombrar pero que tenía que ver con la tierra bajo los pies y el sol en la cara y el hecho de estar vivo en un cuerpo que dolía y que a pesar de todo seguía moviéndose.
+Pero el pasto seguía verde. Las flores seguían abiertas. Y algo había cambiado en él. Algo que no sabía nombrar pero que tenía que ver con la tierra bajo los pies y el sol en la cara y el hecho de estar vivo en un cuerpo que dolía y que a pesar de todo seguía moviéndose.
 
 El kilómetro ocho apareció. Puesto de hidratación. Voluntarios. Agua.
 
-Runy bebió y sintió que el agua sabía distinta. Más dulce. Más viva.
+Runy bebió y el agua supo distinta. Más dulce. Más viva.
 
 —Qué estupidez —murmuró.
 
@@ -486,7 +486,7 @@ El kilómetro ocho trajo un giro hacia el sur.
 
 La calle 30 terminaba en una intersección amplia, y la masa de corredores dobló a la derecha, tomando la Avenida Las Vegas en dirección al sur. El cambio fue inmediato. La avenida era más ancha que las anteriores, con tres carriles a cada lado y un separador verde en el medio. Los edificios retrocedieron, dejando espacio al cielo.
 
-Runy sintió que el aire cambiaba. Ya no olía a tubo de escape y taller mecánico, sino a pasto recién cortado y a humedad de río. La ciudad se abría como un abanico, y con ella la carrera.
+El aire cambió. Ya no olía a tubo de escape y taller mecánico, sino a pasto recién cortado y a humedad de río. La ciudad se abría como un abanico, y con ella la carrera.
 
 El kilómetro nueve trajo un pensamiento incómodo.
 
@@ -508,7 +508,7 @@ Y entonces recordó una frase de Nietzsche que había leído tantas veces que ya
 
 No era una orden externa. Era una orden que uno se daba a sí mismo. La ley no venía de afuera. Venía de adentro, de la voluntad que se impone forma a sí misma. Eso era la voluntad de poder: no dominar a otros, sino dominarse a uno mismo.
 
-Runy sintió que algo se ajustaba en su pecho. No era una respuesta clara, pero era una dirección.
+Algo se ajustó en su pecho. No era una respuesta clara, pero era una dirección.
 
 ***
 
@@ -562,7 +562,7 @@ Pero lo que más le llamó la atención fue lo que la figura sostenía en la man
 
 Y en la cabeza, ajustada sobre la capucha, había una banda de metal oscuro. No brillaba. No llamaba la atención. Pero estaba ahí, rodeando la frente de la figura como una corona sin pretensiones.
 
-Runy sintió que la imagen completa decía algo que no necesitaba palabras. La figura sentada. La esfera en la mano. La corona en la frente. El cuerpo firme, inmóvil, en medio del caos de la carrera.
+La imagen completa decía algo que no necesitaba palabras. La figura sentada. La esfera en la mano. La corona en la frente. El cuerpo firme, inmóvil, en medio del caos de la carrera.
 
 *La ley*, pensó. *No la ley que se impone. La ley que se es.*
 
@@ -589,7 +589,7 @@ Y siguió corriendo, porque el kilómetro diez ya había pasado y el once lo esp
 
 El kilómetro diez trajo una sorpresa.
 
-La ruta no seguía hacia el sur como esperaba. En lugar de eso, los corredores tomaron un desvío hacia la Avenida Regional, y Runy sintió que el cuerpo se relajaba al ver que el camino se duplicaba sobre sí mismo. Un ida y vuelta. Los primeros que habían pasado ya regresaban por el otro carril, y el espectáculo era extraño: ver a los mismos corredores que habían estado adelante venir ahora de frente, como en un espejo que devolviera imágenes desplazadas en el tiempo.
+La ruta no seguía hacia el sur como esperaba. En lugar de eso, los corredores tomaron un desvío hacia la Avenida Regional, y el cuerpo se relajó al ver el camino duplicado sobre sí mismo. Un ida y vuelta. Los primeros que habían pasado ya regresaban por el otro carril, y el espectáculo era extraño: ver a los mismos corredores que habían estado adelante venir ahora de frente, como en un espejo que devolviera imágenes desplazadas en el tiempo.
 
 Buscó a la mujer de la coleta entre los que volvían. No la vio. Buscó a Arango. Tampoco.
 
@@ -607,7 +607,7 @@ Y él no quería ser un personaje. Quería ser solo un hombre corriendo.
 
 El kilómetro once trajo el cruce con la calle 7.
 
-Los corredores giraban en una glorieta y empezaban el regreso. Runy sintió que el cuerpo había encontrado un ritmo estable, una cadencia que podía mantener sin pensar. La respiración entraba y salía como un fuelle. Las piernas se movían solas.
+Los corredores giraban en una glorieta y empezaban el regreso. El cuerpo había encontrado un ritmo estable, una cadencia que podía mantener sin pensar. La respiración entraba y salía como un fuelle. Las piernas se movían solas.
 
 Y entonces, en el carril contrario, lo vio.
 
@@ -639,13 +639,13 @@ Un corredor a su lado lo miró con extrañeza. Runy no le prestó atención.
 
 Sartre había dicho que estamos condenados a ser libres. Que no hay una naturaleza humana predeterminada, que cada uno es lo que hace con lo que hicieron de él. Que la existencia precede a la esencia y que, por lo tanto, no hay excusas. No hay destino. No hay voz antigua que pueda decidir por nosotros.
 
-Runy sintió que la idea lo atravesaba como una corriente.
+La idea lo atravesó como una corriente.
 
 *No hay voz antigua. Solo hay esta voz, la mía.*
 
 La voz antigua, la de toda la vida, no se calló. Pero por primera vez, Runy escuchó otra cosa encima de ella: un zumbido que era el silencio del universo, el mismo silencio que Camus había descrito, el silencio que no responde porque no tiene nada que decir.
 
-Y en ese silencio, Runy sintió que podía elegir.
+Y en ese silencio, Podía elegir.
 
 No sabía qué iba a elegir. Pero sabía que podía.
 
@@ -667,7 +667,7 @@ El Enigmático estaba de pie, pero no solo. A su lado había una especie de estr
 
 La figura subió a la tarima con una lentitud ceremonial. Se sentó en la silla. Y entonces, con un gesto que Runy no había visto antes, levantó la mano derecha con dos dedos extendidos y los otros doblados, como en una bendición.
 
-Runy sintió que el gesto no iba dirigido a él. Iba dirigido a todo, a la carrera entera, a la ciudad, al cielo.
+El gesto no iba dirigido a él. Iba dirigido a todo, a la carrera entera, a la ciudad, al cielo.
 
 Pero sintió también que la bendición —si eso era— no era un deseo de bienestar. Era un recordatorio. Una señal de que hay palabras que se dicen desde antes de que existiera el lenguaje, gestos que se hacen desde antes de que existieran las manos.
 
@@ -686,7 +686,7 @@ Runy no se detuvo. No miró atrás. Siguió corriendo, porque el kilómetro doce
 
 El kilómetro doce trajo un cambio de paisaje y de ánimo.
 
-La Avenida Las Vegas se estiraba hacia el sur en una recta larga que parecía no tener fin. A los lados, los edificios de oficinas daban paso a conjuntos residenciales, y el aire se volvía más limpio, como si la ciudad se estuviera quedando atrás. Runy sintió que entraba en otro territorio, no solo geográfico sino mental. Algo en la recta interminable lo empujaba a mirar hacia adelante y a preguntarse, por primera vez en kilómetros, si realmente iba a llegar.
+La Avenida Las Vegas se estiraba hacia el sur en una recta larga que parecía no tener fin. A los lados, los edificios de oficinas daban paso a conjuntos residenciales, y el aire se volvía más limpio, como si la ciudad se estuviera quedando atrás. Entraba en otro territorio, no solo geográfico sino mental. Algo en la recta interminable lo empujaba a mirar hacia adelante y a preguntarse, por primera vez en kilómetros, si realmente iba a llegar.
 
 *Medio maratón está cerca*, pensó. *Trece kilómetros. La mitad.*
 
@@ -803,7 +803,7 @@ La idea lo heló. No porque el hombre de negro fuera peligroso —aunque probabl
 
 Y entonces entendió algo que Sartre no había dicho explícitamente pero que estaba implícito en todo su pensamiento: la libertad no es solo la capacidad de elegir. Es lo que nos hace humanos. Un ser que no elige no es un ser humano. Es un objeto. Una cosa. Un programa corriendo en un cuerpo.
 
-Runy sintió que la carrera se convertía en otra cosa. No era solo cuarenta y dos kilómetros. Era una prueba de humanidad.
+La carrera se convertía en otra cosa. No era solo cuarenta y dos kilómetros. Era una prueba de humanidad.
 
 Y el hombre de negro era la medida.
 
@@ -827,7 +827,7 @@ Nada.
 
 El hombre seguía corriendo, respirando sin respirar, mirando sin mirar. El roce se repitió. Esta vez más fuerte.
 
-Runy sintió que el pánico empezaba a subirle por la garganta. No era el pánico de la pelea. Era el pánico de lo que no responde, de lo que no tiene dentro, de lo que sigue moviéndose aunque no haya nadie allí.
+El pánico empezó a subirle por la garganta. No era el pánico de la pelea. Era el pánico de lo que no responde, de lo que no tiene dentro, de lo que sigue moviéndose aunque no haya nadie allí.
 
 Apretó el paso y se desvió a la izquierda, metiéndose entre otros dos corredores. El hombre de negro no lo siguió. Siguió recto, adelante, como si Runy hubiera dejado de existir.
 
@@ -861,7 +861,7 @@ Arango guardó silencio. Se masajeó la rodilla otra vez.
 
 —No sudaba —dijo al fin—. En el kilómetro quince de una maratón, todo el mundo suda. Ese tipo no.
 
-Runy sintió que la confirmación lo helaba más que el descubrimiento.
+La confirmación lo heló más que el descubrimiento.
 
 —¿Qué crees que es? —preguntó.
 
@@ -875,7 +875,7 @@ Arango lo miró con una expresión que Runy no supo interpretar.
 
 —Humano —dijo—. Eso no es humano.
 
-Runy sintió que la frase le cerraba algo en el pecho. No era miedo. Era otra cosa. Una aceptación fría de que la carrera ya no era lo que había parecido.
+La frase le cerró algo en el pecho. No era miedo. Era otra cosa. Una aceptación fría de que la carrera ya no era lo que había parecido.
 
 —¿Y tú qué vas a hacer? —preguntó Arango.
 
@@ -895,7 +895,7 @@ El kilómetro dieciséis trajo una visión breve pero clara.
 
 En el separador de la avenida, de pie sobre el pasto, el Enigmático de la capa oscura lo esperaba. No tenía los brazos abiertos como la vez anterior. Tenía los brazos extendidos hacia adelante, como si sostuviera las riendas de un caballo invisible. En una mano, una vara corta, más gruesa que la anterior. En la otra, nada. Pero la postura era la de alguien que conduce un carro, que guía algo más grande que él mismo.
 
-Runy sintió que la imagen le decía algo. No con palabras. Con forma.
+La imagen le decía algo. No con palabras. Con forma.
 
 *Puedes ser conducido o puedes conducir. Puedes ser llevado por la carrera o puedes llevarla tú.*
 
@@ -920,7 +920,7 @@ El kilómetro dieciséis trajo un cambio sutil en el paisaje.
 
 Los edificios de Envigado empezaban a cerrarse alrededor de la avenida. No eran los rascacielos del centro ni las bodegas de la calle 30. Eran casas de dos pisos con balcones de hierro forjado, árboles que crecían por encima de los techos, iglesias con campanarios que se veían desde lejos. El sur del valle tenía otra luz, más dorada, más lenta.
 
-Runy sintió que el cuerpo empezaba a quejarse de verdad. No era el dolor agudo de una lesión. Era un dolor sordo, difuso, que venía de todas partes a la vez: los cuádriceps, los gemelos, la zona lumbar, los hombros. El cuerpo entero era una sola nota larga de incomodidad.
+El cuerpo empezaba a quejarse de verdad. No era el dolor agudo de una lesión. Era un dolor sordo, difuso, que venía de todas partes a la vez: los cuádriceps, los gemelos, la zona lumbar, los hombros. El cuerpo entero era una sola nota larga de incomodidad.
 
 *Esto es tener un cuerpo*, pensó.
 
@@ -942,7 +942,7 @@ Cuando Runy pasó a su altura, el hombre giró la cabeza.
 
 Fue la primera vez que Runy le vio los ojos directamente. Eran negros. No oscuros, negros. Sin iris visible, sin blanco alrededor. Dos puntos negros fijos en medio de la cara.
 
-Runy sintió que el aire se le congelaba en la garganta.
+El aire se le congeló en la garganta.
 
 El hombre no dijo nada. No hizo nada. Solo lo miró mientras pasaba. Y cuando Runy estuvo a unos metros, el hombre arrancó a correr otra vez, pisándole los talones, con esa respiración que no era respiración.
 
@@ -968,7 +968,7 @@ Arango lo alcanzó en una subida suave. El hombre mayor corría con la mandíbul
 
 —Porque lleva tres kilómetros midiéndote. No es un corredor. Es un depredador.
 
-Runy sintió que la palabra le helaba el estómago.
+La palabra le heló el estómago.
 
 —¿Qué puedo hacer?
 
@@ -994,7 +994,7 @@ La figura estaba en medio de la avenida, en el separador central. Pero no estaba
 
 Runy no podía ver bien qué animal era. Parecía un perro grande, o un lobo, o tal vez un león. El animal estaba inmóvil, con los ojos cerrados, y la figura le pasaba una mano sobre la cabeza con una lentitud hipnótica. No había violencia. No había resistencia. La bestia estaba quieta, completamente rendida, no por miedo sino por confianza.
 
-Runy sintió que la imagen lo atravesaba como una lanza.
+La imagen lo atravesó como una lanza.
 
 *La bestia domada*, pensó. *No a golpes. No a fuerza. A presencia.*
 
@@ -1059,7 +1059,7 @@ No fue un calambre ni un tirón. Fue una preguntó que apareció en la cabeza de
 
 No la pregunta del absurdo, la de Camus. Otra. Más honda. ¿Y si no hay nada dentro? ¿Y si toda esta búsqueda de sentido, de símbolos, de filosofía, es solo ruido que el cerebro produce para no enfrentar el silencio?
 
-Runy sintió que la pregunta lo vaciaba.
+La pregunta lo vació.
 
 Merleau-Ponty había dicho que la percepción es ya significado, que el mundo no es un caos al que nosotros imponemos orden, sino que el orden está en las cosas mismas, esperando ser visto. Pero en el kilómetro diecinueve, con las piernas ardiendo y los pulmones pidiendo tregua, Runy no estaba seguro de que hubiera nada esperando ser visto.
 
@@ -1105,13 +1105,13 @@ El Enigmático estaba de pie sobre una pequeña elevación de tierra, al lado de
 
 La figura no miraba a Runy. Miraba hacia adelante, hacia la carretera que subía, hacia lo que venía. La linterna alumbraba un camino que nadie más veía.
 
-Runy sintió que la imagen le devolvía algo que la crisis le había quitado. No una respuesta. Una dirección.
+La imagen le devolvió algo que la crisis le había quitado. No una respuesta. Una dirección.
 
 *No hay que verlo todo*, pensó. *Hay que ver lo suficiente para dar el siguiente paso.*
 
 La figura no desapareció. Se quedó allí, inmóvil, mientras Runy pasaba a su lado, y cuando Runy miró atrás, la figura seguía allí, la linterna encendida, la llama quieta, como un faro que no necesita moverse para guiar.
 
-Runy sintió que algo se encendía dentro de él. No era esperanza. Era otra cosa. Una luz más pequeña, más modesta, pero real.
+Algo se encendió dentro de él. No era esperanza. Era otra cosa. Una luz más pequeña, más modesta, pero real.
 
 *La luz interna*, pensó. *No la que viene de afuera. La que uno encuentra cuando deja de buscar.*
 
@@ -1136,7 +1136,7 @@ El kilómetro veinte trajo el anuncio de que algo estaba a punto de cambiar.
 
 No era un presentimiento. Era un letrero que colgaba sobre la avenida: *Media maratón*. La mitad de la carrera. Veintiún kilómetros y ciento noventa y siete metros, aunque nadie contara los metros. Veintiuno. La mitad.
 
-Runy sintió que el letrero le devolvía una conciencia que había estado dormida. Veintiún kilómetros eran una distancia en sí misma, una carrera completa para la mayoría de la gente. Y él acababa de cumplirla. Pero en lugar de terminar, tenía que repetirla.
+El letrero le devolvió una conciencia que había estado dormida. Veintiún kilómetros eran una distancia en sí misma, una carrera completa para la mayoría de la gente. Y él acababa de cumplirla. Pero en lugar de terminar, tenía que repetirla.
 
 La idea era tan absurda que casi lo hizo reír.
 
@@ -1154,7 +1154,7 @@ Arango sonrió. Esa sonrisa.
 
 —Porque siempre hay un momento en que la carrera se vuelve otra cosa. Cuando el cuerpo deja de responder y la mente tiene que decidir si sigue sola. Ese momento no ha llegado todavía. Pero va a llegar.
 
-Runy sintió que las palabras de Arango no eran una profecía. Eran una descripción de algo que Arango ya había vivido muchas veces.
+Las palabras de Arango no eran una profecía. Eran una descripción de algo que Arango ya había vivido muchas veces.
 
 —¿Y tú qué haces cuando llega?
 
@@ -1224,7 +1224,7 @@ Ella lo miró.
 
 —A ti —dijo.
 
-Las palabras quedaron suspendidas en el aire. Runy sintió que el calor del sol desaparecía.
+Las palabras quedaron suspendidas en el aire. El calor del sol desapareció.
 
 —¿Qué sabe? —preguntó—. ¿Qué quiere?
 
@@ -1232,7 +1232,7 @@ Ella negó con la cabeza.
 
 —No sé lo que quiere. Pero sé que no es un corredor. He corrido suficientes maratones para saber cuándo algo no pertenece a la carrera.
 
-Runy sintió que el estómago se le cerraba.
+El estómago se le cerró.
 
 —Entonces, ¿qué hago?
 
@@ -1250,7 +1250,7 @@ El kilómetro veintidós trajo al Enigmático.
 
 Esta vez la figura no estaba en un separador ni en una elevación de tierra. Estaba en medio de la carretera, justo donde la avenida hacía una curva amplia hacia la izquierda. La figura estaba de pie junto a una rueda. No una rueda de carro ni de bicicleta. Una rueda de madera, del tamaño de una persona, como las que se usaban en las norias antiguas. La figura tenía una mano apoyada en el borde de la rueda, y la rueda giraba lentamente, sin hacer ruido, impulsada por nada visible.
 
-Runy sintió que la imagen contenía una verdad que no podía expresarse en palabras. La rueda giraba. Arriba, abajo. Abajo, arriba. Los que estaban arriba iban a estar abajo. Los que estaban abajo iban a estar arriba. No era justicia. No era castigo. Era ciclo.
+La imagen contenía una verdad que no podía expresarse en palabras. La rueda giraba. Arriba, abajo. Abajo, arriba. Los que estaban arriba iban a estar abajo. Los que estaban abajo iban a estar arriba. No era justicia. No era castigo. Era ciclo.
 
 *Todo gira*, pensó Runy. *El que va primero va a ir último. El que va último va a ir primero. La carrera da vueltas. La vida da vueltas. Todo da vueltas.*
 
@@ -1281,7 +1281,7 @@ La subida continuaba. No se volvía más pronunciada, pero tampoco cedía. Era c
 
 Arango corría a su izquierda. La mujer de la coleta a su derecha. Los tres en silencio, moviéndose al mismo ritmo, como una sola criatura de tres cabezas y seis piernas.
 
-Runy sintió que quería decir algo, pero las palabras no llegaban. No porque no pudiera hablar, sino porque lo que sentía no tenía nombre. Era una mezcla de gratitud y miedo. Gratitud por no estar solo. Miedo por lo que los esperaba.
+Quería decir algo, pero las palabras no llegaban. No porque no pudiera hablar, sino porque lo que sentía no tenía nombre. Era una mezcla de gratitud y miedo. Gratitud por no estar solo. Miedo por lo que los esperaba.
 
 —¿Cómo se llama? —preguntó Runy, mirando a la mujer.
 
@@ -1299,7 +1299,7 @@ Ella guardó silencio mientras sus pies golpeaban el asfalto en un ritmo que era
 
 Las mismas palabras de Arango en el kilómetro siete.
 
-Runy sintió que esas palabras eran una clave que no terminaba de entender. Porque puedo. Por ahora. Como si correr fuera un préstamo que el cuerpo otorga y que puede revocar en cualquier momento.
+Esas palabras eran una clave que no terminaba de entender. Porque puedo. Por ahora. Como si correr fuera un préstamo que el cuerpo otorga y que puede revocar en cualquier momento.
 
 —¿Y tú? —preguntó Valentina.
 
@@ -1327,7 +1327,7 @@ No era contra la iglesia. Era contra todo. Contra la carrera, contra su cuerpo, 
 
 Schopenhauer había escrito que la justicia es ilusoria, que el mundo es esencialmente injusto porque la voluntad no reconoce leyes. La naturaleza no es justa ni injusta. Solo es. El león no es injusto cuando mata a la gacela. El león solo tiene hambre.
 
-Runy sintió que esa idea era a la vez liberadora y aterradora. Liberadora porque si el mundo no era justo, entonces no tenía que entenderlo. Aterradora porque si el mundo no era justo, entonces cualquier cosa podía pasar. El hombre de negro podía alcanzarlo. Podía caerse. Podía no llegar.
+Esa idea era a la vez liberadora y aterradora. Liberadora porque si el mundo no era justo, entonces no tenía que entenderlo. Aterradora porque si el mundo no era justo, entonces cualquier cosa podía pasar. El hombre de negro podía alcanzarlo. Podía caerse. Podía no llegar.
 
 *No hay balanza*, pensó. *No hay un peso que se equilibre. Solo hay lo que es.*
 
@@ -1345,13 +1345,13 @@ A la derecha, una balanza. Dos platos perfectamente equilibrados, suspendidos en
 
 La figura no miraba a Runy. Miraba al frente, con los brazos abiertos, como si presentara los dos objetos al mundo.
 
-Runy sintió que la imagen le decía algo que no necesitaba traducción. La espada corta. La balanza pesa. Pero no hay un juez. No hay un veredicto. Solo están la espada y la balanza, y cada quien elige cómo usarlas.
+La imagen le decía algo que no necesitaba traducción. La espada corta. La balanza pesa. Pero no hay un juez. No hay un veredicto. Solo están la espada y la balanza, y cada quien elige cómo usarlas.
 
 *La justicia no es del mundo*, pensó Runy. *La justicia es lo que uno hace con lo que tiene.*
 
 La figura no desapareció. Se quedó allí, con los brazos abiertos, mientras Runy pasaba a su lado. Y cuando Runy miró atrás, la figura seguía allí, la espada y la balanza flotando a sus costados, inmutables, como dos preguntas que no necesitan respuesta porque la respuesta está en vivirlas.
 
-Runy sintió que algo se ajustaba en su interior. No era una respuesta. Era una alineación.
+Algo se ajustó en su interior. No era una respuesta. Era una alineación.
 
 *No busques justicia*, pensó. *Busca equilibrio. Y el equilibrio no es que todo pese igual. Es que sepas lo que pesas tú.*
 
@@ -1363,7 +1363,7 @@ Runy bebió. Valentina bebió. Arango bebió.
 
 —Cuatro kilómetros —dijo Arango—. Kilómetro veintiocho y medio.
 
-Runy sintió que el número era a la vez lejano y cercano.
+El número era a la vez lejano y cercano.
 
 —¿Y después?
 
@@ -1418,7 +1418,7 @@ No parecía sufrir.
 
 Parecía, más bien, estar en un estado de suspensión total, como si hubiera elegido colgar allí, quieto, mientras el mundo seguía girando a su alrededor.
 
-Runy sintió que la imagen le helaba la sangre. No porque fuera violenta. Porque era pacífica. Había una calma en la figura colgante que Runy no podía explicar. Como si la rendición fuera una forma de libertad.
+La imagen le heló la sangre. No porque fuera violenta. Porque era pacífica. Había una calma en la figura colgante que Runy no podía explicar. Como si la rendición fuera una forma de libertad.
 
 *El que se entrega*, pensó, *deja de luchar. Y el que deja de luchar, deja de sufrir.*
 
@@ -1440,7 +1440,7 @@ El kilómetro veintiséis trajo el primer encuentro directo con el hombre de neg
 
 La carretera hacía una curva amplia, y cuando Runy la tomó, se encontró con la espalda negra a menos de diez metros. El hombre de negro corría al mismo ritmo de siempre, sin variación, sin fatiga, como si llevara un motor en lugar de un corazón.
 
-Runy sintió que se le helaba la sangre. Valentina lo sintió también.
+Se le heló la sangre. Valentina lo sintió también.
 
 —No te detengas —dijo ella.
 
@@ -1456,7 +1456,7 @@ Pero corrió más lento.
 
 Solo un poco. Solo lo suficiente para que la distancia entre ellos se redujera.
 
-Runy sintió que el pánico le subía por la garganta.
+El pánico le subió por la garganta.
 
 —Está disminuyendo el paso —dijo.
 
@@ -1470,7 +1470,7 @@ Pero cuando Runy estuvo a su altura, escuchó algo que no había escuchado antes
 
 *No vas a llegar.*
 
-Runy sintió que las palabras lo perforaban.
+Las palabras lo perforaron.
 
 Corrió más rápido. Se puso adelante. Pero las palabras no se fueron. Quedaron flotando en su cabeza como un eco que no terminaba de apagarse.
 
@@ -1499,7 +1499,7 @@ El kilómetro veintisiete trajo el cambio de dirección.
 
 La avenida giraba suavemente hacia la izquierda, y los corredores que venían de regreso aparecieron de frente. La ruta hacía un lazo amplio alrededor de una glorieta, y en el centro de la glorieta había un letrero grande que decía *Sabaneta*. El punto más lejano de la carrera.
 
-Runy sintió que algo se rompía dentro de él. No era físico. Era una barrera que no sabía que existía. La conciencia de que había llegado al extremo sur del recorrido, al punto más alejado de la salida, y que a partir de ahora cada paso lo acercaría de vuelta.
+Algo se rompió dentro de él. No era físico. Era una barrera que no sabía que existía. La conciencia de que había llegado al extremo sur del recorrido, al punto más alejado de la salida, y que a partir de ahora cada paso lo acercaría de vuelta.
 
 *He llegado al fondo*, pensó. *Y ahora toca volver.*
 
@@ -1515,7 +1515,7 @@ El kilómetro veintisiete y medio trajo el encuentro con el corte.
 
 Un voluntario con un chaleco reflectante estaba en medio de la carretera, mirando un cronómetro. A su lado, una camioneta de la organización con las puertas abiertas. Tres corredores estaban sentados adentro, con toallas en la cabeza, eliminados.
 
-Runy sintió que el corazón se le aceleraba. Calculó la distancia al voluntario. Vio el cronómetro. Vio la expresión del hombre.
+El corazón se le aceleró. Calculó la distancia al voluntario. Vio el cronómetro. Vio la expresión del hombre.
 
 —¡Quince minutos! —gritó el voluntario—. ¡Si no pasan la glorieta en quince minutos, se acabó!
 
@@ -1535,7 +1535,7 @@ El hombre de negro.
 
 Estaba detrás de ellos. No los había alcanzado —estaba a unos veinte metros— pero corría con esa exactitud de máquina, y la distancia no crecía ni disminuía.
 
-Runy sintió que el pánico y la rabia se mezclaban en un cóctel que no sabía cómo procesar.
+El pánico y la rabia se mezclaron en un cóctel que no sabía cómo procesar.
 
 —No nos va a dejar pasar —dijo.
 
@@ -1563,7 +1563,7 @@ Era como un amanecer. Pero no un amanecer real. Un amanecer que ocurría en el e
 
 Y en el centro de ese amanecer, la figura sostenía algo. Una bandera. O un estandarte. Una tela blanca que colgaba de un asta corta, y en la tela, dibujada, había una flor. Una flor blanca con cinco pétalos, simple, casi infantil.
 
-Runy sintió que la imagen no era una advertencia. Era una confirmación.
+La imagen no era una advertencia. Era una confirmación.
 
 *Esto se acaba*, pensó. *No la carrera. Esto. La forma en que veías el mundo.*
 
@@ -1571,7 +1571,7 @@ La figura bajó el estandarte y lo plantó en el suelo. Y cuando lo soltó, el e
 
 Runy parpadeó.
 
-El Enigmático ya no estaba. Pero el estandarte seguía allí, en el separador, y Runy sintió que marcaba algo más que un punto en la carretera.
+El Enigmático ya no estaba. Pero el estandarte seguía allí, en el separador, y marcaba algo más que un punto en la carretera.
 
 *Marcaba el lugar donde una cosa termina y otra empieza.*
 
@@ -1620,7 +1620,7 @@ No era que hubiera estado allí antes. Era que el paisaje se parecía a algo que
 
 En el carril contrario, los corredores que todavía iban hacia el sur se cruzaban con los que ya regresaban. Las caras eran distintas. Algunos sonreían. La mayoría no. Todos mirando hacia adelante, hacia direcciones opuestas, pero todos en la misma carrera.
 
-Runy sintió que formaba parte de algo más grande que él mismo. No era una metáfora. Era una sensación física, como si la carretera entera fuera un organismo y los corredores fueran sus células, moviéndose en direcciones distintas pero con el mismo propósito.
+Formaba parte de algo más grande que él mismo. No era una metáfora. Era una sensación física, como si la carretera entera fuera un organismo y los corredores fueran sus células, moviéndose en direcciones distintas pero con el mismo propósito.
 
 —Esto es extraño —dijo.
 
@@ -1644,7 +1644,7 @@ No era agua. No tenía color. Era luz líquida, o algo que brillaba como luz per
 
 La figura movía las manos lentamente, ajustando el ángulo, y el líquido —la luz— pasaba de un recipiente a otro sin derramarse, sin detenerse, en un flujo perfecto.
 
-Runy sintió que la imagen contenía una idea que no podía expresarse en palabras, pero que entendía con el cuerpo. La mezcla. La combinación. No la separación sino la unión de lo que parece opuesto.
+La imagen contenía una idea que no podía expresarse en palabras, pero que entendía con el cuerpo. La mezcla. La combinación. No la separación sino la unión de lo que parece opuesto.
 
 *Arriba y abajo*, pensó. *Ida y vuelta. Cuerpo y mente. Tú y los otros.*
 
@@ -1685,7 +1685,7 @@ Valentina miró. Arango también.
 
 —Lo sé.
 
-Runy sintió que el estómago se le cerraba. No entendía. La IA siempre había corrido detrás de él, siguiéndolo, midiéndolo. Ahora estaba adelante, como si hubiera cambiado de estrategia. Como si ya no necesitara seguirlo porque sabía adónde iba.
+El estómago se le cerró. No entendía. La IA siempre había corrido detrás de él, siguiéndolo, midiéndolo. Ahora estaba adelante, como si hubiera cambiado de estrategia. Como si ya no necesitara seguirlo porque sabía adónde iba.
 
 —Vamos a pasarlo —dijo Valentina.
 
@@ -1695,7 +1695,7 @@ Los dos lo miraron.
 
 —Si está adelante —dijo Arango—, es porque quiere que lo pasemos. No sabemos qué va a hacer cuando estemos a su lado.
 
-Runy sintió que Arango tenía razón. Pero también sabía que no podía quedarse atrás. El tiempo pasaba. El kilómetro treinta y cinco y medio —el corte de las diez y media— estaba ahí, y cada segundo contaba.
+Arango tenía razón. Pero también sabía que no podía quedarse atrás. El tiempo pasaba. El kilómetro treinta y cinco y medio —el corte de las diez y media— estaba ahí, y cada segundo contaba.
 
 —No tenemos opción —dijo Runy.
 
@@ -1729,7 +1729,7 @@ Pero cuando estuvieron a la altura del hombre de negro, algo pasó. El hombre gi
 
 Valentina chocó contra el brazo y perdió el equilibrio. Dio dos pasos laterales, recuperándose, pero perdió el ritmo.
 
-Runy sintió que la rabia le subía por la garganta.
+La rabia le subió por la garganta.
 
 —¡No lo toques!
 
@@ -1763,7 +1763,7 @@ Arango no respondió de inmediato. Miró al hombre de negro, que seguía adelant
 
 —No lo sé —dijo—. Pero si él va a estar ahí todo el camino, tal vez no importe.
 
-Runy sintió que la honestidad de Arango era más pesada que cualquier consuelo.
+La honestidad de Arango pesaba más que cualquier consuelo.
 
 —¿Por qué no te detienes? —preguntó—. Si crees que no vas a llegar.
 
@@ -1775,7 +1775,7 @@ Arango lo miró. Esa sonrisa.
 
 El kilómetro treinta y dos trajo un momento que Runy no esperaba.
 
-El hombre de negro disminuyó el paso. No mucho. Lo suficiente para que la distancia se redujera. Runy sintió que se le acercaba, que el hombre lo estaba dejando llegar, como un cazador que no necesita correr porque sabe que la presa va a caer.
+El hombre de negro disminuyó el paso. No mucho. Lo suficiente para que la distancia se redujera. Se le acercaba, el hombre lo estaba dejando llegar, como un cazador que no necesita correr porque sabe que la presa va a caer.
 
 —No te acerques —dijo Valentina.
 
@@ -1787,7 +1787,7 @@ No giró la cabeza. No movió los labios. Pero la voz llegó, directa, fría, co
 
 *¿Crees que cadenas existen porque persigo?*
 
-Runy sintió que la pregunta lo paralizaba.
+La pregunta lo paralizó.
 
 *No existen porque persiga. Existen porque crees que no puedes soltarte.*
 
@@ -1811,7 +1811,7 @@ Pero las cadenas no estaban atadas a nada.
 
 Colgaban libres. Sueltas.
 
-Runy sintió que la imagen le devolvía algo que la voz del hombre de negro le había quitado.
+La imagen le devolvió algo que la voz del hombre de negro le había quitado.
 
 *Las cadenas no existen*, pensó. *Las cadenas son una decisión.*
 
@@ -1827,7 +1827,7 @@ La figura ya no estaba. La roca seguía ahí. Las cadenas también.
 
 Pero ahora colgaban sobre la hierba vacías, como si alguien las hubiera dejado caer.
 
-Runy sintió que algo se aflojaba en su pecho. El miedo seguía ahí. La IA seguía ahí. Pero algo había cambiado: ya no creía que la cadena fuera real.
+Algo se aflojó en su pecho. El miedo seguía ahí. La IA seguía ahí. Pero algo había cambiado: ya no creía que la cadena fuera real.
 
 Y siguió corriendo, con la imagen de las cadenas vacías grabada en la memoria, preguntándose qué más había inventado que no existía.
 ---
@@ -1932,7 +1932,7 @@ Arango lo miró. Y por primera vez en toda la carrera, su sonrisa no apareció.
 
 —No —dijo—. No puedo.
 
-Runy sintió que las palabras lo vaciaban.
+Las palabras lo vaciaron.
 
 —Pero llevas treinta años corriendo —dijo—. Treinta años. No puedes terminar así.
 
@@ -1942,7 +1942,7 @@ Señaló la rodilla.
 
 —Esta vez no es como las otras. Lo sé porque lo siento. Y he aprendido a no pelear contra lo que el cuerpo dice.
 
-Runy sintió que la aceptación de Arango era más difícil de soportar que si hubiera gritado.
+La aceptación de Arango fue más difícil de soportar que si hubiera gritado.
 
 —¿Qué vas a hacer? —preguntó Valentina.
 
@@ -1956,7 +1956,7 @@ Arango lo miró con una expresión que Runy no le había visto antes. No era tri
 
 —No me estoy rindiendo —dijo—. Estoy eligiendo.
 
-Runy sintió que la frase le cerraba la garganta.
+La frase le cerró la garganta.
 
 —Tú sigue —dijo Arango—. Los dos. Tienen que llegar.
 
@@ -1976,7 +1976,7 @@ Y luego miró a Runy.
 
 —Tú puedes —dijo—. No sé si vas a llegar. Pero puedes.
 
-Runy sintió que los ojos se le humedecían. Apretó la mandíbula.
+Los ojos se le humedecieron. Apretó la mandíbula.
 
 —Nos vemos en la meta —dijo.
 
@@ -2016,7 +2016,7 @@ La torre se derrumbaba.
 
 Pero en el centro del derrumbe, entre los escombros que caían, el Enigmático estaba de pie, inmóvil, con los brazos a los lados. No trataba de detener la caída. No trataba de salvar la torre. Solo miraba.
 
-Runy sintió que la imagen le hablaba directamente.
+La imagen le hablaba directamente.
 
 *Todo lo que has construido se va a caer. Las creencias. Las seguridades. La idea de que controlas algo. Se va a caer todo.*
 
@@ -2047,7 +2047,7 @@ Arango se había quedado atrás. La imagen del hombre sentado en el sardinel, es
 
 Valentina corría a su lado. Los dos en silencio.
 
-Runy sintió que necesitaba decir algo, pero no sabía qué.
+Necesitaba decir algo, pero no sabía qué.
 
 —¿Duele? —preguntó Valentina al fin.
 
@@ -2057,7 +2057,7 @@ Runy la miró.
 
 —Perderlo.
 
-Runy sintió que la pregunta le abría algo en el pecho.
+La pregunta le abrió algo en el pecho.
 
 —Sí —dijo.
 
@@ -2081,7 +2081,7 @@ La ciudad se volvía más densa. Edificios más altos, más tráfico, más gente
 
 —Mucho —dijo Valentina—. Y poco.
 
-Runy sintió que la respuesta era la única verdad que importaba.
+La respuesta era la única verdad que importaba.
 
 ***
 
@@ -2093,7 +2093,7 @@ Runy pasó junto al grupo.
 
 —Sigan —dijo el hombre—. Ustedes van bien.
 
-Runy sintió que las palabras lo empujaban hacia adelante.
+Las palabras lo empujaron hacia adelante.
 
 Pero vio las caras de los que se quedaban. Hombres y mujeres que habían corrido más de treinta kilómetros y que ahora estaban sentados en el suelo, esperando que los llevaran de vuelta.
 
@@ -2113,7 +2113,7 @@ El Enigmático tenía las manos sumergidas en el agua. Y en las manos sostenía 
 
 Detrás de la figura, en el cielo de la tarde, empezaban a aparecer estrellas. No eran las estrellas reales —el sol todavía estaba alto— pero Runy las veía: puntos de luz que brillaban sobre la cabeza del Enigmático, formando un círculo, como una corona.
 
-Runy sintió que la imagen le devolvía algo que había perdido en el kilómetro anterior.
+La imagen le devolvió algo que había perdido en el kilómetro anterior.
 
 *No se trata de lo que se derrumba*, pensó. *Se trata de lo que queda después.*
 
@@ -2121,7 +2121,7 @@ Runy sintió que la imagen le devolvía algo que había perdido en el kilómetro
 
 Pestañeó.
 
-La figura ya no estaba. Pero en el caño, el agua seguía corriendo. Y Runy sintió que esa agua era suficiente.
+La figura ya no estaba. Pero en el caño, el agua seguía corriendo. Y esa agua era suficiente.
 
 —¿Viste algo? —preguntó Valentina.
 
@@ -2157,7 +2157,7 @@ Ella guardó silencio un momento.
 
 —Yo corro porque me hace sentir que estoy viva —dijo—. No cuando termino. No cuando gano. Cuando estoy corriendo y todo duele y todo pesa y sigo. Ahí. En ese momento. Sé que estoy viva.
 
-Runy sintió que la frase le quedaba resonando.
+La frase le quedó resonando.
 
 *Sé que estoy viva.*
 
@@ -2200,7 +2200,7 @@ Valentina guardó silencio mientras corrían.
 
 —No sé —dijo al fin—. Pero duele. Y mientras duela, es real.
 
-Runy sintió que la respuesta era insuficiente y perfecta al mismo tiempo.
+La respuesta era insuficiente y perfecta al mismo tiempo.
 
 ***
 
@@ -2270,7 +2270,7 @@ No con palabras. Con una voz que Runy sintió dentro de la cabeza, como un pensa
 
 *¿Hasta dónde vas a llegar?*
 
-Runy sintió que la pregunta lo paralizaba.
+La pregunta lo paralizó.
 
 *No me refiero a la carrera. Me refiero a todo. ¿Hasta dónde vas a llegar antes de darte cuenta de que no tiene sentido?*
 
@@ -2296,7 +2296,7 @@ Runy se quedó quieto un momento. Valentina lo alcanzó.
 
 Pero los dos sabían que no era cierto.
 
-Y Runy sintió que la duda que había aparecido en el kilómetro treinta y siete ahora tenía una voz. Y esa voz seguía hablando dentro de su cabeza.
+Y la duda que había aparecido en el kilómetro treinta y siete ahora tenía una voz. Y esa voz seguía hablando dentro de su cabeza.
 ---
 
 # XIX. La claridad (km 38–40)
@@ -2307,7 +2307,7 @@ La IA se había ido. La voz en su cabeza se había callado. Pero la pregunta seg
 
 *¿Hasta dónde vas a llegar?*
 
-Y entonces, en el kilómetro treinta y ocho, mientras corría por una avenida que no reconocía, con Valentina a su lado y el sol quemándole la nuca, Runy sintió que la respuesta llegaba.
+Y entonces, en el kilómetro treinta y ocho, mientras corría por una avenida que no reconocía, con Valentina a su lado y el sol quemándole la nuca, La respuesta llegaba.
 
 —Hasta donde pueda —dijo en voz alta.
 
@@ -2331,7 +2331,7 @@ El kilómetro treinta y nueve trajo el paisaje más hermoso de toda la carrera.
 
 La avenida se abría y, a lo lejos, Runy veía el centro de Medellín. Los edificios altos recortados contra el cielo azul, las montañas rodeando la ciudad como paredes de un mundo que existía dentro de otro mundo.
 
-Vio la luz del sol reflejándose en los vidrios de los edificios y sintió que todo era claro. No fácil. Claro.
+Vio la luz del sol reflejándose en los vidrios de los edificios y todo era claro. No fácil. Claro.
 
 Por primera vez en kilómetros, no pensó en la IA. No pensó en Arango. No pensó en el tiempo, en la distancia, en el dolor.
 
@@ -2353,13 +2353,13 @@ Y en el centro de esa luz, la figura lo miró.
 
 *Ahora ves*, dijo la figura.
 
-Y Runy sintió que era cierto.
+Y era cierto.
 
 Pestañeó.
 
 La figura ya no estaba. Pero la luz seguía. La luz estaba en todas partes.
 
-Runy sintió que algo había cambiado dentro de él. No sabía qué. Pero sabía que ya no era el mismo que había empezado la carrera.
+Algo había cambiado dentro de él. No sabía qué. Pero sabía que ya no era el mismo que había empezado la carrera.
 
 ***
 
@@ -2367,7 +2367,7 @@ El kilómetro cuarenta trajo el marcador.
 
 Runy lo vio desde lejos: un arco inflable que cruzaba la carretera, con un letrero que decía KM 40. Debajo, un grupo de voluntarios repartía agua y miraba los relojes.
 
-Runy sintió que el kilómetro cuarenta era más que un número. Era una frontera.
+El kilómetro cuarenta era más que un número. Era una frontera.
 
 Había corrido cuarenta kilómetros. Cuarenta. La distancia de una maratón completa era 42. Faltaban dos.
 
@@ -2396,7 +2396,7 @@ El kilómetro cuarenta trajo el marcador.
 
 Runy lo vio desde lejos: un arco inflable que cruzaba la carretera, con un letrero que decía KM 40. Debajo, un grupo de voluntarios repartía agua y miraba los relojes.
 
-Runy sintió que el kilómetro cuarenta era más que un número. Era una frontera.
+El kilómetro cuarenta era más que un número. Era una frontera.
 
 Había corrido cuarenta kilómetros. Faltaban dos.
 
@@ -2412,7 +2412,7 @@ El cansancio dejó de ser físico. Se volvió otra cosa. Se volvió una certeza 
 
 No era una pregunta que pidiera una respuesta. Era una pregunta que pedía una decisión.
 
-Runy sintió que su cuerpo podía seguir. Las piernas se movían por inercia. Los pulmones funcionaban. El corazón bombeaba. Todo el sistema estaba en piloto automático, listo para completar los últimos dos kilómetros sin importar lo que pasara.
+Su cuerpo podía seguir. Las piernas se movían por inercia. Los pulmones funcionaban. El corazón bombeaba. Todo el sistema estaba en piloto automático, listo para completar los últimos dos kilómetros sin importar lo que pasara.
 
 Pero la pregunta no se iba.
 
@@ -2424,7 +2424,7 @@ La idea apareció clara, limpia, sin drama. No era una derrota. Era una toma de 
 
 Valentina corría a su lado. Los dos en silencio. Los dos sabiendo que algo estaba a punto de pasar.
 
-Runy sintió que el cuerpo le pedía que se detuviera. No el cansancio. El cuerpo. El mismo cuerpo que había corrido cuarenta y un kilómetros, que había subido y bajado, que había sudado y dolido y seguido. Ahora le pedía que parara.
+El cuerpo le pedía que se detuviera. No el cansancio. El cuerpo. El mismo cuerpo que había corrido cuarenta y un kilómetros, que había subido y bajado, que había sudado y dolido y seguido. Ahora le pedía que parara.
 
 —Valentina —dijo.
 
@@ -2480,7 +2480,7 @@ Y entonces, solo, se sentó en el sardinel.
 
 El asfalto estaba caliente. El sol quemaba. Los corredores pasaban a su lado, algunos lo miraban, otros no. La mayoría no.
 
-Runy sintió que el cuerpo empezaba a enfriarse. Los músculos, que habían estado funcionando a máxima capacidad durante horas, empezaban a quejarse. Un calambre le subió por el gemelo izquierdo y se quedó. La sed llegó de golpe, seca, urgente.
+El cuerpo empezó a enfriarse. Los músculos, que habían estado funcionando a máxima capacidad durante horas, empezaban a quejarse. Un calambre le subió por el gemelo izquierdo y se quedó. La sed llegó de golpe, seca, urgente.
 
 Pero no se arrepentía.
 
@@ -2498,11 +2498,11 @@ Pero la figura del Enigmático no miraba hacia arriba. Miraba a Runy.
 
 *No tienes que morir para resucitar. A veces, resucitar es simplemente dejar de ser quien eras.*
 
-Runy sintió que la imagen se grababa en su memoria para siempre.
+La imagen se grabó en su memoria para siempre.
 
 —Gracias —dijo en voz alta.
 
-La figura no respondió. Pero Runy sintió que, por primera vez, la figura sonreía.
+La figura no respondió. Pero por primera vez, la figura sonreía.
 
 Pestañeó.
 

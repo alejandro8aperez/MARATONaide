@@ -46,7 +46,7 @@ No parecía sufrir.
 
 Parecía, más bien, estar en un estado de suspensión total, como si hubiera elegido colgar allí, quieto, mientras el mundo seguía girando a su alrededor.
 
-Runy sintió que la imagen le helaba la sangre. No porque fuera violenta. Porque era pacífica. Había una calma en la figura colgante que Runy no podía explicar. Como si la rendición fuera una forma de libertad.
+La imagen le heló la sangre. No porque fuera violenta. Porque era pacífica. Había una calma en la figura colgante que Runy no podía explicar. Como si la rendición fuera una forma de libertad.
 
 *El que se entrega*, pensó, *deja de luchar. Y el que deja de luchar, deja de sufrir.*
 
@@ -68,7 +68,7 @@ El kilómetro veintiséis trajo el primer encuentro directo con el hombre de neg
 
 La carretera hacía una curva amplia, y cuando Runy la tomó, se encontró con la espalda negra a menos de diez metros. El hombre de negro corría al mismo ritmo de siempre, sin variación, sin fatiga, como si llevara un motor en lugar de un corazón.
 
-Runy sintió que se le helaba la sangre. Valentina lo sintió también.
+Se le heló la sangre. Valentina lo sintió también.
 
 —No te detengas —dijo ella.
 
@@ -84,7 +84,7 @@ Pero corrió más lento.
 
 Solo un poco. Solo lo suficiente para que la distancia entre ellos se redujera.
 
-Runy sintió que el pánico le subía por la garganta.
+El pánico le subió por la garganta.
 
 —Está disminuyendo el paso —dijo.
 
@@ -98,7 +98,7 @@ Pero cuando Runy estuvo a su altura, escuchó algo que no había escuchado antes
 
 *No vas a llegar.*
 
-Runy sintió que las palabras lo perforaban.
+Las palabras lo perforaron.
 
 Corrió más rápido. Se puso adelante. Pero las palabras no se fueron. Quedaron flotando en su cabeza como un eco que no terminaba de apagarse.
 

@@ -4,7 +4,7 @@ El kilómetro ocho trajo un giro hacia el sur.
 
 La calle 30 terminaba en una intersección amplia, y la masa de corredores dobló a la derecha, tomando la Avenida Las Vegas en dirección al sur. El cambio fue inmediato. La avenida era más ancha que las anteriores, con tres carriles a cada lado y un separador verde en el medio. Los edificios retrocedieron, dejando espacio al cielo.
 
-Runy sintió que el aire cambiaba. Ya no olía a tubo de escape y taller mecánico, sino a pasto recién cortado y a humedad de río. La ciudad se abría como un abanico, y con ella la carrera.
+El aire cambió. Ya no olía a tubo de escape y taller mecánico, sino a pasto recién cortado y a humedad de río. La ciudad se abría como un abanico, y con ella la carrera.
 
 El kilómetro nueve trajo un pensamiento incómodo.
 
@@ -26,7 +26,7 @@ Y entonces recordó una frase de Nietzsche que había leído tantas veces que ya
 
 No era una orden externa. Era una orden que uno se daba a sí mismo. La ley no venía de afuera. Venía de adentro, de la voluntad que se impone forma a sí misma. Eso era la voluntad de poder: no dominar a otros, sino dominarse a uno mismo.
 
-Runy sintió que algo se ajustaba en su pecho. No era una respuesta clara, pero era una dirección.
+Algo se ajustó en su pecho. No era una respuesta clara, pero era una dirección.
 
 ***
 
@@ -80,7 +80,7 @@ Pero lo que más le llamó la atención fue lo que la figura sostenía en la man
 
 Y en la cabeza, ajustada sobre la capucha, había una banda de metal oscuro. No brillaba. No llamaba la atención. Pero estaba ahí, rodeando la frente de la figura como una corona sin pretensiones.
 
-Runy sintió que la imagen completa decía algo que no necesitaba palabras. La figura sentada. La esfera en la mano. La corona en la frente. El cuerpo firme, inmóvil, en medio del caos de la carrera.
+La imagen completa decía algo que no necesitaba palabras. La figura sentada. La esfera en la mano. La corona en la frente. El cuerpo firme, inmóvil, en medio del caos de la carrera.
 
 *La ley*, pensó. *No la ley que se impone. La ley que se es.*
 

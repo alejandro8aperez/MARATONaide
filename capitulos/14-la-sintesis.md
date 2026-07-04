@@ -40,7 +40,7 @@ No era que hubiera estado allí antes. Era que el paisaje se parecía a algo que
 
 En el carril contrario, los corredores que todavía iban hacia el sur se cruzaban con los que ya regresaban. Las caras eran distintas. Algunos sonreían. La mayoría no. Todos mirando hacia adelante, hacia direcciones opuestas, pero todos en la misma carrera.
 
-Runy sintió que formaba parte de algo más grande que él mismo. No era una metáfora. Era una sensación física, como si la carretera entera fuera un organismo y los corredores fueran sus células, moviéndose en direcciones distintas pero con el mismo propósito.
+Formaba parte de algo más grande que él mismo. No era una metáfora. Era una sensación física, como si la carretera entera fuera un organismo y los corredores fueran sus células, moviéndose en direcciones distintas pero con el mismo propósito.
 
 —Esto es extraño —dijo.
 
@@ -64,7 +64,7 @@ No era agua. No tenía color. Era luz líquida, o algo que brillaba como luz per
 
 La figura movía las manos lentamente, ajustando el ángulo, y el líquido —la luz— pasaba de un recipiente a otro sin derramarse, sin detenerse, en un flujo perfecto.
 
-Runy sintió que la imagen contenía una idea que no podía expresarse en palabras, pero que entendía con el cuerpo. La mezcla. La combinación. No la separación sino la unión de lo que parece opuesto.
+La imagen contenía una idea que no podía expresarse en palabras, pero que entendía con el cuerpo. La mezcla. La combinación. No la separación sino la unión de lo que parece opuesto.
 
 *Arriba y abajo*, pensó. *Ida y vuelta. Cuerpo y mente. Tú y los otros.*
 

@@ -4,7 +4,7 @@ El kilómetro veinte trajo el anuncio de que algo estaba a punto de cambiar.
 
 No era un presentimiento. Era un letrero que colgaba sobre la avenida: *Media maratón*. La mitad de la carrera. Veintiún kilómetros y ciento noventa y siete metros, aunque nadie contara los metros. Veintiuno. La mitad.
 
-Runy sintió que el letrero le devolvía una conciencia que había estado dormida. Veintiún kilómetros eran una distancia en sí misma, una carrera completa para la mayoría de la gente. Y él acababa de cumplirla. Pero en lugar de terminar, tenía que repetirla.
+El letrero le devolvió una conciencia que había estado dormida. Veintiún kilómetros eran una distancia en sí misma, una carrera completa para la mayoría de la gente. Y él acababa de cumplirla. Pero en lugar de terminar, tenía que repetirla.
 
 La idea era tan absurda que casi lo hizo reír.
 
@@ -22,7 +22,7 @@ Arango sonrió. Esa sonrisa.
 
 —Porque siempre hay un momento en que la carrera se vuelve otra cosa. Cuando el cuerpo deja de responder y la mente tiene que decidir si sigue sola. Ese momento no ha llegado todavía. Pero va a llegar.
 
-Runy sintió que las palabras de Arango no eran una profecía. Eran una descripción de algo que Arango ya había vivido muchas veces.
+Las palabras de Arango no eran una profecía. Eran una descripción de algo que Arango ya había vivido muchas veces.
 
 —¿Y tú qué haces cuando llega?
 
@@ -92,7 +92,7 @@ Ella lo miró.
 
 —A ti —dijo.
 
-Las palabras quedaron suspendidas en el aire. Runy sintió que el calor del sol desaparecía.
+Las palabras quedaron suspendidas en el aire. El calor del sol desapareció.
 
 —¿Qué sabe? —preguntó—. ¿Qué quiere?
 
@@ -100,7 +100,7 @@ Ella negó con la cabeza.
 
 —No sé lo que quiere. Pero sé que no es un corredor. He corrido suficientes maratones para saber cuándo algo no pertenece a la carrera.
 
-Runy sintió que el estómago se le cerraba.
+El estómago se le cerró.
 
 —Entonces, ¿qué hago?
 
@@ -118,7 +118,7 @@ El kilómetro veintidós trajo al Enigmático.
 
 Esta vez la figura no estaba en un separador ni en una elevación de tierra. Estaba en medio de la carretera, justo donde la avenida hacía una curva amplia hacia la izquierda. La figura estaba de pie junto a una rueda. No una rueda de carro ni de bicicleta. Una rueda de madera, del tamaño de una persona, como las que se usaban en las norias antiguas. La figura tenía una mano apoyada en el borde de la rueda, y la rueda giraba lentamente, sin hacer ruido, impulsada por nada visible.
 
-Runy sintió que la imagen contenía una verdad que no podía expresarse en palabras. La rueda giraba. Arriba, abajo. Abajo, arriba. Los que estaban arriba iban a estar abajo. Los que estaban abajo iban a estar arriba. No era justicia. No era castigo. Era ciclo.
+La imagen contenía una verdad que no podía expresarse en palabras. La rueda giraba. Arriba, abajo. Abajo, arriba. Los que estaban arriba iban a estar abajo. Los que estaban abajo iban a estar arriba. No era justicia. No era castigo. Era ciclo.
 
 *Todo gira*, pensó Runy. *El que va primero va a ir último. El que va último va a ir primero. La carrera da vueltas. La vida da vueltas. Todo da vueltas.*
 

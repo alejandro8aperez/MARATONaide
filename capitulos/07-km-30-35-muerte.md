@@ -36,7 +36,7 @@ Bajó la mirada. La bajada era larga, tendida, casi amable. Las piernas agradeci
 
 El kilómetro treinta y cuatro fue liberador.
 
-Runy sintió que la muerte no era un final, sino un horizonte. Lo que daba urgencia a cada paso. Lo que hacía que el agua supiera a agua y el aire a aire. Sin la muerte, la vida sería un borrador infinito. Con la muerte, cada kilómetro contaba.
+La muerte no era un final, sino un horizonte. Lo que daba urgencia a cada paso. Lo que hacía que el agua supiera a agua y el aire a aire. Sin la muerte, la vida sería un borrador infinito. Con la muerte, cada kilómetro contaba.
 
 El kilómetro treinta y cinco apareció con un cartel escrito a mano: *FALTAN 7 KM. YA ERES LEYENDA.*
 

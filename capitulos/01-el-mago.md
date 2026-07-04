@@ -2,7 +2,7 @@
 
 El kilómetro dos trajo una tregua.
 
-No era que correr se hubiera vuelto fácil, sino que el cuerpo había dejado de protestar y empezaba a funcionar como debía. La respiración encontró su ritmo. Las piernas se movían con una cadencia que ya no requería atención consciente. Runy sintió que podía correr así para siempre —o al menos los siguientes cuarenta kilómetros, que era lo mismo.
+No era que correr se hubiera vuelto fácil, sino que el cuerpo había dejado de protestar y empezaba a funcionar como debía. La respiración encontró su ritmo. Las piernas se movían con una cadencia que ya no requería atención consciente. Podía correr así para siempre —o al menos los siguientes cuarenta kilómetros, que era lo mismo.
 
 La mujer de la coleta seguía adelante, siempre a la misma distancia. Runy había dejado de preguntarse si debía alcanzarla. Ahora corría detrás de ella como quien sigue a un faro, sin plan, sin expectativa.
 
@@ -24,7 +24,7 @@ Y entonces, mientras sus pies golpeaban el asfalto al ritmo de una respiración 
 
 El kilómetro tres y medio trajo un paisaje nuevo. La ruta había dejado San Juan y doblado hacia el sur por la Avenida 80, una vía ancha que corría paralela a la línea elevada del Metroplús. Los trenes pasaban con un rumor sordo, indiferentes a la multitud de corredores que se movía debajo.
 
-Runy sintió que alguien se ponía a su altura.
+Alguien se puso a su altura.
 
 —Buen ritmo —dijo una voz.
 
@@ -54,7 +54,7 @@ Ella volvió a sonreír, pero esta vez la sonrisa era distinta. Más profunda.
 
 —Nunca es la misma carrera —dijo—. El cuerpo cambia. La ciudad cambia. Tú cambias. Corres cuarenta y dos kilómetros, pero en realidad corres cuarenta y dos versiones de ti mismo.
 
-Runy sintió que la frase merecía estar en un libro.
+La frase merecía estar en un libro.
 
 —¿Eres escritora? —preguntó.
 

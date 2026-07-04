@@ -8,7 +8,7 @@ La subida continuaba. No se volvía más pronunciada, pero tampoco cedía. Era c
 
 Arango corría a su izquierda. La mujer de la coleta a su derecha. Los tres en silencio, moviéndose al mismo ritmo, como una sola criatura de tres cabezas y seis piernas.
 
-Runy sintió que quería decir algo, pero las palabras no llegaban. No porque no pudiera hablar, sino porque lo que sentía no tenía nombre. Era una mezcla de gratitud y miedo. Gratitud por no estar solo. Miedo por lo que los esperaba.
+Quería decir algo, pero las palabras no llegaban. No porque no pudiera hablar, sino porque lo que sentía no tenía nombre. Era una mezcla de gratitud y miedo. Gratitud por no estar solo. Miedo por lo que los esperaba.
 
 —¿Cómo se llama? —preguntó Runy, mirando a la mujer.
 
@@ -26,7 +26,7 @@ Ella guardó silencio mientras sus pies golpeaban el asfalto en un ritmo que era
 
 Las mismas palabras de Arango en el kilómetro siete.
 
-Runy sintió que esas palabras eran una clave que no terminaba de entender. Porque puedo. Por ahora. Como si correr fuera un préstamo que el cuerpo otorga y que puede revocar en cualquier momento.
+Esas palabras eran una clave que no terminaba de entender. Porque puedo. Por ahora. Como si correr fuera un préstamo que el cuerpo otorga y que puede revocar en cualquier momento.
 
 —¿Y tú? —preguntó Valentina.
 
@@ -54,7 +54,7 @@ No era contra la iglesia. Era contra todo. Contra la carrera, contra su cuerpo, 
 
 Schopenhauer había escrito que la justicia es ilusoria, que el mundo es esencialmente injusto porque la voluntad no reconoce leyes. La naturaleza no es justa ni injusta. Solo es. El león no es injusto cuando mata a la gacela. El león solo tiene hambre.
 
-Runy sintió que esa idea era a la vez liberadora y aterradora. Liberadora porque si el mundo no era justo, entonces no tenía que entenderlo. Aterradora porque si el mundo no era justo, entonces cualquier cosa podía pasar. El hombre de negro podía alcanzarlo. Podía caerse. Podía no llegar.
+Esa idea era a la vez liberadora y aterradora. Liberadora porque si el mundo no era justo, entonces no tenía que entenderlo. Aterradora porque si el mundo no era justo, entonces cualquier cosa podía pasar. El hombre de negro podía alcanzarlo. Podía caerse. Podía no llegar.
 
 *No hay balanza*, pensó. *No hay un peso que se equilibre. Solo hay lo que es.*
 
@@ -72,13 +72,13 @@ A la derecha, una balanza. Dos platos perfectamente equilibrados, suspendidos en
 
 La figura no miraba a Runy. Miraba al frente, con los brazos abiertos, como si presentara los dos objetos al mundo.
 
-Runy sintió que la imagen le decía algo que no necesitaba traducción. La espada corta. La balanza pesa. Pero no hay un juez. No hay un veredicto. Solo están la espada y la balanza, y cada quien elige cómo usarlas.
+La imagen le decía algo que no necesitaba traducción. La espada corta. La balanza pesa. Pero no hay un juez. No hay un veredicto. Solo están la espada y la balanza, y cada quien elige cómo usarlas.
 
 *La justicia no es del mundo*, pensó Runy. *La justicia es lo que uno hace con lo que tiene.*
 
 La figura no desapareció. Se quedó allí, con los brazos abiertos, mientras Runy pasaba a su lado. Y cuando Runy miró atrás, la figura seguía allí, la espada y la balanza flotando a sus costados, inmutables, como dos preguntas que no necesitan respuesta porque la respuesta está en vivirlas.
 
-Runy sintió que algo se ajustaba en su interior. No era una respuesta. Era una alineación.
+Algo se ajustó en su interior. No era una respuesta. Era una alineación.
 
 *No busques justicia*, pensó. *Busca equilibrio. Y el equilibrio no es que todo pese igual. Es que sepas lo que pesas tú.*
 
@@ -90,7 +90,7 @@ Runy bebió. Valentina bebió. Arango bebió.
 
 —Cuatro kilómetros —dijo Arango—. Kilómetro veintiocho y medio.
 
-Runy sintió que el número era a la vez lejano y cercano.
+El número era a la vez lejano y cercano.
 
 —¿Y después?
 

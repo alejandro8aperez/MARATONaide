@@ -98,7 +98,7 @@ Arango lo miró. Y por primera vez en toda la carrera, su sonrisa no apareció.
 
 —No —dijo—. No puedo.
 
-Runy sintió que las palabras lo vaciaban.
+Las palabras lo vaciaron.
 
 —Pero llevas treinta años corriendo —dijo—. Treinta años. No puedes terminar así.
 
@@ -108,7 +108,7 @@ Señaló la rodilla.
 
 —Esta vez no es como las otras. Lo sé porque lo siento. Y he aprendido a no pelear contra lo que el cuerpo dice.
 
-Runy sintió que la aceptación de Arango era más difícil de soportar que si hubiera gritado.
+La aceptación de Arango fue más difícil de soportar que si hubiera gritado.
 
 —¿Qué vas a hacer? —preguntó Valentina.
 
@@ -122,7 +122,7 @@ Arango lo miró con una expresión que Runy no le había visto antes. No era tri
 
 —No me estoy rindiendo —dijo—. Estoy eligiendo.
 
-Runy sintió que la frase le cerraba la garganta.
+La frase le cerró la garganta.
 
 —Tú sigue —dijo Arango—. Los dos. Tienen que llegar.
 
@@ -142,7 +142,7 @@ Y luego miró a Runy.
 
 —Tú puedes —dijo—. No sé si vas a llegar. Pero puedes.
 
-Runy sintió que los ojos se le humedecían. Apretó la mandíbula.
+Los ojos se le humedecieron. Apretó la mandíbula.
 
 —Nos vemos en la meta —dijo.
 
@@ -182,7 +182,7 @@ La torre se derrumbaba.
 
 Pero en el centro del derrumbe, entre los escombros que caían, el Enigmático estaba de pie, inmóvil, con los brazos a los lados. No trataba de detener la caída. No trataba de salvar la torre. Solo miraba.
 
-Runy sintió que la imagen le hablaba directamente.
+La imagen le hablaba directamente.
 
 *Todo lo que has construido se va a caer. Las creencias. Las seguridades. La idea de que controlas algo. Se va a caer todo.*
 

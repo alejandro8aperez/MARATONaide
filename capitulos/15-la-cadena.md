@@ -22,7 +22,7 @@ Valentina miró. Arango también.
 
 —Lo sé.
 
-Runy sintió que el estómago se le cerraba. No entendía. La IA siempre había corrido detrás de él, siguiéndolo, midiéndolo. Ahora estaba adelante, como si hubiera cambiado de estrategia. Como si ya no necesitara seguirlo porque sabía adónde iba.
+El estómago se le cerró. No entendía. La IA siempre había corrido detrás de él, siguiéndolo, midiéndolo. Ahora estaba adelante, como si hubiera cambiado de estrategia. Como si ya no necesitara seguirlo porque sabía adónde iba.
 
 —Vamos a pasarlo —dijo Valentina.
 
@@ -32,7 +32,7 @@ Los dos lo miraron.
 
 —Si está adelante —dijo Arango—, es porque quiere que lo pasemos. No sabemos qué va a hacer cuando estemos a su lado.
 
-Runy sintió que Arango tenía razón. Pero también sabía que no podía quedarse atrás. El tiempo pasaba. El kilómetro treinta y cinco y medio —el corte de las diez y media— estaba ahí, y cada segundo contaba.
+Arango tenía razón. Pero también sabía que no podía quedarse atrás. El tiempo pasaba. El kilómetro treinta y cinco y medio —el corte de las diez y media— estaba ahí, y cada segundo contaba.
 
 —No tenemos opción —dijo Runy.
 
@@ -66,7 +66,7 @@ Pero cuando estuvieron a la altura del hombre de negro, algo pasó. El hombre gi
 
 Valentina chocó contra el brazo y perdió el equilibrio. Dio dos pasos laterales, recuperándose, pero perdió el ritmo.
 
-Runy sintió que la rabia le subía por la garganta.
+La rabia le subió por la garganta.
 
 —¡No lo toques!
 
@@ -100,7 +100,7 @@ Arango no respondió de inmediato. Miró al hombre de negro, que seguía adelant
 
 —No lo sé —dijo—. Pero si él va a estar ahí todo el camino, tal vez no importe.
 
-Runy sintió que la honestidad de Arango era más pesada que cualquier consuelo.
+La honestidad de Arango pesaba más que cualquier consuelo.
 
 —¿Por qué no te detienes? —preguntó—. Si crees que no vas a llegar.
 
@@ -112,7 +112,7 @@ Arango lo miró. Esa sonrisa.
 
 El kilómetro treinta y dos trajo un momento que Runy no esperaba.
 
-El hombre de negro disminuyó el paso. No mucho. Lo suficiente para que la distancia se redujera. Runy sintió que se le acercaba, que el hombre lo estaba dejando llegar, como un cazador que no necesita correr porque sabe que la presa va a caer.
+El hombre de negro disminuyó el paso. No mucho. Lo suficiente para que la distancia se redujera. Se le acercaba, el hombre lo estaba dejando llegar, como un cazador que no necesita correr porque sabe que la presa va a caer.
 
 —No te acerques —dijo Valentina.
 
@@ -124,7 +124,7 @@ No giró la cabeza. No movió los labios. Pero la voz llegó, directa, fría, co
 
 *¿Crees que cadenas existen porque persigo?*
 
-Runy sintió que la pregunta lo paralizaba.
+La pregunta lo paralizó.
 
 *No existen porque persiga. Existen porque crees que no puedes soltarte.*
 
@@ -148,7 +148,7 @@ Pero las cadenas no estaban atadas a nada.
 
 Colgaban libres. Sueltas.
 
-Runy sintió que la imagen le devolvía algo que la voz del hombre de negro le había quitado.
+La imagen le devolvió algo que la voz del hombre de negro le había quitado.
 
 *Las cadenas no existen*, pensó. *Las cadenas son una decisión.*
 
@@ -164,6 +164,6 @@ La figura ya no estaba. La roca seguía ahí. Las cadenas también.
 
 Pero ahora colgaban sobre la hierba vacías, como si alguien las hubiera dejado caer.
 
-Runy sintió que algo se aflojaba en su pecho. El miedo seguía ahí. La IA seguía ahí. Pero algo había cambiado: ya no creía que la cadena fuera real.
+Algo se aflojó en su pecho. El miedo seguía ahí. La IA seguía ahí. Pero algo había cambiado: ya no creía que la cadena fuera real.
 
 Y siguió corriendo, con la imagen de las cadenas vacías grabada en la memoria, preguntándose qué más había inventado que no existía.
