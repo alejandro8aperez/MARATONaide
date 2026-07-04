@@ -2388,11 +2388,29 @@ Y los dos siguieron corriendo, hacia los últimos dos kilómetros, hacia el fina
 
 # XX. El despertar (km 40–42)
 
+El kilómetro cuarenta trajo el marcador.
+
+Runy lo vio desde lejos: un arco inflable que cruzaba la carretera, con un letrero que decía KM 40. Debajo, un grupo de voluntarios repartía agua y miraba los relojes.
+
+Runy sintió que el kilómetro cuarenta era más que un número. Era una frontera.
+
+Había corrido cuarenta kilómetros. Faltaban dos.
+
+Pero eran los dos kilómetros más largos de su vida.
+
+***
+
 El kilómetro cuarenta y uno trajo el momento que Runy había estado evitando desde el kilómetro cero.
 
-El cansancio dejó de ser físico. Se volvió otra cosa. Se volvió una certeza.
+El cansancio dejó de ser físico. Se volvió otra cosa. Se volvió una certeza que no venía de los músculos sino de un lugar más hondo, donde las preguntas se habían ido callando una a una hasta que solo quedó una.
 
-Runy sintió que su cuerpo podía seguir. Pero su mente ya no quería. No porque estuviera débil. Porque había entendido algo que no podía ignorar.
+*¿Para qué sigo?*
+
+No era una pregunta que pidiera una respuesta. Era una pregunta que pedía una decisión.
+
+Runy sintió que su cuerpo podía seguir. Las piernas se movían por inercia. Los pulmones funcionaban. El corazón bombeaba. Todo el sistema estaba en piloto automático, listo para completar los últimos dos kilómetros sin importar lo que pasara.
+
+Pero la pregunta no se iba.
 
 *No tengo que terminar.*
 
@@ -2402,25 +2420,33 @@ La idea apareció clara, limpia, sin drama. No era una derrota. Era una toma de 
 
 Valentina corría a su lado. Los dos en silencio. Los dos sabiendo que algo estaba a punto de pasar.
 
-—Valentina —dijo Runy.
+Runy sintió que el cuerpo le pedía que se detuviera. No el cansancio. El cuerpo. El mismo cuerpo que había corrido cuarenta y un kilómetros, que había subido y bajado, que había sudado y dolido y seguido. Ahora le pedía que parara.
+
+—Valentina —dijo.
 
 Ella lo miró.
 
 —Voy a parar —dijo.
 
-Ella no se detuvo. Pero su ritmo disminuyó.
+Ella no se detuvo. Pero su ritmo disminuyó. Runy vio que ella también venía al límite. Las piernas le temblaban ligeramente. La respiración no era la misma de antes.
 
-—¿Por qué?
+—¿Por qué? —preguntó.
 
 —Porque ya entendí lo que tenía que entender —dijo Runy—. No necesito cruzar la meta para saber por qué corro.
 
-Valentina guardó silencio.
+Valentina guardó silencio. Corrieron unos metros más.
 
 —¿Y qué entendiste? —preguntó.
 
-Runy tardó en responder.
+Runy tardó en responder. Las palabras no eran fáciles.
 
-—Que corro porque puedo elegir hacerlo —dijo—. Y que puedo elegir parar. Esa es la diferencia entre él y yo.
+—Que corro porque puedo elegir hacerlo —dijo—. Y que puedo elegir parar.
+
+Se detuvo. No necesitó decir más.
+
+Valentina se detuvo también. Se miraron.
+
+—Esa es la diferencia entre él y yo —dijo Runy.
 
 No necesitó decir quién era "él".
 
@@ -2434,27 +2460,27 @@ Valentina asintió.
 
 —Sí —la interrumpió—. Tú sí puedes. Siempre has podido.
 
-Valentina lo miró. Y por primera vez desde que empezaron a correr juntos, Runy vio que sus ojos estaban húmedos.
+Valentina lo miró. Y por primera vez, Runy vio que sus ojos estaban húmedos. Pero no lloró.
 
 —Gracias —dijo ella.
 
 —Gracias a ti —dijo Runy.
 
-Y ella siguió corriendo.
+Ella dudó un segundo. Runy vio que quería decir algo más, pero no lo dijo. En lugar de eso, apretó la mandíbula y empezó a correr otra vez.
 
-Runy se detuvo.
+Runy la vio alejarse. La coleta, la espalda, la zancada que ya no era tan limpia como al principio pero que seguía firme. La vio doblar una curva y desaparecer.
+
+Y entonces, solo, se sentó en el sardinel.
 
 ***
 
-Se sentó en el sardinel.
-
 El asfalto estaba caliente. El sol quemaba. Los corredores pasaban a su lado, algunos lo miraban, otros no. La mayoría no.
 
-Runy sintió que el cuerpo empezaba a enfriarse. Los músculos protestaban. La sed llegaba de golpe.
+Runy sintió que el cuerpo empezaba a enfriarse. Los músculos, que habían estado funcionando a máxima capacidad durante horas, empezaban a quejarse. Un calambre le subió por el gemelo izquierdo y se quedó. La sed llegó de golpe, seca, urgente.
 
 Pero no se arrepentía.
 
-Había corrido cuarenta y un kilómetros. No había llegado a la meta. Pero había llegado a algo más importante.
+Había corrido cuarenta y un kilómetros. No había llegado a la meta. Pero había llegado a algo que la meta no podía darle.
 
 El Enigmático apareció frente a él.
 
@@ -2465,8 +2491,6 @@ Veía una tumba abierta. Y de la tumba salía una figura, una silueta que se ele
 Y en el centro de todo, un sonido. Una trompeta. Un sonido largo, profundo, que no venía de ningún lado y venía de todas partes.
 
 Pero la figura del Enigmático no miraba hacia arriba. Miraba a Runy.
-
-Y en su mirada, Runy entendió.
 
 *No tienes que morir para resucitar. A veces, resucitar es simplemente dejar de ser quien eras.*
 
@@ -2480,8 +2504,6 @@ Pestañeó.
 
 La figura ya no estaba.
 
-Runy se quedó sentado en el sardinel, mirando la carretera vacía, sintiendo el sol en la cara, preguntándose qué iba a hacer ahora.
-
 ***
 
 El hombre de negro pasó a su lado.
@@ -2490,7 +2512,17 @@ No lo miró. No disminuyó el paso. Pasó como si Runy no existiera, como si nun
 
 Runy lo vio alejarse. La espalda negra, el movimiento perfecto, la respiración que no alteraba el ritmo.
 
-La IA siguió corriendo hacia la meta.
+Pero antes de perderse de vista, el hombre de negro hizo algo que Runy no esperaba. Disminuyó el paso. Solo un poco. Solo lo suficiente para girar la cabeza.
+
+Lo miró.
+
+No hubo expresión. No hubo emoción. Pero hubo una mirada. Un reconocimiento. Como si la IA, por primera vez, hubiera notado que Runy no estaba detrás de él.
+
+Y en esa mirada, Runy entendió algo más.
+
+*Él no puede parar. Yo sí. Él no puede elegir. Yo sí.*
+
+La IA giró la cabeza y siguió corriendo. Un punto negro que se hacía pequeño en la distancia.
 
 Runy se quedó sentado.
 
@@ -2515,27 +2547,55 @@ Runy levantó la cabeza.
 
 —Sí.
 
-Ella le dio una botella. Él bebió. El agua estaba tibia. Era la mejor agua que había tomado en su vida.
+Ella le dio una botella de esas pequeñas, de las que repartían en los puestos de hidratación. Él bebió. El agua estaba tibia. Era la mejor agua que había tomado en su vida.
+
+Bebió despacio, sintiendo cómo el líquido le mojaba la garganta reseca, cómo despertaba partes de su cuerpo que habían estado dormidas.
 
 —¿Necesitas algo más? —preguntó la voluntaria.
 
-—No —dijo Runy—. Gracias.
+—No —dijo Runy—. ¿Cuánto falta para que cierren la carrera?
+
+La voluntaria miró su reloj.
+
+—Ya cerraron —dijo—. Hace quince minutos.
+
+Runy asintió.
+
+Ella dudó un momento.
+
+—¿Vas a llegar caminando?
+
+—Sí.
+
+—¿Necesitas que alguien te lleve?
+
+—No —dijo Runy—. Caminar está bien.
 
 Ella asintió y siguió su camino.
 
-Runy se quedó un rato más. Luego se levantó.
+Runy terminó el agua. Apretó la botella vacía. Se levantó.
+
+Las piernas le dolían. Las sentía rígidas, pesadas, como si fueran de otro. Dio un paso y sintió que el gemelo izquierdo protestaba. Dio otro paso y sintió que el pie derecho se quejaba.
+
+Pero caminó.
 
 ***
 
-Caminó hacia la meta.
+El camino hacia la meta era el mismo camino que había corrido, pero visto desde otra velocidad.
 
-No corrió. Caminó. Sintió el asfalto bajo los pies, el sol en la piel, el aire en los pulmones. Todo era distinto ahora. Todo era más lento. Más real.
+Todo era distinto. Las calles estaban vacías. Los conos que habían marcado la ruta estaban torcidos, algunos caídos. Los carteles de los kilómetros seguían ahí, pero ya nadie los miraba.
 
-Cuando llegó, la carrera ya había terminado.
+Runy pasó por el kilómetro 42 y sonrió.
 
-Vio la estructura metálica de la meta, vacía, sin el arco inflable, sin los cronómetros, sin la gente. Los voluntarios recogían conos, plegaban mesas, cargaban cajas.
+Había llegado al kilómetro 42 caminando. No corriendo. Pero había llegado.
 
-Y allí, sentada en una grada, estaba Valentina.
+La meta apareció al final de la calle.
+
+Vio la estructura metálica, vacía, sin el arco inflable, sin los cronómetros, sin la gente. Los voluntarios recogían conos, plegaban mesas, cargaban cajas. Una camioneta pasaba recogiendo las vallas.
+
+Y allí, sentada en la grada de metal, estaba Valentina.
+
+Tenía una bolsa de plástico con hielo en la rodilla derecha. El uniforme still sudado, pegado al cuerpo. El pelo recogido en un moño desordenado. Los ojos fijos en algún punto del horizonte.
 
 Runy se acercó.
 
@@ -2545,9 +2605,19 @@ Ella levantó la cabeza. Sonrió.
 
 —Tarde —dijo Runy.
 
-—No importa —dijo ella.
+—No importa —dijo ella—. Llegaste.
 
-Runy se sentó a su lado.
+Se rio. Runy también.
+
+—¿Esperaste todo este tiempo? —preguntó él.
+
+—No —dijo Valentina—. Acabo de llegar. Bueno, hace diez minutos.
+
+—¿Dónde está el hielo?
+
+—Me lo dieron en la carpa de primeros auxilios. Dijeron que no es grave. Solo desgaste.
+
+Runy se sentó a su lado. Sintió el metal frío de la grada contra los muslos.
 
 —¿Llegaste? —preguntó.
 
@@ -2555,17 +2625,47 @@ Runy se sentó a su lado.
 
 —¿Cómo fue?
 
-Ella guardó silencio un momento.
+—Duro —dijo—. Cuando te quedaste, los dos kilómetros finales se me hicieron eternos. Pensé en parar varias veces.
 
-—Duro —dijo—. Pero bonito.
+—¿Por qué no lo hiciste?
 
-Runy asintió.
+Valentina guardó silencio un momento.
 
-—¿Y Arango?
+—Porque me dijiste que yo sí podía —dijo—. Y quería demostrarte que tenías razón.
 
-—Lo llevaron al hospital —dijo Valentina—. La rodilla. Pero está bien. Me mandó un mensaje.
+Runy sintió algo en el pecho. No supo si era orgullo o gratitud. Probablemente eran las dos cosas.
 
-Runy sintió que eso era suficiente.
+—Gracias —dijo.
+
+—No me tienes que dar las gracias.
+
+—No es por eso —dijo Runy—. Es por todo. Por haber corrido conmigo.
+
+Valentina lo miró.
+
+—No corrí contigo —dijo—. Corrí a tu lado. Es diferente.
+
+—Lo sé —dijo Runy.
+
+—¿Y Arango? —preguntó.
+
+—Lo llevaron al hospital —dijo Valentina—. La rodilla. Me mandó un mensaje. Dice que le van a dar fisioterapia, que no es tan grave. Pero que el médico le dijo que deje de correr.
+
+—¿Y qué dijo él?
+
+—Que el médico no sabe de lo que habla.
+
+Runy se rio.
+
+—Eso es muy de Arango —dijo.
+
+—Sí —dijo Valentina, sonriendo—. Le mandé un mensaje diciéndole que el médico tiene razón y que si no hacía caso, iba a ir a buscarlo para obligarlo.
+
+—¿Y qué respondió?
+
+—Que si iba a buscarlo, que llevara cerveza.
+
+Runy se rio otra vez. Y en esa risa sintió que algo se aflojaba. Algo que había estado tenso desde el kilómetro cero.
 
 Estuvieron sentados en silencio, viendo cómo desmontaban la meta.
 
@@ -2583,15 +2683,27 @@ Runy miró el cielo. Las montañas. La ciudad que había recorrido durante horas
 
 —Para correr —dijo.
 
-Valentina sonrió.
+—Esa es una buena respuesta —dijo Valentina.
 
-—Esa es una buena respuesta —dijo.
+—No es una respuesta —dijo Runy—. Es una verdad.
 
-Runy sintió que la sonrisa de Valentina era la única meta que necesitaba.
+—¿Cuál es la diferencia?
+
+—Una respuesta termina una pregunta —dijo Runy—. Una verdad la mantiene abierta.
+
+Valentina lo miró un momento largo. Luego sonrió.
+
+—Eres raro —dijo.
+
+—Lo sé —dijo Runy.
+
+Se rieron. La risa se perdió en el ruido de los voluntarios que desmontaban la estructura, en el sonido de las camionetas, en el aire de la tarde que empezaba a enfriarse.
 
 ***
 
-Esa noche, solo en su cuarto, Runy escribió en un cuaderno:
+Esa noche, solo en su cuarto, Runy abrió el cuaderno.
+
+La página estaba en blanco. Se quedó un momento mirándola. Luego empezó a escribir.
 
 *No llegué a la meta. Pero llegué a un lugar donde entendí que la meta no era el final de la carrera. La meta era cada paso. Cada paso que di, incluso el último, incluso el que me llevó al sardinel, era parte de ella.*
 
@@ -2601,7 +2713,21 @@ Esa noche, solo en su cuarto, Runy escribió en un cuaderno:
 
 *Esa elección fue humana.*
 
+Se detuvo. Leyó lo que había escrito.
+
+No era suficiente. Lo que sentía era más grande que las palabras. Pero las palabras era lo único que tenía.
+
+Escribió una línea más.
+
+*Corrí cuarenta y un kilómetros. No llegué a la meta. Pero llegué a mí.*
+
 Cerró el cuaderno. Apagó la luz.
+
+En la oscuridad, sintió el eco de los pasos. No los suyos. Los de la IA. El golpe seco, constante, perfecto de la zancada que nunca se detenía.
+
+Pero esa noche, el eco no le molestó.
+
+Se acostó. Cerró los ojos.
 
 Y durmió.
 
