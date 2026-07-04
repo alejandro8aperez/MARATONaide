@@ -32,6 +32,10 @@
 | XX | 40–42 | **Calle San Juan** → Parques del Río | Runy **abandona** la carrera (no cruza la meta) | Todos (cierre) |
 | XXI | meta | — | El después: la carrera sigue sin él | Sísifo (final) |
 
+## Antagonista
+
+**El corredor de negro** — un corredor artificial (IA) que corre sin fatiga, sin ritmo variable, sin sudor. No elige: está programado. Aparece siguiendo a Runy desde el km 8. Representa la anti-existencia: movimiento sin conciencia, esfuerzo sin libertad.
+
 ## Notas
 
 - 21 capítulos + prólogo = 22 estaciones
