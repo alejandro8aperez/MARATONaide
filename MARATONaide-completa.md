@@ -1864,11 +1864,53 @@ Arango sonrió. Esa sonrisa.
 
 —Mienten muy mal los dos.
 
-Pero siguió corriendo.
+Pero siguió corriendo. Y por un momento, Runy creyó que tal vez iba a lograrlo. Que la rodilla iba a aguantar. Que Arango iba a llegar.
+
+Fue un momento breve.
 
 ***
 
-El kilómetro treinta y tres y medio trajo el derrumbe.
+El kilómetro treinta y tres y medio trajo el primer golpe.
+
+Arango tropezó. No fue un traspié como el de Valentina en el kilómetro anterior. Fue una rodilla que cedió, un peso que el cuerpo ya no podía sostener. Arango cayó hacia adelante, dio dos pasos desordenados, y se sostuvo de una baranda de seguridad con las dos manos.
+
+Runy llegó a su lado antes de que Arango pudiera enderezarse.
+
+—¿Qué pasó?
+
+—Nada —dijo Arango—. Resbalé.
+
+—No resbalaste —dijo Valentina, que ya estaba al otro lado—. Tu rodilla.
+
+Arango no respondió. Se quedó un momento colgado de la baranda, respirando hondo, con los ojos cerrados.
+
+Runy lo vio desde una distancia que no era física. Vio las manos de Arango, los nudillos blancos de tanto apretar. Vio la pierna derecha que colgaba sin peso, como si ya no le perteneciera. Vio la espalda encorvada, el pecho que subía y bajaba más rápido de lo normal.
+
+Y vio, por primera vez, que Arango tenía miedo.
+
+No era miedo a perderse la carrera. No era miedo a la camioneta de barrido. Era miedo a lo que significaba detenerse después de treinta años.
+
+—Arango —dijo Runy, con una voz que no reconoció como suya—. Vamos a llevarte.
+
+—No —dijo Arango—. Ustedes siguen.
+
+—No podemos dejarte así.
+
+—Pueden. Y van a hacerlo.
+
+Arango se enderezó. Soltó la baranda. Dio un paso. La rodilla aguantó. Dio otro. Lo mismo.
+
+—Mira —dijo—. Funciona.
+
+Pero la sonrisa no llegó a los ojos.
+
+Runy quiso decir algo, pero Valentina lo detuvo con una mano en el brazo.
+
+—Déjalo —dijo en voz baja—. Él sabe lo que hace.
+
+***
+
+El kilómetro treinta y cuatro trajo el derrumbe.
 
 No fue dramático. Fue silencioso. Arango simplemente se detuvo. No se cayó. No se agarró la rodilla. Solo dejó de correr y caminó unos pasos hasta el borde de la carretera, donde se sentó en el sardinel.
 
@@ -1889,6 +1931,16 @@ Arango lo miró. Y por primera vez en toda la carrera, su sonrisa no apareció.
 —No —dijo—. No puedo.
 
 Runy sintió que las palabras lo vaciaban.
+
+—Pero llevas treinta años corriendo —dijo—. Treinta años. No puedes terminar así.
+
+—Llevo treinta años corriendo —repitió Arango—. ¿Sabes cuántas veces he llegado a la meta? Muchas. ¿Sabes cuántas veces he tenido que pararme en un sardinel? También muchas.
+
+Señaló la rodilla.
+
+—Esta vez no es como las otras. Lo sé porque lo siento. Y he aprendido a no pelear contra lo que el cuerpo dice.
+
+Runy sintió que la aceptación de Arango era más difícil de soportar que si hubiera gritado.
 
 —¿Qué vas a hacer? —preguntó Valentina.
 
@@ -1930,7 +1982,27 @@ Arango sonrió. Esta vez sí.
 
 —Tal vez —dijo.
 
-Y Runy y Valentina empezaron a correr otra vez, dejando atrás al hombre de la rodilla mala, sentado en el sardinel, esperando.
+Y Runy y Valentina empezaron a correr otra vez.
+
+***
+
+Los primeros metros sin Arango fueron los más largos de la carrera.
+
+No era que hubieran corrido juntos todo el tiempo. No era que dependieran de él. Era otra cosa. Era la certeza de que alguien había quedado atrás, y que ese alguien no iba a alcanzarlos nunca.
+
+Runy sintió el vacío a su izquierda. Allí donde antes estaba Arango, ahora solo había aire.
+
+—No mires atrás —dijo Valentina.
+
+Runy miró.
+
+Arango seguía sentado en el sardinel, una silueta pequeña contra el paisaje. No levantó la mano. No hizo gesto. Solo se quedó allí, viéndolos alejarse.
+
+—Dije que no miraras —repitió Valentina.
+
+—Lo sé —dijo Runy.
+
+Y siguió corriendo, con la imagen de Arango sentado en el sardinel grabada en la retina, preguntándose si iba a volver a verlo.
 
 ***
 
