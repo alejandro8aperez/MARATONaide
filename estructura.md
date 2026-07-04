@@ -29,8 +29,8 @@
 | XVII | 34–36 | Av Las Vegas → **Carrera 51 Bolívar** | Regreso al centro | Lévinas |
 | XVIII | 36–38 | **Carrera 51 Bolívar** (norte) | La Alpujarra | Lévinas |
 | XIX | 38–40 | Bolívar → **Calle 44 San Juan** (oeste) | Teatro Metropolitano, Plaza Mayor | Lévinas |
-| XX | 40–42 | **Calle San Juan** → Parques del Río | Meta a la vista | Todos (cierre) |
-| XXI | meta | Parques del Río | Arco de llegada | Sísifo (final) |
+| XX | 40–42 | **Calle San Juan** → Parques del Río | Runy **abandona** la carrera (no cruza la meta) | Todos (cierre) |
+| XXI | meta | — | El después: la carrera sigue sin él | Sísifo (final) |
 
 ## Notas
 
