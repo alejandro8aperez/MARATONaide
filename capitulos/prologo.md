@@ -1,0 +1,109 @@
+# Prólogo — La salida
+
+*Medellín · 4:47 a.m.*
+
+La noche antes de la maratón, Runy soñó con un camino que no terminaba.
+
+No era un sueño angustioso, aunque debería haberlo sido. Era más bien una certeza visual: una carretera gris que se perdía en el horizonte, flanqueada por árboles sin hojas. A los lados del camino, dispuestas como mojones, había figuras. No las veía con claridad, pero sabía que estaban ahí. Una torre que se derrumbaba. Una estrella que se hundía en el mar. Una rueda que giraba sin avanzar. Y en el centro de todo, una figura encapuchada que sostenía una antorcha encendida.
+
+Runy no recordaba haber visto cartas de juego en su vida que tuvieran imágenes así. Tal vez sí, en algún libro de arte, en alguna portada olvidada. Pero las imágenes del sueño no se parecían a nada que hubiera visto antes. Eran más nítidas que las cosas reales. La antorcha alumbraba sin consumirse. La torre caía sin hacer ruido. La rueda giraba en silencio.
+
+Despertó con la sensación de haber visto algo importante y haberlo olvidado en el mismo instante.
+
+***
+
+Eran las cuatro y cuarenta y siete de la mañana cuando abrió los ojos del todo. No había ruido en la habitación. El ventilador del techo giraba lento, como si estuviera cansado, como si llevara años girando en el mismo sitio sin que nadie lo notara.
+
+Runy se sentó en el borde de la cama. La cama estaba hecha. No había dormido bien, o tal vez sí, tal vez había dormido demasiado, porque el sueño del camino seguía pegado a la memoria como una telaraña que no termina de desprenderse.
+
+El dorsal número 1792 estaba doblado sobre la mesita de noche. Lo había mirado doce veces desde las tres de la mañana, como si esperara que el número cambiara, como si esperara que alguien llamara para decirle que la maratón se había cancelado, que todo había sido un malentendido, que podía volver a la cama y seguir durmiendo.
+
+Nadie llamó.
+
+Frente a él, en la pared, una mancha de humedad tenía la forma de África. Runy la miró como si esperara una respuesta de ese continente de salitre y yeso. La mancha no dijo nada.
+
+***
+
+El agua del baño salió tibia primero, después fría, después tibia otra vez, como si el edificio mismo estuviera indeciso. Runy se vistió despacio. Los mismos gestos de siempre: las medias primero, después los pantalones cortos, después la camiseta que había comprado para la ocasión. Una camiseta azul marino, sin letras, sin marcas. Quería pasar desapercibido, quería ser un corredor más entre miles, pero también quería que alguien lo viera llegar.
+
+Guardó el dorsal en el bolsillo trasero. Se ató las zapatillas y las desató tres veces antes de volvérselas a atar, en un ritual que no tenía nombre pero que le daba la ilusión de control.
+
+Bajó en ascensor con un hombre que cargaba una bolsa de plástico con dos naranjas y una botella de agua. No hablaron.
+
+En la recepción del hotel, una señora de uniforme le deseó suerte. Le dio una sonrisa que era sincera o profesional, no se sabía. Runy le agradeció sin detenerse.
+
+Afuera, la ciudad todavía estaba oscura. Medellín no duerme nunca, pero a las cinco de la mañana titubea, como un animal grande que se da la vuelta en la cama antes de despertar del todo. Las luces de los cerros parpadeaban. El Valle del Aburrá era un tazón de niebla y neón.
+
+Caminó hacia Parques del Río sintiendo el peso de las zapatillas contra el asfalto. Nada le dolía todavía. Todo estaba intacto. El cuerpo no sabía lo que le esperaba.
+
+***
+
+La plaza estaba llena.
+
+Miles de personas se movían como un solo organismo lento y ruidoso. Había corredores haciendo estiramientos, corredores tomando fotos, corredores mirando el cielo como si buscaran una señal. Había familias enteras despidiendo a sus atletas, niños con carteles de cartón, perros con bandanas de la maratón.
+
+Runy se metió entre la multitud y se dejó llevar. No tenía un plan. Su plan era seguir a los demás hasta que alguien le dijera dónde pararse.
+
+En medio de ese mar de cabezas y espaldas, vio a una mujer que se ajustaba los audífonos con la precisión de quien prepara un instrumento antes de un concierto. Tenía el pelo recogido en una coleta alta y una expresión que no era de nervios ni de emoción, sino de concentración absoluta, como si ya estuviera dentro de la carrera aunque sus pies todavía estuvieran quietos.
+
+Runy pensó en decirle algo. *Buena suerte. ¿Es tu primera vez? ¿Sabes dónde ponen los baños portátiles?*
+
+No dijo nada. Siguió caminando.
+
+***
+
+Y entonces lo vio.
+
+Entre dos columnas del parque, en una zona de sombra donde la luz del amanecer no llegaba, había una figura de pie que no se movía.
+
+No era un corredor. No tenía dorsal, no llevaba ropa deportiva. Una capa oscura le cubría el cuerpo de los hombros a los pies. No se le veía el rostro. No parecía estar mirando nada en particular, pero Runy sintió, con una certeza que no podía explicar, que aquella figura lo estaba mirando a él.
+
+No hubo gesto. No hubo señal. Solo la presencia inmóvil, la sombra dentro de la sombra.
+
+Runy quiso apartar la mirada, pero no pudo.
+
+La figura levantó una mano. No para saludar, no para llamar la atención. La abrió lentamente, como quien muestra algo que sostiene en la palma. Runy no vio ningún objeto a esa distancia. Vio, sin embargo, el gesto. Vio la mano abierta ofreciendo algo que no se veía.
+
+Parpadeó.
+
+La figura ya no estaba.
+
+Runy miró a su alrededor. La multitud seguía moviéndose, ajena. Nadie más había visto nada. O tal vez sí, pero a nadie le importaba. Una maratón tiene su propia histeria, su propio campo magnético, y cualquier cosa que no sea la carrera deja de existir.
+
+Respiró hondo. *Fue el sueño*, pensó. *La falta de sueño. Los nervios. El café malo del hotel.*
+
+Pero no se lo creyó del todo.
+
+***
+
+La salida estaba a punto de darse.
+
+La masa de corredores se comprimió hacia adelante, hacia el arco de metal con las letras que decían **Maratón de Medellín**. Los altavoces soltaban instrucciones que nadie escuchaba. Una voz lejana contaba los minutos, o los segundos, o las vidas pasadas.
+
+Runy sintió el calor de los cuerpos a su alrededor, el olor a bloqueador y a ropa nueva y a café recién bebido. Un hombre mayor a su lado se persignó. Una mujer se ajustó los audífonos. Un niño pasó entre las piernas buscando a su madre.
+
+Y entonces, entre el ruido, entre el latido colectivo de todos los corazones, una voz le preguntó desde algún lugar de la multitud:
+
+—¿Sabes por qué estás aquí?
+
+Runy giró la cabeza. Buscó entre los rostros. No encontró a nadie que estuviera mirándolo.
+
+—No —respondió en voz baja, para sí mismo, porque era la única respuesta verdadera que tenía.
+
+***
+
+Los segundos finales.
+
+Runy sintió las piernas, los brazos, el pecho. Todo estaba en su lugar. La rodilla izquierda —su enemiga íntima— no dolía todavía. El gemelo derecho estaba tranquilo. Los pulmones no sabían lo que se avecinaba.
+
+El sueño le volvió a la cabeza. El camino infinito, las figuras a los lados, la torre cayendo, la rueda girando, la antorcha encendida.
+
+Nunca fue bueno interpretando sueños. Pero aquella mañana, de pie en medio de la multitud, con el dorsal 1792 en el pecho y la incertidumbre en cada poro, tuvo la corazonada de que el sueño no había sido un sueño. Había sido un mapa. O un aviso. O una promesa.
+
+El tiro de salida.
+
+Runy no lo oyó. O tal vez sí, pero ya no lo recordaba. Lo que recordó, mientras el cuerpo empezaba a moverse sin que la conciencia hubiera dado la orden, fue la imagen de la capa oscura, la mano abierta, el gesto de ofrecer algo que no se veía.
+
+Y recordó una frase que había leído años atrás y que nunca había entendido del todo, pero que ahora, al dar el primer paso de la maratón, empezó a cobrar un sentido que no era racional sino físico, como un segundo latido dentro del pecho:
+
+*A cinco kilómetros de aquí hay un hombre empujando una piedra.*
