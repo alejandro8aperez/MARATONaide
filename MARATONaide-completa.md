@@ -1658,9 +1658,9 @@ La figura no lo miró. Siguió vertiendo el líquido de un recipiente a otro, y 
 
 Y siguió corriendo, con la imagen del flujo constante grabada en la memoria, y la certeza de que algo en él se estaba integrando, juntando piezas que no sabía que estaban separadas.
 
-El kilómetro treinta apareció. Puesto de hidratación. Voluntarios. Agua.
+El kilómetro treinta apareció.
 
-Runy bebió. Miró hacia atrás. La carretera se perdía en la curva, y en algún lugar detrás de él, el hombre de negro seguía viniendo.
+Runy bebió agua. Miró hacia atrás. La carretera se perdía en la curva, y en algún lugar detrás de él, el hombre de negro seguía viniendo.
 
 Pero ya no le importaba tanto.
 ---
