@@ -1,4 +1,4 @@
-# VIII. La bestia domada (km 16–18)
+# VIII. La balanza (km 16–18)
 
 El kilómetro dieciséis trajo un cambio sutil en el paisaje.
 
@@ -72,25 +72,29 @@ Y los dos siguieron corriendo lado a lado, el viejo y el joven, la rodilla mala 
 
 ***
 
-El kilómetro dieciocho trajo al Enigmático, y esta vez la imagen fue la más extraña de todas.
+El kilómetro dieciocho trajo al Enigmático, y esta vez la imagen era de una quietud que imponía.
 
-La figura estaba en medio de la avenida, en el separador central. Pero no estaba de pie. Estaba de rodillas. Y frente a ella, tumbado en el pasto con la cabeza apoyada en el regazo de la figura, había un animal.
+La figura estaba en el separador central, de pie, con los brazos extendidos a los lados. Pero no sostenía nada en las manos. A cada lado, suspendidos en el aire sin soporte visible, flotaban dos objetos.
 
-Runy no podía ver bien qué animal era. Parecía un perro grande, o un lobo, o tal vez un león. El animal estaba inmóvil, con los ojos cerrados, y la figura le pasaba una mano sobre la cabeza con una lentitud hipnótica. No había violencia. No había resistencia. La bestia estaba quieta, completamente rendida, no por miedo sino por confianza.
+A la izquierda, una espada. No una espada real, sino la forma de una espada —una línea de luz blanca y recta— que se mantenía vertical, la punta hacia arriba.
 
-La imagen lo atravesó como una lanza.
+A la derecha, una balanza. Dos platos perfectamente nivelados, suspendidos en el vacío, sin cadena, sin mano que los sostuviera.
 
-*La bestia domada*, pensó. *No a golpes. No a fuerza. A presencia.*
+La figura no miraba a Runy. Miraba al frente, con los brazos abiertos, presentando los dos objetos al mundo.
 
-El animal abrió los ojos un instante. Eran amarillos. Pero no miraron a Runy. Miraron a la figura, y en esa mirada había algo que Runy no supo nombrar: paz, entrega, una forma de amor que no necesitaba palabras.
+La imagen le dijo algo que no necesitaba traducción. La espada corta. La balanza pesa. Pero la justicia no es una ley externa. Es una capacidad interna: la de ver con claridad, la de cortar lo que engaña, la de sostener el equilibrio entre lo que se siente y lo que se es.
+
+Merleau-Ponty había dicho que percibir no es recibir pasivamente. Es un acto. El cuerpo sale al encuentro del mundo, lo interroga, lo equilibra constantemente entre lo que recibe y lo que da.
+
+*Ver es juzgar*, pensó Runy. *Cada mirada es una balanza. Cada paso, un corte.*
 
 Runy parpadeó.
 
 El separador estaba vacío.
 
-Pero la imagen se quedó: la bestia salvaje descansando en el regazo de la figura, la mano que acariciaba sin apuro, la confianza absoluta de lo que ha dejado de luchar.
+Pero la imagen se quedó: la espada y la balanza flotando a los costados de la figura, la luz que corta la sombra, el equilibrio que no es quietud sino ajuste perpetuo.
 
-*Mi cuerpo es la bestia*, pensó Runy. *Y tengo que aprender a domarlo así. No a golpes. A presencia.*
+*La justicia no es del mundo*, pensó. *La justicia es lo que uno pone en el mundo. Lo que corta para ver claro. Lo que pesa para no engañarse.*
 
 El kilómetro dieciocho apareció. Puesto de hidratación. Voluntarios. Agua.
 

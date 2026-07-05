@@ -914,7 +914,7 @@ El kilómetro dieciséis apareció. Puesto de hidratación. Voluntarios. Agua.
 Runy bebió. Miró adelante. Y siguió.
 ---
 
-# VIII. La bestia domada (km 16–18)
+# VIII. La balanza (km 16–18)
 
 El kilómetro dieciséis trajo un cambio sutil en el paisaje.
 
@@ -988,25 +988,29 @@ Y los dos siguieron corriendo lado a lado, el viejo y el joven, la rodilla mala 
 
 ***
 
-El kilómetro dieciocho trajo al Enigmático, y esta vez la imagen fue la más extraña de todas.
+El kilómetro dieciocho trajo al Enigmático, y esta vez la imagen era de una quietud que imponía.
 
-La figura estaba en medio de la avenida, en el separador central. Pero no estaba de pie. Estaba de rodillas. Y frente a ella, tumbado en el pasto con la cabeza apoyada en el regazo de la figura, había un animal.
+La figura estaba en el separador central, de pie, con los brazos extendidos a los lados. Pero no sostenía nada en las manos. A cada lado, suspendidos en el aire sin soporte visible, flotaban dos objetos.
 
-Runy no podía ver bien qué animal era. Parecía un perro grande, o un lobo, o tal vez un león. El animal estaba inmóvil, con los ojos cerrados, y la figura le pasaba una mano sobre la cabeza con una lentitud hipnótica. No había violencia. No había resistencia. La bestia estaba quieta, completamente rendida, no por miedo sino por confianza.
+A la izquierda, una espada. No una espada real, sino la forma de una espada —una línea de luz blanca y recta— que se mantenía vertical, la punta hacia arriba.
 
-La imagen lo atravesó como una lanza.
+A la derecha, una balanza. Dos platos perfectamente nivelados, suspendidos en el vacío, sin cadena, sin mano que los sostuviera.
 
-*La bestia domada*, pensó. *No a golpes. No a fuerza. A presencia.*
+La figura no miraba a Runy. Miraba al frente, con los brazos abiertos, presentando los dos objetos al mundo.
 
-El animal abrió los ojos un instante. Eran amarillos. Pero no miraron a Runy. Miraron a la figura, y en esa mirada había algo que Runy no supo nombrar: paz, entrega, una forma de amor que no necesitaba palabras.
+La imagen le dijo algo que no necesitaba traducción. La espada corta. La balanza pesa. Pero la justicia no es una ley externa. Es una capacidad interna: la de ver con claridad, la de cortar lo que engaña, la de sostener el equilibrio entre lo que se siente y lo que se es.
+
+Merleau-Ponty había dicho que percibir no es recibir pasivamente. Es un acto. El cuerpo sale al encuentro del mundo, lo interroga, lo equilibra constantemente entre lo que recibe y lo que da.
+
+*Ver es juzgar*, pensó Runy. *Cada mirada es una balanza. Cada paso, un corte.*
 
 Runy parpadeó.
 
 El separador estaba vacío.
 
-Pero la imagen se quedó: la bestia salvaje descansando en el regazo de la figura, la mano que acariciaba sin apuro, la confianza absoluta de lo que ha dejado de luchar.
+Pero la imagen se quedó: la espada y la balanza flotando a los costados de la figura, la luz que corta la sombra, el equilibrio que no es quietud sino ajuste perpetuo.
 
-*Mi cuerpo es la bestia*, pensó Runy. *Y tengo que aprender a domarlo así. No a golpes. A presencia.*
+*La justicia no es del mundo*, pensó. *La justicia es lo que uno pone en el mundo. Lo que corta para ver claro. Lo que pesa para no engañarse.*
 
 El kilómetro dieciocho apareció. Puesto de hidratación. Voluntarios. Agua.
 
@@ -1271,7 +1275,7 @@ Solo la carretera vacía, la curva, el sol.
 Y siguió corriendo, con la imagen de la rueda girando en la cabeza, y la certeza de que algo, en algún lugar, estaba a punto de dar la vuelta.
 ---
 
-# XI. La balanza (km 22–24)
+# XI. La bestia domada (km 22–24)
 
 El kilómetro veintidós trajo una conciencia nueva del tiempo.
 
@@ -1317,43 +1321,39 @@ Y los tres siguieron corriendo, hacia arriba, hacia el sur, hacia donde los espe
 
 ***
 
-El kilómetro veintitrés trajo una conciencia más incómoda.
+El kilómetro veintitrés trajo el peso de la voluntad.
 
-La ruta pasaba frente a una iglesia antigua, con una fachada de piedra y un campanario que se elevaba sobre los árboles. Runy miró la iglesia y sintió algo que no esperaba: una punzada de injusticia.
+La ruta pasaba frente a una iglesia antigua, con una fachada de piedra y un campanario que se elevaba sobre los árboles. Runy miró la iglesia y sintió el impulso de detenerse. No era el cansancio. Era algo más primitivo: una fuerza que empujaba desde adentro, pidiéndole que parara, que descansara, que cediera.
 
-No era contra la iglesia. Era contra todo. Contra la carrera, contra su cuerpo, contra el hombre de negro, contra la idea misma de que tuviera que estar allí, corriendo, mientras el resto del mundo seguía con su vida.
+Schopenhauer había escrito que el mundo no es justicia ni injusticia. El mundo es voluntad. Una fuerza ciega que no conoce leyes ni pausa. La voluntad es el león que ruge dentro de cada deseo, cada impulso, cada paso que se da sin preguntar por qué.
 
-*No es justo*, pensó. *No es justo que esto sea tan difícil.*
+El león no es malo cuando mata a la gacela. El león solo tiene hambre.
 
-Schopenhauer había escrito que la justicia es ilusoria, que el mundo es esencialmente injusto porque la voluntad no reconoce leyes. La naturaleza no es justa ni injusta. Solo es. El león no es injusto cuando mata a la gacela. El león solo tiene hambre.
+Esa idea era a la vez liberadora y aterradora. Liberadora porque si el mundo era solo voluntad, entonces no había un juez. Aterradora porque la voluntad no se negocia. No se convence. No se detiene.
 
-Esa idea era a la vez liberadora y aterradora. Liberadora porque si el mundo no era justo, entonces no tenía que entenderlo. Aterradora porque si el mundo no era justo, entonces cualquier cosa podía pasar. El hombre de negro podía alcanzarlo. Podía caerse. Podía no llegar.
-
-*No hay balanza*, pensó. *No hay un peso que se equilibre. Solo hay lo que es.*
-
-Y en esa aceptación, encontró una paz que no era resignación. Era algo más parecido a la claridad.
+*El cuerpo es el león*, pensó Runy. *No hay que matarlo. Hay que aprender a correr con él.*
 
 ***
 
-El kilómetro veintitrés y medio trajo al Enigmático.
+El kilómetro veintitrés y medio trajo al Enigmático, y esta vez la imagen era la más extraña de todas.
 
-La figura estaba en el separador de la avenida, de pie, con los brazos extendidos a los lados. Pero esta vez no sostenía nada en las manos. En lugar de eso, había dos objetos suspendidos en el aire a cada lado de la figura, flotando por su propia voluntad.
+La figura estaba en el separador central, de rodillas. Y frente a ella, tumbado en el pasto con la cabeza apoyada en el regazo de la figura, había un animal grande, de pelaje oscuro. Parecía un perro enorme, o un lobo, o tal vez un león. El animal estaba inmóvil, con los ojos cerrados, y la figura le pasaba una mano sobre la cabeza con una lentitud hipnótica. No había violencia. No había resistencia. La bestia estaba quieta, completamente rendida, no por miedo sino por confianza.
 
-A la izquierda, una espada. No una espada real, sino la forma de una espada, hecha de luz, que se mantenía vertical, apuntando hacia arriba.
+La imagen lo atravesó.
 
-A la derecha, una balanza. Dos platos perfectamente equilibrados, suspendidos en el aire sin cadena que los sostuviera.
+*La bestia domada*, pensó. *No a golpes. No a fuerza. A presencia.*
 
-La figura no miraba a Runy. Miraba al frente, con los brazos abiertos, presentando los dos objetos al mundo.
+El animal abrió los ojos un instante. Eran amarillos. Pero no miraron a Runy. Miraron a la figura, y en esa mirada había algo que Runy no supo nombrar: paz, entrega, una forma de amor que no necesitaba palabras.
 
-La imagen le decía algo que no necesitaba traducción. La espada corta. La balanza pesa. Pero no hay un juez. No hay un veredicto. Solo están la espada y la balanza, y cada quien elige cómo usarlas.
+Runy parpadeó.
 
-*La justicia no es del mundo*, pensó Runy. *La justicia es lo que uno hace con lo que tiene.*
+El separador estaba vacío.
 
-La figura no desapareció. Se quedó allí, con los brazos abiertos, mientras Runy pasaba a su lado. Y cuando Runy miró atrás, la figura seguía allí, la espada y la balanza flotando a sus costados, inmutables, como dos preguntas que no necesitan respuesta porque la respuesta está en vivirlas.
+Pero la imagen se quedó: la bestia salvaje descansando en el regazo de la figura, la mano que acariciaba sin apuro, la confianza absoluta de lo que ha dejado de luchar.
 
-Algo se ajustó en su interior. No era una respuesta. Era una alineación.
+La voluntad de Schopenhauer era esa bestia. Ciega, inmensa, imparable. Pero no se doma reprimiéndola. Se doma reconociéndola. Corriendo con ella en lugar de contra ella.
 
-*No busques justicia*, pensó. *Busca equilibrio. Y el equilibrio no es que todo pese igual. Es que sepas lo que pesas tú.*
+*No luches contra la voluntad*, pensó Runy. *No la niegues. Reconócela. Y entonces corre con ella.*
 
 El kilómetro veinticuatro apareció. Puesto de hidratación. Voluntarios. Agua.
 

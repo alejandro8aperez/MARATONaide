@@ -23,10 +23,10 @@ Runy se inscribió en la maratón de Medellín. Cada kilómetro conversa con un 
 | V | 10–12 | La voz antigua | Sartre |
 | VI | 12–14 | La elección | Epicteto |
 | VII | 14–16 | La conquista | Sartre |
-| VIII | 16–18 | La bestia domada | Merleau-Ponty |
+| VIII | 16–18 | La balanza | Merleau-Ponty |
 | IX | 18–20 | La luz interna | Merleau-Ponty |
 | X | 20–22 | El giro | Schopenhauer |
-| XI | 22–24 | La balanza | Schopenhauer |
+| XI | 22–24 | La bestia domada | Schopenhauer |
 | XII | 24–26 | El sacrificio | Bergson |
 | XIII | 26–28 | La transformación | San Agustín |
 | XIV | 28–30 | La síntesis | Bergson |
