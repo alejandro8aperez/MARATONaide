@@ -8,7 +8,7 @@ Pero *casa* era una palabra extraña en ese contexto. Casa era la meta. Casa era
 
 La bajada empezó suavemente. Las piernas, que habían estado empujando contra la gravedad durante ocho kilómetros, de repente tenían que frenar. Era un esfuerzo distinto, más sutil, que quemaba los cuádriceps de una manera nueva.
 
-—Duele más bajar que subir —dijo Valentina, como si leyera su pensamiento.
+—Duele más bajar que subir —dijo Valentina, leyéndole el pensamiento.
 
 —Sí —dijo Runy.
 
@@ -40,7 +40,7 @@ No era que hubiera estado allí antes. Era que el paisaje se parecía a algo que
 
 En el carril contrario, los corredores que todavía iban hacia el sur se cruzaban con los que ya regresaban. Las caras eran distintas. Algunos sonreían. La mayoría no. Todos mirando hacia adelante, hacia direcciones opuestas, pero todos en la misma carrera.
 
-Formaba parte de algo más grande que él mismo. No era una metáfora. Era una sensación física, como si la carretera entera fuera un organismo y los corredores fueran sus células, moviéndose en direcciones distintas pero con el mismo propósito.
+Formaba parte de algo más grande que él mismo. No era una metáfora. Era una sensación física: la carretera entera era un organismo y los corredores sus células, moviéndose en direcciones distintas pero con el mismo propósito.
 
 —Esto es extraño —dijo.
 
@@ -79,3 +79,4 @@ El kilómetro treinta apareció. Puesto de hidratación. Voluntarios. Agua.
 Runy bebió. Miró hacia atrás. La carretera se perdía en la curva, y en algún lugar detrás de él, el hombre de negro seguía viniendo.
 
 Pero ya no le importaba tanto.
+---

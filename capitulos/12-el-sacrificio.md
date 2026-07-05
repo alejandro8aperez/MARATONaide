@@ -38,13 +38,13 @@ Y en esa diferencia, encontró algo que lo separaba del hombre de negro. No era 
 
 El kilómetro veinticinco y medio trajo una visión que Runy no supo interpretar.
 
-El Enigmático estaba al borde de la carretera, pero no de pie. Estaba suspendido. Colgaba de una viga de madera que no estaba sostenida por nada visible, como si la viga flotara en el aire. La figura colgaba cabeza abajo, con una pierna doblada detrás de la otra, los brazos caídos a los lados, el rostro oculto por la capucha.
+El Enigmático estaba al borde de la carretera, pero no de pie. Estaba suspendido. Colgaba de una viga de madera no sostenida por nada visible, la viga flotando en el aire. La figura colgaba cabeza abajo, con una pierna doblada detrás de la otra, los brazos caídos a los lados, el rostro oculto por la capucha.
 
 No se movía.
 
 No parecía sufrir.
 
-Parecía, más bien, estar en un estado de suspensión total, como si hubiera elegido colgar allí, quieto, mientras el mundo seguía girando a su alrededor.
+Parecía, más bien, haber elegido colgar allí, quieto, en un estado de suspensión total, mientras el mundo seguía girando a su alrededor.
 
 La imagen le heló la sangre. No porque fuera violenta. Porque era pacífica. Había una calma en la figura colgante que Runy no podía explicar. Como si la rendición fuera una forma de libertad.
 
@@ -66,7 +66,7 @@ Pero la imagen del hombre colgando cabeza abajo se quedó con él, y no sabía s
 
 El kilómetro veintiséis trajo el primer encuentro directo con el hombre de negro desde el kilómetro diecisiete.
 
-La carretera hacía una curva amplia, y cuando Runy la tomó, se encontró con la espalda negra a menos de diez metros. El hombre de negro corría al mismo ritmo de siempre, sin variación, sin fatiga, como si llevara un motor en lugar de un corazón.
+La carretera hacía una curva amplia, y cuando Runy la tomó, se encontró con la espalda negra a menos de diez metros. El hombre de negro corría al mismo ritmo de siempre, sin variación, sin fatiga, un motor donde debía ir el corazón.
 
 Se le heló la sangre. Valentina lo sintió también.
 
@@ -105,3 +105,4 @@ Corrió más rápido. Se puso adelante. Pero las palabras no se fueron. Quedaron
 *No vas a llegar.*
 
 Y por primera vez en la carrera, Runy empezó a creerlo.
+---

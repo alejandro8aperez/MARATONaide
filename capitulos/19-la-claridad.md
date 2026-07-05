@@ -42,7 +42,7 @@ Y eso fue suficiente.
 
 El kilómetro treinta y nueve y medio trajo al Enigmático.
 
-La figura estaba en medio de la avenida, de pie, con los brazos abiertos. Detrás de ella, el sol brillaba con una intensidad que cegaba. Pero no era el sol real. Era otro sol. Un sol que estaba justo detrás de la figura, rodeándola de luz, como si la figura fuera el centro de una estrella.
+La figura estaba en medio de la avenida, de pie, con los brazos abiertos. Detrás de ella, el sol brillaba con una intensidad que cegaba. Pero no era el sol real. Era otro sol. Un sol que estaba justo detrás de la figura, rodeándola de luz, la figura era el centro de una estrella.
 
 De la figura emanaban rayos de luz. Largas líneas doradas que se extendían en todas direcciones, tocando el asfalto, los edificios, los corredores que pasaban. Y donde la luz tocaba, las cosas parecían más reales.
 
@@ -87,3 +87,4 @@ Ella asintió.
 —Yo tampoco —dijo.
 
 Y los dos siguieron corriendo, hacia los últimos dos kilómetros, hacia el final de algo que ninguno de los dos sabía cómo iba a terminar.
+---

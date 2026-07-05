@@ -68,7 +68,7 @@ El kilómetro treinta y seis trajo al Enigmático.
 
 La figura estaba arrodillada junto a un caño de agua que cruzaba la carretera. Un caño pequeño, de esos que pasan por debajo de la vía, con agua que corría limpia sobre las piedras.
 
-El Enigmático tenía las manos sumergidas en el agua. Y en las manos sostenía dos vasijas. Una en cada mano. De las vasijas caía agua, pero no caía al caño. Caía hacia arriba. El agua subía, formando arcos que se elevaban hacia el cielo como si la gravedad estuviera invertida.
+El Enigmático tenía las manos sumergidas en el agua. Y en las manos sostenía dos vasijas. Una en cada mano. De las vasijas caía agua, pero no caía al caño. Caía hacia arriba. El agua subía, formando arcos que se elevaban hacia el cielo con la gravedad invertida.
 
 Detrás de la figura, en el cielo de la tarde, empezaban a aparecer estrellas. No eran las estrellas reales —el sol todavía estaba alto— pero Runy las veía: puntos de luz que brillaban sobre la cabeza del Enigmático, formando un círculo, como una corona.
 
@@ -129,3 +129,4 @@ Valentina lo miró.
 Runy entendió.
 
 Y siguieron corriendo, los dos solos, hacia el centro de la ciudad, hacia lo que quedaba de la carrera.
+---

@@ -52,7 +52,7 @@ El hombre seguía corriendo, respirando sin respirar, mirando sin mirar. El roce
 
 El pánico empezó a subirle por la garganta. No era el pánico de la pelea. Era el pánico de lo que no responde, de lo que no tiene dentro, de lo que sigue moviéndose aunque no haya nadie allí.
 
-Apretó el paso y se desvió a la izquierda, metiéndose entre otros dos corredores. El hombre de negro no lo siguió. Siguió recto, adelante, como si Runy hubiera dejado de existir.
+Apretó el paso y se desvió a la izquierda, metiéndose entre otros dos corredores. El hombre de negro no lo siguió. Siguió recto, adelante, Runy ya no existía para él.
 
 Runy lo vio alejarse. La espalda negra, el dorsal blanco, el movimiento perfectamente idéntico de los hombros.
 
@@ -116,7 +116,7 @@ Y los dos arrancaron a correr al mismo tiempo, el viejo y el joven, la rodilla m
 
 El kilómetro dieciséis trajo una visión breve pero clara.
 
-En el separador de la avenida, de pie sobre el pasto, el Enigmático de la capa oscura lo esperaba. No tenía los brazos abiertos como la vez anterior. Tenía los brazos extendidos hacia adelante, como si sostuviera las riendas de un caballo invisible. En una mano, una vara corta, más gruesa que la anterior. En la otra, nada. Pero la postura era la de alguien que conduce un carro, que guía algo más grande que él mismo.
+En el separador de la avenida, de pie sobre el pasto, el Enigmático de la capa oscura lo esperaba. No tenía los brazos abiertos como la vez anterior. Tenía los brazos extendidos hacia adelante, sosteniendo las riendas de un caballo invisible. En una mano, una vara corta, más gruesa que la anterior. En la otra, nada. Pero la postura era la de alguien que conduce un carro, que guía algo más grande que él mismo.
 
 La imagen le decía algo. No con palabras. Con forma.
 
@@ -135,3 +135,4 @@ Y él era libre. Todavía libre.
 El kilómetro dieciséis apareció. Puesto de hidratación. Voluntarios. Agua.
 
 Runy bebió. Miró adelante. Y siguió.
+---

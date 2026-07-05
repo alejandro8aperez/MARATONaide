@@ -16,7 +16,7 @@ El kilómetro siete fue cuando Nietzsche apareció. No literalmente, claro. Apar
 
 La idea del eterno retorno lo perseguía desde la universidad. Recordaba haberleído el aforismo en *La gaya ciencia*, ese pasaje donde el demonio se aparece al hombre y le susurra la noticia más aterradora: todo va a volver, exactamente igual, para siempre.
 
-Runy apretó el paso, como si pudiera escapar del pensamiento.
+Runy apretó el paso, queriendo escapar del pensamiento.
 
 No pudo.
 
@@ -24,7 +24,7 @@ No pudo.
 
 La pregunta no era teórica. Estaba sudando la respuesta.
 
-El kilómetro ocho fue silencio mental. El cuerpo empezaba a protestar en serio. Un dolor sordo en el gemelo derecho. La planta del pie izquierdo que ardía. El aire que entraba y salía con un ritmo que ya no era cómodo sino necesario, como si respirar fuera un lujo que pronto no podría pagarse.
+El kilómetro ocho fue silencio mental. El cuerpo empezaba a protestar en serio. Un dolor sordo en el gemelo derecho. La planta del pie izquierdo que ardía. El aire que entraba y salía con un ritmo que ya no era cómodo sino necesario, respirar era un lujo que pronto no podría pagarse.
 
 El kilómetro nueve trajo una respuesta.
 

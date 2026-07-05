@@ -54,7 +54,7 @@ El hombre de negro.
 
 Estaba detrás de ellos. No los había alcanzado —estaba a unos veinte metros— pero corría con esa exactitud de máquina, y la distancia no crecía ni disminuía.
 
-El pánico y la rabia se mezclaban en un cóctel que no sabía cómo procesar.
+El pánico y la rabia se mezclaron en un cóctel que no sabía cómo procesar.
 
 —No nos va a dejar pasar —dijo.
 
@@ -95,3 +95,4 @@ El Enigmático ya no estaba. Pero el estandarte seguía allí, en el separador, 
 *Marcaba el lugar donde una cosa termina y otra empieza.*
 
 Y siguió corriendo, porque el kilómetro veintiocho y medio estaba cerca, y porque sentía que algo en él se había roto para siempre, pero no sabía si era una pérdida o una liberación.
+---

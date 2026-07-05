@@ -98,7 +98,7 @@ El Enigmático apareció frente a él.
 
 La figura estaba de pie, a unos metros, en medio de la carretera. Detrás de ella, el aire se abría como un telón y Runy veía imágenes que no eran de este mundo.
 
-Veía una tumba abierta. Y de la tumba salía una figura, una silueta que se elevaba hacia el cielo. Alrededor, otras figuras —las mismas siluetas sin rostro que había visto antes— se levantaban también, como si hubieran estado muertas y ahora despertaran.
+Veía una tumba abierta. Y de la tumba salía una figura, una silueta que se elevaba hacia el cielo. Alrededor, otras figuras —las mismas siluetas sin rostro que había visto antes— se levantaban también, habían estado muertas y ahora despertaban.
 
 Y en el centro de todo, un sonido. Una trompeta. Un sonido largo, profundo, que no venía de ningún lado y venía de todas partes.
 
@@ -139,3 +139,4 @@ La IA giró la cabeza y siguió corriendo. Un punto negro que se hacía pequeño
 Runy se quedó sentado.
 
 Y por primera vez en toda la carrera, sintió paz.
+---

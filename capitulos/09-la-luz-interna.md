@@ -2,7 +2,7 @@
 
 El kilómetro dieciocho trajo la primera señal real de que la carrera se estaba volviendo otra cosa.
 
-No era el paisaje, aunque el paisaje cambiaba: la avenida se estrechaba, los árboles se hacían más densos, y las montañas que antes estaban lejos ahora se levantaban a ambos lados como paredes verdes. Era el cuerpo. Runy sentía que algo en su interior se estaba reconfigurando, como si los músculos hubieran dejado de ser músculos para convertirse en otra sustancia, más densa, más lenta, más vieja.
+No era el paisaje, aunque el paisaje cambiaba: la avenida se estrechaba, los árboles se hacían más densos, y las montañas que antes estaban lejos ahora se levantaban a ambos lados como paredes verdes. Era el cuerpo. Runy sentía que algo en su interior se estaba reconfigurando, los músculos dejaban de ser músculos para convertirse en otra sustancia, más densa, más lenta, más vieja.
 
 —Esto es el muro —dijo Arango a su lado.
 
@@ -62,19 +62,19 @@ Runy lo miró sin entender.
 
 —Si no significa nada —dijo Arango—, entonces lo que ponga adentro depende de ti. No del universo. De ti.
 
-Y aceleró ligeramente, como si la frase le hubiera dado energía.
+Y aceleró ligeramente, la frase dándole energía.
 
-Runy lo siguió, con la pregunta todavía abierta pero algo más ligera, como si compartirla hubiera dividido el peso entre dos.
+Runy lo siguió, con la pregunta todavía abierta pero más ligera, compartirla había dividido el peso entre dos.
 
 ***
 
 El kilómetro diecinueve y medio trajo la luz.
 
-No era una luz metafórica. Era una luz real, física: el sol, que había estado oculto detrás de una nube, salió de golpe, bañando la avenida en un amarillo intenso que parecía sólido, como si pudiera tocarse.
+No era una luz metafórica. Era una luz real, física: el sol, que había estado oculto detrás de una nube, salió de golpe, bañando la avenida en un amarillo intenso y sólido, tangible.
 
 Y en esa luz, al borde de la carretera, Runy lo vio.
 
-El Enigmático estaba de pie sobre una pequeña elevación de tierra, al lado de la ruta. Esta vez no tenía los brazos abiertos ni las manos en alto. Tenía una mano apoyada en un bastón alto, casi de su altura. Y en la otra mano, sostenida frente a su pecho, había una linterna. No una linterna eléctrica, sino una antigua, de metal, con una llama adentro que ardía sin moverse, sin parpadear, como si el viento no existiera para ella.
+El Enigmático estaba de pie sobre una pequeña elevación de tierra, al lado de la ruta. Esta vez no tenía los brazos abiertos ni las manos en alto. Tenía una mano apoyada en un bastón alto, casi de su altura. Y en la otra mano, sostenida frente a su pecho, había una linterna. No una linterna eléctrica, sino una antigua, de metal, con una llama adentro que ardía sin moverse, sin parpadear, el viento inexistente para ella.
 
 La figura no miraba a Runy. Miraba hacia adelante, hacia la carretera que subía, hacia lo que venía. La linterna alumbraba un camino que nadie más veía.
 
@@ -101,3 +101,4 @@ Runy negó con la cabeza.
 —Eso ya es algo —dijo Arango.
 
 Y los dos siguieron, hacia arriba, hacia Sabaneta, hacia la parte más dura de la carrera.
+---

@@ -122,7 +122,7 @@ La imagen contenía una verdad que no podía expresarse en palabras. La rueda gi
 
 *Todo gira*, pensó Runy. *El que va primero va a ir último. El que va último va a ir primero. La carrera da vueltas. La vida da vueltas. Todo da vueltas.*
 
-La figura no lo miró. No hizo gesto. Pero cuando la rueda completó una vuelta completa, la figura retiró la mano, y la rueda siguió girando, sola, como si nunca hubiera necesitado impulso.
+La figura no lo miró. No hizo gesto. Pero cuando la rueda completó una vuelta completa, la figura retiró la mano, y la rueda siguió girando, sola, sin haber necesitado nunca impulso.
 
 Runy parpadeó.
 
@@ -137,3 +137,4 @@ Solo la carretera vacía, la curva, el sol.
 —Nada —dijo Runy.
 
 Y siguió corriendo, con la imagen de la rueda girando en la cabeza, y la certeza de que algo, en algún lugar, estaba a punto de dar la vuelta.
+---

@@ -2,7 +2,7 @@
 
 El kilómetro doce trajo un cambio de paisaje y de ánimo.
 
-La Avenida Las Vegas se estiraba hacia el sur en una recta larga que parecía no tener fin. A los lados, los edificios de oficinas daban paso a conjuntos residenciales, y el aire se volvía más limpio, como si la ciudad se estuviera quedando atrás. Entraba en otro territorio, no solo geográfico sino mental. Algo en la recta interminable lo empujaba a mirar hacia adelante y a preguntarse, por primera vez en kilómetros, si realmente iba a llegar.
+La Avenida Las Vegas se estiraba hacia el sur en una recta larga que parecía no tener fin. A los lados, los edificios de oficinas daban paso a conjuntos residenciales, y el aire se volvía más limpio, la ciudad quedándose atrás. Entraba en otro territorio, no solo geográfico sino mental. Algo en la recta interminable lo empujaba a mirar hacia adelante y a preguntarse, por primera vez en kilómetros, si realmente iba a llegar.
 
 *Medio maratón está cerca*, pensó. *Trece kilómetros. La mitad.*
 
@@ -12,7 +12,7 @@ Epicteto había nacido esclavo. Runy lo sabía porque había leído su historia 
 
 *No controlas lo que te pasa. Controlas cómo respondes.*
 
-Runy repitió la frase en voz baja mientras corría. La repitió varias veces, como un mantra, como si al repetirla pudiera convertirla en músculo.
+Runy repitió la frase en voz baja mientras corría. La repitió varias veces, un mantra, queriendo convertirla en músculo a fuerza de repetirla.
 
 No controlas el calor. No controlas la rodilla de Arango. No controlas los kilómetros que faltan. Controlas cómo respondes.
 
@@ -89,3 +89,4 @@ Pero sabía, con la certeza de Epicteto, que podía elegir cómo enfrentarlo.
 El kilómetro catorce apareció. Puesto de hidratación. Voluntarios. Agua.
 
 Runy bebió, miró hacia atrás, y siguió corriendo.
+---

@@ -44,7 +44,7 @@ Ella asintió y siguió su camino.
 
 Runy terminó el agua. Apretó la botella vacía. Se levantó.
 
-Las piernas le dolían. Las sentía rígidas, pesadas, como si fueran de otro. Dio un paso y sintió que el gemelo izquierdo protestaba. Dio otro paso y sintió que el pie derecho se quejaba.
+Las piernas le dolían. Las sentía rígidas, pesadas, ajenas. Dio un paso y sintió que el gemelo izquierdo protestaba. Dio otro paso y sintió que el pie derecho se quejaba.
 
 Pero caminó.
 
@@ -102,7 +102,7 @@ Valentina guardó silencio un momento.
 
 —Porque me dijiste que yo sí podía —dijo—. Y quería demostrarte que tenías razón.
 
-Algo se le movió en el pecho. No supo si era orgullo o gratitud. Probablemente eran las dos cosas.
+Runy sintió algo en el pecho. No supo si era orgullo o gratitud. Probablemente eran las dos cosas.
 
 —Gracias —dijo.
 

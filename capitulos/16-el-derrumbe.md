@@ -6,7 +6,7 @@ No era una intuición. Era una sensación física, como la que se tiene antes de
 
 Runy corrió en ese aire cargado durante todo el tramo.
 
-Valentina estaba callada. Arango también. Los tres se movían en silencio, como si hablar pudiera desencadenar lo que estaban tratando de evitar.
+Valentina estaba callada. Arango también. Los tres se movían en silencio, hablar podía desencadenar lo que estaban tratando de evitar.
 
 Pero lo que estaban tratando de evitar llegó de todas formas.
 
@@ -14,7 +14,7 @@ Pero lo que estaban tratando de evitar llegó de todas formas.
 
 El kilómetro treinta y tres trajo el primer aviso.
 
-Arango hizo una mueca. No la mueca de siempre, la de la rodilla que dolía pero seguía. Era otra. Una mueca más profunda, más oscura, como si algo dentro de él se hubiera desconectado.
+Arango hizo una mueca. No la mueca de siempre, la de la rodilla que dolía pero seguía. Era otra. Una mueca más profunda, más oscura, algo dentro de él se había desconectado.
 
 —Arango —dijo Runy.
 
@@ -52,7 +52,7 @@ Runy llegó a su lado antes de que Arango pudiera enderezarse.
 
 Arango no respondió. Se quedó un momento colgado de la baranda, respirando hondo, con los ojos cerrados.
 
-Runy lo vio desde una distancia que no era física. Vio las manos de Arango, los nudillos blancos de tanto apretar. Vio la pierna derecha que colgaba sin peso, como si ya no le perteneciera. Vio la espalda encorvada, el pecho que subía y bajaba más rápido de lo normal.
+Runy lo vio desde una distancia que no era física. Vio las manos de Arango, los nudillos blancos de tanto apretar. Vio la pierna derecha que colgaba sin peso, ya no le pertenecía. Vio la espalda encorvada, el pecho que subía y bajaba más rápido de lo normal.
 
 Y vio, por primera vez, que Arango tenía miedo.
 
@@ -203,3 +203,4 @@ Runy la miró.
 —Nada —dijo.
 
 Pero los dos sabían que no era verdad.
+---

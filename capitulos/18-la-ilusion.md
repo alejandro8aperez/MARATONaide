@@ -34,7 +34,7 @@ El kilómetro treinta y siete y medio trajo al Enigmático.
 
 Pero esta vez la figura no estaba en un solo lugar. Runy la veía en todas partes. En las sombras de los árboles. En los reflejos de los vidrios de los edificios. En el movimiento de la ropa de los corredores que pasaban.
 
-La figura se movía con ellos, alrededor de ellos, como si estuviera en todos lados y en ninguno.
+La figura se movía con ellos, alrededor de ellos, estaba en todos lados y en ninguno.
 
 Y en el cielo, aunque era de día, Runy veía una luna. Una luna enorme, pálida, que colgaba sobre la ciudad como un ojo abierto.
 
@@ -123,3 +123,4 @@ Runy se quedó quieto un momento. Valentina lo alcanzó.
 Pero los dos sabían que no era cierto.
 
 Y la duda que había aparecido en el kilómetro treinta y siete ahora tenía una voz. Y esa voz seguía hablando dentro de su cabeza.
+---

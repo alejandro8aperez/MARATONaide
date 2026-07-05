@@ -32,7 +32,7 @@ Algo se ajustó en su pecho. No era una respuesta clara, pero era una dirección
 
 El kilómetro nueve y medio trajo un reencuentro.
 
-La mujer de la coleta estaba en el separador de la avenida, haciendo estiramientos. Tenía una botella de agua en la mano y miraba hacia atrás, como si esperara a alguien. Cuando vio a Runy, no sonrió, pero hizo un gesto con la cabeza.
+La mujer de la coleta estaba en el separador de la avenida, haciendo estiramientos. Tenía una botella de agua en la mano y miraba hacia atrás, esperando a alguien. Cuando vio a Runy, no sonrió, pero hizo un gesto con la cabeza.
 
 —Pensé que te habías perdido —dijo ella.
 
@@ -46,7 +46,7 @@ Runy la miró sin entender.
 
 —Se llama Arango —dijo ella—. Su rodilla está peor de lo que dice. Lo conozco de carreras. Nunca camina. Si camina, duele.
 
-Runy miró hacia atrás, como si pudiera ver al hombre entre la multitud.
+Runy miró hacia atrás, buscando al hombre entre la multitud.
 
 —¿Por qué corre, entonces?
 
@@ -76,7 +76,7 @@ Runy sí.
 
 Vio las manos de la figura: firmes, con los dedos ligeramente separados, descansando sobre las rodillas con una autoridad que no necesitaba gestos. Vio la postura: recta, sin rigidez, como la de alguien que está donde debe estar y no tiene nada que demostrar.
 
-Pero lo que más le llamó la atención fue lo que la figura sostenía en la mano derecha. No era una vara ni un rollo. Era algo más pequeño, más sólido: una esfera. Una bola del tamaño de una manzana, que la figura sostenía con la palma abierta hacia arriba, como si ofreciera el mundo entero en una mano.
+Pero lo que más le llamó la atención fue lo que la figura sostenía en la mano derecha. No era una vara ni un rollo. Era algo más pequeño, más sólido: una esfera. Una bola del tamaño de una manzana, que la figura sostenía con la palma abierta hacia arriba, ofreciendo el mundo entero en una mano.
 
 Y en la cabeza, ajustada sobre la capucha, había una banda de metal oscuro. No brillaba. No llamaba la atención. Pero estaba ahí, rodeando la frente de la figura como una corona sin pretensiones.
 
@@ -101,3 +101,4 @@ Runy negó con la cabeza.
 —No —dijo—. No importa.
 
 Y siguió corriendo, porque el kilómetro diez ya había pasado y el once lo esperaba, y porque la imagen de la figura sentada en un trono de plástico con el mundo en la mano se le quedó grabada en la memoria como la respuesta a una pregunta que todavía no sabía formular.
+---

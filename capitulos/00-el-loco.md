@@ -30,11 +30,11 @@ No lo sabía. Y esa falta de respuesta, en lugar de paralizarlo, lo impulsó a a
 
 El kilómetro uno y medio trajo un quiebre en la ruta. La masa de corredores dobló a la izquierda para tomar la calle San Juan en dirección al occidente. La avenida era ancha, flanqueada por el edificio de EPM a un lado y las fachadas antiguas del centro al otro. La luz del amanecer empezaba a filtrarse entre los edificios, creando un pasillo de sombras y destellos.
 
-Podía respirar mejor. El grupo se había estirado, los cuerpos ya no estaban tan apretados. Empezaba a encontrar su ritmo.
+Runy respiró mejor. El grupo se había estirado, los cuerpos ya no estaban tan apretados. Empezaba a encontrar su ritmo.
 
 Y fue entonces que la vio.
 
-La mujer de la coleta alta. La misma de la plaza. Corría unos metros adelante, con una zancada limpia, eficiente, sin esfuerzo aparente. Los audífonos seguían en su lugar. Su expresión seguía siendo la misma: concentración absoluta, como si estuviera en una burbuja donde el ruido del mundo no entraba.
+La mujer de la coleta alta. La misma de la plaza. Corría unos metros adelante, con una zancada limpia, eficiente, sin esfuerzo aparente. Los audífonos seguían en su lugar. Su expresión seguía siendo la misma: concentración absoluta, encerrada en una burbuja donde el ruido del mundo no entraba.
 
 Runy aceleró un poco, no para alcanzarla, sino para mantenerse a la distancia justa donde pudiera verla sin que ella notara que la miraba.
 
@@ -56,7 +56,7 @@ Runy parpadeó.
 
 La figura seguía allí. El perro seguía allí.
 
-Pero cuando Runy volvió a mirar, después de esquivar a un corredor que frenó de golpe, ya no había nadie. Solo el árbol. Solo la sombra del árbol. Solo el viento moviendo las hojas como si nada hubiera pasado.
+Pero cuando Runy volvió a mirar, después de esquivar a un corredor que frenó de golpe, ya no había nadie. Solo el árbol. Solo la sombra del árbol. Solo el viento moviendo las hojas, indiferente.
 
 —No puede ser —murmuró.
 
@@ -67,3 +67,4 @@ Runy agarró una botella de agua, bebió la mitad y se lanzó el resto en la cab
 —Estoy perdiendo la cabeza —dijo, este es el kilómetro 2 y ya estoy alucinando.
 
 Y sonrió, porque la frase también era absurda, y porque Camus tenía razón: uno tiene que imaginarse a Sísifo feliz, y también al loco que sonríe mientras corre hacia ninguna parte con un perro imaginario pisándole los talones.
+---

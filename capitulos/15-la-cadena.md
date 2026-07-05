@@ -2,7 +2,7 @@
 
 El kilómetro treinta trajo a la IA de vuelta. Pero esta vez no venía detrás.
 
-Runy lo vio antes de sentirlo: la espalda negra, el dorsal blanco, el movimiento sin variación. El hombre de negro estaba adelante, a unos treinta metros, corriendo al mismo ritmo de siempre. No había acelerado. No había disminuido. Simplemente estaba allí, como si hubiera estado esperando.
+Runy lo vio antes de sentirlo: la espalda negra, el dorsal blanco, el movimiento sin variación. El hombre de negro estaba adelante, a unos treinta metros, corriendo al mismo ritmo de siempre. No había acelerado. No había disminuido. Simplemente estaba allí, esperando.
 
 —No —dijo Runy en voz baja.
 
@@ -22,7 +22,7 @@ Valentina miró. Arango también.
 
 —Lo sé.
 
-El estómago se le cerró. No entendía. La IA siempre había corrido detrás de él, siguiéndolo, midiéndolo. Ahora estaba adelante, como si hubiera cambiado de estrategia. Como si ya no necesitara seguirlo porque sabía adónde iba.
+El estómago se le cerró. No entendía. La IA siempre había corrido detrás de él, siguiéndolo, midiéndolo. Ahora estaba adelante, había cambiado de estrategia. Ya no necesitaba seguirlo porque sabía adónde iba.
 
 —Vamos a pasarlo —dijo Valentina.
 
@@ -96,7 +96,7 @@ Valentina seguía a su lado. Arango también, aunque la cojera se había vuelto 
 
 —¿Vas a terminar?
 
-Arango no respondió de inmediato. Miró al hombre de negro, que seguía adelante, a la misma distancia de antes, como si los estuviera remolcando.
+Arango no respondió de inmediato. Miró al hombre de negro, que seguía adelante, a la misma distancia de antes, remolcándolos.
 
 —No lo sé —dijo—. Pero si él va a estar ahí todo el camino, tal vez no importe.
 
@@ -116,7 +116,7 @@ El hombre de negro disminuyó el paso. No mucho. Lo suficiente para que la dista
 
 —No te acerques —dijo Valentina.
 
-Pero Runy no podía evitarlo. Era como si una corriente lo empujara hacia el hombre de negro, una atracción que no era física sino mental. Necesitaba verlo de cerca. Necesitaba entender.
+Pero Runy no podía evitarlo. Una corriente lo empujaba hacia el hombre de negro, una atracción que no era física sino mental. Necesitaba verlo de cerca. Necesitaba entender.
 
 Cuando estuvo a su lado, el hombre de negro habló.
 
@@ -162,8 +162,9 @@ Pestañeó.
 
 La figura ya no estaba. La roca seguía ahí. Las cadenas también.
 
-Pero ahora colgaban sobre la hierba vacías, como si alguien las hubiera dejado caer.
+Pero ahora colgaban sobre la hierba vacías, abandonadas.
 
 Algo se aflojó en su pecho. El miedo seguía ahí. La IA seguía ahí. Pero algo había cambiado: ya no creía que la cadena fuera real.
 
 Y siguió corriendo, con la imagen de las cadenas vacías grabada en la memoria, preguntándose qué más había inventado que no existía.
+---

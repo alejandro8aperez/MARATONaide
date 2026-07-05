@@ -4,7 +4,7 @@ El kilómetro dieciséis trajo un cambio sutil en el paisaje.
 
 Los edificios de Envigado empezaban a cerrarse alrededor de la avenida. No eran los rascacielos del centro ni las bodegas de la calle 30. Eran casas de dos pisos con balcones de hierro forjado, árboles que crecían por encima de los techos, iglesias con campanarios que se veían desde lejos. El sur del valle tenía otra luz, más dorada, más lenta.
 
-El cuerpo empezó a quejarse de verdad. No era el dolor agudo de una lesión. Era un dolor sordo, difuso, que venía de todas partes a la vez: los cuádriceps, los gemelos, la zona lumbar, los hombros. El cuerpo entero era una sola nota larga de incomodidad.
+El cuerpo empezaba a quejarse de verdad. No era el dolor agudo de una lesión. Era un dolor sordo, difuso, que venía de todas partes a la vez: los cuádriceps, los gemelos, la zona lumbar, los hombros. El cuerpo entero era una sola nota larga de incomodidad.
 
 *Esto es tener un cuerpo*, pensó.
 
@@ -66,7 +66,7 @@ Runy lo miró.
 
 Arango sonrió. Esa sonrisa que no era feliz ni triste.
 
-—Estoy ofreciéndome —dijo.
+—Ofreciéndome —dijo.
 
 Y los dos siguieron corriendo lado a lado, el viejo y el joven, la rodilla mala y el corazón asustado, como un par de animales que saben que hay algo peor en el bosque.
 
@@ -107,3 +107,4 @@ Runy miró hacia adelante. La avenida seguía, interminable, hacia el sur.
 —Sé —dijo.
 
 Y los dos siguieron corriendo.
+---

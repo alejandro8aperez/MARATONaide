@@ -64,7 +64,7 @@ Y aceleró, dejando a Runy con la frase flotando en el aire.
 
 ***
 
-El kilómetro seis se acercaba. Runy sintió el cansancio real por primera vez. No era un dolor localizado sino una fatiga difusa, como si el cuerpo entero empezara a darse cuenta de que la cosa iba en serio.
+El kilómetro seis se acercaba. Runy sintió el cansancio real por primera vez. No era un dolor localizado sino una fatiga difusa, el cuerpo entero empezaba a darse cuenta de que la cosa iba en serio.
 
 Y entonces, en el borde de la ruta, junto a un poste de luz, lo vio.
 
@@ -78,7 +78,7 @@ La imagen significaba algo. Una cortina. Un velo. Algo que separa lo visible de 
 
 La figura no hizo gesto. No levantó la mano. No mostró nada.
 
-Pero Runy sintió, con una certeza que no tenía nombre, que lo que estaba detrás del velo era lo mismo que estaba delante, solo que mirado desde el otro lado.
+Pero con una certeza que no tenía nombre, supo que lo que estaba detrás del velo era lo mismo que estaba delante, solo que mirado desde el otro lado.
 
 Parpadeó.
 
@@ -93,3 +93,4 @@ Runy bebió y siguió.
 *Hay muchas cosas que no sé*, pensó. *Y tal vez no necesito saberlas. Tal vez solo necesito seguir corriendo hasta que el velo se corra solo.*
 
 Pero no estaba seguro de creerlo.
+---

@@ -28,11 +28,11 @@ Alguien se puso a su altura.
 
 —Buen ritmo —dijo una voz.
 
-Era ella. La mujer de la coleta. Había disminuido el paso o él lo había acelerado, no sabía. Pero ahora corría a su lado, mirando al frente, como si no hubiera dicho nada.
+Era ella. La mujer de la coleta. Había disminuido el paso o él lo había acelerado, no sabía. Pero ahora corría a su lado, mirando al frente, sin dar señales de haber dicho nada.
 
 Runy tardó un par de zancadas en responder.
 
-—Tú también —dijo, y sintió que la frase era increíblemente estúpida.
+—Tú también —dijo, y la frase le sonó increíblemente estúpida.
 
 Ella sonrió sin mirarlo. Una sonrisa pequeña, casi imperceptible.
 
@@ -76,7 +76,7 @@ Pero esta vez la figura no estaba quieta. Movía las manos en el aire con una le
 
 No había hatillo ahora. No había perro.
 
-La figura alzó la vara hacia el cielo, y Runy sintió, absurdamente, que algo en el aire cambiaba. Una vibración. Un rumor que no era sonido. Como si el espacio entre el cielo y la tierra se hubiera afinado, como si alguien hubiera ajustado una cuerda invisible.
+La figura alzó la vara hacia el cielo, y absurdamente, algo en el aire cambió. Una vibración. Un rumor que no era sonido. El espacio entre el cielo y la tierra se afinó, alguien había ajustado una cuerda invisible.
 
 Parpadeó.
 
@@ -97,3 +97,4 @@ Pero no estaba seguro de serlo. No estaba seguro de haber visto lo que había vi
 Pero en el fondo sabía que no era ninguna de esas cosas.
 
 Dejó el vaso en una mesa y siguió corriendo, porque el kilómetro cuatro ya había pasado y el cinco lo esperaba, y porque tal vez —solo tal vez— había algo de verdad en eso de que las manos pueden apuntar al cielo mientras los pies siguen en la tierra.
+---

@@ -2,7 +2,7 @@
 
 El kilómetro diez trajo una sorpresa.
 
-La ruta no seguía hacia el sur como esperaba. En lugar de eso, los corredores tomaron un desvío hacia la Avenida Regional, y El cuerpo se relajó al ver que el camino se duplicaba sobre sí mismo. Un ida y vuelta. Los primeros que habían pasado ya regresaban por el otro carril, y el espectáculo era extraño: ver a los mismos corredores que habían estado adelante venir ahora de frente, como en un espejo que devolviera imágenes desplazadas en el tiempo.
+La ruta no seguía hacia el sur como esperaba. En lugar de eso, los corredores tomaron un desvío hacia la Avenida Regional, y el cuerpo se relajó al ver el camino duplicado sobre sí mismo. Un ida y vuelta. Los primeros que habían pasado ya regresaban por el otro carril, y el espectáculo era extraño: ver a los mismos corredores que habían estado adelante venir ahora de frente, como en un espejo que devolviera imágenes desplazadas en el tiempo.
 
 Buscó a la mujer de la coleta entre los que volvían. No la vio. Buscó a Arango. Tampoco.
 
@@ -58,7 +58,7 @@ La idea lo atravesó como una corriente.
 
 La voz antigua, la de toda la vida, no se calló. Pero por primera vez, Runy escuchó otra cosa encima de ella: un zumbido que era el silencio del universo, el mismo silencio que Camus había descrito, el silencio que no responde porque no tiene nada que decir.
 
-Y en ese silencio, podía elegir.
+Y en ese silencio, Podía elegir.
 
 No sabía qué iba a elegir. Pero sabía que podía.
 
@@ -93,3 +93,4 @@ La tarima estaba vacía. La silla también. La tela roja seguía ahí, cayendo a
 Runy no se detuvo. No miró atrás. Siguió corriendo, porque el kilómetro doce ya estaba ahí, y porque el gesto de las dos manos levantadas se le había grabado en la memoria como una pregunta que no necesitaba respuesta:
 
 *¿Qué voces escuchas?*
+---

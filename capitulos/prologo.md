@@ -12,19 +12,19 @@ Despertó con la sensación de haber visto algo importante y haberlo olvidado en
 
 ***
 
-Eran las cuatro y cuarenta y siete de la mañana cuando abrió los ojos del todo. No había ruido en la habitación. El ventilador del techo giraba lento, como si estuviera cansado, como si llevara años girando en el mismo sitio sin que nadie lo notara.
+Eran las cuatro y cuarenta y siete de la mañana cuando abrió los ojos del todo. No había ruido en la habitación. El ventilador del techo giraba lento, cansado, años girando en el mismo sitio sin que nadie lo notara.
 
 Runy se sentó en el borde de la cama. La cama estaba hecha. No había dormido bien, o tal vez sí, tal vez había dormido demasiado, porque el sueño del camino seguía pegado a la memoria como una telaraña que no termina de desprenderse.
 
-El dorsal número 2038 estaba doblado sobre la mesita de noche. Lo había mirado doce veces desde las tres de la mañana, como si esperara que el número cambiara, como si esperara que alguien llamara para decirle que la maratón se había cancelado, que todo había sido un malentendido, que podía volver a la cama y seguir durmiendo. Qué número tan raro. Será la fecha de defunción o la de todos los seres humanos debido al calentamiento global. ¿Acaso será la fecha en que caducaron las maratones porque las rodillas se rebelaron?
+El dorsal número 2038 estaba doblado sobre la mesita de noche. Lo había mirado doce veces desde las tres de la mañana, esperando que el número cambiara, esperando que alguien llamara para decirle que la maratón se había cancelado, que todo había sido un malentendido, que podía volver a la cama y seguir durmiendo. Qué número tan raro. Será la fecha de defunción o la de todos los seres humanos debido al calentamiento global. ¿Acaso será la fecha en que caducaron las maratones porque las rodillas se rebelaron?
 
 Nadie llamó.
 
-Frente a él, en la pared, una mancha de humedad tenía la forma de África. Runy la miró como si esperara una respuesta de ese continente de salitre y yeso. La mancha no dijo nada.
+Frente a él, en la pared, una mancha de humedad tenía la forma de África. Runy la miró esperando una respuesta de ese continente de salitre y yeso. La mancha no dijo nada.
 
 ***
 
-El agua del baño salió tibia primero, después fría, después tibia otra vez, como si el edificio mismo estuviera indeciso. Runy se vistió despacio. Los mismos gestos de siempre: las medias primero, después la pantaloneta, después la camiseta que nos habían dado un día antes para la ocasión. Una camiseta azul marino, que decía Maratón Medellín, sin muchas letras, bien hecha, bien fabricada. Quería pasar desapercibido, quería ser un corredor más entre miles, pero también quería que alguien lo viera llegar. A uno le gusta recibir palmaditas en el hombro por existir.
+El agua del baño salió tibia primero, después fría, después tibia otra vez, el edificio mismo indeciso. Runy se vistió despacio. Los mismos gestos de siempre: las medias primero, después la pantaloneta, después la camiseta que nos habían dado un día antes para la ocasión. Una camiseta azul marino, que decía Maratón Medellín, sin muchas letras, bien hecha, bien fabricada. Quería pasar desapercibido, quería ser un corredor más entre miles, pero también quería que alguien lo viera llegar. A uno le gusta recibir palmaditas en el hombro por existir.
 
 Guardó el dorsal en el bolsillo trasero. Se ató las zapatillas y las desató tres veces antes de volvérselas a atar, en un ritual que no tenía nombre pero que le daba la ilusión de control.
 
@@ -40,11 +40,11 @@ Caminó hacia Parques del Río sintiendo el peso de las zapatillas contra el asf
 
 La plaza estaba llena.
 
-Miles de personas se movían como un solo organismo lento y ruidoso. Había corredores haciendo estiramientos, corredores tomando fotos, corredores mirando el cielo como si buscaran una señal. Había familias enteras despidiendo a sus atletas, niños con carteles de cartón, perros con bandanas de la maratón y en un grupo selecto al final de la calle se podía divisar al alcalde de la ciudad. Era uno de los corredores.
+Miles de personas se movían como un solo organismo lento y ruidoso. Había corredores haciendo estiramientos, corredores tomando fotos, corredores buscando una señal en el cielo. Había familias enteras despidiendo a sus atletas, niños con carteles de cartón, perros con bandanas de la maratón y en un grupo selecto al final de la calle se podía divisar al alcalde de la ciudad. Era uno de los corredores.
 
-Runy se metió entre la multitud y se dejó llevar. No tenía un plan. Su plan era seguir a los demás hasta que alguien le dijera dónde pararse. Por un momento pensó en correr solo 5km y regresar al hotel pero ya no se puede, tenía puesta la camisa que dice 42km. Las maratones las dividen en 5km, 10km, 21km y 42km, al menos esta.
+Runy se metió entre la multitud y se dejó llevar. No tenía un plan. Su plan era seguir a los demás hasta que alguien le dijera dónde pararse. Por un momento pensó en correr solo 5 km y regresar al hotel pero ya no se puede, tenía puesta la camisa que dice 42 km. Las maratones las dividen en 5 km, 10 km, 21 km y 42 km, al menos esta.
 
-En medio de ese mar de cabezas y espaldas, vio a una mujer que se ajustaba los audífonos con la precisión de quien prepara un instrumento antes de un concierto. Tenía el pelo recogido en una coleta alta y una expresión que no era de nervios ni de emoción, sino de concentración absoluta, como si ya estuviera dentro de la carrera aunque sus pies todavía estuvieran quietos.
+En medio de ese mar de cabezas y espaldas, vio a una mujer que se ajustaba los audífonos con la precisión de quien prepara un instrumento antes de un concierto. Tenía el pelo recogido en una coleta alta y una expresión que no era de nervios ni de emoción, sino de concentración absoluta, ya dentro de la carrera aunque sus pies todavía estuvieran quietos.
 
 Runy pensó en decirle algo. *Buena suerte. ¿Es tu primera vez? ¿Sabes dónde ponen los baños portátiles?*
 
@@ -107,3 +107,4 @@ Runy no lo oyó. O tal vez sí, pero ya no lo recordaba. Lo que recordó, mientr
 Y recordó una frase que había leído años atrás y que nunca había entendido del todo, pero que ahora, al dar el primer paso de la maratón, empezó a cobrar un sentido que no era racional sino físico, como un segundo latido dentro del pecho:
 
 *A cinco kilómetros de aquí hay un hombre empujando una piedra.*
+---

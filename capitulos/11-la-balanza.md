@@ -4,7 +4,7 @@ El kilómetro veintidós trajo una conciencia nueva del tiempo.
 
 Runy no sabía cuánto llevaba corriendo. El reloj existía, pero los números habían dejado de significar algo. Lo que importaba era otra cosa: la sensación de que el tiempo se había vuelto elástico, que los segundos duraban más de lo debido y que los minutos, a veces, pasaban sin que él los notara.
 
-La subida continuaba. No se volvía más pronunciada, pero tampoco cedía. Era como si la carretera hubiera decidido que iba a subir para siempre y los corredores no tuvieran más remedio que aceptarlo.
+La subida continuaba. No se volvía más pronunciada, pero tampoco cedía. La carretera había decidido que iba a subir para siempre y los corredores no tenían más remedio que aceptarlo.
 
 Arango corría a su izquierda. La mujer de la coleta a su derecha. Los tres en silencio, moviéndose al mismo ritmo, como una sola criatura de tres cabezas y seis piernas.
 
@@ -64,13 +64,13 @@ Y en esa aceptación, encontró una paz que no era resignación. Era algo más p
 
 El kilómetro veintitrés y medio trajo al Enigmático.
 
-La figura estaba en el separador de la avenida, de pie, con los brazos extendidos a los lados. Pero esta vez no sostenía nada en las manos. En lugar de eso, había dos objetos suspendidos en el aire a cada lado de la figura, como si flotaran por su propia voluntad.
+La figura estaba en el separador de la avenida, de pie, con los brazos extendidos a los lados. Pero esta vez no sostenía nada en las manos. En lugar de eso, había dos objetos suspendidos en el aire a cada lado de la figura, flotando por su propia voluntad.
 
 A la izquierda, una espada. No una espada real, sino la forma de una espada, hecha de luz, que se mantenía vertical, apuntando hacia arriba.
 
 A la derecha, una balanza. Dos platos perfectamente equilibrados, suspendidos en el aire sin cadena que los sostuviera.
 
-La figura no miraba a Runy. Miraba al frente, con los brazos abiertos, como si presentara los dos objetos al mundo.
+La figura no miraba a Runy. Miraba al frente, con los brazos abiertos, presentando los dos objetos al mundo.
 
 La imagen le decía algo que no necesitaba traducción. La espada corta. La balanza pesa. Pero no hay un juez. No hay un veredicto. Solo están la espada y la balanza, y cada quien elige cómo usarlas.
 
@@ -95,3 +95,4 @@ El número era a la vez lejano y cercano.
 —¿Y después?
 
 —Después —dijo Arango—, la carrera empieza de verdad.
+---

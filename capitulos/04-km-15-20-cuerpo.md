@@ -6,7 +6,7 @@ Hasta ese momento, las piernas habían sido instrumentos. Brazos, herramientas. 
 
 Pero en el kilómetro dieciséis, el cuerpo dejó de ser transparente.
 
-El dolor en la rodilla izquierda ya no era un aviso. Era una voz. El gemelo derecho empezó a emitir pequeñas señales de socorro, como si alguien estuviera tocando un timbre allá adentro, en algún lugar profundo donde Runy no podía llegar con las manos.
+El dolor en la rodilla izquierda ya no era un aviso. Era una voz. El gemelo derecho empezó a emitir pequeñas señales de socorro, alguien tocaba un timbre allá adentro, en algún lugar profundo donde Runy no podía llegar con las manos.
 
 —Concéntrate —dijo—. Respira. Duele, pero duele en la pierna, no en la cabeza.
 
