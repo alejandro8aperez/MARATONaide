@@ -58,25 +58,29 @@ Esa idea era a la vez liberadora y aterradora. Liberadora porque si el mundo era
 
 ***
 
-El kilómetro veintitrés y medio trajo al Enigmático, y esta vez la imagen era la más extraña de todas.
+El kilómetro veintitrés y medio trajo al Enigmático, y esta vez la imagen era de una tensión sostenida.
 
-La figura estaba en el separador central, de rodillas. Y frente a ella, tumbado en el pasto con la cabeza apoyada en el regazo de la figura, había un animal grande, de pelaje oscuro. Parecía un perro enorme, o un lobo, o tal vez un león. El animal estaba inmóvil, con los ojos cerrados, y la figura le pasaba una mano sobre la cabeza con una lentitud hipnótica. No había violencia. No había resistencia. La bestia estaba quieta, completamente rendida, no por miedo sino por confianza.
+La figura estaba de pie en el separador, cara a cara con un león. El animal se alzaba sobre las patas traseras, enorme, el pelaje dorado erizado, las fauces abiertas en un rugido que no se oía pero se sentía en los huesos.
+
+Y la figura tenía las manos hundidas en esas fauces. Los dedos abiertos, presionando las mandíbulas hacia los lados, manteniendo la bestia a raya sin golpes, sin violencia, solo con una fuerza que no era muscular —era otra cosa. Era presencia.
+
+El león forcejeaba. Las garras arañaban el aire. Pero la figura no retrocedía. No temblaba. La mirada de la figura —lo único visible bajo la capucha— se mantenía fija en los ojos amarillos del animal.
+
+No había sumisión. No había paz. Había algo más difícil: el equilibrio entre dos fuerzas que se enfrentaban sin vencedor.
 
 La imagen lo atravesó.
 
-*La bestia domada*, pensó. *No a golpes. No a fuerza. A presencia.*
-
-El animal abrió los ojos un instante. Eran amarillos. Pero no miraron a Runy. Miraron a la figura, y en esa mirada había algo que Runy no supo nombrar: paz, entrega, una forma de amor que no necesitaba palabras.
+*La fuerza no es dominar*, pensó. *La fuerza es sostener. Es no soltar cuando la bestia se debate.*
 
 Runy parpadeó.
 
 El separador estaba vacío.
 
-Pero la imagen se quedó: la bestia salvaje descansando en el regazo de la figura, la mano que acariciaba sin apuro, la confianza absoluta de lo que ha dejado de luchar.
+Pero la imagen se quedó: la figura y el león frente a frente, las manos en las fauces, el rugido congelado en el tiempo, la certeza de que la verdadera fuerza no aplasta —contiene.
 
-La voluntad de Schopenhauer era esa bestia. Ciega, inmensa, imparable. Pero no se doma reprimiéndola. Se doma reconociéndola. Corriendo con ella en lugar de contra ella.
+La voluntad de Schopenhauer era ese león. Ciega, inmensa, imparable. Pero no se doma negándola. Se enfrenta. Se mira a los ojos. Se sostiene.
 
-*No luches contra la voluntad*, pensó Runy. *No la niegues. Reconócela. Y entonces corre con ella.*
+*No luches contra la voluntad*, pensó Runy. *No la niegues. Mírala. Y sostenla.*
 
 El kilómetro veinticuatro apareció. Puesto de hidratación. Voluntarios. Agua.
 

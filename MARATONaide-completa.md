@@ -356,25 +356,21 @@ Y aceleró, dejando a Runy con la frase flotando en el aire.
 
 El kilómetro seis se acercaba. Runy sintió el cansancio real por primera vez. No era un dolor localizado sino una fatiga difusa, el cuerpo entero empezaba a darse cuenta de que la cosa iba en serio.
 
-Y entonces, en el borde de la ruta, junto a un poste de luz, lo vio.
+Y entonces, en el borde de la ruta, entre dos palmeras que flanqueaban el camino, la vio.
 
-La figura de la capa oscura estaba de pie entre dos árboles que flanqueaban el camino. No sostenía nada en las manos esta vez. Tenía los brazos cruzados sobre el pecho, y entre los pliegues de la capa asomaba el borde de algo que parecía un rollo de pergamino, un manuscrito antiguo.
+La figura de la capa oscura estaba sentada en el suelo, con las piernas recogidas y la espalda apoyada contra el tronco de una de las palmeras. Entre las manos sostenía un libro abierto. No era un libro cualquiera: las páginas no tenían letras, solo líneas que se movían como agua, y la figura las miraba con una atención total, como si estuviera leyendo algo que solo ella podía ver.
 
-Pero lo que llamó la atención de Runy no fue eso.
+En la cabeza, sobre la capucha, había una banda que no era una simple cinta. Tenía tres niveles, tres coronas superpuestas, una más pequeña sobre la otra, como las que usan los que guardan secretos que no son de este mundo.
 
-Fue lo que había entre los dos árboles: un velo. Una tela delgada, casi transparente, que colgaba de las ramas como una cortina. La brisa la movía suavemente. Detrás del velo, la figura permanecía inmóvil, como una estatua al otro lado de un espejo.
+Runy disminuyó el paso. Esperó que la figura levantara la vista. Pero no lo hizo. Siguió leyendo, inmóvil, el libro abierto frente a ella, las tres coronas sobre la cabeza, la capa cayendo a los lados como un manto de otra época.
 
-La imagen significaba algo. Una cortina. Un velo. Algo que separa lo visible de lo invisible. Algo que está ahí para ser corrido o para quedarse para siempre.
-
-La figura no hizo gesto. No levantó la mano. No mostró nada.
-
-Pero con una certeza que no tenía nombre, supo que lo que estaba detrás del velo era lo mismo que estaba delante, solo que mirado desde el otro lado.
+La imagen significaba algo. El libro abierto. La corona triple. La figura sentada entre dos palmeras como entre dos columnas de un templo invisible. El saber no está oculto, pensó. Está abierto. Pero hay que saber leerlo.
 
 Parpadeó.
 
-Los árboles estaban vacíos. El velo había desaparecido. La figura también.
+Las palmeras estaban solas. La figura había desaparecido. El libro también.
 
-Runy siguió corriendo, pero la imagen no se fue. Quedó grabada en su memoria como una pregunta sin respuesta: el velo, los dos árboles, la figura al fondo, y la sensación de que lo oculto no está fuera, sino dentro, esperando que uno decida mirar.
+Runy siguió corriendo, pero la imagen no se fue: la figura sentada, el libro abierto, las tres coronas, y la certeza de que el conocimiento no es un tesoro escondido sino un texto disponible para quien aprende a mirar.
 
 El kilómetro seis apareció. Puesto de hidratación. Voluntarios. Agua.
 
@@ -457,19 +453,23 @@ El kilómetro ocho se acercaba. La ruta empezaba a girar hacia el sur, preparán
 
 Y entonces, en el separador de la avenida, lo vio.
 
-La figura de la capa oscura estaba de pie sobre el pasto, en una pequeña rotonda verde que dividía los carriles. Esta vez no estaba inmóvil. Tenía los brazos abiertos, abrazando el aire. A su alrededor, el pasto parecía más verde, las flores del separador más vivas. No había una vara, no había un velo, no había un hatillo. Solo los brazos abiertos y algo que Runy no podía definir: una sensación de plenitud que emanaba de la figura como el calor de una fogata.
+La figura de la capa oscura estaba sentada en una elevación de tierra que parecía un trono natural de pasto y raíces. Tenía la espalda recta y las manos apoyadas sobre las rodillas. En la mano derecha sostenía un cetro delgado, una vara que no era de metal ni de madera sino de algo que brillaba como luz solidificada.
 
-Pero había algo más.
+Pero lo que llamó la atención de Runy no fue el cetro.
 
-En el pecho de la figura, sobre la capa oscura, brillaba un adorno que Runy no había visto antes. Una joya. Una especie de medallón circular que reflejaba la luz del sol. Y alrededor de la cabeza de la figura, aunque no había nada físico, Runy vio —o creyó ver— un resplandor, como una corona de luz que no venía del sol sino de adentro.
+Eran las alas. Detrás de la figura, desplegadas desde los hombros, dos alas enormes que no se movían pero estaban ahí, abiertas, como las de un ave que no necesita volar porque ya está donde tiene que estar.
 
-La figura no lo miró. No hizo gesto. Pero con una claridad que lo dejó sin aliento, supo que los brazos abiertos no eran un abrazo al mundo. Eran una invitación. Una oferta. *Toma esto. Toma la tierra. Toma el cuerpo. Toma la vida entera y no la sueltes.*
+La figura llevaba una corona, pero no de metal. Estaba hecha de ramas entrelazadas, con hojas y pequeñas flores blancas que parecían frescas, recién nacidas.
+
+A los pies de la figura, el pasto crecía visiblemente, las flores se abrían, la tierra misma parecía respirar.
+
+Runy sintió que no podía apartar la mirada. La imagen no le transmitía autoridad. Le transmitía abundancia. No la ley. La vida misma. La naturaleza no como paisaje sino como fuerza creadora, como lo que crece sin permiso, lo que florece donde nadie sembró.
 
 Parpadeó.
 
 La rotonda estaba vacía.
 
-Pero el pasto seguía verde. Las flores seguían abiertas. Y algo había cambiado en él. Algo que no sabía nombrar pero que tenía que ver con la tierra bajo los pies y el sol en la cara y el hecho de estar vivo en un cuerpo que dolía y que a pesar de todo seguía moviéndose.
+Pero el pasto seguía verde. Las flores seguían abiertas. Y algo había cambiado en él. Algo que tenía que ver con la tierra bajo los pies, el sol en la cara, y el hecho de estar vivo en un cuerpo que dolía y que a pesar de todo seguía moviéndose.
 
 El kilómetro ocho apareció. Puesto de hidratación. Voluntarios. Agua.
 
@@ -665,23 +665,25 @@ No encontró respuesta. Pero la pregunta lo mantuvo en movimiento mientras el ki
 
 Y entonces, en el borde de la ruta, junto a un poste de luz, lo vio.
 
-El Enigmático estaba de pie, pero no solo. A su lado había una especie de estrado improvisado, una tarima baja de madera. Sobre la tarima, una silla. Y sobre la silla, una tela roja que caía hasta el suelo como un manto.
+El Enigmático estaba sentado en una silla que no estaba ahí un momento antes. La silla era simple, de madera oscura, con el respaldo recto. Pero lo que la hacía distinta era la tela roja que caía desde el asiento hasta el suelo, formando un pequeño estrado de color.
 
-La figura subió a la tarima con una lentitud ceremonial. Se sentó en la silla. Y entonces, con un gesto que Runy no había visto antes, levantó la mano derecha con dos dedos extendidos y los otros doblados, como en una bendición.
+La figura llevaba en la cabeza una corona de tres niveles. No una banda. Tres anillos de metal superpuestos, cada uno más pequeño que el anterior, como escalones hacia arriba.
 
-El gesto no iba dirigido a él. Iba dirigido a todo, a la carrera entera, a la ciudad, al cielo.
+En la mano derecha sostenía un bastón rematado por una cruz. Lo mantenía vertical, la punta apoyada en el suelo entre los pies.
 
-Pero sintió también que la bendición —si eso era— no era un deseo de bienestar. Era un recordatorio. Una señal de que hay palabras que se dicen desde antes de que existiera el lenguaje, gestos que se hacen desde antes de que existieran las manos.
+Y a los lados de la silla, arrodillados, había dos figuras pequeñas. No eran niños. Eran sombras con forma humana, siluetas sin rasgos, que miraban hacia la figura con una inclinación de respeto. La figura levantó la mano derecha —la que no sostenía el bastón— e hizo un gesto con dos dedos extendidos, bendiciendo a las dos siluetas.
 
-La figura levantó la otra mano. Ahora tenía las dos en alto, los dedos extendidos en el mismo gesto. Y entre las manos, suspendido en el aire, Runy vio —o creyó ver— un libro abierto. Un libro sin páginas. Un libro que no contenía palabras sino luz.
+Bendiciendo a la carrera entera.
+
+Runy sintió que el gesto no iba dirigido a él personalmente pero lo incluía. Era una transmisión. No de una doctrina sino de una continuidad: cosas que se dicen desde antes de que existiera el lenguaje, gestos que se hacen desde antes de que existieran las manos.
 
 Parpadeó.
 
-La tarima estaba vacía. La silla también. La tela roja seguía ahí, cayendo al suelo, pero la figura se había ido.
+La silla estaba vacía. La tela roja seguía ahí. Las siluetas también habían desaparecido.
 
-Runy no se detuvo. No miró atrás. Siguió corriendo, porque el kilómetro doce ya estaba ahí, y porque el gesto de las dos manos levantadas se le había grabado en la memoria como una pregunta que no necesitaba respuesta:
+Runy siguió corriendo, porque el kilómetro doce ya estaba ahí, y porque la imagen del bastón con la cruz, la triple corona y las dos figuras arrodilladas se le quedó grabada como una pregunta:
 
-*¿Qué voces escuchas?*
+*¿A quién escuchas? ¿Y a quién eliges seguir?*
 ---
 
 # VI. La elección (km 12–14)
@@ -992,15 +994,11 @@ Y los dos siguieron corriendo lado a lado, el viejo y el joven, la rodilla mala 
 
 El kilómetro dieciocho trajo al Enigmático, y esta vez la imagen era de una quietud que imponía.
 
-La figura estaba en el separador central, de pie, con los brazos extendidos a los lados. Pero no sostenía nada en las manos. A cada lado, suspendidos en el aire sin soporte visible, flotaban dos objetos.
+La figura estaba sentada en una silla pesada de respaldo recto, colocada en el separador central como si alguien la hubiera puesto allí para presidir la avenida. Tenía las rodillas juntas, la espalda erguida, y en la mano derecha sostenía una espada. No flotaba. La empuñaba firmemente, con la punta hacia arriba, como quien sostiene un eje del mundo.
 
-A la izquierda, una espada. No una espada real, sino la forma de una espada —una línea de luz blanca y recta— que se mantenía vertical, la punta hacia arriba.
+En la mano izquierda sostenía una balanza. No un dibujo en el aire. Una balanza real, de metal, con cadenas finas y dos platos que se mantenían perfectamente nivelados. La figura miraba la balanza, no a Runy. Miraba los platos como si estuviera pesando algo que nadie más podía ver.
 
-A la derecha, una balanza. Dos platos perfectamente nivelados, suspendidos en el vacío, sin cadena, sin mano que los sostuviera.
-
-La figura no miraba a Runy. Miraba al frente, con los brazos abiertos, presentando los dos objetos al mundo.
-
-La imagen le dijo algo que no necesitaba traducción. La espada corta. La balanza pesa. Pero la justicia no es una ley externa. Es una capacidad interna: la de ver con claridad, la de cortar lo que engaña, la de sostener el equilibrio entre lo que se siente y lo que se es.
+La imagen no le dijo nada. Se lo mostró. La justicia no es un ideal abstracto. Es una postura. Es sentarse y poner el cuerpo. Es sostener el filo con una mano y el equilibrio con la otra.
 
 Merleau-Ponty había dicho que percibir no es recibir pasivamente. Es un acto. El cuerpo sale al encuentro del mundo, lo interroga, lo equilibra constantemente entre lo que recibe y lo que da.
 
@@ -1010,9 +1008,7 @@ Runy parpadeó.
 
 El separador estaba vacío.
 
-Pero la imagen se quedó: la espada y la balanza flotando a los costados de la figura, la luz que corta la sombra, el equilibrio que no es quietud sino ajuste perpetuo.
-
-*La justicia no es del mundo*, pensó. *La justicia es lo que uno pone en el mundo. Lo que corta para ver claro. Lo que pesa para no engañarse.*
+Pero la imagen se quedó: la figura sentada, la espada en una mano, la balanza en la otra, y la certeza de que la justicia no es una ley que viene de afuera sino una capacidad que se ejercita. Y que hay que estar sentado, firme, para sostenerla.
 
 El kilómetro dieciocho apareció. Puesto de hidratación. Voluntarios. Agua.
 
@@ -1339,23 +1335,27 @@ Esa idea era a la vez liberadora y aterradora. Liberadora porque si el mundo era
 
 El kilómetro veintitrés y medio trajo al Enigmático, y esta vez la imagen era la más extraña de todas.
 
-La figura estaba en el separador central, de rodillas. Y frente a ella, tumbado en el pasto con la cabeza apoyada en el regazo de la figura, había un animal grande, de pelaje oscuro. Parecía un perro enorme, o un lobo, o tal vez un león. El animal estaba inmóvil, con los ojos cerrados, y la figura le pasaba una mano sobre la cabeza con una lentitud hipnótica. No había violencia. No había resistencia. La bestia estaba quieta, completamente rendida, no por miedo sino por confianza.
+La figura estaba en el separador central, de pie, con las piernas ligeramente separadas y los brazos extendidos hacia adelante. Las manos estaban abiertas, con los dedos curvados, y entre ellas sostenía las fauces abiertas de un león.
+
+El animal estaba de pie sobre sus patas traseras, enorme, el pelaje dorado brillando bajo el sol de la mañana. Tenía las fauces abiertas, mostrando los colmillos, y la figura —que era más pequeña que la bestia— sostenía la mandíbula superior con una mano y la inferior con la otra, sin esfuerzo aparente.
+
+No forcejeaban. El animal no resistía. La figura no temblaba. Era como si hubieran llegado a un acuerdo silencioso: la bestia podía abrir las fauces, y la figura podía sostenerlas, y las dos cosas podían suceder al mismo tiempo.
 
 La imagen lo atravesó.
 
-*La bestia domada*, pensó. *No a golpes. No a fuerza. A presencia.*
+*La fuerza no es dominar*, pensó. *La fuerza es sostener. Es mantener abierto lo que quiere cerrarse.*
 
-El animal abrió los ojos un instante. Eran amarillos. Pero no miraron a Runy. Miraron a la figura, y en esa mirada había algo que Runy no supo nombrar: paz, entrega, una forma de amor que no necesitaba palabras.
+El león movió la cabeza un milímetro. Los ojos amarillos miraron a Runy un instante. Pero no había amenaza en esa mirada. Solo reconocimiento.
 
 Runy parpadeó.
 
 El separador estaba vacío.
 
-Pero la imagen se quedó: la bestia salvaje descansando en el regazo de la figura, la mano que acariciaba sin apuro, la confianza absoluta de lo que ha dejado de luchar.
+Pero la imagen se quedó: la figura pequeña sosteniendo las fauces abiertas del animal, la fuerza que no aplasta sino que mantiene abierto, la bestia que permite que la sostengan porque sabe que no van a lastimarla.
 
-La voluntad de Schopenhauer era esa bestia. Ciega, inmensa, imparable. Pero no se doma reprimiéndola. Se doma reconociéndola. Corriendo con ella en lugar de contra ella.
+La voluntad de Schopenhauer era ese león. Ciega, inmensa, imparable. Pero no se doma reprimiéndola. Se la sostiene. Se la mira. Se corre con ella en lugar de contra ella.
 
-*No luches contra la voluntad*, pensó Runy. *No la niegues. Reconócela. Y entonces corre con ella.*
+*No luches contra la voluntad*, pensó Runy. *No la niegues. Ábrele las fauces. Y entonces corre con ella.*
 
 El kilómetro veinticuatro apareció. Puesto de hidratación. Voluntarios. Agua.
 
@@ -1559,25 +1559,25 @@ No era solo que la dirección hubiera cambiado. Era que todo se sentía distinto
 
 Y entonces, en el separador central, lo vio.
 
-El Enigmático estaba de pie, pero no era la misma figura de siempre. La capa seguía siendo la misma, pero algo en la postura había cambiado. La figura tenía los brazos cruzados sobre el pecho, y detrás de ella, en el aire, había una imagen que Runy no podía explicar.
+El Enigmático estaba de pie, pero era distinto. No llevaba la capa oscura de las otras veces. Lo que vestía era una túnica negra que le llegaba hasta los pies, y no tenía capucha. Su rostro era un cráneo. Hueso blanco, sin piel, sin ojos, sin nada que pudiera llamarse expresión. Pero la mandíbula del cráneo estaba abierta, como si sonriera o como si estuviera diciendo algo que no necesitaba sonido.
 
-Era como un amanecer. Pero no un amanecer real. Un amanecer que ocurría en el espacio de un segundo, con el sol elevándose y la luz expandiéndose y las montañas recortándose contra el cielo, todo en una fracción de tiempo que no debería haber contenido tanta información.
+En la mano derecha sostenía una guadaña. No era un arma. Era una herramienta. Una hoja larga y curva, montada en un mango de madera oscura, que descansaba contra el suelo como la guadaña de un campesino después de la cosecha.
 
-Y en el centro de ese amanecer, la figura sostenía algo. Una bandera. O un estandarte. Una tela blanca que colgaba de un asta corta, y en la tela, dibujada, había una flor. Una flor blanca con cinco pétalos, simple, casi infantil.
+Runy no sintió miedo. Eso fue lo que lo sorprendió. La imagen era directa, sin velos, sin metáforas. Pero no le daba miedo. Le daba claridad.
 
-La imagen no era una advertencia. Era una confirmación.
+*Esto se acaba*, pensó. *No la carrera. No la vida. Esto. La forma en que veías el mundo. La forma en que te aferrabas a lo que ya no necesitas.*
 
-*Esto se acaba*, pensó. *No la carrera. Esto. La forma en que veías el mundo.*
-
-La figura bajó el estandarte y lo plantó en el suelo. Y cuando lo soltó, el estandarte se quedó allí, erguido, como una marca en el camino.
+La figura levantó la guadaña. No la blandió. Simplemente la levantó, despacio, con un movimiento que no era amenazante. Era de exposición. De mostrar la herramienta no como un castigo sino como un hecho.
 
 Runy parpadeó.
 
-El Enigmático ya no estaba. Pero el estandarte seguía allí, en el separador, y marcaba algo más que un punto en la carretera.
+El separador estaba vacío.
 
-*Marcaba el lugar donde una cosa termina y otra empieza.*
+Pero la guadaña no se había ido del todo. Quedaba en su memoria, el filo curvo, el cráneo sin piel, la certeza de que la muerte no es el final de la carrera ni de la vida, sino el final de una forma de ver las cosas.
 
-Y siguió corriendo, porque el kilómetro veintiocho y medio estaba cerca, y porque sentía que algo en él se había roto para siempre, pero no sabía si era una pérdida o una liberación.
+*Lo que muere hoy es lo que ya no sirve.*
+
+Y siguió corriendo, porque el kilómetro veintiocho y medio estaba cerca, y porque sentía que algo en él se había roto, pero lo roto no era una pérdida sino una cáscara que ya no necesitaba.
 ---
 
 # XIV. La síntesis (km 28–30)
@@ -1805,33 +1805,29 @@ Pero los dos sabían que no era cierto.
 
 ***
 
-El Enigmático apareció en el separador de la avenida.
+El Enigmático apareció en el separador de la avenida. Pero esta vez la figura era distinta.
 
-La figura estaba inclinada hacia adelante, con las manos apoyadas sobre una roca grande que había en el pasto. De las muñecas colgaban cadenas. Cadenas gruesas, de metal oscuro, que caían hasta el suelo y se perdían entre la hierba.
+De la cabeza de la figura, bajo la capucha, sobresalían dos cuernos. No eran grandes. Eran cortos, retorcidos, como los de un carnero. La figura estaba de pie sobre una roca plana que funcionaba como un pedestal natural, y desde esa altura miraba hacia abajo.
 
-Pero las cadenas no estaban atadas a nada.
+A los pies de la roca, dos siluetas humanas estaban arrodilladas. Una a cada lado. De sus cuellos colgaban cadenas que subían hasta las manos de la figura, que las sostenía sin esfuerzo, como quien sujeta las riendas de animales que ya no oponen resistencia.
 
-Colgaban libres. Sueltas.
+Las cadenas no estaban sueltas. Estaban tensas.
 
-La imagen le devolvió algo que la voz del hombre de negro le había quitado.
+Pero las siluetas no forcejeaban. Miraban al frente, con la mirada vacía, como si hubieran olvidado que las cadenas existían.
 
-*Las cadenas no existen*, pensó. *Las cadenas son una decisión.*
+Runy sintió un escalofrío. No porque la imagen fuera aterradora. Porque la reconocía. Las siluetas tenían su misma postura. Su misma forma de estar quieto cuando el miedo lo paralizaba.
 
-La figura levantó la cabeza. Lo miró. No tenía rostro —la capucha ocultaba todo— pero Runy sintió la mirada.
+*Las cadenas existen*, pensó. *Pero no son de metal. Son de costumbre. De repetición. De creer que no hay otra opción.*
 
-*Lo que te ata no es él. Lo que te ata eres tú.*
+La figura levantó la cabeza. Lo miró. Los cuernos sobresalían de la capucha, y en la penumbra del rostro, Runy alcanzó a ver una sonrisa. No era malvada. Era triste.
 
-*Y lo que tú ataste, tú puedes soltarlo.*
+*Lo que te ata no es él*, dijo la figura. Sin voz. *Lo que te ata eres tú. Y lo que tú ataste, tú puedes soltarlo.*
 
 Pestañeó.
 
-La figura ya no estaba. La roca seguía ahí. Las cadenas también.
+La roca seguía ahí. Pero la figura había desaparecido. Los cuernos. Las cadenas. Las siluetas arrodilladas. Todo se había ido.
 
-Pero ahora colgaban sobre la hierba vacías, abandonadas.
-
-Algo se aflojó en su pecho. El miedo seguía ahí. La IA seguía ahí. Pero algo había cambiado: ya no creía que la cadena fuera real.
-
-Y siguió corriendo, con la imagen de las cadenas vacías grabada en la memoria, preguntándose qué más había inventado que no existía.
+Algo se aflojó en su pecho. El miedo seguía ahí. La IA seguía ahí. Pero ahora sabía que las cadenas no eran reales. Y lo que no es real, se puede soltar.
 ---
 
 # XVI. El derrumbe (km 32–34)

@@ -72,29 +72,27 @@ Y los dos siguieron corriendo lado a lado, el viejo y el joven, la rodilla mala 
 
 ***
 
-El kilómetro dieciocho trajo al Enigmático, y esta vez la imagen era de una quietud que imponía.
+El kilómetro dieciocho trajo al Enigmático, y esta vez la imagen era de una autoridad tranquila.
 
-La figura estaba en el separador central, de pie, con los brazos extendidos a los lados. Pero no sostenía nada en las manos. A cada lado, suspendidos en el aire sin soporte visible, flotaban dos objetos.
+La figura estaba sentada en el separador central. No había silla. La figura estaba sentada en el aire, las piernas juntas y ligeramente inclinadas, la espalda recta como si hubiera un trono invisible debajo.
 
-A la izquierda, una espada. No una espada real, sino la forma de una espada —una línea de luz blanca y recta— que se mantenía vertical, la punta hacia arriba.
+En la cabeza, ajustada sobre la capucha, una banda delgada de metal. Una corona sin pretensiones.
 
-A la derecha, una balanza. Dos platos perfectamente nivelados, suspendidos en el vacío, sin cadena, sin mano que los sostuviera.
+En la mano derecha sostenía una espada. No una espada de luz ni de fuego. Una espada real, de metal gris, con la punta apuntando hacia arriba. La sostenía con firmeza, sin amenaza, como quien sostiene una verdad que no necesita demostrarse.
 
-La figura no miraba a Runy. Miraba al frente, con los brazos abiertos, presentando los dos objetos al mundo.
+En la mano izquierda, una balanza. Pequeña, de dos platos de bronce, suspendidos de una cadena que la figura sostenía entre los dedos. Los platos estaban perfectamente nivelados. Ni un gramo de más. Ni un gramo de menos.
 
-La imagen le dijo algo que no necesitaba traducción. La espada corta. La balanza pesa. Pero la justicia no es una ley externa. Es una capacidad interna: la de ver con claridad, la de cortar lo que engaña, la de sostener el equilibrio entre lo que se siente y lo que se es.
+La figura no miraba a Runy. Miraba al frente, sosteniendo la espada y la balanza como si fueran la misma cosa: el peso y el filo de la verdad.
 
-Merleau-Ponty había dicho que percibir no es recibir pasivamente. Es un acto. El cuerpo sale al encuentro del mundo, lo interroga, lo equilibra constantemente entre lo que recibe y lo que da.
+Merleau-Ponty había dicho que percibir no es recibir pasivamente. Es un acto. El cuerpo sale al encuentro del mundo, lo interroga, lo pesa, lo corta.
 
-*Ver es juzgar*, pensó Runy. *Cada mirada es una balanza. Cada paso, un corte.*
+*La justicia no es un juicio externo*, pensó Runy. *Es la capacidad de ver con claridad. De sostener el equilibrio entre lo que se recibe y lo que se da.*
 
 Runy parpadeó.
 
 El separador estaba vacío.
 
-Pero la imagen se quedó: la espada y la balanza flotando a los costados de la figura, la luz que corta la sombra, el equilibrio que no es quietud sino ajuste perpetuo.
-
-*La justicia no es del mundo*, pensó. *La justicia es lo que uno pone en el mundo. Lo que corta para ver claro. Lo que pesa para no engañarse.*
+Pero la imagen se quedó: la figura sentada, la espada vertical, la balanza nivelada, la corona sin brillo, la certeza de que la justicia no se impone desde fuera sino que se sostiene desde dentro.
 
 El kilómetro dieciocho apareció. Puesto de hidratación. Voluntarios. Agua.
 

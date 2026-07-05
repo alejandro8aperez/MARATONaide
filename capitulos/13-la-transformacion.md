@@ -76,23 +76,25 @@ No era solo que la dirección hubiera cambiado. Era que todo se sentía distinto
 
 Y entonces, en el separador central, lo vio.
 
-El Enigmático estaba de pie, pero no era la misma figura de siempre. La capa seguía siendo la misma, pero algo en la postura había cambiado. La figura tenía los brazos cruzados sobre el pecho, y detrás de ella, en el aire, había una imagen que Runy no podía explicar.
+El Enigmático estaba de pie, pero no era la misma figura de siempre. Algo en la capa se había abierto, y Runy vio lo que había debajo.
 
-Era como un amanecer. Pero no un amanecer real. Un amanecer que ocurría en el espacio de un segundo, con el sol elevándose y la luz expandiéndose y las montañas recortándose contra el cielo, todo en una fracción de tiempo que no debería haber contenido tanta información.
+No había carne. No había ropa. Había huesos. Una calavera donde debía estar el rostro, las cuencas vacías mirando al frente. Las manos eran hueso, los dedos largos y blancos, sin piel que los cubriera.
 
-Y en el centro de ese amanecer, la figura sostenía algo. Una bandera. O un estandarte. Una tela blanca que colgaba de un asta corta, y en la tela, dibujada, había una flor. Una flor blanca con cinco pétalos, simple, casi infantil.
+Y en esas manos de hueso sostenía una guadaña. No una guadaña decorativa. Una guadaña de metal gris, con una hoja curva que brillaba sin reflejar nada, como si absorbiera la luz en lugar de devolverla.
 
-La imagen no era una advertencia. Era una confirmación.
+A los pies de la figura, esparcidos sobre el pasto, había fragmentos de lo que parecían cosas rotas. Una flor marchita. Una hoja seca. Una zapatilla vieja. Un reloj detenido. No eran objetos amenazantes. Eran restos. Lo que queda cuando algo termina.
 
-*Esto se acaba*, pensó. *No la carrera. Esto. La forma en que veías el mundo.*
+La imagen no era violenta. Era serena.
 
-La figura bajó el estandarte y lo plantó en el suelo. Y cuando lo soltó, el estandarte se quedó allí, erguido, como una marca en el camino.
+*Esto se acaba*, pensó. *No la carrera. No la vida. Esto. La forma en que veías el mundo. Eso tiene que morir.*
+
+La figura no hizo gesto. No levantó la guadaña. No avanzó. Solo estaba allí, los huesos blancos bajo la capa, la guadaña quieta, los restos a los pies, recordándole que todo lo que termina deja espacio para lo que viene.
 
 Runy parpadeó.
 
-El Enigmático ya no estaba. Pero el estandarte seguía allí, en el separador, y marcaba algo más que un punto en la carretera.
+El separador estaba vacío. La guadaña, los huesos, los restos, todo había desaparecido.
 
-*Marcaba el lugar donde una cosa termina y otra empieza.*
+Pero la certeza quedó: algo tenía que morir para que algo pudiera nacer. Y lo que tenía que morir era él. No su cuerpo. La versión de él que ya no servía.
 
 Y siguió corriendo, porque el kilómetro veintiocho y medio estaba cerca, y porque sentía que algo en él se había roto para siempre, pero no sabía si era una pérdida o una liberación.
 ---

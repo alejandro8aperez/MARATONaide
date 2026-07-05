@@ -76,21 +76,23 @@ No encontró respuesta. Pero la pregunta lo mantuvo en movimiento mientras el ki
 
 Y entonces, en el borde de la ruta, junto a un poste de luz, lo vio.
 
-El Enigmático estaba de pie, pero no solo. A su lado había una especie de estrado improvisado, una tarima baja de madera. Sobre la tarima, una silla. Y sobre la silla, una tela roja que caía hasta el suelo como un manto.
+El Enigmático estaba sentado en una silla que no estaba ahí un momento antes. La silla era simple, de madera oscura, con el respaldo recto. Pero lo que la hacía distinta era la tela roja que caía desde el asiento hasta el suelo, formando un pequeño estrado de color.
 
-La figura subió a la tarima con una lentitud ceremonial. Se sentó en la silla. Y entonces, con un gesto que Runy no había visto antes, levantó la mano derecha con dos dedos extendidos y los otros doblados, como en una bendición.
+La figura llevaba en la cabeza una corona de tres niveles. No una banda. Tres anillos de metal superpuestos, cada uno más pequeño que el anterior, como escalones hacia arriba.
 
-El gesto no iba dirigido a él. Iba dirigido a todo, a la carrera entera, a la ciudad, al cielo.
+En la mano derecha sostenía un bastón rematado por una cruz. Lo mantenía vertical, la punta apoyada en el suelo entre los pies.
 
-Pero sintió también que la bendición —si eso era— no era un deseo de bienestar. Era un recordatorio. Una señal de que hay palabras que se dicen desde antes de que existiera el lenguaje, gestos que se hacen desde antes de que existieran las manos.
+Y a los lados de la silla, arrodillados, había dos figuras pequeñas. No eran niños. Eran sombras con forma humana, siluetas sin rasgos, que miraban hacia la figura con una inclinación de respeto. La figura levantó la mano derecha —la que no sostenía el bastón— e hizo un gesto con dos dedos extendidos, bendiciendo a las dos siluetas.
 
-La figura levantó la otra mano. Ahora tenía las dos en alto, los dedos extendidos en el mismo gesto. Y entre las manos, suspendido en el aire, Runy vio —o creyó ver— un libro abierto. Un libro sin páginas. Un libro que no contenía palabras sino luz.
+Bendiciendo a la carrera entera.
+
+Runy sintió que el gesto no iba dirigido a él personalmente pero lo incluía. Era una transmisión. No de una doctrina sino de una continuidad: cosas que se dicen desde antes de que existiera el lenguaje, gestos que se hacen desde antes de que existieran las manos.
 
 Parpadeó.
 
-La tarima estaba vacía. La silla también. La tela roja seguía ahí, cayendo al suelo, pero la figura se había ido.
+La silla estaba vacía. La tela roja seguía ahí. Las siluetas también habían desaparecido.
 
-Runy no se detuvo. No miró atrás. Siguió corriendo, porque el kilómetro doce ya estaba ahí, y porque el gesto de las dos manos levantadas se le había grabado en la memoria como una pregunta que no necesitaba respuesta:
+Runy siguió corriendo, porque el kilómetro doce ya estaba ahí, y porque la imagen del bastón con la cruz, la triple corona y las dos figuras arrodilladas se le quedó grabada como una pregunta:
 
-*¿Qué voces escuchas?*
+*¿A quién escuchas? ¿Y a quién eliges seguir?*
 ---

@@ -32,37 +32,33 @@ La respuesta era insuficiente y perfecta al mismo tiempo.
 
 El kilómetro treinta y siete y medio trajo al Enigmático.
 
-Pero esta vez la figura no estaba en un solo lugar. Runy la veía en todas partes. En las sombras de los árboles. En los reflejos de los vidrios de los edificios. En el movimiento de la ropa de los corredores que pasaban.
+La figura estaba de pie en el separador de la avenida. Pero a sus costados, como si hubieran crecido de la tierra, se alzaban dos torres delgadas. No eran de piedra. Eran de sombra, de silueta, dos bloques oscuros que se elevaban hacia el cielo como columnas de una puerta que no llevaba a ninguna parte.
 
-La figura se movía con ellos, alrededor de ellos, estaba en todos lados y en ninguno.
+Entre las dos torres, colgando en el cielo, había una luna. No era la luna real. Era una luna llena, enorme, y en su superficie Runy veía un rostro. Dos ojos. Una boca entreabierta. La luna lo miraba.
 
-Y en el cielo, aunque era de día, Runy veía una luna. Una luna enorme, pálida, que colgaba sobre la ciudad como un ojo abierto.
+Al pie de las torres, dos perros aullaban. No se movían. Estaban inmóviles, con el hocico levantado hacia la luna, las orejas hacia atrás, como estatuas de un dolor que no cesaba.
 
-Pero la luna no iluminaba. La luna distorsionaba.
+Y en el suelo, entre los perros, algo se movía. Un cangrejo pequeño salía de un charco de agua que no estaba ahí antes. Caminaba de lado, arrastrándose hacia la nada, y su sombra era más grande que su cuerpo.
 
-Runy veía cosas que no estaban ahí. Corredores que desaparecían y reaparecían. Calles que se alargaban y acortaban. La meta que aparecía a lo lejos y luego se esfumaba.
+La imagen completa era un acertijo. Las torres. La luna con cara. Los perros aullando. El cangrejo avanzando de lado. Todo parecía decir: *nada es lo que parece. Lo que ves está distorsionado por la luz que no alumbra.*
 
 —¿Ves eso? —preguntó a Valentina.
 
 —¿Qué?
 
-Runy señaló la luna.
+Runy señaló las torres. La luna. Los perros.
 
-Valentina miró hacia arriba.
+Valentina siguió su mirada.
 
 —No veo nada —dijo.
 
 Y Runy supo que la visión era solo para él.
 
-El Enigmático apareció frente a él, a pocos metros. La figura levantó una mano y Runy vio que en la palma había un ojo. Un ojo abierto, que lo miraba.
-
-*No todo lo que ves es real*, dijo la figura. Sin voz. Sin palabras. La idea apareció directamente en su cabeza.
-
-*Pero lo que sientes sí.*
+*No todo lo que ves es real*, supo. *Pero la ilusión también es parte del camino.*
 
 Pestañeó.
 
-La figura ya no estaba. La luna tampoco. Solo la carretera, el sol, Valentina.
+Las torres se habían ido. La luna, los perros, el cangrejo. Solo el separador vacío, el sol, Valentina.
 
 —¿Estás bien? —preguntó ella.
 

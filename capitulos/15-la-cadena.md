@@ -140,31 +140,27 @@ Pero los dos sabían que no era cierto.
 
 ***
 
-El Enigmático apareció en el separador de la avenida.
+El Enigmático apareció en el separador de la avenida. Pero esta vez la figura era distinta.
 
-La figura estaba inclinada hacia adelante, con las manos apoyadas sobre una roca grande que había en el pasto. De las muñecas colgaban cadenas. Cadenas gruesas, de metal oscuro, que caían hasta el suelo y se perdían entre la hierba.
+De la cabeza de la figura, bajo la capucha, sobresalían dos cuernos. No eran grandes. Eran cortos, retorcidos, como los de un carnero. La figura estaba de pie sobre una roca plana que funcionaba como un pedestal natural, y desde esa altura miraba hacia abajo.
 
-Pero las cadenas no estaban atadas a nada.
+A los pies de la roca, dos siluetas humanas estaban arrodilladas. Una a cada lado. De sus cuellos colgaban cadenas que subían hasta las manos de la figura, que las sostenía sin esfuerzo, como quien sujeta las riendas de animales que ya no oponen resistencia.
 
-Colgaban libres. Sueltas.
+Las cadenas no estaban sueltas. Estaban tensas.
 
-La imagen le devolvió algo que la voz del hombre de negro le había quitado.
+Pero las siluetas no forcejeaban. Miraban al frente, con la mirada vacía, como si hubieran olvidado que las cadenas existían.
 
-*Las cadenas no existen*, pensó. *Las cadenas son una decisión.*
+Runy sintió un escalofrío. No porque la imagen fuera aterradora. Porque la reconocía. Las siluetas tenían su misma postura. Su misma forma de estar quieto cuando el miedo lo paralizaba.
 
-La figura levantó la cabeza. Lo miró. No tenía rostro —la capucha ocultaba todo— pero Runy sintió la mirada.
+*Las cadenas existen*, pensó. *Pero no son de metal. Son de costumbre. De repetición. De creer que no hay otra opción.*
 
-*Lo que te ata no es él. Lo que te ata eres tú.*
+La figura levantó la cabeza. Lo miró. Los cuernos sobresalían de la capucha, y en la penumbra del rostro, Runy alcanzó a ver una sonrisa. No era malvada. Era triste.
 
-*Y lo que tú ataste, tú puedes soltarlo.*
+*Lo que te ata no es él*, dijo la figura. Sin voz. *Lo que te ata eres tú. Y lo que tú ataste, tú puedes soltarlo.*
 
 Pestañeó.
 
-La figura ya no estaba. La roca seguía ahí. Las cadenas también.
+La roca seguía ahí. Pero la figura había desaparecido. Los cuernos. Las cadenas. Las siluetas arrodilladas. Todo se había ido.
 
-Pero ahora colgaban sobre la hierba vacías, abandonadas.
-
-Algo se aflojó en su pecho. El miedo seguía ahí. La IA seguía ahí. Pero algo había cambiado: ya no creía que la cadena fuera real.
-
-Y siguió corriendo, con la imagen de las cadenas vacías grabada en la memoria, preguntándose qué más había inventado que no existía.
+Algo se aflojó en su pecho. El miedo seguía ahí. La IA seguía ahí. Pero ahora sabía que las cadenas no eran reales. Y lo que no es real, se puede soltar.
 ---

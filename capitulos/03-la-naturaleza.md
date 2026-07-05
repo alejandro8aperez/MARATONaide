@@ -70,19 +70,23 @@ El kilómetro ocho se acercaba. La ruta empezaba a girar hacia el sur, preparán
 
 Y entonces, en el separador de la avenida, lo vio.
 
-La figura de la capa oscura estaba de pie sobre el pasto, en una pequeña rotonda verde que dividía los carriles. Esta vez no estaba inmóvil. Tenía los brazos abiertos, abrazando el aire. A su alrededor, el pasto parecía más verde, las flores del separador más vivas. No había una vara, no había un velo, no había un hatillo. Solo los brazos abiertos y algo que Runy no podía definir: una sensación de plenitud que emanaba de la figura como el calor de una fogata.
+La figura de la capa oscura estaba sentada en una elevación de tierra que parecía un trono natural de pasto y raíces. Tenía la espalda recta y las manos apoyadas sobre las rodillas. En la mano derecha sostenía un cetro delgado, una vara que no era de metal ni de madera sino de algo que brillaba como luz solidificada.
 
-Pero había algo más.
+Pero lo que llamó la atención de Runy no fue el cetro.
 
-En el pecho de la figura, sobre la capa oscura, brillaba un adorno que Runy no había visto antes. Una joya. Una especie de medallón circular que reflejaba la luz del sol. Y alrededor de la cabeza de la figura, aunque no había nada físico, Runy vio —o creyó ver— un resplandor, como una corona de luz que no venía del sol sino de adentro.
+Eran las alas. Detrás de la figura, desplegadas desde los hombros, dos alas enormes que no se movían pero estaban ahí, abiertas, como las de un ave que no necesita volar porque ya está donde tiene que estar.
 
-La figura no lo miró. No hizo gesto. Pero con una claridad que lo dejó sin aliento, supo que los brazos abiertos no eran un abrazo al mundo. Eran una invitación. Una oferta. *Toma esto. Toma la tierra. Toma el cuerpo. Toma la vida entera y no la sueltes.*
+La figura llevaba una corona, pero no de metal. Estaba hecha de ramas entrelazadas, con hojas y pequeñas flores blancas que parecían frescas, recién nacidas.
+
+A los pies de la figura, el pasto crecía visiblemente, las flores se abrían, la tierra misma parecía respirar.
+
+Runy sintió que no podía apartar la mirada. La imagen no le transmitía autoridad. Le transmitía abundancia. No la ley. La vida misma. La naturaleza no como paisaje sino como fuerza creadora, como lo que crece sin permiso, lo que florece donde nadie sembró.
 
 Parpadeó.
 
 La rotonda estaba vacía.
 
-Pero el pasto seguía verde. Las flores seguían abiertas. Y algo había cambiado en él. Algo que no sabía nombrar pero que tenía que ver con la tierra bajo los pies y el sol en la cara y el hecho de estar vivo en un cuerpo que dolía y que a pesar de todo seguía moviéndose.
+Pero el pasto seguía verde. Las flores seguían abiertas. Y algo había cambiado en él. Algo que tenía que ver con la tierra bajo los pies, el sol en la cara, y el hecho de estar vivo en un cuerpo que dolía y que a pesar de todo seguía moviéndose.
 
 El kilómetro ocho apareció. Puesto de hidratación. Voluntarios. Agua.
 
