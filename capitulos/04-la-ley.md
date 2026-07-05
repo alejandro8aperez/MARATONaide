@@ -10,7 +10,7 @@ El kilómetro nueve trajo un pensamiento incómodo.
 
 *Todo esto tiene una forma*, pensó Runy. *La ruta está trazada. Los kilómetros están marcados. Hay reglas, hay jueces, hay un tiempo límite. Correr es obedecer.*
 
-La palabra le quedó resonando. Obedecer.
+La palabra le quedó resonando. Obedecer. Y si fuera Obediencia, Pobreza y Castidad.
 
 Nietzsche había hablado de dos tipos de moral. La de los amos, que crean sus propios valores. Y la de los esclavos, que reciben los valores de otros y los llaman virtud. Runy nunca había estado seguro de en qué categoría encajaba. Corría porque quería, pero también corría dentro de unas líneas pintadas en el asfalto, dentro de un tiempo que otros habían fijado, bajo reglas que no había elegido.
 
@@ -70,7 +70,7 @@ Esta vez no estaba al borde del camino ni en un separador. Estaba en medio de la
 
 No parecía incongruente. Parecía —y esto era lo más extraño— que la silla fuera un trono.
 
-Runy se acercó, el semáforo aún en rojo. A su alrededor, los corredores aprovechaban para beber agua, estirar, ajustarse las zapatillas. Nadie miraba a la figura. Nadie parecía verla.
+Runy se acercó. A su alrededor, los corredores aprovechaban para beber agua, estirar, ajustarse las zapatillas. Nadie miraba a la figura. Nadie parecía verla.
 
 Runy sí.
 
