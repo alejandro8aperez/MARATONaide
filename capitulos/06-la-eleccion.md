@@ -4,9 +4,9 @@ El kilómetro doce trajo un cambio de paisaje y de ánimo.
 
 La Avenida Las Vegas se estiraba hacia el sur en una recta larga que parecía no tener fin. A los lados, los edificios de oficinas daban paso a conjuntos residenciales, y el aire se volvía más limpio, la ciudad quedándose atrás. Entraba en otro territorio, no solo geográfico sino mental. Algo en la recta interminable lo empujaba a mirar hacia adelante y a preguntarse, por primera vez en kilómetros, si realmente iba a llegar.
 
-*Medio maratón está cerca*, pensó. *Trece kilómetros. La mitad.*
+*Medio maratón está cerca*, pensó. *Trece kilómetros. Ya casi.*
 
-La mitad. La palabra le sonaba a promesa y a amenaza al mismo tiempo.
+Ya casi. La palabra le sonaba a promesa y a amenaza al mismo tiempo.
 
 Epicteto había nacido esclavo. Runy lo sabía porque había leído su historia en un libro prestado, hacía años, en una biblioteca universitaria. Había nacido esclavo en Frigia, había cojeado de una pierna toda la vida, y sin embargo había escrito algunas de las ideas más libres que Runy había encontrado.
 
@@ -26,7 +26,7 @@ Runy lo sintió antes de verlo: una presencia a su espalda, un ritmo de respirac
 
 Runy miró por encima del hombro.
 
-El hombre corriendo detrás de él era grande. No gordo, grande. Hombros anchos, piernas gruesas, una masa que se movía con una eficiencia que parecía imposible para su tamaño. Vestía de negro de pies a cabeza: pantalón negro, camiseta negra, zapatillas negras. El dorsal en el pecho era lo único blanco. La cara era ancha, sin expresión, con ojos pequeños que miraban fijamente hacia adelante.
+El hombre corriendo detrás de él era grande. No gordo, grande. Hombros anchos, piernas gruesas, una masa que se movía con una eficiencia que parecía imposible para su tamaño. Vestía de negro de pies a cabeza: pantalón negro, camiseta negra, zapatillas negras. El dorsal en el pecho era lo único blanco. El número 6667 repuntaba. La cara era ancha, sin expresión, con ojos pequeños que miraban fijamente hacia adelante.
 
 Runy sintió un escalofrío que no venía del aire.
 
@@ -36,7 +36,7 @@ Runy aceleró instintivamente. El hombre también.
 
 Corrió unos metros más rápido. El hombre igualó el paso sin esfuerzo.
 
-—Tranquilo —se dijo Runy—. Estás imaginando cosas.
+—Tranquilo —se dijo Runy—. Estás imaginando cosas. Debe ser el residuo blanquecino de una media de aguardiente que se tomó hace 3 meses y ahora surte sus efectos.
 
 Pero no podía sacarse de encima la sensación de que el hombre negro no estaba allí por casualidad. De que corría detrás de él con un propósito que Runy no entendía.
 
@@ -80,13 +80,15 @@ No era un evento. Era una sensación. Una certeza que crecía en el pecho de Run
 
 *Todo está conectado*, pensó. *No sé cómo, pero todo está conectado.*
 
+Algunas veces se debe de salir con una navaja por protección por si acaso. Este era el lugar. Pero no tengo protección, solo una botella de plástico sin filo por ningún lado.
+
 Y entonces, mientras el sol se elevaba un poco más y el asfalto empezaba a calentarse bajo sus pies, Runy entendió que el resto de la carrera no iba a ser solo una cuestión de piernas y pulmones. Iba a ser una cuestión de algo más. Algo que no tenía nombre.
 
 No sabía si iba a terminar. No sabía si quería.
 
 Pero sabía, con la certeza de Epicteto, que podía elegir cómo enfrentarlo.
 
-El kilómetro catorce apareció. Puesto de hidratación. Voluntarios. Agua.
+El kilómetro catorce apareció.
 
-Runy bebió, miró hacia atrás, y siguió corriendo.
+Runy bebió agua, miró hacia atrás, y siguió corriendo.
 ---
