@@ -2,7 +2,7 @@
 
 La salida fue un animal.
 
-Runy lo sintió en la espalda antes de verlo: una presión que venía de atrás, un empuje colectivo de miles de cuerpos que se movían al mismo tiempo, como una sola bestia con mil piernas y un solo propósito. Los primeros metros fueron de supervivencia. Codos, hombros, zancadas que se pisaban unas a otras. Una mujer a su izquierda casi tropieza con un cono. Un hombre adelante se detuvo en seco para atarse una agujeta y casi lo derriban.
+Runy lo sintió en la espalda antes de verlo: una presión que venía de atrás, un empuje colectivo de miles de cuerpos que se movían al mismo tiempo, como una sola bestia con mil piernas y un solo propósito. Los primeros metros fueron de supervivencia. Codos, hombros, zancadas que se pisaban unas a otras. Una mujer a su izquierda casi tropieza con un cono. Un hombre adelante se detuvo en seco para atarse los cordones de los tenis y casi lo derriban.
 
 —¡Cuidado! —gritó alguien.
 
@@ -20,7 +20,7 @@ El absurdo, pensó. Esto es el absurdo. No la carrera, sino la sonrisa.
 
 Camus decía que el absurdo nace del choque entre la necesidad humana de sentido y el silencio del universo. El hombre pregunta *¿por qué?* y el universo no responde. Y de ese silencio nace todo: la angustia, la rebeldía, la libertad.
 
-Runy sintió ese silencio en el primer kilómetro. No había respuesta para lo que estaba haciendo. No había una razón última. Había solo el hecho de correr, el ruido de las zapatillas contra el asfalto, el aire entrando y saliendo, el sudor que empezaba a formarse en la nuca.
+Runy sintió ese silencio en el primer kilómetro. No había respuesta para lo que estaba haciendo. No había una razón última. Había solo el hecho de correr, el ruido de las tenis contra el asfalto, el aire entrando y saliendo, el sudor que empezaba a formarse en la nuca.
 
 *¿Por qué corro?*
 
@@ -42,7 +42,7 @@ Runy aceleró un poco, no para alcanzarla, sino para mantenerse a la distancia j
 
 ***
 
-El kilómetro dos se acercaba. Runy lo sintió en las piernas, en la respiración que empezaba a pedir un ritmo más constante. El primer puesto de hidratación apareció a lo lejos, un grupo de voluntarios con mesas plegables y vasos de agua alineados como soldados.
+El kilómetro dos se acercaba. Runy lo sintió en las piernas, en la respiración que empezaba a pedir un ritmo más constante. El primer puesto de hidratación apareció a lo lejos, un grupo de voluntarios con mesas plegables y botellitas de agua alineados como soldados.
 
 Y entonces, al borde del camino, lo vio.
 
@@ -50,7 +50,7 @@ No esta vez entre las columnas de una plaza, sino junto a un árbol. Una figura 
 
 La misma capa oscura.
 
-Pero esta vez la capa no cubría del todo. Runy alcanzó a ver, por un instante, lo que la figura sostenía entre las manos: un hatillo pequeño, atado a un palo, como los que cargan los viajeros antiguos. Y a sus pies, sentado en silencio, había un perro. Un animal flaco, de mirada tranquila, que observaba a los corredores pasar sin el menor interés.
+Pero esta vez la capa no cubría del todo. Runy alcanzó a ver, por un instante, lo que la figura sostenía entre las manos: un hatillo pequeño, atado a un palo, como los que cargan los viajeros antiguos. Y a sus pies, sentado en silencio, había un perro. Un animal flaco, de mirada tranquila, que observaba a los corredores pasar sin el menor interés. Un verdadero firulais paisa.
 
 Runy parpadeó.
 
@@ -62,8 +62,8 @@ Pero cuando Runy volvió a mirar, después de esquivar a un corredor que frenó 
 
 Pero sabía que sí. Sabía que lo había visto. Y sabía también que no podía detenerse a pensar en ello, porque el kilómetro dos estaba apareciendo a su lado, marcado por un letrero amarillo y un grupo de voluntarios que aplaudían sin saber por qué.
 
-Runy agarró un vaso de agua, bebió la mitad y se lanzó el resto en la cabeza.
+Runy agarró una botella de agua, bebió la mitad y se lanzó el resto en la cabeza.
 
-—Estoy perdiendo la cabeza —dijo.
+—Estoy perdiendo la cabeza —dijo, este es el kilómetro 2 y ya estoy alucinando.
 
 Y sonrió, porque la frase también era absurda, y porque Camus tenía razón: uno tiene que imaginarse a Sísifo feliz, y también al loco que sonríe mientras corre hacia ninguna parte con un perro imaginario pisándole los talones.
