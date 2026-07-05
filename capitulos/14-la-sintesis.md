@@ -2,9 +2,9 @@
 
 El kilómetro veintiocho y medio trajo el retorno oficial.
 
-Un letrero amarillo marcaba el punto exacto donde la ruta giraba para empezar el regreso. Runy lo vio y sintió algo que no esperaba: no alivio, sino una conciencia más aguda de lo que había hecho. Había llegado al extremo sur. Había tocado el fondo del valle. Y ahora, cada paso lo acercaba a casa.
+Un letrero amarillo marcaba el punto exacto donde la ruta giraba para empezar el regreso. Runy lo vio y sintió algo que no esperaba: no alivio, sino una conciencia más aguda de lo que había hecho. Había llegado al extremo sur. Había tocado el fondo del valle. Y ahora, cada paso lo acercaba al inicio.
 
-Pero *casa* era una palabra extraña en ese contexto. Casa era la meta. Casa era el final. Casa era un lugar al que no sabía si iba a llegar.
+Pero *inicio* era una palabra extraña en ese contexto. El inicio era la meta. El inicio era el final. El inicio era un lugar al que no sabía si iba a llegar.
 
 La bajada empezó suavemente. Las piernas, que habían estado empujando contra la gravedad durante ocho kilómetros, de repente tenían que frenar. Era un esfuerzo distinto, más sutil, que quemaba los cuádriceps de una manera nueva.
 
