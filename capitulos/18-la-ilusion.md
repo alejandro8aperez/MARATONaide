@@ -56,7 +56,7 @@ Y Runy supo que la visión era solo para él.
 
 *No todo lo que ves es real*, supo. *Pero la ilusión también es parte del camino.*
 
-Pestañeó.
+Parpadeó.
 
 Las torres se habían ido. La luna, los perros, el cangrejo. Solo el separador vacío, el sol, Valentina.
 

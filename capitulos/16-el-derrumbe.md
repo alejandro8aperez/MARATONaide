@@ -190,7 +190,7 @@ La imagen le hablaba directamente.
 
 *Y vas a tener que decidir si construyes otra cosa o te quedas sentado.*
 
-Pestañeó.
+Parpadeó.
 
 La torre ya no estaba. El Enigmático tampoco.
 

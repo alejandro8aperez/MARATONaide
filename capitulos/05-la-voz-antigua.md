@@ -58,7 +58,7 @@ La idea lo atravesó como una corriente.
 
 La voz antigua, la de toda la vida, no se calló. Pero por primera vez, Runy escuchó otra cosa encima de ella: un zumbido que era el silencio del universo, el mismo silencio que Camus había descrito, el silencio que no responde porque no tiene nada que decir.
 
-Y en ese silencio, Podía elegir.
+Y en ese silencio, podía elegir.
 
 No sabía qué iba a elegir. Pero sabía que podía.
 

@@ -26,7 +26,7 @@ Runy lo sintió antes de verlo: una presencia a su espalda, un ritmo de respirac
 
 Runy miró por encima del hombro.
 
-El hombre corriendo detrás de él era grande. No gordo, grande. Hombros anchos, piernas gruesas, una masa que se movía con una eficiencia que parecía imposible para su tamaño. Vestía de negro de pies a cabeza: pantalón negro, camiseta negra, zapatillas negras. El dorsal en el pecho era lo único blanco. El número 6667 repuntaba. La cara era ancha, sin expresión, con ojos pequeños que miraban fijamente hacia adelante.
+El hombre corriendo detrás de él era grande. No gordo, grande. Hombros anchos, piernas gruesas, una masa que se movía con una eficiencia que parecía imposible para su tamaño. Vestía de negro de pies a cabeza: pantalón negro, camiseta negra, zapatillas negras. El dorsal en el pecho era lo único blanco. El número 6667 destacaba, nítido sobre la tela oscura. La cara era ancha, sin expresión, con ojos pequeños que miraban fijamente hacia adelante.
 
 Runy sintió un escalofrío que no venía del aire.
 
@@ -80,7 +80,7 @@ No era un evento. Era una sensación. Una certeza que crecía en el pecho de Run
 
 *Todo está conectado*, pensó. *No sé cómo, pero todo está conectado.*
 
-Algunas veces se debe de salir con una navaja por protección por si acaso. Este era el lugar. Pero no tengo protección, solo una botella de plástico sin filo por ningún lado.
+Alguna vez había pensado que convenía salir a correr con algo con qué defenderse. Una navaja, algo. Nunca lo había hecho. Ahora, en este tramo, con el hombre de negro pisándole los talones, entendió que no tenía nada. Solo una botella de plástico, sin filo por ningún lado, inútil contra lo que fuera que corría detrás de él.
 
 Y entonces, mientras el sol se elevaba un poco más y el asfalto empezaba a calentarse bajo sus pies, Runy entendió que el resto de la carrera no iba a ser solo una cuestión de piernas y pulmones. Iba a ser una cuestión de algo más. Algo que no tenía nombre.
 

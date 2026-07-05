@@ -54,7 +54,7 @@ Y en el centro de esa luz, la figura lo miró.
 
 Y era cierto.
 
-Pestañeó.
+Parpadeó.
 
 La figura ya no estaba. Pero la luz seguía. La luz estaba en todas partes.
 

@@ -78,7 +78,7 @@ La imagen le devolvió algo que había perdido en el kilómetro anterior.
 
 *El agua sigue fluyendo. Las estrellas siguen brillando. La carrera sigue.*
 
-Pestañeó.
+Parpadeó.
 
 La figura ya no estaba. Pero en el caño, el agua seguía corriendo. Y esa agua era suficiente.
 

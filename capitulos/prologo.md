@@ -16,7 +16,7 @@ Eran las cuatro y cuarenta y siete de la mañana cuando abrió los ojos del todo
 
 Runy se sentó en el borde de la cama. La cama estaba hecha. No había dormido bien, o tal vez sí, tal vez había dormido demasiado, porque el sueño del camino seguía pegado a la memoria como una telaraña que no termina de desprenderse.
 
-El dorsal número 2038 estaba doblado sobre la mesita de noche. Lo había mirado doce veces desde las tres de la mañana, esperando que el número cambiara, esperando que alguien llamara para decirle que la maratón se había cancelado, que todo había sido un malentendido, que podía volver a la cama y seguir durmiendo. Qué número tan raro. Será la fecha de defunción o la de todos los seres humanos debido al calentamiento global. ¿Acaso será la fecha en que caducaron las maratones porque las rodillas se rebelaron?
+El dorsal número 2038 estaba doblado sobre la mesita de noche. Lo había mirado doce veces desde las tres de la mañana, esperando que el número cambiara, esperando que alguien llamara para decirle que la maratón se había cancelado, que todo había sido un malentendido, que podía volver a la cama y seguir durmiendo. Qué número tan raro, pensó. Como si alguien lo hubiera elegido para él mucho antes de que él supiera que iba a necesitarlo.
 
 Nadie llamó.
 
@@ -28,7 +28,7 @@ El agua del baño salió tibia primero, después fría, después tibia otra vez,
 
 Guardó el dorsal en el bolsillo trasero. Se ató las zapatillas y las desató tres veces antes de volvérselas a atar, en un ritual que no tenía nombre pero que le daba la ilusión de control.
 
-Bajó en ascensor con un hombre que cargaba una bolsa de plástico con dos naranjas y una botella de agua o de champaña… será la champaña con la que celebrará en la tarde comiendo banano al terminar el maratón.
+Bajó en ascensor con un hombre que cargaba una bolsa de plástico con dos naranjas y una botella de agua. Se preguntó si el hombre también iba a correr, o si solo bajaba a comprarle el desayuno a alguien que sí lo haría.
 
 En la recepción del hotel, una señora de uniforme le deseó suerte. Le dio una sonrisa que era sincera o profesional, no se sabía. Runy le agradeció sin detenerse.
 

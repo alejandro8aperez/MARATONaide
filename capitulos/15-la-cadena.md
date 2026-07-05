@@ -158,7 +158,7 @@ La figura levantó la cabeza. Lo miró. Los cuernos sobresalían de la capucha, 
 
 *Lo que te ata no es él*, dijo la figura. Sin voz. *Lo que te ata eres tú. Y lo que tú ataste, tú puedes soltarlo.*
 
-Pestañeó.
+Parpadeó.
 
 La roca seguía ahí. Pero la figura había desaparecido. Los cuernos. Las cadenas. Las siluetas arrodilladas. Todo se había ido.
 

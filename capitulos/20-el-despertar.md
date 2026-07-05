@@ -82,7 +82,7 @@ Ella dudó un segundo. Runy vio que quería decir algo más, pero no lo dijo. En
 
 Runy la vio alejarse. La coleta, la espalda, la zancada que ya no era tan limpia como al principio pero que seguía firme. La vio doblar una curva y desaparecer.
 
-Y entonces, solo, se sentó en el sardinel.
+Y entonces, solo, se sentó en la acera.
 
 ***
 
@@ -112,7 +112,7 @@ La imagen se grabó en su memoria para siempre.
 
 La figura no respondió. Pero por primera vez, la figura sonreía.
 
-Pestañeó.
+Parpadeó.
 
 La figura ya no estaba.
 
@@ -163,6 +163,14 @@ Ella se sentó a su lado. La medalla le chocó contra el pecho con un tintineo m
 —¿Por qué?
 
 Ella se encogió de hombros.
+
+—Pues a traerte el banano que me entregó la IA —dijo—. Dijo que te lo mandaba porque ella no comía.
+
+—¡Bárbaro! —dijo Runy—. ¿Pudiste verle los ojos?
+
+—No. Tenía gafas oscuras.
+
+—Bueno. Se ve apetitoso —dijo Runy, mirando el banano—. ¿Y por qué más viniste?
 
 —Porque no me gusta correr sola. Y porque cuando crucé la meta lo único que quería era decírtelo a ti.
 

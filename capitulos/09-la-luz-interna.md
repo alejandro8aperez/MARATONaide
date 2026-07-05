@@ -26,7 +26,7 @@ Arango lo miró.
 
 El kilómetro diecinueve trajo una crisis.
 
-No fue un calambre ni un tirón. Fue una preguntó que apareció en la cabeza de Runy sin previo aviso, como un agujero en el pensamiento:
+No fue un calambre ni un tirón. Fue una pregunta que apareció en la cabeza de Runy sin previo aviso, como un agujero en el pensamiento:
 
 *¿Y si no hay nada?*
 
@@ -36,7 +36,7 @@ La pregunta lo vació.
 
 Merleau-Ponty había dicho que la percepción es ya significado, que el mundo no es un caos al que nosotros imponemos orden, sino que el orden está en las cosas mismas, esperando ser visto. Pero en el kilómetro diecinueve, con las piernas ardiendo y los pulmones pidiendo tregua, Runy no estaba seguro de que hubiera nada esperando ser visto.
 
-Tal vez solo había asfalto. Tal vez solo había kilómetros. Tal vez la novela entera era una ficción que él mismo se estaba contando para no detenerse.
+Tal vez solo había asfalto. Tal vez solo había kilómetros. Tal vez todo lo demás —los símbolos, las voces, el sentido— era una historia que él mismo se estaba contando para no detenerse.
 
 —¿En qué piensas? —preguntó Arango.
 
