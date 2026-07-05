@@ -2533,7 +2533,7 @@ Runy se quedó sentado.
 Y por primera vez en toda la carrera, sintió paz.
 ---
 
-# XXI. El todo (Meta)
+# XXI. La completitud (Meta)
 
 Runy no supo cuánto tiempo estuvo sentado en el sardinel.
 

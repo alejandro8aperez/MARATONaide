@@ -1,4 +1,4 @@
-# XXI. El todo (Meta)
+# XXI. La completitud (Meta)
 
 Runy no supo cuánto tiempo estuvo sentado en el sardinel.
 
