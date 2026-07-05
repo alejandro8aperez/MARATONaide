@@ -480,7 +480,7 @@ Runy bebió y el agua supo distinta. Más dulce. Más viva.
 Pero sonrió. Y siguió corriendo.
 ---
 
-# IV. La ley (km 8–10)
+# IV. La autoridad (km 8–10)
 
 El kilómetro ocho trajo un giro hacia el sur.
 

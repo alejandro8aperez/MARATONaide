@@ -1,4 +1,4 @@
-# IV. La ley (km 8–10)
+# IV. La autoridad (km 8–10)
 
 El kilómetro ocho trajo un giro hacia el sur.
 
