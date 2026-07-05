@@ -558,11 +558,13 @@ Runy sí.
 
 Vio las manos de la figura: firmes, con los dedos ligeramente separados, descansando sobre las rodillas con una autoridad que no necesitaba gestos. Vio la postura: recta, sin rigidez, como la de alguien que está donde debe estar y no tiene nada que demostrar.
 
-Pero lo que más le llamó la atención fue lo que la figura sostenía en la mano derecha. No era una vara ni un rollo. Era algo más pequeño, más sólido: una esfera. Una bola del tamaño de una manzana, que la figura sostenía con la palma abierta hacia arriba, ofreciendo el mundo entero en una mano.
+Pero lo que más le llamó la atención fue lo que la figura sostenía en la mano derecha. No era un arma ni un adorno. Era una vara. Una vara simple, recta, del grosor de un dedo, que la figura mantenía vertical, apoyada en el suelo entre las piernas, como la extensión de su propia columna.
+
+No era un cetro decorativo. Era un bastón de mando que no necesitaba brillo porque su autoridad estaba en la mano que lo sostenía, no en el objeto mismo.
 
 Y en la cabeza, ajustada sobre la capucha, había una banda de metal oscuro. No brillaba. No llamaba la atención. Pero estaba ahí, rodeando la frente de la figura como una corona sin pretensiones.
 
-La imagen completa decía algo que no necesitaba palabras. La figura sentada. La esfera en la mano. La corona en la frente. El cuerpo firme, inmóvil, en medio del caos de la carrera.
+La imagen completa decía algo que no necesitaba palabras. La figura sentada. La vara vertical. La corona en la frente. El cuerpo firme, inmóvil, en medio del caos de la carrera.
 
 *La ley*, pensó. *No la ley que se impone. La ley que se es.*
 
@@ -582,7 +584,7 @@ Runy negó con la cabeza.
 
 —No —dijo—. No importa.
 
-Y siguió corriendo, porque el kilómetro diez ya había pasado y el once lo esperaba, y porque la imagen de la figura sentada en un trono de plástico con el mundo en la mano se le quedó grabada en la memoria como la respuesta a una pregunta que todavía no sabía formular.
+Y siguió corriendo, porque el kilómetro diez ya había pasado y el once lo esperaba, y porque la imagen de la figura sentada en un trono de plástico con la vara en la mano se le quedó grabada en la memoria como la respuesta a una pregunta que todavía no sabía formular.
 ---
 
 # V. La voz antigua (km 10–12)
