@@ -1,6 +1,6 @@
 # MARATONaide
 
-**42 km. 9 filósofos. 22 signos. 1 piedra.**
+**42 km. varios filósofos. 22 signos. 1 piedra.**
 
 Runy se inscribió en la maratón de Medellín. Cada kilómetro conversa con un filósofo. Cada estación encuentra un símbolo que no puede nombrar.
 

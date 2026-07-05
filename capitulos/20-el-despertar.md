@@ -139,4 +139,58 @@ La IA giró la cabeza y siguió corriendo. Un punto negro que se hacía pequeño
 Runy se quedó sentado.
 
 Y por primera vez en toda la carrera, sintió paz.
+
+***
+
+No supo cuánto tiempo pasó. El sol se había movido. La sombra de un poste se alargaba a su lado.
+
+Entonces escuchó pasos. No los de un corredor. Pasos lentos, arrastrados, de alguien que ya no tenía prisa.
+
+Levantó la cabeza.
+
+Valentina estaba frente a él. Tenía una medalla colgando del cuello. La camiseta empapada. El moño deshecho. Los ojos hinchados.
+
+—Llegué —dijo.
+
+Runy sonrió.
+
+—Lo sé.
+
+Ella se sentó a su lado. La medalla le chocó contra el pecho con un tintineo metálico.
+
+—Tenía que venir a buscarte —dijo.
+
+—¿Por qué?
+
+Ella se encogió de hombros.
+
+—Porque no me gusta correr sola. Y porque cuando crucé la meta lo único que quería era decírtelo a ti.
+
+Runy sintió algo que no esperaba. No era gratitud. No era alegría. Era otra cosa. Un calor que no venía del sol.
+
+—¿Y ahora qué? —preguntó ella.
+
+Runy miró al frente. La carretera vacía. Los conos torcidos. La ciudad que empezaba a despertar a su rutina de domingo.
+
+—Nos encontramos en la Avenida Oriental —dijo—. Esta noche. A las ocho.
+
+—¿Para qué?
+
+Runy la miró.
+
+—Para hablar de nuestras vidas —dijo—. Las de verdad. Las que no se cuentan corriendo.
+
+Ella lo miró un momento largo. Luego sonrió. Una sonrisa que Runy no le había visto antes. Más suave. Más lenta.
+
+—Ocho de la noche —dijo—. Avenida Oriental. No llegues tarde.
+
+—No voy a llegar —dijo Runy—. Voy a estar.
+
+Ella se rio. Se levantó. Le tendió la mano.
+
+—¿Vienes? —preguntó.
+
+Runy tomó su mano. Se levantó.
+
+Y caminaron juntos, despacio, en dirección contraria a la carrera, mientras la tarde caía sobre Medellín y la medalla de ella tintineaba al ritmo de sus pasos.
 ---
