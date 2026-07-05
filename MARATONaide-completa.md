@@ -255,7 +255,7 @@ Y aceleró, poniendo otra vez distancia entre ellos.
 
 El kilómetro cuatro apareció. Runy lo sintió en el letrero y en el cuerpo: una señal de que la primera etapa había terminado. El puesto de hidratación era más grande que el anterior, con voluntarios que repartían agua y fruta. Algunos corredores se detenían a estirar. Otros pasaban de largo.
 
-Mientras tomaba agua, Runy miró hacia atrás, hacia el camino recorrido. Dos kilómetros. Apenas nada. Pero también todo.
+Mientras tomaba agua, Runy miró hacia atrás, hacia el camino recorrido. Tres kilómetros. Apenas nada. Pero también todo.
 
 Y entonces, al borde del puesto de hidratación, entre dos mesas plegables, vio una figura que no estaba ahí un segundo antes.
 
