@@ -16,7 +16,7 @@ Eran las cuatro y cuarenta y siete de la mañana cuando abrió los ojos del todo
 
 Runy se sentó en el borde de la cama. La cama estaba hecha. No había dormido bien, o tal vez sí, tal vez había dormido demasiado, porque el sueño del camino seguía pegado a la memoria como una telaraña que no termina de desprenderse.
 
-El dorsal número 1792 estaba doblado sobre la mesita de noche. Lo había mirado doce veces desde las tres de la mañana, como si esperara que el número cambiara, como si esperara que alguien llamara para decirle que la maratón se había cancelado, que todo había sido un malentendido, que podía volver a la cama y seguir durmiendo.
+El dorsal número 2038 estaba doblado sobre la mesita de noche. Lo había mirado doce veces desde las tres de la mañana, como si esperara que el número cambiara, como si esperara que alguien llamara para decirle que la maratón se había cancelado, que todo había sido un malentendido, que podía volver a la cama y seguir durmiendo. Qué número tan raro. Será la fecha de defunción o la de todos los seres humanos debido al calentamiento global. ¿Acaso será la fecha en que caducaron las maratones porque las rodillas se rebelaron?
 
 Nadie llamó.
 
@@ -24,11 +24,11 @@ Frente a él, en la pared, una mancha de humedad tenía la forma de África. Run
 
 ***
 
-El agua del baño salió tibia primero, después fría, después tibia otra vez, como si el edificio mismo estuviera indeciso. Runy se vistió despacio. Los mismos gestos de siempre: las medias primero, después los pantalones cortos, después la camiseta que había comprado para la ocasión. Una camiseta azul marino, sin letras, sin marcas. Quería pasar desapercibido, quería ser un corredor más entre miles, pero también quería que alguien lo viera llegar.
+El agua del baño salió tibia primero, después fría, después tibia otra vez, como si el edificio mismo estuviera indeciso. Runy se vistió despacio. Los mismos gestos de siempre: las medias primero, después la pantaloneta, después la camiseta que nos habían dado un día antes para la ocasión. Una camiseta azul marino, que decía Maratón Medellín, sin muchas letras, bien hecha, bien fabricada. Quería pasar desapercibido, quería ser un corredor más entre miles, pero también quería que alguien lo viera llegar. A uno le gusta recibir palmaditas en el hombro por existir.
 
 Guardó el dorsal en el bolsillo trasero. Se ató las zapatillas y las desató tres veces antes de volvérselas a atar, en un ritual que no tenía nombre pero que le daba la ilusión de control.
 
-Bajó en ascensor con un hombre que cargaba una bolsa de plástico con dos naranjas y una botella de agua. No hablaron.
+Bajó en ascensor con un hombre que cargaba una bolsa de plástico con dos naranjas y una botella de agua o de champaña… será la champaña con la que celebrará en la tarde comiendo banano al terminar el maratón.
 
 En la recepción del hotel, una señora de uniforme le deseó suerte. Le dio una sonrisa que era sincera o profesional, no se sabía. Runy le agradeció sin detenerse.
 
@@ -40,9 +40,9 @@ Caminó hacia Parques del Río sintiendo el peso de las zapatillas contra el asf
 
 La plaza estaba llena.
 
-Miles de personas se movían como un solo organismo lento y ruidoso. Había corredores haciendo estiramientos, corredores tomando fotos, corredores mirando el cielo como si buscaran una señal. Había familias enteras despidiendo a sus atletas, niños con carteles de cartón, perros con bandanas de la maratón.
+Miles de personas se movían como un solo organismo lento y ruidoso. Había corredores haciendo estiramientos, corredores tomando fotos, corredores mirando el cielo como si buscaran una señal. Había familias enteras despidiendo a sus atletas, niños con carteles de cartón, perros con bandanas de la maratón y en un grupo selecto al final de la calle se podía divisar al alcalde de la ciudad. Era uno de los corredores.
 
-Runy se metió entre la multitud y se dejó llevar. No tenía un plan. Su plan era seguir a los demás hasta que alguien le dijera dónde pararse.
+Runy se metió entre la multitud y se dejó llevar. No tenía un plan. Su plan era seguir a los demás hasta que alguien le dijera dónde pararse. Por un momento pensó en correr solo 5km y regresar al hotel pero ya no se puede, tenía puesta la camisa que dice 42km. Las maratones las dividen en 5km, 10km, 21km y 42km, al menos esta.
 
 En medio de ese mar de cabezas y espaldas, vio a una mujer que se ajustaba los audífonos con la precisión de quien prepara un instrumento antes de un concierto. Tenía el pelo recogido en una coleta alta y una expresión que no era de nervios ni de emoción, sino de concentración absoluta, como si ya estuviera dentro de la carrera aunque sus pies todavía estuvieran quietos.
 
@@ -94,11 +94,11 @@ Runy giró la cabeza. Buscó entre los rostros. No encontró a nadie que estuvie
 
 Los segundos finales.
 
-Runy sintió las piernas, los brazos, el pecho. Todo estaba en su lugar. La rodilla izquierda —su enemiga íntima— no dolía todavía. El gemelo derecho estaba tranquilo. Los pulmones no sabían lo que se avecinaba.
+Runy sintió las piernas, los brazos, el pecho. Todo estaba en su lugar. La rodilla izquierda —su enemiga íntima— no dolía todavía. El gemelo derecho estaba tranquilo. Los pulmones no sabían lo que se avecinaba ni el hígado, el páncreas, los riñones… ninguna de las partes internas.
 
 El sueño le volvió a la cabeza. El camino infinito, las figuras a los lados, la torre cayendo, la rueda girando, la antorcha encendida.
 
-Nunca fue bueno interpretando sueños. Pero aquella mañana, de pie en medio de la multitud, con el dorsal 1792 en el pecho y la incertidumbre en cada poro, tuvo la corazonada de que el sueño no había sido un sueño. Había sido un mapa. O un aviso. O una promesa.
+Nunca fue bueno interpretando sueños. Pero aquella mañana, de pie en medio de la multitud, con el dorsal 2038 en el pecho y la incertidumbre en cada poro, tuvo la corazonada de que el sueño no había sido un sueño. Había sido un mapa. O un aviso. O una promesa.
 
 El tiro de salida.
 
