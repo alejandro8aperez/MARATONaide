@@ -1452,7 +1452,7 @@ Se le heló la sangre. Valentina lo sintió también.
 
 —No te acerques.
 
-Runy asintió. Pero no pudo evitar mirar fijamente la espalda negra, el dorsal blanco, el movimiento perfectamente mecánico de los hombros.
+Runy asintió. Pero no pudo evitar mirar fijamente la espalda negra, el dorsal blanco, el movimiento perfectamente mecánico de los hombros. Y encontrar de nuevo ese número, el 6667 que al sumar sus dígitos siempre devolvía el 25 y al sumar de nuevo traía el número 7.
 
 El hombre de negro no giró la cabeza. No mostró señal de haberlo notado.
 
