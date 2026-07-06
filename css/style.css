@@ -157,6 +157,36 @@ body {
     background: linear-gradient(180deg, var(--bg-primary) 0%, var(--bg-secondary) 50%, var(--bg-primary) 100%);
     position: relative;
     overflow: hidden;
+    gap: 4rem;
+}
+
+.hero-content {
+    max-width: 600px;
+    position: relative;
+    z-index: 1;
+    text-align: center;
+}
+
+.hero-cover {
+    flex-shrink: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.hero-cover-img {
+    width: 100%;
+    max-width: 320px;
+    height: auto;
+    border-radius: var(--radius);
+    box-shadow: var(--shadow), var(--shadow-gold);
+    border: 1px solid var(--border);
+    transition: var(--transition);
+}
+
+.hero-cover-img:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 8px 40px rgba(212, 168, 75, 0.2);
 }
 
 .hero::before {
@@ -168,12 +198,6 @@ body {
     bottom: 0;
     background: radial-gradient(ellipse at 50% 0%, rgba(212, 168, 75, 0.06) 0%, transparent 60%);
     pointer-events: none;
-}
-
-.hero-content {
-    max-width: 800px;
-    position: relative;
-    z-index: 1;
 }
 
 .hero-badge {
@@ -549,6 +573,16 @@ body {
 
     .hero {
         padding: 5rem 1.5rem 3rem;
+        flex-direction: column;
+        gap: 2rem;
+    }
+
+    .hero-content {
+        max-width: 100%;
+    }
+
+    .hero-cover-img {
+        max-width: 240px;
     }
 
     .section {
