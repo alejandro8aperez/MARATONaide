@@ -105,4 +105,18 @@ Corrió más rápido. Se puso adelante. Pero las palabras no se fueron. Quedaron
 *No vas a llegar.*
 
 Y por primera vez en la carrera, Runy empezó a creerlo.
+
+***
+
+Pero entonces, en medio de la certeza de la derrota, sintió la piedra.
+
+No como un peso que lo hundía. Como un recuerdo que lo anclaba. La misma piedra de siempre. La misma cuesta. El mismo ciclo que se repetía cada cinco kilómetros sin preguntar si él quería seguirlo.
+
+*Veinticinco kilómetros*, pensó. *Cinco veces.*
+
+La piedra cayó. Pero esta vez él también cayó un poco. No hacia abajo. Hacia adentro.
+
+—Hasta el treinta —dijo, sin saber si iba a llegar.
+
+Pero lo dijo igual.
 ---

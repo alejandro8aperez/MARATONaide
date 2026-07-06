@@ -89,4 +89,18 @@ Runy bebió y siguió.
 *Hay muchas cosas que no sé*, pensó. *Y tal vez no necesito saberlas. Tal vez solo necesito seguir corriendo hasta que el velo se corra solo.*
 
 Pero no estaba seguro de creerlo.
+
+***
+
+Entonces, sin razón, recordó la piedra.
+
+No la vio. La sintió. Un peso antiguo en las manos, la cuesta invisible, el esfuerzo de subir sabiendo que todo iba a caer.
+
+*Sísifo*, pensó. *Otra vez.*
+
+La piedra cayó dentro de él, y Runy supo que el ciclo empezaba. Que cada cinco kilómetros iba a recordarla. Que cada cinco kilómetros iba a tener que subirla. Y que cada cinco kilómetros, iba a tener que dejarla caer.
+
+—Hasta el diez —dijo en voz baja.
+
+Y la piedra rodó hacia adelante.
 ---

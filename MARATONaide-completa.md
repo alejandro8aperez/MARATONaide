@@ -379,6 +379,18 @@ Runy bebió y siguió.
 *Hay muchas cosas que no sé*, pensó. *Y tal vez no necesito saberlas. Tal vez solo necesito seguir corriendo hasta que el velo se corra solo.*
 
 Pero no estaba seguro de creerlo.
+
+Entonces, sin razón, recordó la piedra.
+
+No la vio. La sintió. Un peso antiguo en las manos, la cuesta invisible, el esfuerzo de subir sabiendo que todo iba a caer.
+
+*Sísifo*, pensó. *Otra vez.*
+
+La piedra cayó dentro de él, y Runy supo que el ciclo empezaba. Que cada cinco kilómetros iba a recordarla. Que cada cinco kilómetros iba a tener que subirla. Y que cada cinco kilómetros, iba a tener que dejarla caer.
+
+—Hasta el diez —dijo en voz baja.
+
+Y la piedra rodó hacia adelante.
 ---
 
 # III. La naturaleza (km 6–8)
@@ -918,6 +930,18 @@ Y él era libre. Todavía libre.
 El kilómetro dieciséis apareció. Puesto de hidratación. Voluntarios. Agua.
 
 Runy bebió. Miró adelante. Y siguió.
+
+Pero en el kilómetro dieciséis, cuando los pasos volvían a ser solo pasos, la piedra regresó.
+
+No venía de afuera. Venía de adentro, del mismo lugar donde guardaba el cansancio y las preguntas sin respuesta. La sintió en las manos otra vez. El peso. La textura. La certeza de que iba a tener que subirla hasta el siguiente ciclo.
+
+*Quince kilómetros*, pensó. *Tres veces he visto caer la piedra.*
+
+Esta vez no sintió miedo. Tampoco resignación. Sintió algo más cercano a una costumbre, a un ritual que empezaba a tener sentido aunque no pudiera explicarlo.
+
+—Hasta el veinte —dijo.
+
+Y la piedra cayó, y él la dejó ir.
 ---
 
 # VIII. La balanza (km 16–18)
@@ -1481,6 +1505,18 @@ Corrió más rápido. Se puso adelante. Pero las palabras no se fueron. Quedaron
 *No vas a llegar.*
 
 Y por primera vez en la carrera, Runy empezó a creerlo.
+
+Pero entonces, en medio de la certeza de la derrota, sintió la piedra.
+
+No como un peso que lo hundía. Como un recuerdo que lo anclaba. La misma piedra de siempre. La misma cuesta. El mismo ciclo que se repetía cada cinco kilómetros sin preguntar si él quería seguirlo.
+
+*Veinticinco kilómetros*, pensó. *Cinco veces.*
+
+La piedra cayó. Pero esta vez él también cayó un poco. No hacia abajo. Hacia adentro.
+
+—Hasta el treinta —dijo, sin saber si iba a llegar.
+
+Pero lo dijo igual.
 ---
 
 # XIII. La transformación (km 26–28)
@@ -2037,6 +2073,22 @@ Runy la miró.
 —Nada —dijo.
 
 Pero los dos sabían que no era verdad.
+
+Corrieron en silencio. El kilómetro treinta y cuatro se acercaba. Runy sintió el agotamiento en los huesos, en la respiración, en la forma en que la luz se volvía densa.
+
+Y entonces, por séptima vez, sintió la piedra.
+
+No como las otras veces. Esta vez la piedra no caía. Se quedaba suspendida, esperando. Como si supiera que lo que venía después era distinto. Como si ella también estuviera aprendiendo.
+
+Runy extendió la mano —mentalmente, absurdamente— y la atrapó antes de que tocara el suelo.
+
+—Todavía no —dijo.
+
+La sostuvo un momento, sintiendo su peso, su promesa de caída.
+
+Y la soltó.
+
+—Hasta el cuarenta.
 ---
 
 # XVII. La esperanza (km 34–36)
@@ -2593,6 +2645,30 @@ Ella se rio. Se levantó. Le tendió la mano.
 Runy tomó su mano. Se levantó.
 
 Y caminaron juntos, despacio, en dirección contraria a la carrera, mientras la tarde caía sobre Medellín y la medalla de ella tintineaba al ritmo de sus pasos.
+
+Pero antes de perderse en la ciudad, Runy se detuvo.
+
+Valentina sintió la pausa y se volvió.
+
+—¿Qué pasa?
+
+Runy no respondió. Estaba mirando el asfalto vacío, la línea difusa donde la carrera se había terminado. Y en ese espacio entre el movimiento y la quietud, sintió la piedra por última vez.
+
+No pesaba. No caía. No había que subirla.
+
+Estaba ahí, simplemente, como una compañera silenciosa que lo había acompañado durante cuarenta y dos kilómetros y que ahora, en el silencio después del esfuerzo, esperaba que él reconociera lo que siempre había sido verdad.
+
+*No vine a subir la piedra*, pensó. *Vine a saber que podía soltarla.*
+
+Respiró hondo. La piedra se disolvió en el aire.
+
+—Nada —dijo, mirando a Valentina—. Ya está.
+
+Y siguió caminando, más ligero que nunca, porque el ciclo se había cerrado. Porque había entendido que Sísifo no era feliz a pesar de la piedra, sino con ella. Pero que la verdadera felicidad no estaba en cargarla. Estaba en saber que uno podía soltarla cuando llegara el momento.
+
+El momento había llegado.
+
+La piedra se quedó en el asfalto, esperando a otro corredor.
 ---
 
 # XXI. La completitud (Meta)

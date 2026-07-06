@@ -203,4 +203,22 @@ Runy la miró.
 —Nada —dijo.
 
 Pero los dos sabían que no era verdad.
+
+***
+
+Corrieron en silencio. El kilómetro treinta y cuatro se acercaba. Runy sintió el agotamiento en los huesos, en la respiración, en la forma en que la luz se volvía densa.
+
+Y entonces, por séptima vez, sintió la piedra.
+
+No como las otras veces. Esta vez la piedra no caía. Se quedaba suspendida, esperando. Como si supiera que lo que venía después era distinto. Como si ella también estuviera aprendiendo.
+
+Runy extendió la mano —mentalmente, absurdamente— y la atrapó antes de que tocara el suelo.
+
+—Todavía no —dijo.
+
+La sostuvo un momento, sintiendo su peso, su promesa de caída.
+
+Y la soltó.
+
+—Hasta el cuarenta.
 ---

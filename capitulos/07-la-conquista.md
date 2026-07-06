@@ -135,4 +135,18 @@ Y él era libre. Todavía libre.
 El kilómetro dieciséis apareció. Puesto de hidratación. Voluntarios. Agua.
 
 Runy bebió. Miró adelante. Y siguió.
+
+***
+
+Pero en el kilómetro dieciséis, cuando los pasos volvían a ser solo pasos, la piedra regresó.
+
+No venía de afuera. Venía de adentro, del mismo lugar donde guardaba el cansancio y las preguntas sin respuesta. La sintió en las manos otra vez. El peso. La textura. La certeza de que iba a tener que subirla hasta el siguiente ciclo.
+
+*Quince kilómetros*, pensó. *Tres veces he visto caer la piedra.*
+
+Esta vez no sintió miedo. Tampoco resignación. Sintió algo más cercano a una costumbre, a un ritual que empezaba a tener sentido aunque no pudiera explicarlo.
+
+—Hasta el veinte —dijo.
+
+Y la piedra cayó, y él la dejó ir.
 ---

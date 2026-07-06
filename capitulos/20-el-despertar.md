@@ -201,4 +201,30 @@ Ella se rio. Se levantó. Le tendió la mano.
 Runy tomó su mano. Se levantó.
 
 Y caminaron juntos, despacio, en dirección contraria a la carrera, mientras la tarde caía sobre Medellín y la medalla de ella tintineaba al ritmo de sus pasos.
+
+***
+
+Pero antes de perderse en la ciudad, Runy se detuvo.
+
+Valentina sintió la pausa y se volvió.
+
+—¿Qué pasa?
+
+Runy no respondió. Estaba mirando el asfalto vacío, la línea difusa donde la carrera se había terminado. Y en ese espacio entre el movimiento y la quietud, sintió la piedra por última vez.
+
+No pesaba. No caía. No había que subirla.
+
+Estaba ahí, simplemente, como una compañera silenciosa que lo había acompañado durante cuarenta y dos kilómetros y que ahora, en el silencio después del esfuerzo, esperaba que él reconociera lo que siempre había sido verdad.
+
+*No vine a subir la piedra*, pensó. *Vine a saber que podía soltarla.*
+
+Respiró hondo. La piedra se disolvió en el aire.
+
+—Nada —dijo, mirando a Valentina—. Ya está.
+
+Y siguió caminando, más ligero que nunca, porque el ciclo se había cerrado. Porque había entendido que Sísifo no era feliz a pesar de la piedra, sino con ella. Pero que la verdadera felicidad no estaba en cargarla. Estaba en saber que uno podía soltarla cuando llegara el momento.
+
+El momento había llegado.
+
+La piedra se quedó en el asfalto, esperando a otro corredor.
 ---
