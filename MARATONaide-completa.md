@@ -907,9 +907,7 @@ La imagen le decía algo. No con palabras. Con forma.
 
 La figura no hizo gesto. No lo miró. Pero la postura —los brazos extendidos, la vara firme, el cuerpo en equilibrio entre dos fuerzas— quedó grabada en Runy como una instrucción que no necesitaba ser dicha.
 
-Parpadeó.
-
-El separador estaba vacío.
+Cuando Runy levantó la vista de nuevo, el separador estaba vacío. Pero la imagen se había quedado, tatuada en algún lugar detrás de los ojos.
 
 Runy siguió corriendo. Pero ahora sabía algo que no sabía antes: la carrera no era solo contra el hombre de negro. Era contra todo lo que quería convertirlo en un objeto. La fatiga, el miedo, la rutina, la programación.
 
@@ -1355,9 +1353,7 @@ La imagen lo atravesó.
 
 El león movió la cabeza un milímetro. Los ojos amarillos miraron a Runy un instante. Pero no había amenaza en esa mirada. Solo reconocimiento.
 
-Runy parpadeó.
-
-El separador estaba vacío.
+Runy apartó la mirada. Cuando volvió a mirar, el separador estaba vacío.
 
 Pero la imagen se quedó: la figura pequeña sosteniendo las fauces abiertas del animal, la fuerza que no aplasta sino que mantiene abierto, la bestia que permite que la sostengan porque sabe que no van a lastimarla.
 
@@ -1589,9 +1585,7 @@ Runy no sintió miedo. Eso fue lo que lo sorprendió. La imagen era directa, sin
 
 La figura levantó la guadaña. No la blandió. Simplemente la levantó, despacio, con un movimiento que no era amenazante. Era de exposición. De mostrar la herramienta no como un castigo sino como un hecho.
 
-Runy parpadeó.
-
-El separador estaba vacío.
+Runy desvió la vista. Cuando levantó la mirada, el separador estaba vacío.
 
 Pero la guadaña no se había ido del todo. Quedaba en su memoria, el filo curvo, el cráneo sin piel, la certeza de que la muerte no es el final de la carrera ni de la vida, sino el final de una forma de ver las cosas.
 
@@ -2544,9 +2538,7 @@ La imagen se grabó en su memoria para siempre.
 
 La figura no respondió. Pero por primera vez, la figura sonreía.
 
-Parpadeó.
-
-La figura ya no estaba.
+Runy la miró un instante más. Y cuando el sol le pegó de lleno en los ojos, tuvo que cerrarlos. Los abrió al segundo. La carretera estaba vacía. No había capa, no había sonrisa, no había nada. Solo el asfalto, el calor, y el eco de una presencia que se había ido sin hacer ruido, como se van las cosas que importan: sin pedir permiso.
 
 ***
 
