@@ -1749,7 +1749,9 @@ La rabia le subió por la garganta.
 
 —¡No lo toques!
 
-El hombre de negro no respondió. El brazo volvió a su lugar. La espalda negra siguió moviéndose, imperturbable.
+El hombre de negro no respondió. El brazo volvió a su lugar. Pero por un instante —uno solo— Runy vio la cara. No la cara ancha de siempre, la de sin expresión. Vio otra cosa. Los labios apretados. Las comisuras hacia abajo. Algo que podía ser cansancio o algo que podía ser tristeza. Algo humano, en el lugar equivocado, en el cuerpo equivocado, en el hombre equivocado.
+
+Y desapareció. La espalda negra siguió moviéndose, imperturbable.
 
 Arango llegó desde atrás.
 
@@ -1801,11 +1803,11 @@ Cuando estuvo a su lado, el hombre de negro habló.
 
 No giró la cabeza. No movió los labios. Pero la voz llegó, directa, fría, como un pensamiento que no era de Runy pero que estaba dentro de su cabeza:
 
-*¿Crees que cadenas existen porque persigo?*
+*¿Crees que las cadenas existen porque yo persigo?*
 
 La pregunta lo paralizó.
 
-*No existen porque persiga. Existen porque crees que no puedes soltarte.*
+*No existen porque persiga. Existen porque crees que no puedes soltarte. Y yo no soy tu enemigo. Soy la prueba de que se puede vivir sin pensar. Eso es lo que te da miedo. No que yo te alcance. Sino que algún día podrías querer ser como yo.*
 
 Y entonces el hombre de negro aceleró. Sin aviso. Sin esfuerzo. Se alejó en segundos, dejando a Runy con la voz resonando, la certeza de que la IA no solo lo bloqueaba físicamente, sino que estaba dentro de su cabeza.
 
