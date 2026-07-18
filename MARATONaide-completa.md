@@ -1976,6 +1976,8 @@ Arango lo miró con una expresión que Runy no le había visto antes. No era tri
 
 La frase le cerró la garganta.
 
+Runy se quedó de pie, mirando a Arango sentado en el sardinel, y de pronto le vino la cara del kilómetro quince, cuando Arango le había dicho <em>Rodilla. Pero esto no se gana con las rodillas</em>. Lo había dicho con una sonrisa, como quien comparte un secreto que solo los que corren conocen. Y Runy había creído que se refería a la voluntad, a la fuerza mental, a algo que se pudiera pensar. Ahora entendía que Arango no estaba hablando de fuerza. Estaba hablando de soltar.
+
 —Tú sigue —dijo Arango—. Los dos. Tienen que llegar.
 
 —No vamos a dejar…
@@ -1984,17 +1986,21 @@ La frase le cerró la garganta.
 
 Runy quiso decir algo, pero las palabras no salieron.
 
-Valentina puso una mano en el hombro de Arango. Él la cubrió con la suya.
+Arango extendió la mano. No para estrechar la de Runy. La abrió, como si mostrara algo que sostenía en la palma. Runy no vio nada. Pero tomó la mano de todas formas. La apretó. Y sintió que Arango le devolvía el apretón con una fuerza que no venía de los músculos, sino de algún lugar más hondo, de ese sitio donde los cuerpos se entienden sin palabras.
 
-—Gracias —dijo ella.
+—Gracias por los treinta kilómetros —dijo Runy, y la frase le salió rota.
 
-—Gracias a ti —dijo Arango.
+—Gracias por los nueve que me faltan a mí —respondió Arango.
 
-Y luego miró a Runy.
+Valentina puso una mano en el hombro de Arango. Él la cubrió con la suya, un gesto breve, casi un apretón, como quien firma un documento que ya está escrito.
 
-—Tú puedes —dijo—. No sé si vas a llegar. Pero puedes.
+—Tú puedes —dijo Arango, mirando a Runy—. No sé si vas a llegar. Pero puedes.
 
 Los ojos se le humedecieron. Apretó la mandíbula.
+
+—Y cuando llegues, acuérdate de que la piedra no se empuja sola. Siempre hay alguien que la empujó antes.
+
+Runy no entendió del todo la frase. Pero la guardó, como se guardan las cosas que uno sabe que van a servir después, aunque no sepa cuándo.
 
 —Nos vemos en la meta —dijo.
 
