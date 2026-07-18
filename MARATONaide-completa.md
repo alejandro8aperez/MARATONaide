@@ -2135,6 +2135,12 @@ Pero vio las caras de los que se quedaban. Hombres y mujeres que habían corrido
 
 *Todavía puede ser yo.*
 
+Y entonces vio las caras de verdad. No como obstáculos superados, no como imágenes de lo que podía pasarle, sino como rostros. Rostros concretos, cansados, húmedos de sudor, con los labios partidos y los ojos vidriosos. Rostros que lo miraban sin pedirle nada, pero que de algún modo le decían algo: *ahí estamos. Existen. No somos una idea. Somos personas que corrieron esta misma carrera y que no pudimos llegar.*
+
+Lévinas habría dicho que la ética empieza ahí, en el rostro del otro. No en un principio abstracto, no en una regla aprendida, sino en el encuentro concreto con alguien que me mira y que, sin decir una palabra, me reclama. El rostro del otro no pide compasión. Pide reconocimiento. Pide que yo deje de ser el centro del mundo por un instante.
+
+Runy no pensó en Lévinas. No pensó en filosofía. Solo pensó: *están ahí*. Y eso era suficiente para que algo dentro de él se inclinara, no hacia abajo, sino hacia afuera, hacia ellos.
+
 Y siguió corriendo.
 
 ***
@@ -2370,6 +2376,10 @@ Vio la luz del sol reflejándose en los vidrios de los edificios y todo era clar
 Por primera vez en kilómetros, no pensó en la IA. No pensó en Arango. No pensó en el tiempo, en la distancia, en el dolor.
 
 Solo pensó en el momento.
+
+Y en ese momento, vio algo que no había visto antes: que no estaba solo. Nunca lo había estado. Valentina corría a su lado. Los voluntarios le habían dado agua. Los corredores que se habían caído le habían recordado que era humano. Arango le había enseñado que la piedra se empuja con otros. Incluso la IA, al perseguirlo, lo había mantenido vivo.
+
+Lévinas decía que el yo no existe antes del otro. Que somos lo que somos porque alguien nos mira. Runy no pensó en la frase. Pero la vivió. En la avenida, con el sol encima y Valentina al lado, entendió que la carrera no era suya. Era de todos los que habían corrido con él, antes y ahora, los que llegaron y los que no.
 
 Y eso fue suficiente.
 
