@@ -29,6 +29,10 @@ Nadie llamó.
 
 Frente a él, en la pared, una mancha de humedad tenía la forma de África. Runy la miró esperando una respuesta de ese continente de salitre y yeso. La mancha no dijo nada.
 
+Se tocó la rodilla izquierda. La rodilla no respondió. Pero la memoria sí: una resonancia magnética que mostraba un desgarro meniscal, un médico que dijo <em>corrés o caminás, pero no las dos cosas</em>, y una madre que preguntó por qué se inscribía en una maratón si sabía que no podía correrla. Runy no le había contestado. Tampoco se lo había contestado a él mismo.
+
+Había una razón. La sabía en algún lugar del cuerpo, no en la cabeza. Algo que había empezado tres meses atrás, el día que su padre murió y él descubrió que las últimas palabras de un hombre no son las que dice, sino las que deja escritas en cuadernos que nadie leyó.
+
 ***
 
 El agua del baño salió tibia primero, después fría, después tibia otra vez, el edificio mismo indeciso. Runy se vistió despacio. Los mismos gestos de siempre: las medias primero, después la pantaloneta, después la camiseta que nos habían dado un día antes para la ocasión. Una camiseta azul marino, que decía Maratón Medellín, sin muchas letras, bien hecha, bien fabricada. Quería pasar desapercibido, quería ser un corredor más entre miles, pero también quería que alguien lo viera llegar. A uno le gusta recibir palmaditas en el hombro por existir.
@@ -142,7 +146,9 @@ Runy sintió ese silencio en el primer kilómetro. No había respuesta para lo q
 
 *¿Por qué corro?*
 
-No lo sabía. Y esa falta de respuesta, en lugar de paralizarlo, lo impulsó a apretar el paso.
+No lo sabía. Pero en el fondo, en ese lugar donde el cuerpo sabe cosas que la cabeza no quiere aceptar, sí lo sabía. Corría porque su padre había muerto en marzo, porque los cuadernos seguían cerrados en un cajón de su apartamento en Bogotá, porque había llegado a Medellín sin decirle a nadie adónde iba, y porque la rodilla —esa rodilla que el médico le dijo que no podía forzar— era la única parte de él que todavía le gritaba que estaba vivo.
+
+Y esa verdad, en lugar de paralizarlo, lo impulsó a apretar el paso.
 
 ***
 
@@ -204,6 +210,8 @@ No era una epifanía. Era algo más simple: la conciencia súbita de que estaba 
 *Soy un hombre absurdo*, pensó, *y estoy haciendo lo único que un hombre absurdo puede hacer: crear mi propio sentido.*
 
 Cada paso era un acto de rebeldía contra la inercia. No se trataba de pensar distinto. Se trataba de *hacer* distinto.
+
+Eso era lo que Runy hacía mejor: esconderse en las ideas. Desde que su padre murió, se había encerrado en libros de filosofía como quien se encierra en una casa con todas las puertas cerradas. Leía a Camus, a Nietzsche, a Sartre, y les encontraba sentido a cosas que no le hacían sentido en la vida. La filosofía era un techo que lo cubría. Y ahora, corriendo, el techo se estaba agrietando.
 
 ***
 
