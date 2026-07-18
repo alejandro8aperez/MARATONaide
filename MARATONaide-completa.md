@@ -595,11 +595,11 @@ Y siguió corriendo, porque el kilómetro diez ya había pasado y el once lo esp
 
 El kilómetro diez trajo una sorpresa.
 
-La ruta no seguía hacia el sur como esperaba. En lugar de eso, los corredores tomaron un desvío hacia la Avenida Regional, y el cuerpo se relajó al ver el camino duplicado sobre sí mismo. Un ida y vuelta. Los primeros que habían pasado ya regresaban por el otro carril, y el espectáculo era extraño: ver a los mismos corredores que habían estado adelante venir ahora de frente, como en un espejo que devolviera imágenes desplazadas en el tiempo.
+La ruta no seguía hacia el sur. Los corredores tomaron un desvío hacia la Avenida Regional, un ida y vuelta. Los primeros que habían pasado ya regresaban por el otro carril, como en un espejo que devolviera imágenes desplazadas en el tiempo.
 
 Buscó a la mujer de la coleta entre los que volvían. No la vio. Buscó a Arango. Tampoco.
 
-Pero vio a otros. Rostros que había visto en la salida, en los puestos de hidratación, en las curvas. Todos concentrados, todos en su propio mundo, todos mirando hacia adelante aunque adelante fuera, para ellos, el camino de regreso.
+Pero vio a otros. Rostros que había visto en la salida, en los puestos de hidratación. Todos concentrados, todos en su propio mundo.
 
 *Es extraño*, pensó Runy. *Todos corremos la misma carrera, pero ninguno corre la misma carrera.*
 
@@ -621,7 +621,7 @@ Arango venía de regreso, corriendo con una zancada que parecía intacta. No coj
 
 Runy levantó la suya. No hicieron falta palabras.
 
-Pero en ese gesto —la mano en el aire, el reconocimiento mutuo— Runy sintió algo que no esperaba. No era competencia. No era solidaridad. Era otra cosa, más difícil de nombrar: la certeza de que existía para alguien más, de que su presencia en la carrera había sido notada, de que no era un corredor anónimo entre miles.
+Pero en ese gesto —la mano en el aire, el reconocimiento mutuo— Runy sintió algo que no esperaba. La certeza de que existía para alguien más, de que no era un corredor anónimo entre miles.
 
 *La mirada del otro*, pensó, *no siempre es un juicio. A veces es un espejo.*
 
@@ -936,17 +936,15 @@ El kilómetro dieciséis trajo un cambio sutil en el paisaje.
 
 Los edificios de Envigado empezaban a cerrarse alrededor de la avenida. No eran los rascacielos del centro ni las bodegas de la calle 30. Eran casas de dos pisos con balcones de hierro forjado, árboles que crecían por encima de los techos, iglesias con campanarios que se veían desde lejos. El sur del valle tenía otra luz, más dorada, más lenta.
 
-El cuerpo empezaba a quejarse de verdad. No era el dolor agudo de una lesión. Era un dolor sordo, difuso, que venía de todas partes a la vez: los cuádriceps, los gemelos, la zona lumbar, los hombros. El cuerpo entero era una sola nota larga de incomodidad.
+El cuerpo empezaba a quejarse de verdad. No era el dolor agudo de una lesión. Era un dolor sordo, difuso, que venía de todas partes a la vez.
 
 *Esto es tener un cuerpo*, pensó.
 
 No es que yo tenga un cuerpo. Es que *soy* mi cuerpo. No hay un Runy dentro de Runy que mueva las palancas. Runy es las piernas que duelen, los pulmones que queman, el sudor que corre.
 
-No podía separarse del dolor. El dolor no era algo que le pasaba. Era algo que él era, en ese momento, en esa recta interminable de Envigado.
+No podía separarse del dolor. El dolor no era algo que le pasaba. Era algo que él era.
 
-*No hay fantasma en la máquina*, pensó. *Solo hay máquina. Solo hay cuerpo. Solo hay esto.*
-
-Y en esa certeza, encontró una paz extraña. No era que el dolor desapareciera. Era que el dolor dejaba de ser un enemigo. Era solo una sensación, y las sensaciones pasan, como pasan las nubes, como pasan los kilómetros.
+Y en esa certeza, encontró una paz extraña. No era que el dolor desapareciera. Era que dejaba de ser un enemigo. Solo una sensación, y las sensaciones pasan.
 
 ***
 
