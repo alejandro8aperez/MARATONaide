@@ -201,13 +201,9 @@ No era una epifanía. Era algo más simple: la conciencia súbita de que estaba 
 
 *Esto es la libertad*, pensó. *No la libertad de hacer cualquier cosa. La libertad de hacer esto.*
 
-Camus hablaba de tres respuestas al absurdo. La primera era el suicidio —disolver el problema eliminando al que pregunta. La segunda era el salto filosófico, la fe en algo superior que dé sentido a lo que no lo tiene. Pero la tercera —la única que Camus consideraba digna— era la rebeldía.
-
-Runy recordaba la definición con una claridad que lo sorprendió: la rebeldía no era destrucción. Era afirmación. Decir *sí* a la vida precisamente porque no tiene sentido. Vivir sin apelación. Correr sin meta última.
-
 *Soy un hombre absurdo*, pensó, *y estoy haciendo lo único que un hombre absurdo puede hacer: crear mi propio sentido.*
 
-Y entonces, mientras sus pies golpeaban el asfalto al ritmo de una respiración que ya era automática, entendió algo que no había entendido antes: la rebeldía de Camus no era una postura intelectual. Era una práctica. No se trataba de pensar distinto. Se trataba de *hacer* distinto. Cada paso era un acto de rebeldía contra la inercia. Cada kilómetro, una declaración de guerra contra la resignación.
+Cada paso era un acto de rebeldía contra la inercia. No se trataba de pensar distinto. Se trataba de *hacer* distinto.
 
 ***
 
@@ -304,25 +300,17 @@ No fue física. Fue una pregunta que apareció sin avisar, como un dolor que no 
 
 *¿Qué estoy haciendo aquí?*
 
-No era la pregunta del absurdo, la de Camus, que había respondido con rebeldía y afirmación. Era otra, más antigua, más honda. Una pregunta que no buscaba una respuesta sino que señalaba un vacío.
+Era una pregunta más antigua que el absurdo, más honda. No buscaba una respuesta sino que señalaba un vacío.
 
 *¿Hay algo detrás de todo esto?*
 
-Nietzsche había dicho que Dios había muerto y que los hombres lo habían matado. Runy recordaba la frase con la nitidez de las cosas que se leen en la juventud y nunca se olvidan del todo. Pero lo que recordaba con más claridad no era la muerte de Dios, sino lo que venía después: que si Dios había muerto, entonces el suelo bajo los pies desaparecía. No había verdad absoluta. No había bien ni mal más allá de lo que los hombres inventaban para soportar la existencia.
+Nietzsche había dicho que Dios había muerto. Lo que recordaba no era la muerte, sino lo que venía después: el suelo bajo los pies desaparecía. No había verdad absoluta. No había bien ni mal más allá de lo que los hombres inventaban para soportar la existencia.
 
-*Si Dios ha muerto, entonces todo está permitido.*
+*Si Dios ha muerto, entonces todo está permitido. Pero también: nada está garantizado.*
 
-Pero también: *Si Dios ha muerto, entonces nada está garantizado.*
-
-Runy sintió el vértigo de esa idea mientras sus pies seguían golpeando el asfalto. No era una idea nueva para él, pero en el kilómetro cinco de una maratón las ideas viejas pesan distinto. La mente está más despejada y más vulnerable al mismo tiempo, como un ojo que se acostumbra a la oscuridad y empieza a ver cosas que antes no veía.
-
-*¿Hay algo detrás del velo?*, pensó. *¿O el velo es todo lo que hay?*
-
-La verdad oculta. El conocimiento que no se dice. Nietzsche había escrito sobre la voluntad de poder, sobre cómo toda búsqueda de verdad es en realidad una búsqueda de poder. Pero también había escrito, en algún lugar que Runy no podía recordar con precisión, que el mundo profundo era incognoscible, que la realidad era un texto sin autor que cada uno interpreta como puede.
+Runy sintió el vértigo de esa idea mientras sus pies seguían golpeando el asfalto. En el kilómetro cinco de una maratón las ideas viejas pesan distinto. La mente está más despejada y más vulnerable al mismo tiempo.
 
 *Perspectivismo*, pensó Runy. *No hay hechos, solo interpretaciones.*
-
-Y eso era a la vez liberador y aterrador. Liberador porque nadie tenía la última palabra. Aterrador porque nadie tenía la última palabra.
 
 ***
 
@@ -413,17 +401,13 @@ No era una elección. Era una voz que aparecía en la cabeza cuando el cuerpo em
 
 *Permaneced fieles a la tierra.*
 
-Runy había leído *Así habló Zaratustra* a los veintidós años, en una edición barata que compró en la Universidad de Antioquia. No había entendido la mitad, pero una frase se le había clavado como una astilla: la tierra, el cuerpo, el sentido de la vida que no está fuera sino aquí, en la piel que suda, en los músculos que duelen, en el hueso que soporta.
+La frase se le había clavado como una astilla a los veintidós años. No había entendido la mitad del libro, pero sí esto: no hay otro mundo. El paraíso no está arriba ni dentro ni después. Está aquí, en el polvo del camino, en el sol que calienta la nuca, en el latido del corazón que no pide permiso para seguir.
 
-*Permaneced fieles a la tierra, hermanos míos.*
-
-La frase de Nietzsche era una respuesta a los que buscaban sentido en otro mundo. Una respuesta a los que despreciaban el cuerpo, a los que veían la vida como un tránsito hacia algo mejor. No, decía Nietzsche. No hay otro mundo. El paraíso no está arriba ni dentro ni después. Está aquí, en el polvo del camino, en el sol que calienta la nuca, en el latido del corazón que no pide permiso para seguir.
-
-Runy sintió la verdad de eso en las piernas. No era una verdad intelectual. Era una verdad que se sentía en cada zancada: el cuerpo no miente. El cuerpo no especula. El cuerpo solo está, y mientras está, dice sí a la vida.
+Runy sintió la verdad de eso en las piernas. El cuerpo no miente. El cuerpo solo está, y mientras está, dice sí a la vida.
 
 *El cuerpo es la gran razón*, pensó Runy. *La mente es solo su instrumento.*
 
-Y entonces la tierra misma respondió: la fatiga se transformó en algo más, una aceptación. No era que el cansancio hubiera desaparecido. Era que había dejado de importar. El cuerpo corría porque sí, porque para eso había sido diseñado, porque la vida —la vida que Nietzsche quería que amáramos sin condiciones— era esto: movimiento, resistencia, belleza sin propósito.
+Y entonces la fatiga se transformó en aceptación. No era que el cansancio hubiera desaparecido. Era que había dejado de importar. El cuerpo corría porque sí, porque para eso había sido diseñado.
 
 ***
 
@@ -506,11 +490,11 @@ El kilómetro nueve trajo un pensamiento incómodo.
 
 La palabra le quedó resonando. Obedecer. Y si fuera Obediencia, Pobreza y Castidad.
 
-Nietzsche había hablado de dos tipos de moral. La de los amos, que crean sus propios valores. Y la de los esclavos, que reciben los valores de otros y los llaman virtud. Runy nunca había estado seguro de en qué categoría encajaba. Corría porque quería, pero también corría dentro de unas líneas pintadas en el asfalto, dentro de un tiempo que otros habían fijado, bajo reglas que no había elegido.
+Nietzsche había hablado de dos tipos de moral: la de los amos, que crean sus propios valores, y la de los esclavos, que reciben los valores de otros y los llaman virtud. Runy nunca había estado seguro de en qué categoría encajaba.
 
 *¿Soy un amo o un esclavo?*
 
-La pregunta no era teórica. Se sentía en las piernas, en la forma en que el cuerpo se adaptaba al ritmo de los demás sin preguntar si ese ritmo era el suyo. Se sentía en la manera en que miraba el reloj, en la ansiedad de no llegar al corte del kilómetro veintiocho y medio.
+La pregunta se sentía en las piernas, en la forma en que el cuerpo se adaptaba al ritmo de los demás sin preguntar si ese ritmo era el suyo.
 
 *El que obedece no es libre*, pensó. *Pero el que no obedece a nada tampoco.*
 
@@ -518,7 +502,7 @@ Y entonces recordó una frase de Nietzsche que había leído tantas veces que ya
 
 *Llega a ser el que eres.*
 
-No era una orden externa. Era una orden que uno se daba a sí mismo. La ley no venía de afuera. Venía de adentro, de la voluntad que se impone forma a sí misma. Eso era la voluntad de poder: no dominar a otros, sino dominarse a uno mismo.
+No era una orden externa. Era una orden que uno se daba a sí mismo. La ley no venía de afuera. Venía de adentro.
 
 Algo se ajustó en su pecho. No era una respuesta clara, pero era una dirección.
 
@@ -611,7 +595,7 @@ Pero vio a otros. Rostros que había visto en la salida, en los puestos de hidra
 
 *Es extraño*, pensó Runy. *Todos corremos la misma carrera, pero ninguno corre la misma carrera.*
 
-Sartre había dicho que el infierno son los otros. Runy siempre había interpretado la frase como una advertencia: la mirada del otro te convierte en objeto, te fija en una definición que no elegiste. Pero aquí, en medio del ida y vuelta, entendió otra cosa. Los otros no eran el infierno porque te miraran. Eran el infierno porque te recordaban que no estás solo, que lo que haces tiene testigos, que cada paso tuyo es visto y juzgado aunque nadie diga nada.
+Sartre había dicho que el infierno son los otros. Pero aquí, en medio del ida y vuelta, entendió otra cosa. Los otros no eran el infierno porque te miraran. Eran el infierno porque te recordaban que no estás solo, que cada paso tuyo es visto y juzgado aunque nadie diga nada.
 
 *No es que te conviertan en objeto*, pensó. *Es que te convierten en personaje.*
 
@@ -651,13 +635,13 @@ La voz antigua no respondió. Las voces antiguas nunca responden. Solo repiten.
 
 Un corredor a su lado lo miró con extrañeza. Runy no le prestó atención.
 
-Sartre había dicho que estamos condenados a ser libres. Que no hay una naturaleza humana predeterminada, que cada uno es lo que hace con lo que hicieron de él. Que la existencia precede a la esencia y que, por lo tanto, no hay excusas. No hay destino. No hay voz antigua que pueda decidir por nosotros.
+Sartre había dicho que estamos condenados a ser libres. Que no hay una naturaleza humana predeterminada, que cada uno es lo que hace con lo que hicieron de él. Que la existencia precede a la esencia.
 
 La idea lo atravesó como una corriente.
 
 *No hay voz antigua. Solo hay esta voz, la mía.*
 
-La voz antigua, la de toda la vida, no se calló. Pero por primera vez, Runy escuchó otra cosa encima de ella: un zumbido que era el silencio del universo, el mismo silencio que Camus había descrito, el silencio que no responde porque no tiene nada que decir.
+La voz antigua no se calló. Pero por primera vez, Runy escuchó otra cosa encima de ella: el silencio del universo, el mismo que Camus había descrito.
 
 Y en ese silencio, podía elegir.
 
@@ -801,25 +785,21 @@ Runy sintió la presencia antes de oírla. Esa respiración que no jadeaba, que 
 
 *No es humano*, pensó.
 
-La frase le llegó sin filtro, sin raciocinio, como una intuición física. No era una deducción. Era una sensación en la nuca, en la piel, en la forma en que el cuerpo reaccionaba antes de que la mente pudiera procesarlo.
+La frase le llegó como una intuición física. No era una deducción. Era una sensación en la nuca, en la piel.
 
 Corrió más rápido. El hombre lo siguió.
 
 Corrió más lento. El hombre lo siguió.
 
-Como un reflejo. Como un eco. Como algo que no tenía voluntad propia pero tampoco podía ser sacudido.
-
-Sartre había dicho que la conciencia es libertad. Que el ser humano no es una cosa, no tiene una esencia fija, está siempre haciéndose. *La existencia precede a la esencia*. No hay programa. No hay destino. Hay solo decisiones.
+Como un eco. Como algo que no tenía voluntad propia pero tampoco podía ser sacudido.
 
 Runy miró de reojo al hombre de negro. La cara ancha, los ojos fijos, la ausencia total de expresión.
 
 *¿Y si no hay conciencia?*, pensó. *¿Y si solo hay programa?*
 
-La idea lo heló. No porque el hombre de negro fuera peligroso —aunque probablemente lo era— sino porque representaba algo que Runy no había considerado antes: la posibilidad de moverse sin elegir. De correr sin preguntarse por qué. De existir sin ser.
+La idea lo heló. No porque el hombre fuera peligroso —aunque probablemente lo era— sino porque representaba la posibilidad de moverse sin elegir. De correr sin preguntarse por qué. De existir sin ser.
 
 *Eso no es libertad. Eso es mecanismo.*
-
-Y entonces entendió algo que Sartre no había dicho explícitamente pero que estaba implícito en todo su pensamiento: la libertad no es solo la capacidad de elegir. Es lo que nos hace humanos. Un ser que no elige no es un ser humano. Es un objeto. Una cosa. Un programa corriendo en un cuerpo.
 
 La carrera se convertía en otra cosa. No era solo cuarenta y dos kilómetros. Era una prueba de humanidad.
 
@@ -954,9 +934,9 @@ El cuerpo empezaba a quejarse de verdad. No era el dolor agudo de una lesión. E
 
 *Esto es tener un cuerpo*, pensó.
 
-Merleau-Ponty decía que el cuerpo no es un objeto que tenemos, sino el medio a través del cual existimos. No es que yo tenga un cuerpo. Es que *soy* mi cuerpo. No hay un Runy dentro de Runy que mueva las palancas. Runy es las piernas que duelen, los pulmones que queman, el sudor que corre.
+No es que yo tenga un cuerpo. Es que *soy* mi cuerpo. No hay un Runy dentro de Runy que mueva las palancas. Runy es las piernas que duelen, los pulmones que queman, el sudor que corre.
 
-Runy sintió la verdad de eso en cada fibra. No podía separarse del dolor. El dolor no era algo que le pasaba. Era algo que él era, en ese momento, en esa recta interminable de Envigado.
+No podía separarse del dolor. El dolor no era algo que le pasaba. Era algo que él era, en ese momento, en esa recta interminable de Envigado.
 
 *No hay fantasma en la máquina*, pensó. *Solo hay máquina. Solo hay cuerpo. Solo hay esto.*
 
@@ -1026,8 +1006,6 @@ En la mano izquierda sostenía una balanza. No un dibujo en el aire. Una balanza
 
 La imagen no le dijo nada. Se lo mostró. La justicia no es un ideal abstracto. Es una postura. Es sentarse y poner el cuerpo. Es sostener el filo con una mano y el equilibrio con la otra.
 
-Merleau-Ponty había dicho que percibir no es recibir pasivamente. Es un acto. El cuerpo sale al encuentro del mundo, lo interroga, lo equilibra constantemente entre lo que recibe y lo que da.
-
 *Ver es juzgar*, pensó Runy. *Cada mirada es una balanza. Cada paso, un corte.*
 
 Runy parpadeó.
@@ -1067,8 +1045,6 @@ La subida empezaba. No era pronunciada, pero era constante. Un falso plano que s
 
 *El cuerpo sabe*, pensó. *El cuerpo sabe que esto no es normal.*
 
-Merleau-Ponty había escrito sobre la percepción como un diálogo entre el cuerpo y el mundo. No es que el cuerpo reciba pasivamente estímulos del exterior. El cuerpo sale al encuentro del mundo, lo interroga, lo toca. Pero en ese tocar, el mundo también toca al cuerpo. Hay una reversibilidad. Un quiasmo.
-
 Runy sintió esa reversibilidad en cada zancada. No solo corría sobre el asfalto. El asfalto corría sobre él. La gravedad entraba por los pies y subía por la columna como una corriente que no pedía permiso. La montaña no era un objeto enfrente. La montaña estaba dentro de él.
 
 —Es como si la carretera me estuviera absorbiendo —dijo, sin saber que lo decía en voz alta.
@@ -1088,8 +1064,6 @@ No fue un calambre ni un tirón. Fue una pregunta que apareció en la cabeza de 
 No la pregunta del absurdo, la de Camus. Otra. Más honda. ¿Y si no hay nada dentro? ¿Y si toda esta búsqueda de sentido, de símbolos, de filosofía, es solo ruido que el cerebro produce para no enfrentar el silencio?
 
 La pregunta lo vació.
-
-Merleau-Ponty había dicho que la percepción es ya significado, que el mundo no es un caos al que nosotros imponemos orden, sino que el orden está en las cosas mismas, esperando ser visto. Pero en el kilómetro diecinueve, con las piernas ardiendo y los pulmones pidiendo tregua, Runy no estaba seguro de que hubiera nada esperando ser visto.
 
 Tal vez solo había asfalto. Tal vez solo había kilómetros. Tal vez todo lo demás —los símbolos, las voces, el sentido— era una historia que él mismo se estaba contando para no detenerse.
 
@@ -1543,7 +1517,7 @@ Algo se rompió dentro de él. No era físico. Era una barrera que no sabía que
 
 *He llegado al fondo*, pensó. *Y ahora toca volver.*
 
-San Agustín había escrito sobre el tiempo como una distensión del alma. El pasado es memoria, el futuro es expectativa, y el presente es solo un punto que se desvanece entre los dos. Runy sintió esa distensión en la glorieta de Sabaneta. Todo lo que había corrido hasta ahora era memoria. Todo lo que faltaba era expectativa. Y el presente —el punto exacto donde estaba— no duraba nada, era solo el instante en que el pie tocaba el asfalto y se despegaba otra vez.
+San Agustín había dicho que el tiempo es una distensión del alma. El pasado es memoria, el futuro es expectativa, y el presente es solo un punto que se desvanece entre los dos. Runy sintió esa distensión en la glorieta de Sabaneta. Todo lo que había corrido hasta ahora era memoria. Todo lo que faltaba era expectativa. Y el presente —el punto exacto donde estaba— no duraba nada, era solo el instante en que el pie tocaba el asfalto y se despegaba otra vez.
 
 *Solo hay ahora*, pensó. *Solo hay este paso.*
 
