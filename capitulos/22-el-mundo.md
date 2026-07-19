@@ -14,7 +14,7 @@ Caminaron por la Avenida Oriental, esa calle que sube y baja como la respiració
 
 Runy pensó en su padre. En los cuadernos que seguían cerrados. En la rodilla que ya no le gritaba sino que le susurraba, como una amiga vieja que aprendió a hablar bajito.
 
-Pensó en el Enigmático. En la figura que aparecía y desaparecía sin explicación. En la capa oscura. En el perro. En el hatillo.
+Pensó en el Enigmático. En la figura que aparecía y desaparecía sin explicación. En la capa oscura. En la varita.
 
 Pensó en la IA. En el hombre de negro que corría sin fatiga, sin ritmo variable, sin sudor. En esa mirada final, cuando disminuyó el paso y lo miró por primera vez.
 

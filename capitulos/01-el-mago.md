@@ -50,11 +50,11 @@ No esta vez entre las columnas de una plaza, sino junto a un árbol. Una figura 
 
 La misma capa oscura.
 
-Pero esta vez la capa no cubría del todo. Runy alcanzó a ver, por un instante, lo que la figura sostenía entre las manos: un hatillo pequeño, atado a un palo, como los que cargan los viajeros antiguos. Y a sus pies, sentado en silencio, había un perro. Un animal flaco, de mirada tranquila, que observaba a los corredores pasar sin el menor interés. Un verdadero firulais paisa.
+Pero esta vez la capa no cubría del todo. Runy alcanzó a ver, por un instante, lo que la figura sostenía entre las manos: una varita oscura, delgada, que parecía hecha de la misma sombra que su capa. La punta brillaba tenue, como si contuviera una chispa que no necesitaba fuego para existir.
 
 Runy parpadeó.
 
-La figura seguía allí. El perro seguía allí.
+La figura seguía allí. La varita seguía en su mano.
 
 Pero cuando Runy volvió a mirar, después de esquivar a un corredor que frenó de golpe, ya no había nadie. Solo el árbol. Solo la sombra del árbol. Solo el viento moviendo las hojas, indiferente.
 
@@ -66,5 +66,5 @@ Runy agarró una botella de agua, bebió la mitad y se lanzó el resto en la cab
 
 —Estoy perdiendo la cabeza —dijo, este es el kilómetro 2 y ya estoy alucinando.
 
-Y sonrió, porque la frase también era absurda, y porque Camus tenía razón: uno tiene que imaginarse a Sísifo feliz, y también al loco que sonríe mientras corre hacia ninguna parte con un perro imaginario pisándole los talones.
+Y sonrió, porque la frase también era absurda, y porque Camus tenía razón: uno tiene que imaginarse a Sísifo feliz.
 ---

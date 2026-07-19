@@ -74,8 +74,6 @@ La misma capa oscura. La misma inmovilidad.
 
 Pero esta vez la figura no estaba quieta. Movía las manos en el aire con una lentitud ceremonial. En una mano sostenía una vara delgada, como un bastón o un cetro. En la otra, algo que brillaba —un objeto pequeño que la luz del sol convertía en un punto de fuego.
 
-No había hatillo ahora. No había perro.
-
 La figura alzó la vara hacia el cielo, y absurdamente, algo en el aire cambió. Una vibración. Un rumor que no era sonido. El espacio entre el cielo y la tierra se afinó, alguien había ajustado una cuerda invisible.
 
 Parpadeó.

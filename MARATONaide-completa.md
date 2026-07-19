@@ -168,11 +168,11 @@ No esta vez entre las columnas de una plaza, sino junto a un árbol. Una figura 
 
 La misma capa oscura.
 
-Pero esta vez la capa no cubría del todo. Runy alcanzó a ver, por un instante, lo que la figura sostenía entre las manos: un hatillo pequeño, atado a un palo, como los que cargan los viajeros antiguos. Y a sus pies, sentado en silencio, había un perro. Un animal flaco, de mirada tranquila, que observaba a los corredores pasar sin el menor interés. Un verdadero firulais paisa.
+Pero esta vez la capa no cubría del todo. Runy alcanzó a ver, por un instante, lo que la figura sostenía entre las manos: una varita oscura, delgada, que parecía hecha de la misma sombra que su capa. La punta brillaba tenue, como si contuviera una chispa que no necesitaba fuego para existir.
 
 Runy parpadeó.
 
-La figura seguía allí. El perro seguía allí.
+La figura seguía allí. La varita seguía en su mano.
 
 Pero cuando Runy volvió a mirar, después de esquivar a un corredor que frenó de golpe, ya no había nadie. Solo el árbol. Solo la sombra del árbol. Solo el viento moviendo las hojas, indiferente.
 
@@ -184,7 +184,7 @@ Runy agarró una botella de agua, bebió la mitad y se lanzó el resto en la cab
 
 —Estoy perdiendo la cabeza —dijo, este es el kilómetro 2 y ya estoy alucinando.
 
-Y sonrió, porque la frase también era absurda, y porque Camus tenía razón: uno tiene que imaginarse a Sísifo feliz, y también al loco que sonríe mientras corre hacia ninguna parte con un perro imaginario pisándole los talones.
+Y sonrió, porque la frase también era absurda, y porque Camus tenía razón: uno tiene que imaginarse a Sísifo feliz.
 ---
 
 # II. La Sacerdotisa (km 2–4)
@@ -260,8 +260,6 @@ Y entonces, al borde del puesto de hidratación, entre dos mesas plegables, vio 
 La misma capa oscura. La misma inmovilidad.
 
 Pero esta vez la figura no estaba quieta. Movía las manos en el aire con una lentitud ceremonial. En una mano sostenía una vara delgada, como un bastón o un cetro. En la otra, algo que brillaba —un objeto pequeño que la luz del sol convertía en un punto de fuego.
-
-No había hatillo ahora. No había perro.
 
 La figura alzó la vara hacia el cielo, y absurdamente, algo en el aire cambió. Una vibración. Un rumor que no era sonido. El espacio entre el cielo y la tierra se afinó, alguien había ajustado una cuerda invisible.
 
@@ -2498,7 +2496,7 @@ Caminaron por la Avenida Oriental, esa calle que sube y baja como la respiració
 
 Runy pensó en su padre. En los cuadernos que seguían cerrados. En la rodilla que ya no le gritaba sino que le susurraba, como una amiga vieja que aprendió a hablar bajito.
 
-Pensó en el Enigmático. En la figura que aparecía y desaparecía sin explicación. En la capa oscura. En el perro. En el hatillo.
+Pensó en el Enigmático. En la figura que aparecía y desaparecía sin explicación. En la capa oscura. En la varita.
 
 Pensó en la IA. En el hombre de negro que corría sin fatiga, sin ritmo variable, sin sudor. En esa mirada final, cuando disminuyó el paso y lo miró por primera vez.
 
