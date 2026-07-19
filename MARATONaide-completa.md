@@ -114,7 +114,7 @@ Y recordó una frase que había leído años atrás y que nunca había entendido
 *A cinco kilómetros de aquí hay un hombre empujando una piedra.*
 ---
 
-# 0. El Loco (km 0–2)
+# I. El Mago (km 0–2)
 
 La salida fue un animal.
 
@@ -187,7 +187,7 @@ Runy agarró una botella de agua, bebió la mitad y se lanzó el resto en la cab
 Y sonrió, porque la frase también era absurda, y porque Camus tenía razón: uno tiene que imaginarse a Sísifo feliz, y también al loco que sonríe mientras corre hacia ninguna parte con un perro imaginario pisándole los talones.
 ---
 
-# I. El Mago (km 2–4)
+# II. La Sacerdotisa (km 2–4)
 
 El kilómetro dos trajo una tregua.
 
@@ -286,7 +286,7 @@ Pero en el fondo sabía que no era ninguna de esas cosas.
 Dejó el vaso en una mesa y siguió corriendo, porque el kilómetro cuatro ya había pasado y el cinco lo esperaba, y porque tal vez —solo tal vez— había algo de verdad en eso de que las manos pueden apuntar al cielo mientras los pies siguen en la tierra.
 ---
 
-# II. El saber oculto (km 4–6)
+# III. La Emperatriz (km 4–6)
 
 El kilómetro cuatro trajo el calor.
 
@@ -383,7 +383,7 @@ La piedra cayó dentro de él, y Runy supo que el ciclo empezaba. Que cada cinco
 Y la piedra rodó hacia adelante.
 ---
 
-# III. La naturaleza (km 6–8)
+# IV. El Emperador (km 6–8)
 
 El kilómetro seis trajo una bifurcación.
 
@@ -534,7 +534,7 @@ Ella se encogió de hombros.
 
 —Pregúntaselo. Yo llevo tres años preguntándomelo y nunca me ha dado la misma respuesta.
 
-Bebió un trago de agua, guardó la botella en un cinturón y arrancó a correr sin aviso. Runy la siguió. Corrieron en silencio unos segundos, el ruido de las zapatillas sobre el asfalto marcando un ritmo común.
+Bebió un trago de agua, guardó la botella en un cinturón y arrancó a correr sin aviso. Runy la siguió. Corrieron en silencio unos segundos, el ruido de las tenis sobre el asfalto marcando un ritmo común.
 
 —Me llamo Runy —dijo él, de repente.
 
@@ -550,7 +550,7 @@ Esta vez no estaba al borde del camino ni en un separador. Estaba en medio de la
 
 No parecía incongruente. Parecía —y esto era lo más extraño— que la silla fuera un trono.
 
-Runy se acercó. A su alrededor, los corredores aprovechaban para beber agua, estirar, ajustarse las zapatillas. Nadie miraba a la figura. Nadie parecía verla.
+Runy se acercó. A su alrededor, los corredores aprovechaban para beber agua, estirar, ajustarse las tenis. Nadie miraba a la figura. Nadie parecía verla.
 
 Runy sí.
 
@@ -585,7 +585,7 @@ Runy negó con la cabeza.
 Y siguió corriendo, porque el kilómetro diez ya había pasado y el once lo esperaba, y porque la imagen de la figura sentada en un trono de plástico con la vara en la mano se le quedó grabada en la memoria como la respuesta a una pregunta que todavía no sabía formular.
 ---
 
-# V. La voz antigua (km 10–12)
+# VI. Los Amantes (km 10–12)
 
 El kilómetro diez trajo una sorpresa.
 
@@ -684,7 +684,7 @@ Runy siguió corriendo, porque el kilómetro doce ya estaba ahí, y porque la im
 *¿A quién escuchas? ¿Y a quién eliges seguir?*
 ---
 
-# VI. La elección (km 12–14)
+# VII. El Carro (km 12–14)
 
 El kilómetro doce trajo un cambio de paisaje y de ánimo.
 
@@ -712,7 +712,7 @@ Runy lo sintió antes de verlo: una presencia a su espalda, un ritmo de respirac
 
 Runy miró por encima del hombro.
 
-El hombre corriendo detrás de él era grande. No gordo, grande. Hombros anchos, piernas gruesas, una masa que se movía con una eficiencia que parecía imposible para su tamaño. Vestía de negro de pies a cabeza: pantalón negro, camiseta negra, zapatillas negras. El dorsal en el pecho era lo único blanco. El número 6667 destacaba, nítido sobre la tela oscura. La cara era ancha, sin expresión, con ojos pequeños que miraban fijamente hacia adelante.
+El hombre corriendo detrás de él era grande. No gordo, grande. Hombros anchos, piernas gruesas, una masa que se movía con una eficiencia que parecía imposible para su tamaño. Vestía de negro de pies a cabeza: pantalón negro, camiseta negra, tenis negras. El dorsal en el pecho era lo único blanco. El número 6667 destacaba, nítido sobre la tela oscura. La cara era ancha, sin expresión, con ojos pequeños que miraban fijamente hacia adelante.
 
 Runy sintió un escalofrío que no venía del aire.
 
@@ -779,7 +779,7 @@ El kilómetro catorce apareció.
 Runy bebió agua, miró hacia atrás, y siguió corriendo.
 ---
 
-# VII. La conquista (km 14–16)
+# VIII. La Justicia (km 14–16)
 
 El kilómetro catorce trajo a Sartre de vuelta, pero esta vez Sartre no venía solo.
 
@@ -924,7 +924,7 @@ Esta vez no sintió miedo. Tampoco resignación. Sintió algo más cercano a una
 Y la piedra cayó, y él la dejó ir.
 ---
 
-# VIII. La balanza (km 16–18)
+# IX. El Ermitaño (km 16–18)
 
 El kilómetro dieciséis trajo un cambio sutil en el paisaje.
 
@@ -1029,7 +1029,7 @@ Runy miró hacia adelante. La avenida seguía, interminable, hacia el sur.
 Y los dos siguieron corriendo.
 ---
 
-# IX. La luz interna (km 18–20)
+# X. La Rueda de la Fortuna (km 18–20)
 
 El kilómetro dieciocho trajo la primera señal real de que la carrera se estaba volviendo otra cosa.
 
@@ -1130,7 +1130,7 @@ Runy negó con la cabeza.
 Y los dos siguieron, hacia arriba, hacia Sabaneta, hacia la parte más dura de la carrera.
 ---
 
-# X. El giro (km 20–22)
+# XI. La Fuerza (km 20–22)
 
 El kilómetro veinte trajo el anuncio de que algo estaba a punto de cambiar.
 
@@ -1271,7 +1271,7 @@ Solo la carretera vacía, la curva, el sol.
 Y siguió corriendo, con la imagen de la rueda girando en la cabeza, y la certeza de que algo, en algún lugar, estaba a punto de dar la vuelta.
 ---
 
-# XI. La bestia domada (km 22–24)
+# XII. El Colgado (km 22–24)
 
 El kilómetro veintidós trajo una conciencia nueva del tiempo.
 
@@ -1368,7 +1368,7 @@ El número era a la vez lejano y cercano.
 —Después —dijo Arango—, la carrera empieza de verdad.
 ---
 
-# XII. El sacrificio (km 24–26)
+# XIII. La Muerte (km 24–26)
 
 El kilómetro veinticuatro trajo una conciencia que Runy no había tenido antes: la certeza de que estaba dispuesto a rendirse.
 
@@ -1489,7 +1489,7 @@ La piedra cayó. Pero esta vez él también cayó un poco. No hacia abajo. Hacia
 Pero lo dijo igual.
 ---
 
-# XIII. La transformación (km 26–28)
+# XIV. La Templanza (km 26–28)
 
 El kilómetro veintiséis trajo la conciencia del tiempo límite.
 
@@ -1586,7 +1586,7 @@ Pero la guadaña no se había ido del todo. Quedaba en su memoria, el filo curvo
 Y siguió corriendo, porque el kilómetro veintiocho y medio estaba cerca, y porque sentía que algo en él se había roto, pero lo roto no era una pérdida sino una cáscara que ya no necesitaba.
 ---
 
-# XIV. La síntesis (km 28–30)
+# XV. El Diablo (km 28–30)
 
 El kilómetro veintiocho y medio trajo el retorno oficial.
 
@@ -1669,7 +1669,7 @@ Runy bebió agua. Miró hacia atrás. La carretera se perdía en la curva, y en 
 Pero ya no le importaba tanto.
 ---
 
-# XV. La cadena (km 30–32)
+# XVI. La Torre (km 30–32)
 
 El kilómetro treinta trajo a la IA de vuelta. Pero esta vez no venía detrás.
 
@@ -1838,7 +1838,7 @@ La roca seguía ahí. Pero la figura había desaparecido. Los cuernos. Las caden
 Algo se aflojó en su pecho. El miedo seguía ahí. La IA seguía ahí. Pero ahora sabía que las cadenas no eran reales. Y lo que no es real, se puede soltar.
 ---
 
-# XVI. El derrumbe (km 32–34)
+# XVII. La Estrella (km 32–34)
 
 El kilómetro treinta y dos trajo la certeza de que algo estaba a punto de romperse.
 
@@ -1920,7 +1920,7 @@ Runy quiso decir algo, pero Valentina lo detuvo con una mano en el brazo.
 
 El kilómetro treinta y cuatro trajo el derrumbe.
 
-No fue dramático. Fue silencioso. Arango simplemente se detuvo. No se cayó. No se agarró la rodilla. Solo dejó de correr y caminó unos pasos hasta el borde de la carretera, donde se sentó en el sardinel.
+No fue dramático. Fue silencioso. Arango simplemente se detuvo. No se cayó. No se agarró la rodilla. Solo dejó de correr y caminó unos pasos hasta el borde de la carretera, donde se sentó en el acera.
 
 Runy y Valentina se detuvieron también.
 
@@ -1942,7 +1942,7 @@ Las palabras lo vaciaron.
 
 —Pero llevas treinta años corriendo —dijo—. Treinta años. No puedes terminar así.
 
-—Llevo treinta años corriendo —repitió Arango—. ¿Sabes cuántas veces he llegado a la meta? Muchas. ¿Sabes cuántas veces he tenido que pararme en un sardinel? También muchas.
+—Llevo treinta años corriendo —repitió Arango—. ¿Sabes cuántas veces he llegado a la meta? Muchas. ¿Sabes cuántas veces he tenido que pararme en un acera? También muchas.
 
 Señaló la rodilla.
 
@@ -1964,7 +1964,7 @@ Arango lo miró con una expresión que Runy no le había visto antes. No era tri
 
 La frase le cerró la garganta.
 
-Runy se quedó de pie, mirando a Arango sentado en el sardinel, y de pronto le vino la cara del kilómetro quince, cuando Arango le había dicho <em>Rodilla. Pero esto no se gana con las rodillas</em>. Lo había dicho con una sonrisa, como quien comparte un secreto que solo los que corren conocen. Y Runy había creído que se refería a la voluntad, a la fuerza mental, a algo que se pudiera pensar. Ahora entendía que Arango no estaba hablando de fuerza. Estaba hablando de soltar.
+Runy se quedó de pie, mirando a Arango sentado en el acera, y de pronto le vino la cara del kilómetro quince, cuando Arango le había dicho <em>Rodilla. Pero esto no se gana con las rodillas</em>. Lo había dicho con una sonrisa, como quien comparte un secreto que solo los que corren conocen. Y Runy había creído que se refería a la voluntad, a la fuerza mental, a algo que se pudiera pensar. Ahora entendía que Arango no estaba hablando de fuerza. Estaba hablando de soltar.
 
 —Tú sigue —dijo Arango—. Los dos. Tienen que llegar.
 
@@ -2010,13 +2010,13 @@ Runy sintió el vacío a su izquierda. Allí donde antes estaba Arango, ahora so
 
 Runy miró.
 
-Arango seguía sentado en el sardinel, una silueta pequeña contra el paisaje. No levantó la mano. No hizo gesto. Solo se quedó allí, viéndolos alejarse.
+Arango seguía sentado en el acera, una silueta pequeña contra el paisaje. No levantó la mano. No hizo gesto. Solo se quedó allí, viéndolos alejarse.
 
 —Dije que no miraras —repitió Valentina.
 
 —Lo sé —dijo Runy.
 
-Y siguió corriendo, con la imagen de Arango sentado en el sardinel grabada en la retina, preguntándose si iba a volver a verlo.
+Y siguió corriendo, con la imagen de Arango sentado en el acera grabada en la retina, preguntándose si iba a volver a verlo.
 
 ***
 
@@ -2067,11 +2067,11 @@ Y la soltó.
 —Hasta el cuarenta.
 ---
 
-# XVII. La esperanza (km 34–36)
+# XVIII. La Luna (km 34–36)
 
 El kilómetro treinta y cuatro trajo un silencio que Runy no sabía cómo llenar.
 
-Arango se había quedado atrás. La imagen del hombre sentado en el sardinel, esperando la camioneta de barrido, se repetía en su cabeza como un bucle. No podía sacarla.
+Arango se había quedado atrás. La imagen del hombre sentado en el acera, esperando la camioneta de barrido, se repetía en su cabeza como un bucle. No podía sacarla.
 
 Valentina corría a su lado. Los dos en silencio.
 
@@ -2206,7 +2206,7 @@ Runy entendió.
 Y siguieron corriendo, los dos solos, hacia el centro de la ciudad, hacia lo que quedaba de la carrera.
 ---
 
-# XVIII. La ilusión (km 36–38)
+# XIX. El Sol (km 36–38)
 
 El kilómetro treinta y seis trajo una sensación que Runy no esperaba: alivio.
 
@@ -2333,7 +2333,7 @@ Pero los dos sabían que no era cierto.
 Y la duda que había aparecido en el kilómetro treinta y siete ahora tenía una voz. Y esa voz seguía hablando dentro de su cabeza.
 ---
 
-# XIX. La claridad (km 38–40)
+# XX. El Juicio (km 38–40)
 
 El kilómetro treinta y ocho trajo algo que Runy no esperaba: una respuesta.
 
@@ -2428,264 +2428,119 @@ Ella asintió.
 Y los dos siguieron corriendo, hacia los últimos dos kilómetros, hacia el final de algo que ninguno de los dos sabía cómo iba a terminar.
 ---
 
-# XX. El despertar (km 40–42)
+# XXI. El Loco (km 40–42)
 
-El kilómetro cuarenta trajo el marcador.
+Runy se quedó sentado en la acera.
 
-Runy lo vio desde lejos: un arco inflable que cruzaba la carretera, con un letrero que decía KM 40. Debajo, un grupo de voluntarios repartía agua y miraba los relojes.
+Los corredores pasaban como un río que no se detiene. Algunos miraban el reloj. Otros miraban el cielo. La mayoría no miraba nada.
 
-El kilómetro cuarenta era más que un número. Era una frontera.
+El sol había subido. La sombra del poste se había acortado. Runy sentía el calor del asfalto a través de la pantaloneta, un calor que subía por los muslos y se instalaba en el estómago como una brasa lenta.
 
-Había corrido cuarenta kilómetros. Faltaban dos.
+No sabía cuánto tiempo llevaba sentado. Minutos, tal vez. O tal vez más.
 
-Pero eran los dos kilómetros más largos de su vida.
-
-***
-
-El kilómetro cuarenta y uno trajo el momento que Runy había estado evitando desde el kilómetro cero.
-
-El cansancio dejó de ser físico. Se volvió otra cosa. Se volvió una certeza que no venía de los músculos sino de un lugar más hondo, donde las preguntas se habían ido callando una a una hasta que solo quedó una.
-
-*¿Para qué sigo?*
-
-No era una pregunta que pidiera una respuesta. Era una pregunta que pedía una decisión.
-
-Su cuerpo podía seguir. Las piernas se movían por inercia. Los pulmones funcionaban. El corazón bombeaba. Todo el sistema estaba en piloto automático, listo para completar los últimos dos kilómetros sin importar lo que pasara.
-
-Pero la pregunta no se iba.
-
-*No tengo que terminar.*
-
-La idea apareció clara, limpia, sin drama. No era una derrota. Era una toma de conciencia.
-
-*No tengo que terminar para que esto haya valido la pena.*
-
-Valentina corría a su lado. Los dos en silencio. Los dos sabiendo que algo estaba a punto de pasar.
-
-El cuerpo le pedía que se detuviera. No el cansancio. El cuerpo. El mismo cuerpo que había corrido cuarenta y un kilómetros, que había subido y bajado, que había sudado y dolido y seguido. Ahora le pedía que parara.
-
-—Valentina —dijo.
-
-Ella lo miró.
-
-—Voy a parar —dijo.
-
-Ella no se detuvo. Pero su ritmo disminuyó. Runy vio que ella también venía al límite. Las piernas le temblaban ligeramente. La respiración no era la misma de antes.
-
-—¿Por qué? —preguntó.
-
-—Porque ya entendí lo que tenía que entender —dijo Runy—. No necesito cruzar la meta para saber por qué corro.
-
-Valentina guardó silencio. Corrieron unos metros más.
-
-—¿Y qué entendiste? —preguntó.
-
-Runy tardó en responder. Las palabras no eran fáciles.
-
-—Que corro porque puedo elegir hacerlo —dijo—. Y que puedo elegir parar.
-
-Se detuvo. No necesitó decir más.
-
-Valentina se detuvo también. Se miraron.
-
-—Esa es la diferencia entre él y yo —dijo Runy.
-
-No necesitó decir quién era "él".
-
-Valentina asintió.
-
-—¿Quieres que pare contigo? —preguntó.
-
-—No —dijo Runy—. Tú tienes que llegar.
-
-—No sé si…
-
-—Sí —la interrumpió—. Tú sí puedes. Siempre has podido.
-
-Valentina lo miró. Y por primera vez, Runy vio que sus ojos estaban húmedos. Pero no lloró.
-
-—Gracias —dijo ella.
-
-—Gracias a ti —dijo Runy.
-
-Ella dudó un segundo. Runy vio que quería decir algo más, pero no lo dijo. En lugar de eso, apretó la mandíbula y empezó a correr otra vez.
-
-Runy la vio alejarse. La coleta, la espalda, la zancada que ya no era tan limpia como al principio pero que seguía firme. La vio doblar una curva y desaparecer.
-
-Y entonces, solo, se sentó en la acera.
+Pero en ese silencio, algo cambió.
 
 ***
 
-El asfalto estaba caliente. El sol quemaba. Los corredores pasaban a su lado, algunos lo miraban, otros no. La mayoría no.
+No fue un sonido. No fue una visión. Fue algo más sutil, como el momento en que la luz cambia antes de que caiga la tarde, ese instante donde todo se vuelve dorado y el mundo parece detenerse un segundo para respirar.
 
-El cuerpo empezó a enfriarse. Los músculos, que habían estado funcionando a máxima capacidad durante horas, empezaban a quejarse. Un calambre le subió por el gemelo izquierdo y se quedó. La sed llegó de golpe, seca, urgente.
+Runy cerró los ojos.
 
-Pero no se arrepentía.
+Y entonces la vio.
 
-Había corrido cuarenta y un kilómetros. No había llegado a la meta. Pero había llegado a algo que la meta no podía darle.
+No al Enigmático. No al hombre de negro. No a Valentina.
 
-El Enigmático apareció frente a él.
+La vio a ella. La mujer de la coleta alta. La misma de la plaza. La misma que había visto corriendo en el kilómetro uno. Pero ahora no corría. Estaba de pie, a su lado, mirándolo con una expresión que no era de lástima ni de curiosidad. Era de reconocimiento.
 
-La figura estaba de pie, a unos metros, en medio de la carretera. Detrás de ella, el aire se abría como un telón y Runy veía imágenes que no eran de este mundo.
+—¿Qué haces aquí? —preguntó Runy, sin abrir los ojos del todo.
 
-Veía una tumba abierta. Y de la tumba salía una figura, una silueta que se elevaba hacia el cielo. Alrededor, otras figuras —las mismas siluetas sin rostro que había visto antes— se levantaban también, habían estado muertas y ahora despertaban.
+Ella no respondió. Solo lo miró.
 
-Y en el centro de todo, un sonido. Una trompeta. Un sonido largo, profundo, que no venía de ningún lado y venía de todas partes.
+Y Runy entendió. No necesitaba que le dijera nada. La presencia era suficiente. La presencia era la respuesta.
 
-Pero la figura del Enigmático no miraba hacia arriba. Miraba a Runy.
-
-*No tienes que morir para resucitar. A veces, resucitar es simplemente dejar de ser quien eras.*
-
-La imagen se grabó en su memoria para siempre.
-
-—Gracias —dijo en voz alta.
-
-La figura no respondió. Pero por primera vez, la figura sonreía.
-
-Runy la miró un instante más. Y cuando el sol le pegó de lleno en los ojos, tuvo que cerrarlos. Los abrió al segundo. La carretera estaba vacía. No había capa, no había sonrisa, no había nada. Solo el asfalto, el calor, y el eco de una presencia que se había ido sin hacer ruido, como se van las cosas que importan: sin pedir permiso.
+*El amor no es una pregunta*, pensó. *Es una respuesta que ya estaba ahí antes de que la hicieran.*
 
 ***
 
-El hombre de negro pasó a su lado.
+Parpadeó.
 
-No lo miró. No disminuyó el paso. Pasó como si Runy no existiera, como si nunca hubiera existido.
+Ella ya no estaba.
 
-Runy lo vio alejarse. La espalda negra, el movimiento perfecto, la respiración que no alteraba el ritmo.
+Pero algo había quedado. No un recuerdo. No una imagen. Algo más hondo. Una certeza que no venía de la cabeza sino del pecho, de ese lugar donde el corazón late más fuerte cuando algo importante está a punto de pasar.
 
-Pero antes de perderse de vista, el hombre de negro hizo algo que Runy no esperaba. Disminuyó el paso. Solo un poco. Solo lo suficiente para girar la cabeza.
+Runy se levantó.
 
-Lo miró.
+Las piernas temblaban. Los muslos ardían. Pero se levantó.
 
-No hubo expresión. No hubo emoción. Pero hubo una mirada. Un reconocimiento. Como si la IA, por primera vez, hubiera notado que Runy no estaba detrás de él.
+Y sonrió. No porque estuviera feliz. No porque todo hubiera salido bien. Sino porque, por primera vez en mucho tiempo, se sintió vivo de una manera que no tenía nada que ver con correr.
 
-Y en esa mirada, Runy entendió algo más.
+El arcano del amor no era un sentimiento. Era una presencia. Algo que aparece cuando uno deja de buscar y empieza a simplemente estar.
 
-*Él no puede parar. Yo sí. Él no puede elegir. Yo sí.*
+Runy miró al frente. La carretera vacía. Los conos torcidos. La ciudad que respiraba.
 
-La IA giró la cabeza y siguió corriendo. Un punto negro que se hacía pequeño en la distancia.
+Y supo que no estaba solo.
 
-Runy se quedó sentado.
+---
 
-Y por primera vez en toda la carrera, sintió paz.
+# XXII. El Mundo (Meta)
+
+Runy caminó por las calles de Medellín.
+
+El sol de la tarde pintaba todo de un color que no tiene nombre. No era naranja. No era dorado. Era algo intermedio, algo que solo aparece cuando la ciudad se despide de un domingo y se prepara para el lunes.
+
+Valentina iba a su lado. La medalla ya no tintineaba. Se la había quitado y guardado en el bolsillo, como quien guarda una moneda que no piensa gastar.
+
+Ninguno de los dos hablaba. No hacía falta.
 
 ***
 
-No supo cuánto tiempo pasó. El sol se había movido. La sombra de un poste se alargaba a su lado.
+Caminaron por la Avenida Oriental, esa calle que sube y baja como la respiración de la ciudad. A los lados, los edificios se alzaban como testigos silenciosos de todo lo que había pasado ese día. Las ventanas reflejaban el cielo. Los balcones tenían plantas que nadie regaba. Los perros dormían en las puertas, indiferentes al mundo.
 
-Entonces escuchó pasos. No los de un corredor. Pasos lentos, arrastrados, de alguien que ya no tenía prisa.
+Runy pensó en su padre. En los cuadernos que seguían cerrados. En la rodilla que ya no le gritaba sino que le susurraba, como una amiga vieja que aprendió a hablar bajito.
 
-Levantó la cabeza.
+Pensó en el Enigmático. En la figura que aparecía y desaparecía sin explicación. En la capa oscura. En el perro. En el hatillo.
 
-Valentina estaba frente a él. Tenía una medalla colgando del cuello. La camiseta empapada. El moño deshecho. Los ojos hinchados.
+Pensó en la IA. En el hombre de negro que corría sin fatiga, sin ritmo variable, sin sudor. En esa mirada final, cuando disminuyó el paso y lo miró por primera vez.
 
-—Llegué —dijo.
+*Él no puede parar*, pensó. *Yo sí.*
+
+Y con esa certeza, algo se cerró. No como una puerta. Como un círculo.
+
+***
+
+Se sentaron en un banco frente a la ciudad. Medellín se extendía ante ellos como un mapa vivo. Los cerros verdes. Las luces que empezaban a encenderse. El río que cruzaba la ciudad como una serpiente plateada.
+
+Valentina sacó el banano del bolsillo. El banano que la IA le había dado para Runy. Estaba aplastado, negro en las puntas, pero seguía siendo un banano.
+
+—¿Lo vas a comer? —preguntó Runy.
+
+—Yo no. Es tuyo.
+
+Runy lo tomó. Lo peló. Lo comió.
+
+Sabía a banano. Nada más. Pero en ese momento, sabía a todo.
+
+***
+
+El mundo no había cambiado. Medellín seguía siendo Medellín. La maratón ya había terminado. Los corredores se habían ido a sus casas. Los conos se recogían. El asfalto se enfriaba.
+
+Pero Runy sabía algo que no sabía esa mañana.
+
+*La alegría no está en llegar*, pensó. *Está en caminar.*
+
+Y no era una frase bonita. No era un letrero de autoayuda. Era una verdad física, algo que sentía en las piernas cansadas, en la piel quemada por el sol, en los ojos que todavía veían todo un poco más nítido de lo normal.
+
+Valentina lo miró.
+
+—¿Y ahora qué? —preguntó.
 
 Runy sonrió.
 
-—Lo sé.
+Ambos miraron el mundo. El mundo los miró de vuelta. Y en ese intercambio silencioso, sin palabras, sin explicaciones, sin necesidad de entenderlo todo, Runy supo que había llegado.
 
-Ella se sentó a su lado. La medalla le chocó contra el pecho con un tintineo metálico.
+No a la meta. No a un número. No a un tiempo.
 
-—Tenía que venir a buscarte —dijo.
+A sí mismo.
 
-—¿Por qué?
-
-Ella se encogió de hombros.
-
-—Pues a traerte el banano que me entregó la IA —dijo—. Dijo que te lo mandaba porque ella no comía.
-
-—¡Bárbaro! —dijo Runy—. ¿Pudiste verle los ojos?
-
-—No. Tenía gafas oscuras.
-
-—Bueno. Se ve apetitoso —dijo Runy, mirando el banano—. ¿Y por qué más viniste?
-
-—Porque no me gusta correr sola. Y porque cuando crucé la meta lo único que quería era decírtelo a ti.
-
-Runy sintió algo que no esperaba. No era gratitud. No era alegría. Era otra cosa. Un calor que no venía del sol.
-
-—¿Y ahora qué? —preguntó ella.
-
-Runy miró al frente. La carretera vacía. Los conos torcidos. La ciudad que empezaba a despertar a su rutina de domingo.
-
-—Nos encontramos en la Avenida Oriental —dijo—. Esta noche. A las ocho.
-
-—¿Para qué?
-
-Runy la miró.
-
-—Para hablar de nuestras vidas —dijo—. Las de verdad. Las que no se cuentan corriendo.
-
-Ella lo miró un momento largo. Luego sonrió. Una sonrisa que Runy no le había visto antes. Más suave. Más lenta.
-
-—Ocho de la noche —dijo—. Avenida Oriental. No llegues tarde.
-
-—No voy a llegar —dijo Runy—. Voy a estar.
-
-Ella se rio. Se levantó. Le tendió la mano.
-
-—¿Vienes? —preguntó.
-
-Runy tomó su mano. Se levantó.
-
-Y caminaron juntos, despacio, en dirección contraria a la carrera, mientras la tarde caía sobre Medellín y la medalla de ella tintineaba al ritmo de sus pasos.
-
-Pero antes de perderse en la ciudad, Runy se detuvo.
-
-Valentina sintió la pausa y se volvió.
-
-—¿Qué pasa?
-
-Runy no respondió. Estaba mirando el asfalto vacío, la línea difusa donde la carrera se había terminado. Y en ese espacio entre el movimiento y la quietud, sintió la piedra por última vez.
-
-No pesaba. No caía. No había que subirla.
-
-Estaba ahí, simplemente, como una compañera silenciosa que lo había acompañado durante cuarenta y dos kilómetros y que ahora, en el silencio después del esfuerzo, esperaba que él reconociera lo que siempre había sido verdad.
-
-*No vine a subir la piedra*, pensó. *Vine a saber que podía soltarla.*
-
-Respiró hondo. La piedra se disolvió en el aire.
-
-—Nada —dijo, mirando a Valentina—. Ya está.
-
-Y siguió caminando, más ligero que nunca, porque el ciclo se había cerrado. Porque había entendido que Sísifo no era feliz a pesar de la piedra, sino con ella. Pero que la verdadera felicidad no estaba en cargarla. Estaba en saber que uno podía soltarla cuando llegara el momento.
-
-El momento había llegado.
-
-La piedra se quedó en el asfalto, esperando a otro corredor.
 ---
-
-# XXI. La completitud (Meta)
-
-Esa noche, solo en su cuarto, Runy abrió el cuaderno.
-
-La página estaba en blanco. Se quedó un momento mirándola. Luego empezó a escribir.
-
-*No llegué a la meta. Pero llegué a un lugar donde entendí que la meta no era el final de la carrera. La meta era cada paso. Cada paso que di, incluso el último, incluso el que me llevó al sardinel, era parte de ella.*
-
-*La IA terminó. Yo no.*
-
-*Pero yo elegí parar. Y esa elección fue más mía que cualquier paso que di.*
-
-*Esa elección fue humana.*
-
-Se detuvo. Leyó lo que había escrito.
-
-No era suficiente. Lo que sentía era más grande que las palabras. Pero las palabras era lo único que tenía.
-
-Escribió una línea más.
-
-*Corrí cuarenta y un kilómetros. No llegué a la meta. Pero llegué a mí.*
-
-Cerró el cuaderno. Apagó la luz.
-
-En la oscuridad, sintió el eco de los pasos. No los suyos. Los de la IA. El golpe seco, constante, perfecto de la zancada que nunca se detenía.
-
-Pero esa noche, el eco no le molestó.
-
-Se acostó. Cerró los ojos.
-
-Y durmió.
-
-Por primera vez en mucho tiempo, durmió sin soñar.
 

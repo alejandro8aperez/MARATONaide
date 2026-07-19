@@ -1,6 +1,6 @@
 # MARATONaide
 
-**42 km. varios filósofos. 22 signos. 1 piedra.**
+**42 km. varios filósofos. 22 arcanos. 1 piedra.**
 
 Runy se inscribió en la maratón de Medellín. Cada kilómetro conversa con un filósofo. Cada estación encuentra un símbolo que no puede nombrar.
 
@@ -12,30 +12,30 @@ Runy se inscribió en la maratón de Medellín. Cada kilómetro conversa con un 
 
 ## Capítulos
 
-| # | Km | Tema | Filósofo |
+| # | Km | Arcano | Filósofo |
 |---|---|---|---|
 | Prólogo | — | La salida | — |
-| 0 | 0–2 | El salto | Camus |
-| I | 2–4 | La voluntad creadora | Camus |
-| II | 4–6 | El saber oculto | Nietzsche |
-| III | 6–8 | La naturaleza | Nietzsche |
-| IV | 8–10 | La ley | Nietzsche |
-| V | 10–12 | La voz antigua | Sartre |
-| VI | 12–14 | La elección | Epicteto |
-| VII | 14–16 | La conquista | Sartre |
-| VIII | 16–18 | La balanza | Merleau-Ponty |
-| IX | 18–20 | La luz interna | Merleau-Ponty |
-| X | 20–22 | El giro | Schopenhauer |
-| XI | 22–24 | La bestia domada | Schopenhauer |
-| XII | 24–26 | El sacrificio | Bergson |
-| XIII | 26–28 | La transformación | San Agustín |
-| XIV | 28–30 | La síntesis | Bergson |
-| XV | 30–32 | La cadena | Heidegger |
-| XVI | 32–34 | El derrumbe | Heidegger |
-| XVII | 34–36 | La esperanza | Lévinas |
-| XVIII | 36–38 | La ilusión | Lévinas |
-| XIX | 38–40 | La claridad | Lévinas |
-| XX | 40–42 | El despertar | Todos (cierre) |
-| XXI | meta | La completitud | Sísifo (final) |
+| I | 0–2 | El Mago | Camus |
+| II | 2–4 | La Sacerdotisa | Camus |
+| III | 4–6 | La Emperatriz | Nietzsche |
+| IV | 6–8 | El Emperador | Nietzsche |
+| V | 8–10 | El Papa | Nietzsche |
+| VI | 10–12 | Los Amantes | Sartre |
+| VII | 12–14 | El Carro | Epicteto |
+| VIII | 14–16 | La Justicia | Sartre |
+| IX | 16–18 | El Ermitaño | Merleau-Ponty |
+| X | 18–20 | La Rueda de la Fortuna | Merleau-Ponty |
+| XI | 20–22 | La Fuerza | Schopenhauer |
+| XII | 22–24 | El Colgado | Schopenhauer |
+| XIII | 24–26 | La Muerte | Bergson |
+| XIV | 26–28 | La Templanza | San Agustín |
+| XV | 28–30 | El Diablo | Bergson |
+| XVI | 30–32 | La Torre | Heidegger |
+| XVII | 32–34 | La Estrella | Heidegger |
+| XVIII | 34–36 | La Luna | Lévinas |
+| XIX | 36–38 | El Sol | Lévinas |
+| XX | 38–40 | El Juicio | Lévinas |
+| XXI | 40–42 | El Loco — El arcano del amor | — |
+| XXII | meta | El Mundo — El arcano de la alegría | — |
 
 **En expansión.** Julio 2026. Medellín, Colombia.

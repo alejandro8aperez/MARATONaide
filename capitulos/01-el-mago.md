@@ -1,100 +1,70 @@
-# I. El Mago (km 2–4)
+﻿# I. El Mago (km 0–2)
 
-El kilómetro dos trajo una tregua.
+La salida fue un animal.
 
-No era que correr se hubiera vuelto fácil, sino que el cuerpo había dejado de protestar y empezaba a funcionar como debía. La respiración encontró su ritmo. Las piernas se movían con una cadencia que ya no requería atención consciente. Podía correr así para siempre —o al menos los siguientes cuarenta kilómetros, que era lo mismo.
+Runy lo sintió en la espalda antes de verlo: una presión que venía de atrás, un empuje colectivo de miles de cuerpos que se movían al mismo tiempo, como una sola bestia con mil piernas y un solo propósito. Los primeros metros fueron de supervivencia. Codos, hombros, zancadas que se pisaban unas a otras. Una mujer a su izquierda casi tropieza con un cono. Un hombre adelante se detuvo en seco para atarse los cordones de los tenis y casi lo derriban.
 
-La mujer de la coleta seguía adelante, siempre a la misma distancia. Runy había dejado de preguntarse si debía alcanzarla. Ahora corría detrás de ella como quien sigue a un faro, sin plan, sin expectativa.
+—¡Cuidado! —gritó alguien.
 
-El kilómetro tres trajo el primer momento de claridad.
+Runy esquivó, aceleró, encontró un hueco entre dos cuerpos y se metió allí como quien respira después de estar bajo el agua.
 
-No era una epifanía. Era algo más simple: la conciencia súbita de que estaba haciendo lo que había decidido hacer. No lo que alguien más esperaba de él. No lo que su trabajo, su familia o su historia le dictaban. Lo que él había elegido.
+El kilómetro cero quedó atrás.
 
-*Esto es la libertad*, pensó. *No la libertad de hacer cualquier cosa. La libertad de hacer esto.*
+Ahora corría. Sin pensarlo. Sin decidirlo. El cuerpo había tomado el control y la mente solo miraba desde adentro, como un pasajero en un vehículo que no conduce.
 
-Camus hablaba de tres respuestas al absurdo. La primera era el suicidio —disolver el problema eliminando al que pregunta. La segunda era el salto filosófico, la fe en algo superior que dé sentido a lo que no lo tiene. Pero la tercera —la única que Camus consideraba digna— era la rebeldía.
+—Tranquilo —dijo en voz baja—. Son solo cuarenta y dos kilómetros.
 
-Runy recordaba la definición con una claridad que lo sorprendió: la rebeldía no era destrucción. Era afirmación. Decir *sí* a la vida precisamente porque no tiene sentido. Vivir sin apelación. Correr sin meta última.
+La frase era tan absurda que lo hizo sonreír. Cuarenta y dos kilómetros. Nadie en su sano juicio llamaría a eso *solo*. Pero allí estaba, corriéndolos, o empezando a correrlos, que era lo mismo que prometer que iba a terminarlos sin tener la menor idea de si podría.
 
-*Soy un hombre absurdo*, pensó, *y estoy haciendo lo único que un hombre absurdo puede hacer: crear mi propio sentido.*
+El absurdo, pensó. Esto es el absurdo. No la carrera, sino la sonrisa.
 
-Y entonces, mientras sus pies golpeaban el asfalto al ritmo de una respiración que ya era automática, entendió algo que no había entendido antes: la rebeldía de Camus no era una postura intelectual. Era una práctica. No se trataba de pensar distinto. Se trataba de *hacer* distinto. Cada paso era un acto de rebeldía contra la inercia. Cada kilómetro, una declaración de guerra contra la resignación.
+Camus decía que el absurdo nace del choque entre la necesidad humana de sentido y el silencio del universo. El hombre pregunta *¿por qué?* y el universo no responde. Y de ese silencio nace todo: la angustia, la rebeldía, la libertad.
 
-***
+Runy sintió ese silencio en el primer kilómetro. No había respuesta para lo que estaba haciendo. No había una razón última. Había solo el hecho de correr, el ruido de las tenis contra el asfalto, el aire entrando y saliendo, el sudor que empezaba a formarse en la nuca.
 
-El kilómetro tres y medio trajo un paisaje nuevo. La ruta había dejado San Juan y doblado hacia el sur por la Avenida 80, una vía ancha que corría paralela a la línea elevada del Metroplús. Los trenes pasaban con un rumor sordo, indiferentes a la multitud de corredores que se movía debajo.
+*¿Por qué corro?*
 
-Alguien se puso a su altura.
-
-—Buen ritmo —dijo una voz.
-
-Era ella. La mujer de la coleta. Había disminuido el paso o él lo había acelerado, no sabía. Pero ahora corría a su lado, mirando al frente, sin dar señales de haber dicho nada.
-
-Runy tardó un par de zancadas en responder.
-
-—Tú también —dijo, y la frase le sonó increíblemente estúpida.
-
-Ella sonrió sin mirarlo. Una sonrisa pequeña, casi imperceptible.
-
-—Primera vez —dijo. No era una pregunta.
-
-—¿Se nota?
-
-—Los hombros. Los tensas cuando piensas.
-
-Runy no supo qué decir a eso, así que no dijo nada. Corrieron en silencio unos segundos. El ruido de un tren pasando sobre ellos llenó el espacio.
-
-—¿Y tú? —preguntó Runy cuando el silencio se volvió incómodo—. ¿Cuántas llevas?
-
-—Tres. Esta es la cuarta.
-
-—¿Y todavía no te aburres?
-
-Ella volvió a sonreír, pero esta vez la sonrisa era distinta. Más profunda.
-
-—Nunca es la misma carrera —dijo—. El cuerpo cambia. La ciudad cambia. Tú cambias. Corres cuarenta y dos kilómetros, pero en realidad corres cuarenta y dos versiones de ti mismo.
-
-La frase merecía estar en un libro.
-
-—¿Eres escritora? —preguntó.
-
-—Soy bióloga —dijo ella—. Pero todo el mundo dice cosas inteligentes cuando lleva dos horas corriendo.
-
-Y aceleró, poniendo otra vez distancia entre ellos.
+No lo sabía. Y esa falta de respuesta, en lugar de paralizarlo, lo impulsó a apretar el paso.
 
 ***
 
-El kilómetro cuatro apareció. Runy lo sintió en el letrero y en el cuerpo: una señal de que la primera etapa había terminado. El puesto de hidratación era más grande que el anterior, con voluntarios que repartían agua y fruta. Algunos corredores se detenían a estirar. Otros pasaban de largo.
+El kilómetro uno y medio trajo un quiebre en la ruta. La masa de corredores dobló a la izquierda para tomar la calle San Juan en dirección al occidente. La avenida era ancha, flanqueada por el edificio de EPM a un lado y las fachadas antiguas del centro al otro. La luz del amanecer empezaba a filtrarse entre los edificios, creando un pasillo de sombras y destellos.
 
-Mientras tomaba agua, Runy miró hacia atrás, hacia el camino recorrido. Tres kilómetros. Apenas nada. Pero también todo.
+Runy respiró mejor. El grupo se había estirado, los cuerpos ya no estaban tan apretados. Empezaba a encontrar su ritmo.
 
-Y entonces, al borde del puesto de hidratación, entre dos mesas plegables, vio una figura que no estaba ahí un segundo antes.
+Y fue entonces que la vio.
 
-La misma capa oscura. La misma inmovilidad.
+La mujer de la coleta alta. La misma de la plaza. Corría unos metros adelante, con una zancada limpia, eficiente, sin esfuerzo aparente. Los audífonos seguían en su lugar. Su expresión seguía siendo la misma: concentración absoluta, encerrada en una burbuja donde el ruido del mundo no entraba.
 
-Pero esta vez la figura no estaba quieta. Movía las manos en el aire con una lentitud ceremonial. En una mano sostenía una vara delgada, como un bastón o un cetro. En la otra, algo que brillaba —un objeto pequeño que la luz del sol convertía en un punto de fuego.
+Runy aceleró un poco, no para alcanzarla, sino para mantenerse a la distancia justa donde pudiera verla sin que ella notara que la miraba.
 
-No había hatillo ahora. No había perro.
+*¿Por qué corres tú?*, pensó. Pero no dijo nada.
 
-La figura alzó la vara hacia el cielo, y absurdamente, algo en el aire cambió. Una vibración. Un rumor que no era sonido. El espacio entre el cielo y la tierra se afinó, alguien había ajustado una cuerda invisible.
+***
 
-Parpadeó.
+El kilómetro dos se acercaba. Runy lo sintió en las piernas, en la respiración que empezaba a pedir un ritmo más constante. El primer puesto de hidratación apareció a lo lejos, un grupo de voluntarios con mesas plegables y botellitas de agua alineados como soldados.
 
-La figura ya no estaba.
+Y entonces, al borde del camino, lo vio.
 
-Runy se quedó mirando el lugar vacío, el vaso de agua a medio camino de la boca.
+No esta vez entre las columnas de una plaza, sino junto a un árbol. Una figura inmóvil que no sudaba, que no jadeaba, que no llevaba dorsal ni ropa deportiva.
 
-—¿Estás bien? —preguntó un voluntario.
+La misma capa oscura.
 
-Runy bajó la mano.
+Pero esta vez la capa no cubría del todo. Runy alcanzó a ver, por un instante, lo que la figura sostenía entre las manos: un hatillo pequeño, atado a un palo, como los que cargan los viajeros antiguos. Y a sus pies, sentado en silencio, había un perro. Un animal flaco, de mirada tranquila, que observaba a los corredores pasar sin el menor interés. Un verdadero firulais paisa.
 
-—Sí —dijo—. Sí, estoy bien.
+Runy parpadeó.
 
-Pero no estaba seguro de serlo. No estaba seguro de haber visto lo que había visto. Un hombre con una capa y una vara señalando al cielo, un destello en la mano derecha, y la sensación de que el mundo, por un instante, se había vuelto transparente.
+La figura seguía allí. El perro seguía allí.
 
-*Estoy alucinando*, pensó. *Es el calor. La deshidratación. La falta de sueño.*
+Pero cuando Runy volvió a mirar, después de esquivar a un corredor que frenó de golpe, ya no había nadie. Solo el árbol. Solo la sombra del árbol. Solo el viento moviendo las hojas, indiferente.
 
-Pero en el fondo sabía que no era ninguna de esas cosas.
+—No puede ser —murmuró.
 
-Dejó el vaso en una mesa y siguió corriendo, porque el kilómetro cuatro ya había pasado y el cinco lo esperaba, y porque tal vez —solo tal vez— había algo de verdad en eso de que las manos pueden apuntar al cielo mientras los pies siguen en la tierra.
+Pero sabía que sí. Sabía que lo había visto. Y sabía también que no podía detenerse a pensar en ello, porque el kilómetro dos estaba apareciendo a su lado, marcado por un letrero amarillo y un grupo de voluntarios que aplaudían sin saber por qué.
+
+Runy agarró una botella de agua, bebió la mitad y se lanzó el resto en la cabeza.
+
+—Estoy perdiendo la cabeza —dijo, este es el kilómetro 2 y ya estoy alucinando.
+
+Y sonrió, porque la frase también era absurda, y porque Camus tenía razón: uno tiene que imaginarse a Sísifo feliz, y también al loco que sonríe mientras corre hacia ninguna parte con un perro imaginario pisándole los talones.
 ---
