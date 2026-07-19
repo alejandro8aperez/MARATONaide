@@ -72,9 +72,9 @@ Y entonces, al borde del puesto de hidratación, entre dos mesas plegables, vio 
 
 La misma capa oscura. La misma inmovilidad.
 
-Pero esta vez la figura no estaba quieta. Movía las manos en el aire con una lentitud ceremonial. En una mano sostenía una vara delgada, como un bastón o un cetro. En la otra, algo que brillaba —un objeto pequeño que la luz del sol convertía en un punto de fuego.
+Pero esta vez la figura no estaba quieta. En una mano sostenía una varita oscura, delgada, que parecía hecha de la misma sombra que su capa. La punta brillaba tenue, como si contuviera una chispa que no necesitaba fuego para existir. En la otra, una piedra dos veces más grande que él.
 
-La figura alzó la vara hacia el cielo, y absurdamente, algo en el aire cambió. Una vibración. Un rumor que no era sonido. El espacio entre el cielo y la tierra se afinó, alguien había ajustado una cuerda invisible.
+La varita seguía en su mano y la piedra empieza a girar hacia abajo.
 
 Parpadeó.
 
@@ -88,7 +88,7 @@ Runy bajó la mano.
 
 —Sí —dijo—. Sí, estoy bien.
 
-Pero no estaba seguro de serlo. No estaba seguro de haber visto lo que había visto. Un hombre con una capa y una vara señalando al cielo, un destello en la mano derecha, y la sensación de que el mundo, por un instante, se había vuelto transparente.
+Pero no estaba seguro de serlo. No estaba seguro de haber visto lo que había visto. Un hombre con una capa y una varita oscura, una piedra dos veces más grande que él, y la sensación de que el mundo, por un instante, se había vuelto transparente.
 
 *Estoy alucinando*, pensó. *Es el calor. La deshidratación. La falta de sueño.*
 
