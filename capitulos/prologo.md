@@ -6,17 +6,17 @@ La noche antes de la maratón, Runy soñó con un camino que no terminaba.
 
 No era un sueño angustioso, aunque debería haberlo sido. Era más bien una certeza visual: una carretera gris que se perdía en el horizonte, flanqueada por árboles sin hojas. A los lados del camino, dispuestas como mojones, había figuras. No las veía con claridad, pero sabía que estaban ahí. Una torre que se derrumbaba. Una estrella que se hundía en el mar. Una rueda que giraba sin avanzar. Y en el centro de todo, una figura encapuchada que sostenía una antorcha encendida.
 
-Runy no recordaba haber visto en su vida nada que tuviera imágenes así. Tal vez sí, en algún libro de arte, en alguna portada olvidada. Pero las imágenes del sueño no se parecían a nada que hubiera visto antes. Eran más nítidas que las cosas reales. La antorcha alumbraba sin consumirse. La torre caía sin hacer ruido. La rueda giraba en silencio.
+Runy no recordaba haber visto en su vida nada que tuviera imágenes así. Tal vez sí, en algún libro de arte, en alguna portada olvidada o en un mural egipcio cuando estuvo de vacaciones. Pero las imágenes del sueño no se parecían a nada que hubiera visto antes. Eran más nítidas que las cosas reales. La antorcha alumbraba sin consumirse. La torre caía sin hacer ruido. La rueda giraba en silencio.
 
 Despertó con la sensación de haber visto algo importante y haberlo olvidado en el mismo instante.
 
 ***
 
-Eran las cuatro y cuarenta y siete de la mañana cuando abrió los ojos del todo. No había ruido en la habitación. El ventilador del techo giraba lento, cansado, años girando en el mismo sitio sin que nadie lo notara. Al lado, el uniforme de la carrera tirado sin mucha organización.
+Eran las cuatro y cuarenta y siete de la mañana cuando abrió los ojos del todo. No había ruido en la habitación. El ventilador no giraba, cansado, años girando en el mismo sitio sin que nadie lo notara. Al lado, el uniforme de la carrera tirado sin mucha organización con unas bolsitas de carbohidratos suficientes para llenar los depósitos de glucógeno muscular.
 
 Runy se sentó en el borde de la cama. No le llamaba la atención arreglar la cama. No había dormido bien, o tal vez sí, tal vez había dormido demasiado, porque el sueño del camino seguía pegado a la memoria como una telaraña que no termina de desprenderse.
 
-El dorsal número 2038 estaba doblado sobre la mesita de noche. Lo había mirado doce veces desde las tres de la mañana, esperando que el número cambiara, esperando que alguien llamara para decirle que la maratón se había cancelado, que todo había sido un malentendido, que podía volver a la cama y seguir durmiendo. Qué número tan raro, pensó. Como si alguien lo hubiera elegido para él mucho antes de que él supiera que iba a necesitarlo.
+El dorsal número 2038 estaba doblado sobre la mesita de noche. Lo había mirado varias veces desde las tres de la mañana, esperando que el número cambiara, esperando que alguien llamara para decirle que la maratón se había cancelado, que todo había sido un malentendido, que podía volver a la cama y seguir durmiendo. Qué número tan raro, pensó. Como si alguien lo hubiera elegido para él mucho antes de que él supiera que iba a necesitarlo.
 
 Nadie llamó.
 
@@ -30,37 +30,35 @@ Había una razón. La sabía en algún lugar del cuerpo, no en la cabeza. Algo q
 
 El agua del baño salió tibia primero, después fría, después tibia otra vez, el edificio mismo indeciso. Runy se vistió despacio. Los mismos gestos de siempre: las medias primero, después la pantaloneta, después la camiseta que nos habían dado un día antes para la ocasión. Una camiseta azul marino, que decía Maratón Medellín, sin muchas letras, bien hecha, bien fabricada. Quería pasar desapercibido, quería ser un corredor más entre miles, pero también quería que alguien lo viera llegar. A uno le gusta recibir palmaditas en el hombro por existir.
 
-Guardó el dorsal en el bolsillo trasero. Se ató las zapatillas y las desató tres veces antes de volvérselas a atar, en un ritual que no tenía nombre pero que le daba la ilusión de control.
+Guardó el dorsal en el bolsillo trasero. Se ató los cordones y las desató tres veces antes de volvérselas a atar, en un ritual que no tenía nombre pero que le daba la ilusión de control.
 
-Bajó en ascensor con un hombre que cargaba una bolsa de plástico con dos naranjas y una botella de agua. Se preguntó si el hombre también iba a correr, o si solo bajaba a comprarle el desayuno a alguien que sí lo haría.
+Bajó en ascensor con un hombre que cargaba una bolsa de plástico con dos naranjas y una botella de champaña. Se preguntó si el hombre también iba a correr, o si solo bajaba a comprarle el desayuno a alguien que sí lo haría. Una champaña es lo que me tomaré con un banano al final de la carrera.
 
-En la recepción del hotel, una señora de uniforme le deseó suerte. Le dio una sonrisa que era sincera o profesional, no se sabía. Runy le agradeció sin detenerse.
+En la portería, un señor de uniforme le deseó suerte. Hoy es el día, murmuro el portero y le dio una sonrisa que no era ni sincera ni profesional, no se sabía. Runy le agradeció sin detenerse.
 
-Afuera, la ciudad todavía estaba oscura. Medellín no duerme nunca, pero a las cinco de la mañana titubea, como un animal grande que se da la vuelta en la cama antes de despertar del todo. Las luces de los cerros parpadeaban. El Valle del Aburrá era un tazón de niebla y neón. El aire húmedo le pegó en la cara como un saludo tibio y pesado.
+Afuera, la ciudad todavía estaba oscura. Medellín no duerme nunca, pero a las cinco de la mañana titubea, como un animal grande que se da la vuelta en la cama antes de despertar del todo. Las luces de los cerros parpadeaban. El Valle del Aburrá era un tazón de niebla y neón. El aire húmedo le pegó en la cara como un saludo tibio y pesado. Se montó en el Uber y se dirigió al edificio inteligente de EPM.
 
-Caminó hacia Parques del Río sintiendo el peso de las zapatillas contra el asfalto. Nada le dolía todavía. Todo estaba intacto. El cuerpo no sabía lo que le esperaba.
+Caminó hacia el sitio de partida sintiendo el peso de los tenis contra el asfalto. Nada le dolía todavía. Todo estaba intacto. El cuerpo no sabía lo que le esperaba.
 
 ***
 
 La plaza estaba llena. Unos calentaban, otros no querían gastar energía todavía.
 
-Miles de personas se movían como un solo organismo lento y ruidoso. Había corredores haciendo estiramientos, corredores tomando fotos, corredores buscando una señal en el cielo. Había familias enteras despidiendo a sus atletas, niños con carteles de cartón, perros con bandanas de la maratón y en un grupo selecto al final de la calle se podía divisar al alcalde de la ciudad. Era uno de los corredores.
+Miles de personas se movían como un solo organismo lento y ruidoso. Había corredores haciendo estiramientos, corredores tomando fotos, corredores buscando una señal en el cielo. Había familias enteras despidiendo a sus atletas, niños con carteles de cartón, perros con ganas de correr en la maratón y en un grupo selecto al final de la calle se podía divisar al alcalde de la ciudad. Era uno de los corredores.
 
-Runy se metió entre la multitud y se dejó llevar. No tenía un plan. Su plan era seguir a los demás hasta que alguien le dijera dónde pararse. Por un momento pensó en correr solo 5 km y regresar al hotel pero ya no se puede, tenía puesta la camisa que dice 42 km. Las maratones las dividen en 5 km, 10 km, 21 km y 42 km, al menos esta.
+Runy se metió entre la multitud y se dejó llevar. No tenía un plan. Su plan era seguir a los demás hasta que alguien le dijera dónde pararse. Por un momento pensó en correr solo 5 km y regresar al apartamento pero ya no se puede, tenía puesta la camisa que dice 42 km. Las maratones las dividen en 5 km, 10 km, 21 km y 42 km, al menos esta.
 
 En medio de ese mar de cabezas y espaldas, se arregló el dorsal y vio a una mujer que se ajustaba los audífonos con la precisión de quien prepara un instrumento antes de un concierto. Tenía el pelo recogido en una coleta alta y una expresión que no era de nervios ni de emoción, sino de concentración absoluta, ya dentro de la carrera aunque sus pies todavía estuvieran quietos.
 
-Runy pensó en decirle algo. *Buena suerte. ¿Es tu primera vez? ¿Sabes dónde ponen los baños portátiles?*
+Runy pensó en decirle algo. Buena suerte. ¿Es tu primera vez? ¿Sabes dónde ponen los baños portátiles?
 
 No dijo nada. Siguió caminando.
 
 ***
 
-Y entonces lo vio.
+Y entonces lo vio. Entre dos columnas del parque, en una zona de sombra donde la luz del amanecer no llegaba, había una figura de pie que no se movía.
 
-Entre dos columnas del parque, en una zona de sombra donde la luz del amanecer no llegaba, había una figura de pie que no se movía.
-
-No era un corredor. No tenía dorsal, no llevaba ropa deportiva. Una capa oscura le cubría el cuerpo de los hombros a los pies. No se le veía el rostro. No parecía estar mirando nada en particular, pero Runy sintió, con una certeza que no podía explicar, que aquella figura lo estaba mirando a él.
+No era un corredor. No tenía dorsal, no llevaba ropa deportiva. Una capa oscura le cubría el cuerpo de los hombros a los pies. No se le veía el rostro. No parecía estar mirando nada en particular, pero Runy sintió, con una certeza que no podía explicar, que aquella figura lo estaba mirando a él. A lo mejor es un habitante de calle desorientado por el evento, pensó.
 
 No hubo gesto. No hubo señal. Solo la presencia inmóvil, la sombra dentro de la sombra.
 
@@ -74,7 +72,7 @@ La figura ya no estaba.
 
 Runy miró a su alrededor. La multitud seguía moviéndose, ajena. Nadie más había visto nada. O tal vez sí, pero a nadie le importaba. Una maratón tiene su propia histeria, su propio campo magnético, y cualquier cosa que no sea la carrera deja de existir.
 
-Respiró hondo. *Fue el sueño*, pensó. *La falta de sueño. Los nervios. El café malo del hotel.*
+Respiró hondo. Fue el sueño, pensó. La falta de sueño. Los nervios. El café malo que le ofreció el conductor del Uber.
 
 Pero no se lo creyó del todo.
 
@@ -93,10 +91,6 @@ Y entonces, entre el ruido, entre el latido colectivo de todos los corazones, un
 Runy giró la cabeza. Buscó entre los rostros. No encontró a nadie que estuviera mirándolo.
 
 —No —respondió en voz baja, para sí mismo, porque era la única respuesta verdadera que tenía.
-
-***
-
-Los segundos finales.
 
 Runy sintió las piernas, los brazos, el pecho. Todo estaba en su lugar. La rodilla izquierda —su enemiga íntima— no dolía todavía. El gemelo derecho estaba tranquilo. Los pulmones no sabían lo que se avecinaba ni el hígado, el páncreas, los riñones… ninguna de las partes internas.
 
