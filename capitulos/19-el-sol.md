@@ -32,33 +32,19 @@ La respuesta era insuficiente y perfecta al mismo tiempo.
 
 El kilómetro treinta y siete y medio trajo al Enigmático.
 
-La figura estaba de pie en el separador de la avenida. Pero a sus costados, como si hubieran crecido de la tierra, se alzaban dos torres delgadas. No eran de piedra. Eran de sombra, de silueta, dos bloques oscuros que se elevaban hacia el cielo como columnas de una puerta que no llevaba a ninguna parte.
+La figura estaba de pie en el separador de la avenida, pero esta vez no había sombras ni oscuridad. Detrás de la figura, un sol enorme. No era el sol real. Era un sol pintado, como los que aparecen en los vitrales de las iglesias, con rayos que se extendían en todas las direcciones, amarillos y naranjas, como si la luz misma se hubiera detenido para posar para un retrato.
 
-Entre las dos torres, colgando en el cielo, había una luna. No era la luna real. Era una luna llena, enorme, y en su superficie Runy veía un rostro. Dos ojos. Una boca entreabierta. La luna lo miraba.
+Y a los pies de la figura, dos niños. No eran niños reales. Eran dos siluetas pequeñas, descalzas, que jugaban alrededor del Enigmático sin miedo, sin prisa, sin saber que había algo más en el mundo que el juego.
 
-Al pie de las torres, dos perros aullaban. No se movían. Estaban inmóviles, con el hocico levantado hacia la luna, las orejas hacia atrás, como estatuas de un dolor que no cesaba.
+El Enigmático no los miraba. Miraba al frente, hacia Runy, con la cabeza descubierta —no llevaba capucha— y el rostro expuesto al sol artificial que lo cubría. El rostro no tenía rasgos. Era una superficie lisa, como si la luz hubiera borrado todo lo que podía ser juzgado.
 
-Y en el suelo, entre los perros, algo se movía. Un cangrejo pequeño salía de un charco de agua que no estaba ahí antes. Caminaba de lado, arrastrándose hacia la nada, y su sombra era más grande que su cuerpo.
-
-La imagen completa era un acertijo. Las torres. La luna con cara. Los perros aullando. El cangrejo avanzando de lado. Todo parecía decir: *nada es lo que parece. Lo que ves está distorsionado por la luz que no alumbra.*
-
-—¿Ves eso? —preguntó a Valentina.
-
-—¿Qué?
-
-Runy señaló las torres. La luna. Los perros.
-
-Valentina siguió su mirada.
-
-—No veo nada —dijo.
-
-Y Runy supo que la visión era solo para él.
-
-*No todo lo que ves es real*, supo. *Pero la ilusión también es parte del camino.*
+Runy lo miró y sintió algo que no esperaba: calor. No el calor del sol. El otro. El calor de saber que hay momentos en que todo está bien, aunque nada esté bien. Momentos en que uno corre y el sol pega y los pies duelen y todo es perfecto.
 
 Parpadeó.
 
-Las torres se habían ido. La luna, los perros, el cangrejo. Solo el separador vacío, el sol, Valentina.
+El sol, los niños, la figura sin rasgos, todo había desaparecido.
+
+Pero la imagen se quedó: los rayos extendidos, los niños jugando, y la certeza de que la claridad no es una respuesta sino un regalo que aparece cuando uno deja de buscarla.
 
 —¿Estás bien? —preguntó ella.
 

@@ -2238,37 +2238,19 @@ La respuesta era insuficiente y perfecta al mismo tiempo.
 
 El kilómetro treinta y siete y medio trajo al Enigmático.
 
-Pero esta vez la figura no estaba en un solo lugar. Runy la veía en todas partes. En las sombras de los árboles. En los reflejos de los vidrios de los edificios. En el movimiento de la ropa de los corredores que pasaban.
+La figura estaba de pie en el separador de la avenida, pero esta vez no había sombras ni oscuridad. Detrás de la figura, un sol enorme. No era el sol real. Era un sol pintado, como los que aparecen en los vitrales de las iglesias, con rayos que se extendían en todas las direcciones, amarillos y naranjas, como si la luz misma se hubiera detenido para posar para un retrato.
 
-La figura se movía con ellos, alrededor de ellos, estaba en todos lados y en ninguno.
+Y a los pies de la figura, dos niños. No eran niños reales. Eran dos siluetas pequeñas, descalzas, que jugaban alrededor del Enigmático sin miedo, sin prisa, sin saber que había algo más en el mundo que el juego.
 
-Y en el cielo, aunque era de día, Runy veía una luna. Una luna enorme, pálida, que colgaba sobre la ciudad como un ojo abierto.
+El Enigmático no los miraba. Miraba al frente, hacia Runy, con la cabeza descubierta —no llevaba capucha— y el rostro expuesto al sol artificial que lo cubría. El rostro no tenía rasgos. Era una superficie lisa, como si la luz hubiera borrado todo lo que podía ser juzgado.
 
-Pero la luna no iluminaba. La luna distorsionaba.
-
-Runy veía cosas que no estaban ahí. Corredores que desaparecían y reaparecían. Calles que se alargaban y acortaban. La meta que aparecía a lo lejos y luego se esfumaba.
-
-—¿Ves eso? —preguntó a Valentina.
-
-—¿Qué?
-
-Runy señaló la luna.
-
-Valentina miró hacia arriba.
-
-—No veo nada —dijo.
-
-Y Runy supo que la visión era solo para él.
-
-El Enigmático apareció frente a él, a pocos metros. La figura levantó una mano y Runy vio que en la palma había un ojo. Un ojo abierto, que lo miraba.
-
-*No todo lo que ves es real*, dijo la figura. Sin voz. Sin palabras. La idea apareció directamente en su cabeza.
-
-*Pero lo que sientes sí.*
+Runy lo miró y sintió algo que no esperaba: calor. No el calor del sol. El otro. El calor de saber que hay momentos en que todo está bien, aunque nada esté bien. Momentos en que uno corre y el sol pega y los pies duelen y todo es perfecto.
 
 Parpadeó.
 
-La figura ya no estaba. La luna tampoco. Solo la carretera, el sol, Valentina.
+El sol, los niños, la figura sin rasgos, todo había desaparecido.
+
+Pero la imagen se quedó: los rayos extendidos, los niños jugando, y la certeza de que la claridad no es una respuesta sino un regalo que aparece cuando uno deja de buscarla.
 
 —¿Estás bien? —preguntó ella.
 
