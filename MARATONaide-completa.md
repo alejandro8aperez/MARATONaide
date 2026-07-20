@@ -1123,19 +1123,19 @@ No era una luz metafórica. Era una luz real, física: el sol, que había estado
 
 Y en esa luz, al borde de la carretera, Runy lo vio.
 
-El Enigmático estaba de pie sobre una pequeña elevación de tierra, al lado de la ruta. Esta vez no tenía los brazos abiertos ni las manos en alto. Tenía una mano apoyada en un bastón alto, casi de su altura. Y en la otra mano, sostenida frente a su pecho, había una linterna. No una linterna eléctrica, sino una antigua, de metal, con una llama adentro que ardía sin moverse, sin parpadear, el viento inexistente para ella.
+El Enigmático estaba de pie junto a una rueda. No una rueda de carro ni de bicicleta. Era una rueda gigante, de madera oscura, con radios que se extendían desde un centro que parecía vivo. La rueda no estaba quieta. Gira lenta, imperceptiblemente, pero giraba.
 
-La figura no miraba a Runy. Miraba hacia adelante, hacia la carretera que subía, hacia lo que venía. La linterna alumbraba un camino que nadie más veía.
+Sobre la rueda, tres figuras. Una subía, con los brazos levantados, como si alcanzara algo que estaba por encima de ella. Otra bajaba, con la cabeza gacha, los hombros caídos, como si algo la empujara hacia abajo. La tercera estaba en la parte más baja, agazapada, como si esperara su turno para volver a subir.
 
-La imagen le devolvió algo que la crisis le había quitado. No una respuesta. Una dirección.
+El Enigmático no estaba sobre la rueda. Estaba al lado, inmóvil, con la mano apoyada en el borde de la madera. No la empujaba. No la detenía. Solo estaba ahí, como si la rueda girara por su cuenta y él simplemente la observara.
 
-*No hay que verlo todo*, pensó. *Hay que ver lo suficiente para dar el siguiente paso.*
+Runy lo miró y sintió algo que no esperaba: alivio. No todo era permanente. No todo era fijo. Lo que estaba abajo iba a subir. Lo que estaba arriba iba a bajar. La carrera, el miedo, la piedra, el hombre de negro —todo estaba sobre una rueda que giraba.
 
-La figura no desapareció. Se quedó allí, inmóvil, mientras Runy pasaba a su lado, y cuando Runy miró atrás, la figura seguía allí, la linterna encendida, la llama quieta, como un faro que no necesita moverse para guiar.
+Parpadeó.
 
-Algo se encendió dentro de él. No era esperanza. Era otra cosa. Una luz más pequeña, más modesta, pero real.
+La rueda había desaparecido. El Enigmático también.
 
-*La luz interna*, pensó. *No la que viene de afuera. La que uno encuentra cuando deja de buscar.*
+Pero la imagen se quedó: la rueda girando, las figuras subiendo y bajando, y la certeza de que nada era para siempre. Ni el sufrimiento. Ni la gloria. Solo el giro.
 
 El kilómetro veinte apareció. Puesto de hidratación. Voluntarios. Agua.
 
