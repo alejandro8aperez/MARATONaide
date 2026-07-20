@@ -14,25 +14,17 @@ No fue física. Fue una pregunta que apareció sin avisar, como un dolor que no 
 
 *¿Qué estoy haciendo aquí?*
 
-No era la pregunta del absurdo, la de Camus, que había respondido con rebeldía y afirmación. Era otra, más antigua, más honda. Una pregunta que no buscaba una respuesta sino que señalaba un vacío.
+Era una pregunta más antigua que el absurdo, más honda. No buscaba una respuesta sino que señalaba un vacío.
 
 *¿Hay algo detrás de todo esto?*
 
-Nietzsche había dicho que Dios había muerto y que los hombres lo habían matado. Runy recordaba la frase con la nitidez de las cosas que se leen en la juventud y nunca se olvidan del todo. Pero lo que recordaba con más claridad no era la muerte de Dios, sino lo que venía después: que si Dios había muerto, entonces el suelo bajo los pies desaparecía. No había verdad absoluta. No había bien ni mal más allá de lo que los hombres inventaban para soportar la existencia.
+Nietzsche había dicho que Dios había muerto. Lo que recordaba no era la muerte, sino lo que venía después: el suelo bajo los pies desaparecía. No había verdad absoluta. No había bien ni mal más allá de lo que los hombres inventaban para soportar la existencia.
 
-*Si Dios ha muerto, entonces todo está permitido.*
+*Si Dios ha muerto, entonces todo está permitido. Pero también: nada está garantizado.*
 
-Pero también: *Si Dios ha muerto, entonces nada está garantizado.*
-
-Runy sintió el vértigo de esa idea mientras sus pies seguían golpeando el asfalto. No era una idea nueva para él, pero en el kilómetro cinco de una maratón las ideas viejas pesan distinto. La mente está más despejada y más vulnerable al mismo tiempo, como un ojo que se acostumbra a la oscuridad y empieza a ver cosas que antes no veía.
-
-*¿Hay algo detrás del velo?*, pensó. *¿O el velo es todo lo que hay?*
-
-La verdad oculta. El conocimiento que no se dice. Nietzsche había escrito sobre la voluntad de poder, sobre cómo toda búsqueda de verdad es en realidad una búsqueda de poder. Pero también había escrito, en algún lugar que Runy no podía recordar con precisión, que el mundo profundo era incognoscible, que la realidad era un texto sin autor que cada uno interpreta como puede.
+Runy sintió el vértigo de esa idea mientras sus pies seguían golpeando el asfalto. En el kilómetro cinco de una maratón las ideas viejas pesan distinto. La mente está más despejada y más vulnerable al mismo tiempo.
 
 *Perspectivismo*, pensó Runy. *No hay hechos, solo interpretaciones.*
-
-Y eso era a la vez liberador y aterrador. Liberador porque nadie tenía la última palabra. Aterrador porque nadie tenía la última palabra.
 
 ***
 
