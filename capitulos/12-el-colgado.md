@@ -58,29 +58,21 @@ Esa idea era a la vez liberadora y aterradora. Liberadora porque si el mundo era
 
 ***
 
-El kilómetro veintitrés y medio trajo al Enigmático, y esta vez la imagen era de una tensión sostenida.
+El kilómetro veintitrés y medio trajo al Enigmático, y esta vez la imagen era de una suspensión imposible.
 
-La figura estaba de pie en el separador, cara a cara con un león. El animal se alzaba sobre las patas traseras, enorme, el pelaje dorado erizado, las fauces abiertas en un rugido que no se oía pero se sentía en los huesos.
+La figura estaba suspendida en el aire, colgando de una viga de madera que no estaba sostenida por nada visible. La viga flotaba a la altura de un poste de luz, y el Enigmático colgaba de ella, cabeza abajo, con una pierna cruzada detrás de la otra en un ángulo imposible.
 
-Y la figura tenía las manos hundidas en esas fauces. Los dedos abiertos, presionando las mandíbulas hacia los lados, manteniendo la bestia a raya sin golpes, sin violencia, solo con una fuerza que no era muscular —era otra cosa. Era presencia.
+Los brazos no estaban atados. Estaban caídos a los lados, relajados, como si la gravedad no le importara. La capa colgaba hacia arriba, hacia la viga, desafiando la lógica. Y alrededor de la cabeza —la cabeza que colgaba hacia el suelo— había un resplandor. No era luz eléctrica ni solar. Era algo que venía de la figura misma, un halo tenue que marcaba la posición invertida como si fuera la más natural del mundo.
 
-El león forcejeaba. Las garras arañaban el aire. Pero la figura no retrocedía. No temblaba. La mirada de la figura —lo único visible bajo la capucha— se mantenía fija en los ojos amarillos del animal.
+Runy lo miró y sintió vértigo. No por la altura. Por la inversión. El mundo al revés. El suelo arriba. El cielo abajo. Y el Enigmático, colgando, inmóvil, no luchando contra la posición sino habitándola.
 
-No había sumisión. No había paz. Había algo más difícil: el equilibrio entre dos fuerzas que se enfrentaban sin vencedor.
+*¿Qué ves desde ahí?*, pensó Runy. *¿Qué se entiende cuando todo está al revés?*
 
-La imagen lo atravesó.
+Parpadeó.
 
-*La fuerza no es dominar*, pensó. *La fuerza es sostener. Es no soltar cuando la bestia se debate.*
+La viga había desaparecido. El Enigmático también. El mundo volvió a su posición normal.
 
-Runy parpadeó.
-
-El separador estaba vacío.
-
-Pero la imagen se quedó: la figura y el león frente a frente, las manos en las fauces, el rugido congelado en el tiempo, la certeza de que la verdadera fuerza no aplasta —contiene.
-
-La voluntad de Schopenhauer era ese león. Ciega, inmensa, imparable. Pero no se doma negándola. Se enfrenta. Se mira a los ojos. Se sostiene.
-
-*No luches contra la voluntad*, pensó Runy. *No la niegues. Mírala. Y sostenla.*
+Pero la imagen se quedó: la figura colgando, el halo invertido, la pierna cruzada, y la sospecha de que para entender algo a veces hay que colgarse del mundo y verlo al revés.
 
 El kilómetro veinticuatro apareció. Puesto de hidratación. Voluntarios. Agua.
 
