@@ -210,6 +210,10 @@
                 const html = parseMarkdown(markdown);
                 document.getElementById('novel-content').innerHTML = html;
                 document.getElementById('novel-content').classList.remove('content-loading');
+                if (window.location.hash) {
+                    const target = document.getElementById(window.location.hash.slice(1));
+                    if (target) setTimeout(() => target.scrollIntoView({ behavior: 'smooth' }), 100);
+                }
             } catch (error) {
                 document.getElementById('novel-content').innerHTML = `
                     <div style="text-align: center; padding: 2rem;">
@@ -221,12 +225,17 @@
         }
 
         // Simple markdown parser
+        let chapterIndex = 0;
         function parseMarkdown(md) {
             let html = md
-                // Headers
+                // Headers - add IDs to # headings (chapters)
+                .replace(/^# (.*$)/gim, (match, title) => {
+                    chapterIndex++;
+                    if (chapterIndex === 1) return '<h1>' + title + '</h1>';
+                    return '<h1 id="cap-' + (chapterIndex - 1).toString().padStart(2, '0') + '">' + title + '</h1>';
+                })
                 .replace(/^### (.*$)/gim, '<h3>$1</h3>')
                 .replace(/^## (.*$)/gim, '<h2>$1</h2>')
-                .replace(/^# (.*$)/gim, '<h1>$1</h1>')
                 // Bold
                 .replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>')
                 // Italic
