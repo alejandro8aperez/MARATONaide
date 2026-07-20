@@ -66,21 +66,21 @@ Y siguió corriendo.
 
 El kilómetro treinta y seis trajo al Enigmático.
 
-La figura estaba arrodillada junto a un caño de agua que cruzaba la carretera. Un caño pequeño, de esos que pasan por debajo de la vía, con agua que corría limpia sobre las piedras.
+La figura estaba de pie en la mediana de la avenida, entre las dos direcciones del tráfico. Pero no estaba sola. Detrás de ella, dos torres. No eran torres reales. Eran siluetas de torres, como proyectadas en el aire, con ventanas oscuras y sin techo, como si fueran las ruinas de algo que alguna vez fue importante.
 
-El Enigmático tenía las manos sumergidas en el agua. Y en las manos sostenía dos vasijas. Una en cada mano. De las vasijas caía agua, pero no caía al caño. Caía hacia arriba. El agua subía, formando arcos que se elevaban hacia el cielo con la gravedad invertida.
+Y arriba, entre las dos torres, una luna. No era la luna real. Era una luna con rostro, redonda, pálida, con ojos que miraban hacia abajo, hacia la figura, hacia la carretera, hacia todo lo que se movía en la oscuridad.
 
-Detrás de la figura, en el cielo de la tarde, empezaban a aparecer estrellas. No eran las estrellas reales —el sol todavía estaba alto— pero Runy las veía: puntos de luz que brillaban sobre la cabeza del Enigmático, formando un círculo, como una corona.
+A los pies del Enigmático, dos perros. No eran perros reales. Eran sombras con forma de perro, arrodilladas, con las cabezas levantadas, aullando hacia la luna. El aullo no se oía, pero Runy lo sentía: una vibración que le hacía temblar los dientes.
 
-La imagen le devolvió algo que había perdido en el kilómetro anterior.
+Y en el agua del caño, algo se movía. No era un pez. Era algo más primitivo, algo que venía de las profundidades, con pinzas y una coraza oscura, que emergía lentamente del agua hacia la superficie, como si la luna lo hubiera llamado.
 
-*No se trata de lo que se derrumba*, pensó. *Se trata de lo que queda después.*
-
-*El agua sigue fluyendo. Las estrellas siguen brillando. La carrera sigue.*
+Runy lo miró y sintió miedo. No el miedo del hombre de negro. El otro. El miedo de lo que uno no entiende. Lo que viene de las profundidades. Lo que uno no puede controlar.
 
 Parpadeó.
 
-La figura ya no estaba. Pero en el caño, el agua seguía corriendo. Y esa agua era suficiente.
+Las torres, la luna, los perros, la criatura del agua, todo había desaparecido.
+
+Pero la imagen se quedó: la luna mirando, los perros aullando, y la certeza de que en la oscuridad hay cosas que uno prefiere no ver pero que existen igual.
 
 —¿Viste algo? —preguntó Valentina.
 
