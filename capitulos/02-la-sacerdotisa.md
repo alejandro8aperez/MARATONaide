@@ -72,13 +72,19 @@ Y entonces, al borde del puesto de hidratación, entre dos mesas plegables, vio 
 
 La misma capa oscura. La misma inmovilidad.
 
-Pero esta vez la figura no estaba quieta. En una mano sostenía una varita oscura, delgada, que parecía hecha de la misma sombra que su capa. La punta brillaba tenue, como si contuviera una chispa que no necesitaba fuego para existir. En la otra, una piedra dos veces más grande que él.
+Pero esta vez la figura no estaba de pie. Estaba sentada entre las dos mesas como entre dos columnas de un templo invisible. Las manos descansaban sobre el regazo, y sobre las manos había un libro abierto. No era un libro cualquiera: las páginas no tenían letras, solo líneas que se movían como agua, y la figura las miraba con una atención total, como si estuviera leyendo algo que solo ella podía ver.
 
-La varita seguía en su mano y la piedra empieza a girar hacia abajo.
+En la cabeza, sobre la capucha, una corona de tres niveles. No era una banda ni un adorno. Eran tres tiaras superpuestas, una más pequeña sobre la otra, como las que usan los que guardan secretos que no son de este mundo.
+
+Y a los pies de la figura, en el suelo mojado del puesto de hidratación, una luna creciente brillaba tenuemente, como si el agua la hubiera dejado caer.
+
+Runy disminuyó el paso. Esperó que la figura levantara la vista del libro. Pero no lo hizo. Siguió leyendo, inmóvil, el libro abierto sobre las manos, las tres tiaras sobre la cabeza, la capa cayendo a los lados como un manto de otra época.
+
+La imagen significaba algo. El libro abierto. La triple tiara. La luna a los pies. La figura sentada entre dos mesas como entre dos columnas de un templo. El saber no está oculto, pensó. Está abierto. Pero hay que saber leerlo.
 
 Parpadeó.
 
-La figura ya no estaba.
+Las mesas estaban solas. La figura había desaparecido. El libro también.
 
 Runy se quedó mirando el lugar vacío, el vaso de agua a medio camino de la boca.
 
@@ -88,11 +94,9 @@ Runy bajó la mano.
 
 —Sí —dijo—. Sí, estoy bien.
 
-Pero no estaba seguro de serlo. No estaba seguro de haber visto lo que había visto. Un hombre con una capa y una varita oscura, una piedra dos veces más grande que él, y la sensación de que el mundo, por un instante, se había vuelto transparente.
+Pero no estaba seguro de serlo. No estaba seguro de haber visto lo que había visto. Una figura con una capa oscura, un libro cuyas páginas no tenían palabras, una triple tiara y una luna creciente a los pies, y la sensación de que el mundo, por un instante, se había vuelto transparente.
 
-*Estoy alucinando*, pensó. *Es el calor. La deshidratación. La falta de sueño.*
+—No puede ser —murmuró.
 
-Pero en el fondo sabía que no era ninguna de esas cosas.
-
-Dejó el vaso en una mesa y siguió corriendo, porque el kilómetro cuatro ya había pasado y el cinco lo esperaba, y porque tal vez —solo tal vez— había algo de verdad en eso de que las manos pueden apuntar al cielo mientras los pies siguen en la tierra.
+Pero sabía que sí. Sabía que lo había visto. Y sabía también que no podía detenerse a pensar en ello, porque el kilómetro cuatro estaba apareciendo a su lado, marcado por un letrero amarillo y un grupo de voluntarios que aplaudían sin saber por qué.
 ---
