@@ -68,27 +68,27 @@ El kilómetro seis se acercaba. Runy sintió el cansancio real por primera vez. 
 
 Y entonces, en el borde de la ruta, entre dos palmeras que flanqueaban el camino, la vio.
 
-La figura de la capa oscura estaba sentada en el suelo, con las piernas recogidas y la espalda apoyada contra el tronco de una de las palmeras. Entre las manos sostenía un libro abierto. No era un libro cualquiera: las páginas no tenían letras, solo líneas que se movían como agua, y la figura las miraba con una atención total, como si estuviera leyendo algo que solo ella podía ver.
+La figura de la capa oscura estaba sentada en una elevación de tierra que parecía un trono natural de pasto y raíces. Tenía la espalda recta y las manos apoyadas sobre las rodillas. En la mano derecha sostenía un cetro delgado, una vara que no era de metal ni de madera sino de algo que brillaba como luz solidificada.
 
-En la cabeza, sobre la capucha, había una banda que no era una simple cinta. Tenía tres niveles, tres coronas superpuestas, una más pequeña sobre la otra, como las que usan los que guardan secretos que no son de este mundo.
+En la cabeza, sobre la capucha, una corona. No era de metal ni de ramas. Era una corona de doce estrellas, pequeñas luces que giraban lentamente alrededor de la cabeza como un halo de constelaciones.
 
-Runy disminuyó el paso. Esperó que la figura levantara la vista. Pero no lo hizo. Siguió leyendo, inmóvil, el libro abierto frente a ella, las tres coronas sobre la cabeza, la capa cayendo a los lados como un manto de otra época.
+A los pies de la figura, el pasto crecía visiblemente, las flores se abrían, la tierra misma parecía respirar. Y en el suelo, medio oculto bajo la vegetación, un escudo con la figura de un águila desplegada.
 
-La imagen significaba algo. El libro abierto. La corona triple. La figura sentada entre dos palmeras como entre dos columnas de un templo invisible. El saber no está oculto, pensó. Está abierto. Pero hay que saber leerlo.
+Runy sintió que no podía apartar la mirada. La imagen no le transmitía autoridad. Le transmitía abundancia. No la ley. La vida misma. La naturaleza no como paisaje sino como fuerza creadora, como lo que crece sin permiso, lo que florece donde nadie sembró.
 
 Parpadeó.
 
-Las palmeras estaban solas. La figura había desaparecido. El libro también.
+La rotonda estaba vacía.
 
-Runy siguió corriendo, pero la imagen no se fue: la figura sentada, el libro abierto, las tres coronas, y la certeza de que el conocimiento no es un tesoro escondido sino un texto disponible para quien aprende a mirar.
+Pero el pasto seguía verde. Las flores seguían abiertas. Y algo había cambiado en él. Algo que tenía que ver con la tierra bajo los pies, el sol en la cara, y el hecho de estar vivo en un cuerpo que dolía y que a pesar de todo seguía moviéndose.
 
 El kilómetro seis apareció. Puesto de hidratación. Voluntarios. Agua.
 
-Runy bebió y siguió.
+Runy bebió y el agua supo distinta. Más dulce. Más viva.
 
-*Hay muchas cosas que no sé*, pensó. *Y tal vez no necesito saberlas. Tal vez solo necesito seguir corriendo hasta que el velo se corra solo.*
+—Qué estupidez —murmuró.
 
-Pero no estaba seguro de creerlo.
+Pero sonrió. Y siguió corriendo.
 
 ***
 
