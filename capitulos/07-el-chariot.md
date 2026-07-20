@@ -72,6 +72,26 @@ Se miraron un segundo. No hicieron falta más palabras.
 
 Y arrancó, dejando a Runy con el agua en la mano y el corazón latiendo más fuerte de lo que el esfuerzo justificaba.
 
+Runy giró la cabeza y lo vio.
+
+El Enigmático estaba de pie en el separador de la avenida, en una postura que no había visto antes. No estaba sentado ni recargado. Estaba de pie, con los brazos extendidos hacia adelante, sosteniendo unas riendas que no estaban atadas a nada visible. La postura era la de alguien que guía un carro, que conduce algo más grande que él mismo.
+
+En una mano, una vara corta, más gruesa que las anteriores. En la otra, nada. Pero la mano vacía estaba tensa, como si sujetara algo invisible.
+
+Detrás de la figura, en el aire, dos sombras se movían. No eran animales. Eran fuerzas. Una tiraba hacia la izquierda. La otra, hacia la derecha. Y el Enigmático las mantenía en equilibrio, las riendas tensas, el cuerpo centrado.
+
+La imagen le decía algo. No con palabras. Con forma.
+
+*Puedes ser conducido o puedes conducir. Puedes ser llevado por la carrera o puedes llevarla tú.*
+
+Parpadeó.
+
+El separador estaba vacío. Las riendas habían desaparecido. Las sombras también.
+
+Pero la imagen se quedó: el Enigmático de pie, los brazos extendidos, las riendas invisibles, y la certeza de que la carrera ahora tenía dueño. Y ese dueño no era él.
+
+¿O sí?
+
 ***
 
 El kilómetro catorce trajo la primera señal de lo que estaba por venir.
