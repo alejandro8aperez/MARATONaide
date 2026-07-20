@@ -24,6 +24,24 @@ Y con esa certeza, algo se cerró. No como una puerta. Como un círculo.
 
 ***
 
+En algún lugar del camino, antes de llegar al banco, Runy vio al Enigmático por última vez.
+
+Estaba en la esquina de una calle que no tenía nombre, de pie, dentro de una corona de laurel que flotaba a su alrededor como un halo de victoria. No era una victoria sobre alguien. Era una victoria sobre sí mismo.
+
+La figura bailaba. No era un baile de fiesta. Era un baile lento, giratorio, con los pies descalzos sobre el asfalto, como si la carretera fuera un escenario y él el único bailarín.
+
+En las esquinas del aire, cuatro figuras. No eran personas. Eran presencias: una con alas de ángel, otra con garras de águila, otra con la fuerza de un león, otra con la paciencia de un toro. Las cuatro miraban al Enigmático, y el Enigmático giraba entre ellas, en equilibrio, sin caer, sin prisa, como si el movimiento fuera su forma de estar quieto.
+
+Y debajo de los pies, el mundo. No el mundo real. El mundo como idea, como posibilidad, como todo lo que podía ser y que todavía no era.
+
+Runy lo miró y sonrió. No porque entendiera. Sino porque ya no necesitaba entender.
+
+Parpadeó.
+
+El Enigmático, la corona, las cuatro presencias, el baile, todo había desaparecido.
+
+Pero la imagen se quedó: el giro lento, las figuras observando, y la certeza de que el final no es una meta sino una vuelta completa del círculo.
+
 Se sentaron en un banco frente a la ciudad. Medellín se extendía ante ellos como un mapa vivo. Los cerros verdes. Las luces que empezaban a encenderse. El río que cruzaba la ciudad como una serpiente plateada.
 
 Valentina sacó el banano del bolsillo. El banano que la IA le había dado para Runy. Estaba aplastado, negro en las puntas, pero seguía siendo un banano.
