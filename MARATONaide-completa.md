@@ -661,25 +661,23 @@ No encontró respuesta. Pero la pregunta lo mantuvo en movimiento mientras el ki
 
 Y entonces, en el borde de la ruta, junto a un poste de luz, lo vio.
 
-El Enigmático estaba sentado en una silla que no estaba ahí un momento antes. La silla era simple, de madera oscura, con el respaldo recto. Pero lo que la hacía distinta era la tela roja que caía desde el asiento hasta el suelo, formando un pequeño estrado de color.
+El Enigmático no estaba sentado. Estaba de pie, en el centro de un claro que no existía un momento antes. A su derecha, una mujer alta, con una túnica blanca y una corona de flores en la cabeza. A su izquierda, otra mujer, más baja, con una túnica roja y los ojos cerrados, como si soñara despierta.
 
-La figura llevaba en la cabeza una corona de tres niveles. No una banda. Tres anillos de metal superpuestos, cada uno más pequeño que el anterior, como escalones hacia arriba.
+Las dos mujeres miraban al Enigmático. Pero el Enigmático miraba al frente, como si estuviera eligiendo entre algo que no tenía nombre.
 
-En la mano derecha sostenía un bastón rematado por una cruz. Lo mantenía vertical, la punta apoyada en el suelo entre los pies.
+Y arriba, suspendido en el aire sobre las tres figuras, un alado. No era un ángel. Era una figura con alas de mariposa, translúcidas, que sostenía un arco tenso. La flecha apuntaba hacia abajo, hacia el centro del grupo, pero no había cuerda. El arco estaba tenso sin nada que lo tensara.
 
-Y a los lados de la silla, arrodillados, había dos figuras pequeñas. No eran niños. Eran sombras con forma humana, siluetas sin rasgos, que miraban hacia la figura con una inclinación de respeto. La figura levantó la mano derecha —la que no sostenía el bastón— e hizo un gesto con dos dedos extendidos, bendiciendo a las dos siluetas.
+Runy disminuyó el paso. La imagen lo atrapó. No era una escena de poder ni de sabiduría. Era una escena de elección. Las dos mujeres. El Enigmático en el medio. El alado con la flecha lista. Algo estaba por ocurrir, algo que dependía de una decisión que todavía no se había tomado.
 
-Bendiciendo a la carrera entera.
-
-Runy sintió que el gesto no iba dirigido a él personalmente pero lo incluía. Era una transmisión. No de una doctrina sino de una continuidad: cosas que se dicen desde antes de que existiera el lenguaje, gestos que se hacen desde antes de que existieran las manos.
+*Cada paso es una elección*, pensó. *Cada kilómetro es una mujer que te dice ven. Y tú decides a cuál seguir.*
 
 Parpadeó.
 
-La silla estaba vacía. La tela roja seguía ahí. Las siluetas también habían desaparecido.
+El claro había desaparecido. Las mujeres también. Solo quedaba el poste de luz y el asfalto de la ruta.
 
-Runy siguió corriendo, porque el kilómetro doce ya estaba ahí, y porque la imagen del bastón con la cruz, la triple corona y las dos figuras arrodilladas se le quedó grabada como una pregunta:
+Pero la pregunta se quedó: ¿a quién eliges seguir? ¿A la que te dice que todo está permitido? ¿A la que te dice que todo tiene un precio? ¿O te quedas en el medio, como el Enigmático, mirando al frente mientras el arco tiembla?
 
-*¿A quién escuchas? ¿Y a quién eliges seguir?*
+Runy no supo qué responder. Pero siguió corriendo, que era una forma de responder sin decir nada.
 ---
 
 # VII. El Carro (km 12–14)
