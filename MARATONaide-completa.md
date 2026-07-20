@@ -1016,21 +1016,23 @@ Y los dos siguieron corriendo lado a lado, el viejo y el joven, la rodilla mala 
 
 ***
 
-El kilómetro dieciocho trajo al Enigmático, y esta vez la imagen era de una quietud que imponía.
+El kilómetro dieciocho trajo al Enigmático, y esta vez la imagen era de una quietud distinta.
 
-La figura estaba sentada en una silla pesada de respaldo recto, colocada en el separador central como si alguien la hubiera puesto allí para presidir la avenida. Tenía las rodillas juntas, la espalda erguida, y en la mano derecha sostenía una espada. No flotaba. La empuñaba firmemente, con la punta hacia arriba, como quien sostiene un eje del mundo.
+La figura estaba de pie en el separador central, envuelta en la capa oscura, pero esta vez la capa parecía más pesada, más densa, como si hubiera absorbido la noche.
 
-En la mano izquierda sostenía una balanza. No un dibujo en el aire. Una balanza real, de metal, con cadenas finas y dos platos que se mantenían perfectamente nivelados. La figura miraba la balanza, no a Runy. Miraba los platos como si estuviera pesando algo que nadie más podía ver.
+En la mano izquierda, una linterna. No era eléctrica ni de gas. Era una linterna antigua, de metal oxidado, con una llama amarilla que se movía dentro del cristal. La llama no se apagaba. No parpadeaba. Estaba ahí, constante, iluminando un radio pequeño del mundo.
 
-La imagen no le dijo nada. Se lo mostró. La justicia no es un ideal abstracto. Es una postura. Es sentarse y poner el cuerpo. Es sostener el filo con una mano y el equilibrio con la otra.
+En la mano derecha, un bastón. Largo, de madera oscura, con la punta gastada por el uso. No era un cetro ni un arma. Era algo para apoyarse. Algo que existía para sostener el peso del caminante cuando las piernas fallían.
 
-*Ver es juzgar*, pensó Runy. *Cada mirada es una balanza. Cada paso, un corte.*
+La figura no estaba sentada ni recargada. Estaba de pie, ligeramente encorvada, con la cabeza inclinada hacia abajo, como si mirara el camino y no el horizonte.
 
-Runy parpadeó.
+Runy lo miró y pensó en Arango. En cómo el viejo corría con la rodilla mala pero no se detenía. En cómo había ofrecido acompañarlo sin saber exactamente qué significaba eso.
 
-El separador estaba vacío.
+Parpadeó.
 
-Pero la imagen se quedó: la figura sentada, la espada en una mano, la balanza en la otra, y la certeza de que la justicia no es una ley que viene de afuera sino una capacidad que se ejercita. Y que hay que estar sentado, firme, para sostenerla.
+El separador estaba vacío. La linterna se apagó. El bastón se desvaneció.
+
+Pero la imagen se quedó: la llama pequeña, el bastón firme, la figura que camina no porque sepa dónde va, sino porque caminar es lo único que tiene sentido cuando no se tiene nada más.
 
 El kilómetro dieciocho apareció. Puesto de hidratación. Voluntarios. Agua.
 

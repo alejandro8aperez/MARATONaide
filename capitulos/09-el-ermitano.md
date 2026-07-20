@@ -72,27 +72,23 @@ Y los dos siguieron corriendo lado a lado, el viejo y el joven, la rodilla mala 
 
 ***
 
-El kilómetro dieciocho trajo al Enigmático, y esta vez la imagen era de una autoridad tranquila.
+El kilómetro dieciocho trajo al Enigmático, y esta vez la imagen era de una quietud distinta.
 
-La figura estaba sentada en el separador central. No había silla. La figura estaba sentada en el aire, las piernas juntas y ligeramente inclinadas, la espalda recta como si hubiera un trono invisible debajo.
+La figura estaba de pie en el separador central, envuelta en la capa oscura, pero esta vez la capa parecía más pesada, más densa, como si hubiera absorbido la noche.
 
-En la cabeza, ajustada sobre la capucha, una banda delgada de metal. Una corona sin pretensiones.
+En la mano izquierda, una linterna. No era eléctrica ni de gas. Era una linterna antigua, de metal oxidado, con una llama amarilla que se movía dentro del cristal. La llama no se apagaba. No parpadeaba. Estaba ahí, constante, iluminando un radio pequeño del mundo.
 
-En la mano derecha sostenía una espada. No una espada de luz ni de fuego. Una espada real, de metal gris, con la punta apuntando hacia arriba. La sostenía con firmeza, sin amenaza, como quien sostiene una verdad que no necesita demostrarse.
+En la mano derecha, un bastón. Largo, de madera oscura, con la punta gastada por el uso. No era un cetro ni un arma. Era algo para apoyarse. Algo que existía para sostener el peso del caminante cuando las piernas fallían.
 
-En la mano izquierda, una balanza. Pequeña, de dos platos de bronce, suspendidos de una cadena que la figura sostenía entre los dedos. Los platos estaban perfectamente nivelados. Ni un gramo de más. Ni un gramo de menos.
+La figura no estaba sentada ni recargada. Estaba de pie, ligeramente encorvada, con la cabeza inclinada hacia abajo, como si mirara el camino y no el horizonte.
 
-La figura no miraba a Runy. Miraba al frente, sosteniendo la espada y la balanza como si fueran la misma cosa: el peso y el filo de la verdad.
+Runy lo miró y pensó en Arango. En cómo el viejo corría con la rodilla mala pero no se detenía. En cómo había ofrecido acompañarlo sin saber exactamente qué significaba eso.
 
-Merleau-Ponty había dicho que percibir no es recibir pasivamente. Es un acto. El cuerpo sale al encuentro del mundo, lo interroga, lo pesa, lo corta.
+Parpadeó.
 
-*La justicia no es un juicio externo*, pensó Runy. *Es la capacidad de ver con claridad. De sostener el equilibrio entre lo que se recibe y lo que se da.*
+El separador estaba vacío. La linterna se apagó. El bastón se desvaneció.
 
-Runy parpadeó.
-
-El separador estaba vacío.
-
-Pero la imagen se quedó: la figura sentada, la espada vertical, la balanza nivelada, la corona sin brillo, la certeza de que la justicia no se impone desde fuera sino que se sostiene desde dentro.
+Pero la imagen se quedó: la llama pequeña, el bastón firme, la figura que camina no porque sepa dónde va, sino porque caminar es lo único que tiene sentido cuando no se tiene nada más.
 
 El kilómetro dieciocho apareció. Puesto de hidratación. Voluntarios. Agua.
 
