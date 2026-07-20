@@ -38,29 +38,21 @@ Y en esa diferencia, encontró algo que lo separaba del hombre de negro. No era 
 
 El kilómetro veinticinco y medio trajo una visión que Runy no supo interpretar.
 
-El Enigmático estaba al borde de la carretera, pero no de pie. Estaba suspendido. Colgaba de una viga de madera no sostenida por nada visible, la viga flotando en el aire. La figura colgaba cabeza abajo, con una pierna doblada detrás de la otra, los brazos caídos a los lados, el rostro oculto por la capucha.
+El Enigmático estaba al borde de la carretera, pero no era la misma figura de siempre. Algo en la capa se había abierto, y Runy vio lo que había debajo.
 
-No se movía.
+No había carne. No había piel. Había huesos. Un esqueleto, completo, perfecto, con cada vértebra, cada costilla, cada falange expuesta. La capa colgaba de los hombros como un telón de fondo, y debajo, la figura era pura estructura, pura arquitectura desnuda.
 
-No parecía sufrir.
+En una mano, una guadaña. No era una guadaña de metal brillante. Era vieja, oxidada, con la hoja curvada como una luna menguante. La figura la sostenía con la misma firmeza con la que antes sostenía la espada o la vara, pero esta vez la herramienta no era para guiar ni para proteger. Era para cortar.
 
-Parecía, más bien, haber elegido colgar allí, quieto, en un estado de suspensión total, mientras el mundo seguía girando a su alrededor.
+Alrededor de los pies del Enigmático, restos. No eran restos humanos. Eran cosas más pequeñas: hojas secas, ramas rotas, piedras partidas. La materia del mundo, descompuesta, volviendo a la tierra.
 
-La imagen le heló la sangre. No porque fuera violenta. Porque era pacífica. Había una calma en la figura colgante que Runy no podía explicar. Como si la rendición fuera una forma de libertad.
+Runy lo miró y sintió algo que no esperaba: no miedo, sino alivio. La muerte no era un final. Era una transformación. Lo que estaba roto se deshacía para que algo nuevo pudiera nacer.
 
-*El que se entrega*, pensó, *deja de luchar. Y el que deja de luchar, deja de sufrir.*
+Parpadeó.
 
-La idea era tentadora. Dejar de luchar. Dejar que la carrera siguiera sin él. Dejar que el hombre de negro ganara, si es que había algo que ganar.
+El Enigmático había desaparecido. Los huesos, la guadaña, los restos, todo se había ido.
 
-—No —dijo en voz alta.
-
-Arango lo miró.
-
-—¿Qué?
-
-—Nada —dijo Runy—. Sigo.
-
-Pero la imagen del hombre colgando cabeza abajo se quedó con él, y no sabía si era una advertencia o una oferta.
+Pero la imagen se quedó: el esqueleto bajo la capa, la guadaña oxidada, los restos a los pies, y la sospecha de que morir no era perderse sino cambiar de forma.
 
 ***
 
