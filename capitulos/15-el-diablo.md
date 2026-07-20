@@ -58,19 +58,19 @@ Pero no dijo que estuviera equivocado.
 
 El kilómetro treinta trajo al Enigmático.
 
-La figura estaba al borde de la carretera, cerca de un poste de luz. Esta vez no tenía nada en las manos. Tenía los brazos extendidos hacia adelante, y entre las manos —sin tocarlas— había dos recipientes. Uno en cada mano. De uno salía un líquido que caía en el otro, formando un arco continuo que no se interrumpía.
+La figura estaba al borde de la carretera, cerca de un poste de luz. Esta vez no tenía alas ni vasijas. Tenía cuernos. Dos cuernos grandes, curvados, que salían de la cabeza y se extendían hacia arriba, como los de un carnero, pero más oscuros, más densos, como si hubieran crecido de la oscuridad misma.
 
-No era agua. No tenía color. Era luz líquida, o algo que brillaba como luz pero fluía como agua.
+Y a los pies de la figura, dos figuras más pequeñas. No eran personas. Eran sombras con forma humana, atadas por cadenas que no estaban unidas a nada visible. Las cadenas eran de metal oxidado, pesadas, pero las figuras no luchaban contra ellas. Estaban ahí, de pie, con los brazos a los lados, como si las cadenas fueran parte de ellas mismas, como si la atadura fuera una elección que ya habían olvidado que hicieron.
 
-La figura movía las manos lentamente, ajustando el ángulo, y el líquido —la luz— pasaba de un recipiente a otro sin derramarse, sin detenerse, en un flujo perfecto.
+El Enigmático no miraba a Runy. Miraba a las figuras. No con crueldad. Con algo peor: con indiferencia. Como si la atadura no le importara, como si el sufrimiento ajeno fuera un paisaje que ya había visto demasiadas veces.
 
-La imagen contenía una idea que no podía expresarse en palabras, pero que entendía con el cuerpo. La mezcla. La combinación. No la separación sino la unión de lo que parece opuesto.
+Runy lo miró y sintió algo que no esperaba: reconocimiento. No al Enigmático. A las figuras. A las cadenas. A la forma en que uno se ata a cosas que no necesita y después olvida que están ahí.
 
-*Arriba y abajo*, pensó. *Ida y vuelta. Cuerpo y mente. Tú y los otros.*
+Parpadeó.
 
-La figura no lo miró. Siguió vertiendo el líquido de un recipiente a otro, y el flujo no se interrumpió cuando Runy pasó, ni cuando se alejó, ni cuando miró atrás por última vez.
+El Enigmático, los cuernos, las cadenas, todo había desaparecido.
 
-*La síntesis*, pensó Runy. *No es encontrar un punto medio. Es entender que los opuestos siempre fueron el mismo movimiento.*
+Pero la imagen se quedó: las sombras encadenadas, los cuernos en la oscuridad, y la sospecha de que la peor prisión es la que uno construye y después llama libertad.
 
 Y siguió corriendo, con la imagen del flujo constante grabada en la memoria, y la certeza de que algo en él se estaba integrando, juntando piezas que no sabía que estaban separadas.
 
