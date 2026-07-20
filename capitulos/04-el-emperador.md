@@ -70,29 +70,17 @@ El kilómetro ocho se acercaba. La ruta empezaba a girar hacia el sur, preparán
 
 Y entonces, en el separador de la avenida, lo vio.
 
-La figura de la capa oscura estaba sentada en una elevación de tierra que parecía un trono natural de pasto y raíces. Tenía la espalda recta y las manos apoyadas sobre las rodillas. En la mano derecha sostenía un cetro delgado, una vara que no era de metal ni de madera sino de algo que brillaba como luz solidificada.
+La figura de la capa oscura estaba sentada en un trono de piedra. No era un trono natural ni una silla. Era un bloque de piedra gris, rectangular, con dos figuras talladas a los lados: cuernos de carnero, retorcidos, que salían de los costados del trono como si fueran los brazos del asiento.
 
-Pero lo que llamó la atención de Runy no fue el cetro.
+La figura tenía la espalda recta y las manos apoyadas sobre las rodillas. En la mano derecha sostenía un cetro. No una vara. Un cetro de metal oscuro, pesado, con una punta cuadrada que no necesitaba brillar porque su autoridad estaba en el peso, no en el brillo. En la mano izquierda, una esfera. Un orbe pequeño, perfectamente redondo, que la figura sostenía con los dedos abiertos como quien sostiene el mundo sin apretarlo.
 
-Eran las alas. Detrás de la figura, desplegadas desde los hombros, dos alas enormes que no se movían pero estaban ahí, abiertas, como las de un ave que no necesita volar porque ya está donde tiene que estar.
+En la cabeza, sobre la capucha, una corona de metal. No era una tiara ni una banda. Era una corona con puntas, rígida, con la forma de alguien que no necesita demostrar que manda porque su postura ya lo dice.
 
-La figura llevaba una corona, pero no de metal. Estaba hecha de ramas entrelazadas, con hojas y pequeñas flores blancas que parecían frescas, recién nacidas.
-
-A los pies de la figura, el pasto crecía visiblemente, las flores se abrían, la tierra misma parecía respirar.
-
-Runy sintió que no podía apartar la mirada. La imagen no le transmitía autoridad. Le transmitía abundancia. No la ley. La vida misma. La naturaleza no como paisaje sino como fuerza creadora, como lo que crece sin permiso, lo que florece donde nadie sembró.
+La imagen transmitía algo distinto a todo lo que Runy había visto antes. No era sabiduría. No era abundancia. Era estructura. Era la imagen de alguien que ha decidido cómo funcionan las cosas y no necesita que se lo confirmen.
 
 Parpadeó.
 
-La rotonda estaba vacía.
+El trono seguía ahí, pero la figura ya no estaba. Solo la piedra, los cuernos de carnero tallados, el sol golpeando la superficie gris.
 
-Pero el pasto seguía verde. Las flores seguían abiertas. Y algo había cambiado en él. Algo que tenía que ver con la tierra bajo los pies, el sol en la cara, y el hecho de estar vivo en un cuerpo que dolía y que a pesar de todo seguía moviéndose.
-
-El kilómetro ocho apareció. Puesto de hidratación. Voluntarios. Agua.
-
-Runy bebió y el agua supo distinta. Más dulce. Más viva.
-
-—Qué estupidez —murmuró.
-
-Pero sonrió. Y siguió corriendo.
+Runy siguió corriendo, pero la imagen no se fue: el trono de piedra, el cetro pesado, el orbe en la mano izquierda, y la sensación de que la fuerza no está en mover montañas sino en saber dónde está el centro de gravedad.
 ---
