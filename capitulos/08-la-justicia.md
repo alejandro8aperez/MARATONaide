@@ -116,21 +116,23 @@ Y los dos arrancaron a correr al mismo tiempo, el viejo y el joven, la rodilla m
 
 El kilómetro dieciséis trajo una visión breve pero clara.
 
-En el separador de la avenida, de pie sobre el pasto, el Enigmático de la capa oscura lo esperaba. No tenía los brazos abiertos como la vez anterior. Tenía los brazos extendidos hacia adelante, sosteniendo las riendas de un caballo invisible. En una mano, una vara corta, más gruesa que la anterior. En la otra, nada. Pero la postura era la de alguien que conduce un carro, que guía algo más grande que él mismo.
+En el separador de la avenida, de pie sobre el pasto, el Enigmático de la capa oscura lo esperaba. No tenía los brazos extendidos ni sostenía riendas. Estaba de pie, inmóvil, con una espada en la mano derecha y una balanza en la izquierda.
 
-La imagen le decía algo. No con palabras. Con forma.
+La espada era real. No de luz ni de sombra. Metal gris, hoja lisa, punta apuntando hacia arriba. La sostenía con firmeza, sin amenaza, como quien sostiene una verdad que no necesita demostrarse.
 
-*Puedes ser conducido o puedes conducir. Puedes ser llevado por la carrera o puedes llevarla tú.*
+La balanza era pequeña, de dos platos de bronce, suspendidos de una cadena que la figura sostenía entre los dedos. Los platos estaban perfectamente nivelados. Ni un gramo de más. Ni un gramo de menos.
 
-La figura no hizo gesto. No lo miró. Pero la postura —los brazos extendidos, la vara firme, el cuerpo en equilibrio entre dos fuerzas— quedó grabada en Runy como una instrucción que no necesitaba ser dicha.
+En la cabeza, sobre la capucha, una corona. No era la tiara del Papa ni la corona de estrellas de la Emperatriz. Era una corona simple, metálica, con la forma de alguien que no necesita demostrar autoridad porque su presencia ya la establece.
+
+La figura no miraba a Runy. Miraba al frente, sosteniendo la espada y la balanza como si fueran la misma cosa: el peso y el filo de la verdad.
+
+Runy no entendió la imagen. Pero la sintió. La justicia no era un castigo. Era un equilibrio. Algo que existía antes de que él naciera y que iba a seguir existiendo después de que la carrera terminara.
 
 Parpadeó.
 
-El separador estaba vacío.
+El separador estaba vacío. La espada había desaparecido. La balanza también.
 
-Runy siguió corriendo. Pero ahora sabía algo que no sabía antes: la carrera no era solo contra el hombre de negro. Era contra todo lo que quería convertirlo en un objeto. La fatiga, el miedo, la rutina, la programación.
-
-Y él era libre. Todavía libre.
+Pero la imagen se quedó: el filo y el peso, la verdad que no necesita ser dicha, el equilibrio que existía aunque nadie lo observara.
 
 El kilómetro dieciséis apareció. Puesto de hidratación. Voluntarios. Agua.
 
