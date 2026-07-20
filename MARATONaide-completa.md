@@ -1577,21 +1577,19 @@ No era solo que la dirección hubiera cambiado. Era que todo se sentía distinto
 
 Y entonces, en el separador central, lo vio.
 
-El Enigmático estaba de pie, pero era distinto. No llevaba la capa oscura de las otras veces. Lo que vestía era una túnica negra que le llegaba hasta los pies, y no tenía capucha. Su rostro era un cráneo. Hueso blanco, sin piel, sin ojos, sin nada que pudiera llamarse expresión. Pero la mandíbula del cráneo estaba abierta, como si sonriera o como si estuviera diciendo algo que no necesitaba sonido.
+El Enigmático estaba de pie, pero no era la misma figura de siempre. Algo en la capa se había abierto, y Runy vio lo que había debajo.
 
-En la mano derecha sostenía una guadaña. No era un arma. Era una herramienta. Una hoja larga y curva, montada en un mango de madera oscura, que descansaba contra el suelo como la guadaña de un campesino después de la cosecha.
+No había huesos. No había oscuridad. Había alas. Dos alas enormes, blancas, extendidas desde la espalda de la figura, con cada pluma definida, como si el aire las sostuviera. La capa colgaba de los hombros, pero debajo, la figura era otra cosa: un ángel, no del tipo celestial, sino del tipo que camina por la tierra y mezcla lo que está roto.
 
-Runy no sintió miedo. Eso fue lo que lo sorprendió. La imagen era directa, sin velos, sin metáforas. Pero no le daba miedo. Le daba claridad.
+En las manos, dos vasijas. No eran de oro ni de plata. Eran de barro, simples, como las que se usaban en las cocinas de antes. De una vasija, el Enigmático vertía líquido hacia la otra. El líquido no caía. Subía. Formaba un arco perfecto entre las dos vasijas, desafiando la gravedad, como si la paciencia tuviera su propia física.
 
-*Esto se acaba*, pensó. *No la carrera. No la vida. Esto. La forma en que veías el mundo. La forma en que te aferrabas a lo que ya no necesitas.*
+Runy lo miró y pensó en todo lo que había querido terminar de golpe: la carrera, el miedo, el hombre de negro. Y entendió que nada se termina de golpe. Todo se mezcla, se vierte, se equilibra, gota a gota, vasija a vasija.
 
-La figura levantó la guadaña. No la blandió. Simplemente la levantó, despacio, con un movimiento que no era amenazante. Era de exposición. De mostrar la herramienta no como un castigo sino como un hecho.
+Parpadeó.
 
-Runy desvió la vista. Cuando levantó la mirada, el separador estaba vacío.
+El ángel, las vasijas, el arco de líquido, todo había desaparecido.
 
-Pero la guadaña no se había ido del todo. Quedaba en su memoria, el filo curvo, el cráneo sin piel, la certeza de que la muerte no es el final de la carrera ni de la vida, sino el final de una forma de ver las cosas.
-
-*Lo que muere hoy es lo que ya no sirve.*
+Pero la imagen se quedó: el líquido subiendo, las dos vasijas en equilibrio, y la certeza de que la prudencia no era debilidad sino la forma más inteligente de fuerza.
 
 Y siguió corriendo, porque el kilómetro veintiocho y medio estaba cerca, y porque sentía que algo en él se había roto, pero lo roto no era una pérdida sino una cáscara que ya no necesitaba.
 ---

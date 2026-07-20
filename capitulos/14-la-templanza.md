@@ -78,23 +78,17 @@ Y entonces, en el separador central, lo vio.
 
 El Enigmático estaba de pie, pero no era la misma figura de siempre. Algo en la capa se había abierto, y Runy vio lo que había debajo.
 
-No había carne. No había ropa. Había huesos. Una calavera donde debía estar el rostro, las cuencas vacías mirando al frente. Las manos eran hueso, los dedos largos y blancos, sin piel que los cubriera.
+No había huesos. No había oscuridad. Había alas. Dos alas enormes, blancas, extendidas desde la espalda de la figura, con cada pluma definida, como si el aire las sostuviera. La capa colgaba de los hombros, pero debajo, la figura era otra cosa: un ángel, no del tipo celestial, sino del tipo que camina por la tierra y mezcla lo que está roto.
 
-Y en esas manos de hueso sostenía una guadaña. No una guadaña decorativa. Una guadaña de metal gris, con una hoja curva que brillaba sin reflejar nada, como si absorbiera la luz en lugar de devolverla.
+En las manos, dos vasijas. No eran de oro ni de plata. Eran de barro, simples, como las que se usaban en las cocinas de antes. De una vasija, el Enigmático vertía líquido hacia la otra. El líquido no caía. Subía. Formaba un arco perfecto entre las dos vasijas, desafiando la gravedad, como si la paciencia tuviera su propia física.
 
-A los pies de la figura, esparcidos sobre el pasto, había fragmentos de lo que parecían cosas rotas. Una flor marchita. Una hoja seca. Una zapatilla vieja. Un reloj detenido. No eran objetos amenazantes. Eran restos. Lo que queda cuando algo termina.
+Runy lo miró y pensó en todo lo que había querido terminar de golpe: la carrera, el miedo, el hombre de negro. Y entendió que nada se termina de golpe. Todo se mezcla, se vierte, se equilibra, gota a gota, vasija a vasija.
 
-La imagen no era violenta. Era serena.
+Parpadeó.
 
-*Esto se acaba*, pensó. *No la carrera. No la vida. Esto. La forma en que veías el mundo. Eso tiene que morir.*
+El ángel, las vasijas, el arco de líquido, todo había desaparecido.
 
-La figura no hizo gesto. No levantó la guadaña. No avanzó. Solo estaba allí, los huesos blancos bajo la capa, la guadaña quieta, los restos a los pies, recordándole que todo lo que termina deja espacio para lo que viene.
-
-Runy parpadeó.
-
-El separador estaba vacío. La guadaña, los huesos, los restos, todo había desaparecido.
-
-Pero la certeza quedó: algo tenía que morir para que algo pudiera nacer. Y lo que tenía que morir era él. No su cuerpo. La versión de él que ya no servía.
+Pero la imagen se quedó: el líquido subiendo, las dos vasijas en equilibrio, y la certeza de que la prudencia no era debilidad sino la forma más inteligente de fuerza.
 
 Y siguió corriendo, porque el kilómetro veintiocho y medio estaba cerca, y porque sentía que algo en él se había roto para siempre, pero no sabía si era una pérdida o una liberación.
 ---
