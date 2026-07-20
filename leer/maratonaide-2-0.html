@@ -1,0 +1,252 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MARATONaide 2.0 — Novela filosófica</title>
+    <meta name="description" content="MARATONaide 2.0 - Reescritura completa según auditoría. 31,289 palabras.">
+    <link rel="stylesheet" href="../css/style.css">
+    <style>
+        .reader-container {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 2rem;
+            line-height: 1.8;
+            font-family: var(--font-serif);
+        }
+        .reader-header {
+            text-align: center;
+            margin-bottom: 3rem;
+            padding-bottom: 2rem;
+            border-bottom: 1px solid var(--border);
+        }
+        .reader-header h1 {
+            font-size: 2.5rem;
+            color: var(--gold);
+            margin-bottom: 0.5rem;
+        }
+        .reader-header .subtitle {
+            color: var(--text-secondary);
+            font-style: italic;
+        }
+        .reader-header .meta {
+            margin-top: 1rem;
+            font-size: 0.9rem;
+            color: var(--text-muted);
+        }
+        .chapter {
+            margin-bottom: 3rem;
+            padding-bottom: 2rem;
+            border-bottom: 1px solid var(--border);
+        }
+        .chapter h2 {
+            font-size: 1.8rem;
+            color: var(--gold);
+            margin-bottom: 1.5rem;
+            text-align: center;
+        }
+        .chapter h3 {
+            font-size: 1.3rem;
+            color: var(--text-primary);
+            margin: 2rem 0 1rem;
+        }
+        .timestamp {
+            display: inline-block;
+            background: rgba(212, 168, 75, 0.1);
+            color: var(--gold);
+            padding: 0.25rem 0.75rem;
+            border-radius: 4px;
+            font-size: 0.85rem;
+            margin-bottom: 1rem;
+            font-family: var(--font-sans);
+        }
+        .dialogue {
+            margin: 1rem 0;
+            padding-left: 1rem;
+            border-left: 2px solid var(--gold);
+        }
+        .navigation {
+            position: fixed;
+            bottom: 2rem;
+            right: 2rem;
+            display: flex;
+            gap: 0.5rem;
+            z-index: 100;
+        }
+        .nav-btn {
+            background: var(--bg-card);
+            border: 1px solid var(--border);
+            color: var(--text-primary);
+            padding: 0.75rem 1rem;
+            border-radius: var(--radius);
+            cursor: pointer;
+            transition: var(--transition);
+            font-size: 0.9rem;
+        }
+        .nav-btn:hover {
+            border-color: var(--gold);
+            background: rgba(212, 168, 75, 0.1);
+        }
+        .back-link {
+            display: inline-block;
+            margin-bottom: 2rem;
+            color: var(--gold);
+            text-decoration: none;
+            font-family: var(--font-sans);
+            font-size: 0.9rem;
+        }
+        .back-link:hover {
+            text-decoration: underline;
+        }
+        .stats {
+            background: var(--bg-card);
+            border: 1px solid var(--border);
+            border-radius: var(--radius);
+            padding: 1.5rem;
+            margin: 2rem 0;
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+            gap: 1rem;
+            text-align: center;
+        }
+        .stat-item {
+            padding: 0.5rem;
+        }
+        .stat-value {
+            font-size: 1.5rem;
+            color: var(--gold);
+            font-weight: bold;
+        }
+        .stat-label {
+            font-size: 0.8rem;
+            color: var(--text-muted);
+            margin-top: 0.25rem;
+        }
+        .content-loading {
+            text-align: center;
+            padding: 3rem;
+            color: var(--text-muted);
+        }
+        .content-loading::after {
+            content: '';
+            display: inline-block;
+            width: 20px;
+            height: 20px;
+            border: 2px solid var(--border);
+            border-top-color: var(--gold);
+            border-radius: 50%;
+            animation: spin 1s linear infinite;
+            margin-left: 0.5rem;
+            vertical-align: middle;
+        }
+        @keyframes spin {
+            to { transform: rotate(360deg); }
+        }
+    </style>
+</head>
+<body>
+
+    <!-- NAVBAR -->
+    <nav class="navbar">
+        <div class="navbar-inner">
+            <a href="../index.html" class="logo">
+                <div class="logo-icon">M</div>
+                <span class="logo-text">maraton<span>aide</span></span>
+            </a>
+            <button class="menu-toggle">☰</button>
+            <ul class="nav-links">
+                <li><a href="../index.html">Inicio</a></li>
+                <li><a href="maratonaide-2-0.html" class="active">Leer 2.0</a></li>
+                <li><a href="../index.html#estructura">Estructura</a></li>
+                <li><a href="../index.html#acerca">Acerca</a></li>
+            </ul>
+        </div>
+    </nav>
+
+    <!-- READER -->
+    <main class="reader-container">
+        <a href="../index.html" class="back-link">← Volver al inicio</a>
+
+        <div class="reader-header">
+            <h1>MARATONaide</h1>
+            <div class="subtitle">Novela filosófica</div>
+            <div class="meta">Medellín, Colombia · Julio 2026 · Versión 2.0</div>
+        </div>
+
+        <div class="stats">
+            <div class="stat-item">
+                <div class="stat-value">31,289</div>
+                <div class="stat-label">Palabras</div>
+            </div>
+            <div class="stat-item">
+                <div class="stat-value">22</div>
+                <div class="stat-label">Capítulos</div>
+            </div>
+            <div class="stat-item">
+                <div class="stat-value">42</div>
+                <div class="stat-label">Kilómetros</div>
+            </div>
+            <div class="stat-item">
+                <div class="stat-value">+36%</div>
+                <div class="stat-label">vs. Original</div>
+            </div>
+        </div>
+
+        <div id="novel-content" class="content-loading">Cargando novela...</div>
+    </main>
+
+    <!-- NAVIGATION -->
+    <div class="navigation">
+        <button class="nav-btn" onclick="window.scrollTo({top: 0, behavior: 'smooth'})">↑ Inicio</button>
+    </div>
+
+    <script src="../js/main.js"></script>
+    <script>
+        // Load and parse markdown
+        async function loadNovel() {
+            try {
+                const response = await fetch('../MARATONaide-2.0.md');
+                const markdown = await response.text();
+                const html = parseMarkdown(markdown);
+                document.getElementById('novel-content').innerHTML = html;
+                document.getElementById('novel-content').classList.remove('content-loading');
+            } catch (error) {
+                document.getElementById('novel-content').innerHTML = `
+                    <div style="text-align: center; padding: 2rem;">
+                        <p>Error al cargar la novela.</p>
+                        <p><a href="../MARATONaide-2.0.md" style="color: var(--gold);">Descargar archivo markdown</a></p>
+                    </div>
+                `;
+            }
+        }
+
+        // Simple markdown parser
+        function parseMarkdown(md) {
+            let html = md
+                // Headers
+                .replace(/^### (.*$)/gim, '<h3>$1</h3>')
+                .replace(/^## (.*$)/gim, '<h2>$1</h2>')
+                .replace(/^# (.*$)/gim, '<h1>$1</h1>')
+                // Bold
+                .replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>')
+                // Italic
+                .replace(/\*(.*?)\*/g, '<em>$1</em>')
+                // Horizontal rule
+                .replace(/^---$/gim, '<hr>')
+                // Timestamps (special styling)
+                .replace(/\*\*(\d{1,2}:\d{2}\s*[ap]\.m\.\s*·\s*KM\s*\d+)\*\*/g, '<div class="timestamp">$1</div>')
+                // Dialogue (lines starting with —)
+                .replace(/^—(.*$)/gim, '<div class="dialogue">—$1</div>')
+                // Paragraphs
+                .replace(/\n\n/g, '</p><p>')
+                // Line breaks
+                .replace(/\n/g, '<br>');
+
+            return '<p>' + html + '</p>';
+        }
+
+        // Load novel on page load
+        loadNovel();
+    </script>
+</body>
+</html>
