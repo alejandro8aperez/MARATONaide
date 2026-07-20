@@ -1823,27 +1823,21 @@ Pero los dos sabían que no era cierto.
 
 El Enigmático apareció en el separador de la avenida. Pero esta vez la figura era distinta.
 
-De la cabeza de la figura, bajo la capucha, sobresalían dos cuernos. No eran grandes. Eran cortos, retorcidos, como los de un carnero. La figura estaba de pie sobre una roca plana que funcionaba como un pedestal natural, y desde esa altura miraba hacia abajo.
+Detrás de él, en el aire, una torre. No era una torre de piedra ni de ladrillo. Era una torre de luz, alta, perfecta, con una corona en la cima que brillaba como si fuera de oro puro. La torre parecía indestructible, una estructura que había estado ahí desde siempre y que iba a estar ahí para siempre.
 
-A los pies de la roca, dos siluetas humanas estaban arrodilladas. Una a cada lado. De sus cuellos colgaban cadenas que subían hasta las manos de la figura, que las sostenía sin esfuerzo, como quien sujeta las riendas de animales que ya no oponen resistencia.
+Y entonces cayó un rayo.
 
-Las cadenas no estaban sueltas. Estaban tensas.
+No era un rayo natural. Era un rayo de una blancura absoluta, que partió la torre desde la corona hasta los cimientos. La estructura no se derrumbó. Se abrió. La corona salió volando, girando en el aire, y de las ventanas saltaron dos figuras. No eran personas. Eran siluetas que caían con los brazos extendidos, no gritando, no luchando, sino cayendo con una resignación que era casi paz.
 
-Pero las siluetas no forcejeaban. Miraban al frente, con la mirada vacía, como si hubieran olvidado que las cadenas existían.
+El Enigmático estaba de pie, inmóvil, mirando el derrumbe. No trataba de detenerlo. No trataba de salvar la torre. Solo miraba, como si el rayo fuera necesario, como si la caída fuera parte de algo que no se podía evitar.
 
-Runy sintió un escalofrío. No porque la imagen fuera aterradora. Porque la reconocía. Las siluetas tenían su misma postura. Su misma forma de estar quieto cuando el miedo lo paralizaba.
-
-*Las cadenas existen*, pensó. *Pero no son de metal. Son de costumbre. De repetición. De creer que no hay otra opción.*
-
-La figura levantó la cabeza. Lo miró. Los cuernos sobresalían de la capucha, y en la penumbra del rostro, Runy alcanzó a ver una sonrisa. No era malvada. Era triste.
-
-*Lo que te ata no es él*, dijo la figura. Sin voz. *Lo que te ata eres tú. Y lo que tú ataste, tú puedes soltarlo.*
+Runy lo miró y pensó en todo lo que se había construido y que ahora se caía: el control, la predictibilidad, la sensación de que sabía lo que iba a pasar mañana.
 
 Parpadeó.
 
-La roca seguía ahí. Pero la figura había desaparecido. Los cuernos. Las cadenas. Las siluetas arrodilladas. Todo se había ido.
+La torre, el rayo, las figuras cayendo, todo había desaparecido.
 
-Algo se aflojó en su pecho. El miedo seguía ahí. La IA seguía ahí. Pero ahora sabía que las cadenas no eran reales. Y lo que no es real, se puede soltar.
+Pero la imagen se quedó: la corona en el aire, las ventanas rotas, y la certeza de que a veces hay que destruir lo que se construyó para ver lo que había debajo.
 ---
 
 # XVII. La Estrella (km 32–34)
