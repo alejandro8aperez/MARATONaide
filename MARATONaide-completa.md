@@ -554,17 +554,21 @@ Pero lo que más le llamó la atención fue lo que la figura sostenía en la man
 
 No era un cetro decorativo. Era un bastón de mando que no necesitaba brillo porque su autoridad estaba en la mano que lo sostenía, no en el objeto mismo.
 
-Y en la cabeza, ajustada sobre la capucha, había una banda de metal oscuro. No brillaba. No llamaba la atención. Pero estaba ahí, rodeando la frente de la figura como una corona sin pretensiones.
+Y en la cabeza, ajustada sobre la capucha, una tiara. No era una banda ni una corona simple. Eran tres niveles de metal, cada uno más pequeño que el anterior, apilados como una montaña que apunta al cielo.
 
-La imagen completa decía algo que no necesitaba palabras. La figura sentada. La vara vertical. La corona en la frente. El cuerpo firme, inmóvil, en medio del caos de la carrera.
+A los pies de la silla, en el suelo del asfalto, dos llaves cruzadas. No las había visto antes. Eran de metal oscuro, entrelazadas, como las que abren puertas que no tienen cerradura visible.
 
-*La ley*, pensó. *No la ley que se impone. La ley que se es.*
+Y a cada lado de la silla, dos figuras pequeñas estaban arrodilladas. No eran niños. Eran sombras con forma humana, siluetas sin rasgos, que miraban hacia la figura con una inclinación de respeto.
+
+La figura levantó la mano derecha —la que no sostenía la vara— e hizo un gesto con dos dedos extendidos, bendiciendo a las dos siluetas. Bendiciendo a la carrera entera.
+
+Runy sintió que el gesto no iba dirigido a él personalmente pero lo incluía. Era una transmisión. No de una doctrina sino de una continuidad: cosas que se dicen desde antes de que existiera el lenguaje, gestos que se hacen desde antes de que existieran las manos.
 
 El semáforo cambió. La masa de corredores se movió.
 
 Runy parpadeó.
 
-La silla seguía ahí, pero la figura ya no estaba. La silla estaba vacía. Una silla plegable de plástico blanco, como las que usan los acompañantes de los corredores.
+La silla seguía ahí, pero la figura ya no estaba. La silla estaba vacía. Las llaves habían desaparecido. Las siluetas también.
 
 —¿Viste a alguien sentado ahí? —preguntó Runy a un voluntario que pasaba a su lado.
 
@@ -576,7 +580,7 @@ Runy negó con la cabeza.
 
 —No —dijo—. No importa.
 
-Y siguió corriendo, porque el kilómetro diez ya había pasado y el once lo esperaba, y porque la imagen de la figura sentada en un trono de plástico con la vara en la mano se le quedó grabada en la memoria como la respuesta a una pregunta que todavía no sabía formular.
+Y siguió corriendo, porque el kilómetro diez ya había pasado y el once lo esperaba, y porque la imagen de la figura sentada en un trono de plástico con la vara en la mano, la tiara de tres niveles, las llaves cruzadas y los dos dedos extendidos se le quedó grabada en la memoria como la respuesta a una pregunta que todavía no sabía formular.
 ---
 
 # VI. Los Amantes (km 10–12)
