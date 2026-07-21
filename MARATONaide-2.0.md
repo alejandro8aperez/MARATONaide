@@ -21,7 +21,7 @@ No fue un despertar. Fue más bien una grieta en la pared de la inconsciencia, u
 
 —Runy —susurró.
 
-La voz era un hilo. Un hilo de seda Mojado que podía romperse con cualquier cosa: con un suspiro demasiado fuerte, con una palabra demasiado alta, con el simple peso del aire.
+La voz era un hilo. Un hilo de seda mojado que podía romperse con cualquier cosa: con un suspiro demasiado fuerte, con una palabra demasiado alta, con el simple peso del aire.
 
 —Estoy aquí, papá.
 
@@ -81,7 +81,7 @@ Cuando por fin se levantó, su padre ya no estaba. Solo la sábana doblada, el c
 
 Pasaron tres meses.
 
-No fueron三个月 de duelo ordenado, de velas y rezos y palabras de consuelo que no consuelan nada. Fueron三个月 de vagar por un apartamento en Bogotá, de comer cuando el cuerpo lo exigía y no antes, de despertar a las tres de la mañana con la certeza de que algo se había roto y ya no se podía reparar.
+No fueron meses de duelo ordenado, de velas y rezos y palabras de consuelo que no consuelan nada. Fueron meses de vagar por un apartamento en Bogotá, de comer cuando el cuerpo lo exigía y no antes, de despertar a las tres de la mañana con la certeza de que algo se había roto y ya no se podía reparar.
 
 El cajón de la cómoda seguía cerrado. Runy lo miraba cada mañana sin abrirlo. Sabía lo que había adentro: los cuadernos que su padre le había mencionado, los cuadernos que nadie había leído. Cuadernos con tapas gastadas, con hojas amarillentas, con la letra temblorosa de un hombre que escribía como si las palabras fueran ladrillos y cada una pudiera sostener un pedazo de mundo.
 
