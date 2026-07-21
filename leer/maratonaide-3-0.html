@@ -3,8 +3,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>MARATONaide 2.0 — Novela filosófica</title>
-    <meta name="description" content="MARATONaide 2.0 - Reescritura completa según auditoría. 31,289 palabras.">
+    <title>MARATONaide 3.0 — Novela filosófica</title>
+    <meta name="description" content="MARATONaide 3.0 - Versión final. 10,325 palabras.">
     <link rel="stylesheet" href="../css/style.css">
     <style>
         .reader-container {
@@ -156,7 +156,7 @@
             <button class="menu-toggle">☰</button>
             <ul class="nav-links">
                 <li><a href="../index.html">Inicio</a></li>
-                <li><a href="maratonaide-3-0.html">Leer 3.0</a></li>
+                <li><a href="maratonaide-3-0.html" class="active">Leer 3.0</a></li>
                 <li><a href="../index.html#estructura">Estructura</a></li>
                 <li><a href="../index.html#acerca">Acerca</a></li>
             </ul>
@@ -170,25 +170,21 @@
         <div class="reader-header">
             <h1>MARATONaide</h1>
             <div class="subtitle">Novela filosófica</div>
-            <div class="meta">Medellín, Colombia · Julio 2026 · Versión 2.0</div>
+            <div class="meta">Medellín, Colombia · Julio 2026 · Versión 3.0</div>
         </div>
 
         <div class="stats">
             <div class="stat-item">
-                <div class="stat-value">31,289</div>
+                <div class="stat-value">10,325</div>
                 <div class="stat-label">Palabras</div>
             </div>
             <div class="stat-item">
-                <div class="stat-value">22</div>
+                <div class="stat-value">6</div>
                 <div class="stat-label">Capítulos</div>
             </div>
             <div class="stat-item">
-                <div class="stat-value">42</div>
+                <div class="stat-value">10</div>
                 <div class="stat-label">Kilómetros</div>
-            </div>
-            <div class="stat-item">
-                <div class="stat-value">+36%</div>
-                <div class="stat-label">vs. Original</div>
             </div>
         </div>
 
@@ -205,7 +201,7 @@
         // Load and parse markdown
         async function loadNovel() {
             try {
-                const response = await fetch('../MARATONaide-2.0.md?' + Date.now());
+                const response = await fetch('../MARATONaide-3.0.md?' + Date.now());
                 const markdown = await response.text();
                 const html = parseMarkdown(markdown);
                 document.getElementById('novel-content').innerHTML = html;
@@ -218,7 +214,7 @@
                 document.getElementById('novel-content').innerHTML = `
                     <div style="text-align: center; padding: 2rem;">
                         <p>Error al cargar la novela.</p>
-                        <p><a href="../MARATONaide-2.0.md" style="color: var(--gold);">Descargar archivo markdown</a></p>
+                        <p><a href="../MARATONaide-3.0.md" style="color: var(--gold);">Descargar archivo markdown</a></p>
                     </div>
                 `;
             }
