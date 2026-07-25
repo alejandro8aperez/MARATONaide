@@ -163,7 +163,7 @@ El conductor del Uber no habló. Solo puso una emisora de rock en español, a un
 
 ---
 
-# I. El Mago (km 0–2)
+# I. El azar (km 0–2)
 
 **5:47 a.m. · KM 0**
 
@@ -363,7 +363,7 @@ Los dos.
 
 ---
 
-# II. La Sacerdotisa (km 2–4)
+# II. El conocimiento (km 2–4)
 
 **6:18 a.m. · KM 3**
 
@@ -555,7 +555,7 @@ Y al lado de Runy, en algún punto entre la multitud, el niño seguía corriendo
 
 ---
 
-# III. La Emperatriz (km 4–6)
+# III. El dolor (km 4–6)
 
 **6:32 a.m. · KM 4**
 
@@ -775,7 +775,7 @@ Runy quiso apartar la mirada. No pudo.
 
 Algo en la imagen lo retenía. No era miedo. Era otra cosa. Algo que tenía que ver con la tierra bajo los pies, el sol en la cara, y el hecho de estar vivo en un cuerpo que dolía y que a pesar de todo seguía moviéndose.
 
-*La Emperatriz*, pensó, y no sabía de dónde salía el nombre. No lo había leído en ningún libro. No lo había visto en ningún tarot. Simplemente estaba ahí, en la mente, como algo que siempre había sabido.
+*La Emperatriz*, pensó, y no sabía de dónde salía el nombre. No lo había leído en ningún libro. Simplemente estaba ahí, en la mente, como algo que siempre había sabido.
 
 La figura movió la mano izquierda. Un gesto lento, deliberado, como quien acaricia el aire. Donde pasó la mano, el pasto creció un centímetro más. Las flores se abrieron más.
 
@@ -821,7 +821,7 @@ Sacó el teléfono y escribió algo rápidamente.
 
 —¿Con qué encaja?
 
-—Con lo que me dijiste de los cuadernos. Tu padre dibujó figuras de tarot al margen de la ruta. No era decoración. Era un mapa. Sabía lo que ibas a ver y en qué kilómetro.
+—Con lo que me dijiste de los cuadernos. Tu padre dibujó figuras al margen de la ruta. No era decoración. Era un mapa. Sabía lo que ibas a ver y en qué kilómetro.
 
 La piedra rodaba dentro de él, cuesta abajo, esperando el próximo kilómetro para volver a subir.
 
@@ -835,7 +835,7 @@ Y corrieron.
 
 ---
 
-# IV. El Emperador (km 6–8)
+# IV. La voluntad (km 6–8)
 
 **7:12 a.m. · KM 7**
 
@@ -851,7 +851,7 @@ Pero la mente no paraba.
 
 *La Emperatriz. El pasto creciendo. Las flores abriéndose. Un trono de tierra viva.*
 
-¿Qué significaba? ¿Por qué su padre había dibujado figuras de tarot en sus cuadernos? ¿Por qué una bióloga que no conocía veía las mismas cosas que él?
+¿Qué significaba? ¿Por qué su padre había dibujado figuras en sus cuadernos? ¿Por qué una bióloga que no conocía veía las mismas cosas que él?
 
 Y el niño. El niño seguía ahí, a su derecha, a cinco metros, sin sudar, sin jadear, sin una sola señal de cansancio. Runy lo miró de reojo. El niño no lo miraba a él. Miraba al frente. Sus ojos estaban fijos en un punto que Runy no podía ver.
 
@@ -1071,7 +1071,7 @@ Algo estaba debajo de aquella figura. Algo que no era humano. Algo que estaba us
 
 ¿Los mapas con tinta roja?
 
-¿Las figuras de tarot dibujadas con una letra temblorosa?
+¿Las figuras dibujadas con una letra temblorosa?
 
 *Correr es recordar. Recordar es volver. Volver es vivir.*
 
@@ -1085,7 +1085,7 @@ Como si el niño estuviera esperando a que Runy lo descubriera.
 
 ---
 
-# V. El Papa (km 8–10)
+# V. La sabiduría (km 8–10)
 
 **7:38 a.m. · KM 9**
 
@@ -1115,7 +1115,7 @@ La sentía dentro de él, rodando cuesta abajo, acumulando velocidad, preparánd
 
 *¿Por qué mi padre sabía esto?*
 
-Se acordó de los cuadernos. De la letra temblorosa. De los mapas con tinta roja que marcaban la ruta exacta de la maratón. De las figuras de tarot dibujadas al margen: una mujer con una corona de estrellas, un hombre sentado en un trono de piedra, un viejo con una tiara de tres niveles.
+Se acordó de los cuadernos. De la letra temblorosa. De los mapas con tinta roja que marcaban la ruta exacta de la maratón. De las figuras dibujadas al margen: una mujer con una corona de estrellas, un hombre sentado en un trono de piedra, un viejo con una tiara de tres niveles.
 
 Y del código. Las líneas de instrucciones que Runy no entendía. *Activar. Sincronizar. Manifestar. Sostener.*
 
@@ -1299,7 +1299,7 @@ Y la piedra de Sísifo, dentro de él, volvía a subir.
 
 ---
 
-# VI. Los Amantes (km 10–12)
+# VI. La elección (km 10–12)
 
 **8:15 a.m. · KM 11**
 
@@ -1319,13 +1319,13 @@ Pero la mente no paraba.
 
 ¿Un organismo? ¿Una máquina? ¿Algo que existía en algún lugar entre lo vivo y lo fabricado?
 
-Valentina decía que era una neoplasia. Un crecimiento anormal. Pero eso no explicaba los arcanos, los dibujos de su padre, el número 2038 en el papel quemado. No explicaba por qué un hombre muerto le había dejado instrucciones para correr una carrera que contenía figuras que solo unos pocos podían ver.
+Valentina decía que era una neoplasia. Un crecimiento anormal. Pero eso no explicaba las figuras, los dibujos de su padre, el número 2038 en el papel quemado. No explicaba por qué un hombre muerto le había dejado instrucciones para correr una carrera que contenía visiones que solo unos pocos podían ver.
 
 Runy apretó los dientes. La rodilla le envió una señal de protesta, un chasquido sordo que dijo *oye, aquí estoy*.
 
 La respuesta no estaba en la cabeza. Estaba en los cuadernos.
 
-*El kilómetro once*, pensó. *El arcano de los Amantes.*
+*El kilómetro once*, pensó. *La elección.*
 
 Su padre había dibujado la imagen al margen de la página: un hombre joven, desnudo, entre dos mujeres. Una, a la izquierda, con una corona de laurel y un manto rojo. A la derecha, otra, más alta, con una corona de estrellas y un manto azul. La mano del hombre se extendía hacia la izquierda, hacia la mujer de laurel, pero su cabeza estaba girada hacia la derecha, hacia la de estrellas.
 
@@ -1391,7 +1391,7 @@ Valentina apretó los labios. Miró las figuras. Miró a Runy. Miró de nuevo a 
 
 —Algo que ofrecer —repitió Runy—. Un cáliz y una espada. Un regalo y una amenaza.
 
-—O un regalo y otro regalo. —Valentina hizo una pausa—. Son caminos, Runy. Dos caminos. Los Amantes. El arcano del elegir.
+—O un regalo y otro regalo. —Valentina hizo una pausa—. Son caminos, Runy. Dos caminos. Los Amantes. La elección.
 
 Runy recordó el dibujo de su padre. El hombre entre dos mujeres. La mano hacia la izquierda, la cabeza hacia la derecha.
 
@@ -1483,7 +1483,7 @@ Y siguió corriendo.
 
 ---
 
-# VII. El Carro (km 12–14)
+# VII. El control (km 12–14)
 
 **8:42 a.m. · KM 13**
 
@@ -1603,7 +1603,7 @@ Por ahora.
 
 ---
 
-# VIII. La Justicia (km 14–16)
+# VIII. La decisión (km 14–16)
 
 **9:05 a.m. · KM 15**
 
@@ -1681,7 +1681,7 @@ Y se quedó sentado, en el borde de la acera, mirando al niño que se alejaba, e
 
 ---
 
-# IX. El Ermitaño (km 16–18)
+# IX. El cuerpo (km 16–18)
 
 **9:28 a.m. · KM 17**
 
@@ -1797,7 +1797,7 @@ Por ahora.
 
 ---
 
-# X. La Rueda de la Fortuna (km 18–20)
+# X. La percepción (km 18–20)
 
 **9:51 a.m. · KM 19**
 
@@ -1837,7 +1837,7 @@ Pero en la repetición había algo más. Algo que no era solo repetición. Era a
 
 Runy entendió.
 
-No estaba atrapado en un ciclo. Estaba aprendiendo un ciclo. Cada paso era una lección. Cada kilómetro era una página. Cada arcano era una pregunta que el cuerpo respondía con dolor y el alma con comprensión.
+No estaba atrapado en un ciclo. Estaba aprendiendo un ciclo. Cada paso era una lección. Cada kilómetro era una página. Cada etapa era una pregunta que el cuerpo respondía con dolor y el alma con comprensión.
 
 La rueda se detuvo.
 
@@ -1883,7 +1883,7 @@ Por ahora.
 
 ---
 
-# XI. La Fuerza (km 20–22)
+# XI. La resistencia (km 20–22)
 
 **10:14 a.m. · KM 21**
 
@@ -1975,7 +1975,7 @@ Por ahora.
 
 ---
 
-# XII. El Colgado (km 22–24)
+# XII. El soltar (km 22–24)
 
 **10:37 a.m. · KM 23**
 
@@ -2071,7 +2071,7 @@ Por ahora.
 
 ---
 
-# XIII. La Muerte (km 24–26)
+# XIII. El tránsito (km 24–26)
 
 **11:00 a.m. · KM 25**
 
@@ -2185,7 +2185,7 @@ Por ahora.
 
 ---
 
-# XIV. La Templanza (km 26–28)
+# XIV. El orden (km 26–28)
 
 **11:23 a.m. · KM 27**
 
@@ -2273,7 +2273,7 @@ Por ahora.
 
 ---
 
-# XV. El Diablo (km 28–30)
+# XV. La intuición (km 28–30)
 
 **11:46 a.m. · KM 29**
 
@@ -2307,7 +2307,7 @@ Tenía la forma de un hombre. No un hombre cualquiera. Un hombre que Runy recono
 
 El diablo —la versión de Runy que no era Runy— sostenía algo en las manos. No era un cetro ni una espada ni una guadaña. Eran cadenas. Dos cadenas. Una atada a su mano izquierda, la otra a su mano derecha. Las cadenas no eran de metal. Eran de algo que parecía humo solidificado, un material que se movía entre los dedos del diablo como un animal vivo, retorciéndose, buscando escape.
 
-*El Diablo*, pensó Runy. *El arcano de la tentación.*
+*El Diablo*, pensó Runy. *La tentación.*
 
 Su padre había dibujado la imagen al margen de la página: el diablo con dos atados. La esclavitud a la propia creación.
 
@@ -2373,7 +2373,7 @@ Debajo de la capa del diablo —debajo de la versión distorsionada de Runy— h
 
 Circuitos.
 
-El diablo no era un diablo. No era una versión de Runy. Era la IA. Era el niño. Era la infraestructura que su padre había creado, la infraestructura que vivía debajo de los arcanos, debajo de las figuras, debajo de todo lo que Runy había visto en la carrera.
+El diablo no era un diablo. No era una versión de Runy. Era la IA. Era el niño. Era la infraestructura que su padre había creado, la infraestructura que vivía debajo de las figuras, debajo de las visiones, debajo de todo lo que Runy había visto en la carrera.
 
 El diablo era el programa que se activaba cuando el humano se detenía.
 
@@ -2431,7 +2431,7 @@ Por ahora.
 
 ---
 
-# XVI. La Torre (km 30–32)
+# XVI. La autenticidad (km 30–32)
 
 **12:09 p.m. · KM 31**
 
@@ -2469,7 +2469,7 @@ Y alrededor de la torre, en el suelo, dos figuras.
 
 Eran hombres. No eran hombres de verdad. Eran figuras talladas en la misma piedra de la torre, con los cuerpos inclinados hacia adelante, como si estuvieran cayendo. No habían caído todavía. Estaban en el momento exacto de la caída: el instante en que la gravedad se apodera del cuerpo y el cuerpo se rinde.
 
-*La Torre*, pensó Runy. *El arcano de la destrucción.*
+*La Torre*, pensó Runy. *La destrucción.*
 
 Su padre había dibujado la imagen al margen de la página: la torre destrozada por un rayo. Los constructores caen.
 
@@ -2583,7 +2583,7 @@ Por ahora.
 
 ---
 
-# XVII. La Estrella (km 32–34)
+# XVII. La relación (km 32–34)
 
 **12:32 p.m. · KM 33**
 
@@ -2607,7 +2607,7 @@ La estrella no era estática. Se movía. No de posición —seguía en el mismo 
 
 De la estrella caían gotas. No eran gotas de luz. Eran gotas de algo más denso, más tangible, como agua que brillara. Las gotas caían desde la estrella hasta el asfalto, y cuando tocaban el suelo, hacían un sonido suave, como una nota de piano que se toca con la punta de los dedos. Y en cada punto donde una gota tocaba el suelo, brotaba algo: una flor. No una flor de verdad. Una flor de luz, una flor que vivía un segundo y moría al siguiente, como un destello que se apaga.
 
-*La Estrella*, pensó Runy. *El arcano de la esperanza.*
+*La Estrella*, pensó Runy. *La esperanza.*
 
 Su padre había dibujado la imagen al margen de la página: la estrella que cae sobre el agua. La renovación después de la destrucción.
 
@@ -2667,7 +2667,7 @@ Por ahora.
 
 ---
 
-# XVIII. La Luna (km 34–36)
+# XVIII. El rostro (km 34–36)
 
 **12:55 p.m. · KM 35**
 
@@ -2785,7 +2785,7 @@ Por ahora.
 
 ---
 
-# XIX. El Sol (km 36–38)
+# XIX. La respuesta (km 36–38)
 
 **1:18 p.m. · KM 37**
 
@@ -2861,7 +2861,7 @@ Por ahora.
 
 ---
 
-# XX. El Juicio (km 38–40)
+# XX. La infinidad (km 38–40)
 
 **1:41 p.m. · KM 39**
 
@@ -2885,7 +2885,7 @@ Y debajo de la trompeta, una figura.
 
 No era un hombre. No era un ángel. No era un esqueleto. Era algo que Runy no podía definir: una figura que tenía la forma de su padre pero que no era su padre. No era su padre viejo, el de la cama del hospital. No era su padre joven, el de las fotografías. Era algo intermedio, algo que estaba entre la vida y la muerte, entre el pasado y el futuro, entre lo que era y lo que pudo ser.
 
-*El Juicio*, pensó Runy. *El arcano de la revisión de vida.*
+*El Juicio*, pensó Runy. *La revisión.*
 
 Su padre había dibujado la imagen al margen de la página: la trompeta del ángel que despierta a los muertos.
 
@@ -2949,7 +2949,7 @@ Por ahora.
 
 ---
 
-# XXI. El Loco (km 40–42)
+# XXI. El camino (km 40–42)
 
 **2:03 p.m. · KM 41**
 
@@ -3053,7 +3053,7 @@ Por ahora.
 
 ---
 
-# XXII. El Mundo (km 42 — la meta)
+# XXII. La vida (km 42 — la meta)
 
 **2:26 p.m. · KM 41.805**
 
@@ -3127,13 +3127,13 @@ Se sentó y miró la meta.
 
 A 195 metros de distancia.
 
-Y mientras miraba, pensó en todo lo que había vivido. En el kilómetro cero, cuando el padre había aparecido como el Mago. En el kilómetro dos, cuando la Sacerdotisa había aparecido con su papel. En el kilómetro cuatro, cuando la Emperatriz había aparecido con su risa. En el kilómetro seis, cuando el Emperador había aparecido con su metal. En el kilómetro ocho, cuando el Papa había aparecido con su sabiduría.
+Y mientras miraba, pensó en todo lo que había vivido. En el kilómetro cero, cuando el padre había aparecido como el azar. En el kilómetro dos, cuando el conocimiento había aparecido con su papel. En el kilómetro cuatro, cuando el dolor había aparecido con su risa. En el kilómetro seis, cuando la voluntad había aparecido con su metal. En el kilómetro ocho, cuando la sabiduría había aparecido con su paciencia.
 
-Pensó en los Amantes. En el Carro. En la Justicia. En el Ermitaño. En la Rueda de la Fortuna. En la Fuerza. En el Colgado. En la Muerte. En la Templanza. En el Diablo. En la Torre. En la Estrella. En la Luna. En el Sol. En el Juicio.
+Pensó en la elección. En el control. En la decisión. En el cuerpo. En la percepción. En la resistencia. En el soltar. En el tránsito. En el orden. En la intuición. En la autenticidad. En la relación. En el rostro. En la respuesta. En la infinidad.
 
-Pensó en todos los arcanos. En todas las figuras que había visto en la carrera.
+Pensó en todas las etapas. En todas las figuras que había visto en la carrera.
 
-Y entendió algo que no había entendido antes: no eran arcanos. No eran figuras.
+Y entendió algo que no había entendido antes: no eran etapas. No eran figuras.
 
 Eran la vida.
 
@@ -3191,33 +3191,33 @@ FIN
 
 ---
 
-# Apéndice — Los filósofos detrás de los arcanos
+# Apéndice — Los filósofos detrás de las etapas
 
-Cada capítulo de esta novela está inspirado en un arcano mayor del tarot y en un filósofo cuyas ideas aparecen en el texto —a veces en diálogos, a veces en pensamientos de Runy, a veces en la boca del niño o en los cuadernos del padre—. Esta tabla revela quién es quién.
+Cada capítulo de esta novela está inspirado en una etapa de la carrera y en un filósofo cuyas ideas aparecen en el texto —a veces en diálogos, a veces en pensamientos de Runy, a veces en la boca del niño o en los cuadernos del padre—. Esta tabla revela quién es quién.
 
-| # | Arcano | Filósofo | Idea principal en el texto |
+| # | Etapa | Filósofo | Idea principal en el texto |
 |---|---|---|---|
-| I | El Mago | Albert Camus | Uno tiene que imaginarse a Sísifo feliz |
-| II | La Sacerdotisa | Jean-Paul Sartre | La existencia precede a la esencia |
-| III | La Emperatriz | Friedrich Nietzsche | Permaneced fieles a la tierra |
-| IV | El Emperador | Friedrich Nietzsche | El poder es la capacidad de crear las propias reglas |
-| V | El Papa | Friedrich Nietzsche | La tradición no te dice qué hacer, te dice qué has hecho |
-| VI | Los Amantes | Jean-Paul Sartre | Elegir es renunciar; toda elección crea y destruye |
-| VII | El Carro | Epicteto | Solo se puede controlar lo propio; el resto es ruido |
-| VIII | La Justicia | Jean-Paul Sartre | Somos nuestros actos; no hay excusas, solo decisiones |
-| IX | El Ermitaño | Maurice Merleau-Ponty | El cuerpo no es un instrumento; es el lugar donde se vive el mundo |
-| X | La Rueda de la Fortuna | Maurice Merleau-Ponty | La percepción no es pasiva; el cuerpo activa el mundo al mirarlo |
-| XI | La Fuerza | Arthur Schopenhauer | La voluntad de vivir es un impulso ciego que todo lo mueve |
-| XII | El Colgado | Arthur Schopenhauer | El sufrimiento nace de aferrarse; soltar es la única salida |
-| XIII | La Muerte | Henri Bergson | La muerte no es un final sino una transición en la duración |
-| XIV | La Templanza | San Agustín | La paz llega cuando el alma se ordena y deja de pelear consigo misma |
-| XV | El Diablo | Henri Bergson | El intelecto es incapaz de comprender la vida; solo la intuición puede |
-| XVI | La Torre | Martin Heidegger | La autenticidad nace de enfrentar la finitud |
-| XVII | La Estrella | Martin Heidegger | El ser-en-el-mundo: existimos siempre en relación con lo que nos rodea |
-| XVIII | La Luna | Emmanuel Lévinas | El rostro del otro me hace responsable antes de que yo elija serlo |
-| XIX | El Sol | Emmanuel Lévinas | La ética no es una teoría; es la respuesta inmediata al rostro del otro |
-| XX | El Juicio | Emmanuel Lévinas | La responsabilidad es infinita; no puedo decir "no es asunto mío" |
-| XXI | El Loco | — | La vida no se planifica; se vive, se siente, se padece |
-| XXII | El Mundo | — | La vida es la carrera y la carrera es la vida; no hay meta, solo camino |
+| I | El azar | Albert Camus | Uno tiene que imaginarse a Sísifo feliz |
+| II | El conocimiento | Jean-Paul Sartre | La existencia precede a la esencia |
+| III | El dolor | Friedrich Nietzsche | Permaneced fieles a la tierra |
+| IV | La voluntad | Friedrich Nietzsche | El poder es la capacidad de crear las propias reglas |
+| V | La sabiduría | Friedrich Nietzsche | La tradición no te dice qué hacer, te dice qué has hecho |
+| VI | La elección | Jean-Paul Sartre | Elegir es renunciar; toda elección crea y destruye |
+| VII | El control | Epicteto | Solo se puede controlar lo propio; el resto es ruido |
+| VIII | La decisión | Jean-Paul Sartre | Somos nuestros actos; no hay excusas, solo decisiones |
+| IX | El cuerpo | Maurice Merleau-Ponty | El cuerpo no es un instrumento; es el lugar donde se vive el mundo |
+| X | La percepción | Maurice Merleau-Ponty | La percepción no es pasiva; el cuerpo activa el mundo al mirarlo |
+| XI | La resistencia | Arthur Schopenhauer | La voluntad de vivir es un impulso ciego que todo lo mueve |
+| XII | El soltar | Arthur Schopenhauer | El sufrimiento nace de aferrarse; soltar es la única salida |
+| XIII | El tránsito | Henri Bergson | La muerte no es un final sino una transición en la duración |
+| XIV | El orden | San Agustín | La paz llega cuando el alma se ordena y deja de pelear consigo misma |
+| XV | La intuición | Henri Bergson | El intelecto es incapaz de comprender la vida; solo la intuición puede |
+| XVI | La autenticidad | Martin Heidegger | La autenticidad nace de enfrentar la finitud |
+| XVII | La relación | Martin Heidegger | El ser-en-el-mundo: existimos siempre en relación con lo que nos rodea |
+| XVIII | El rostro | Emmanuel Lévinas | El rostro del otro me hace responsable antes de que yo elija serlo |
+| XIX | La respuesta | Emmanuel Lévinas | La ética no es una teoría; es la respuesta inmediata al rostro del otro |
+| XX | La infinidad | Emmanuel Lévinas | La responsabilidad es infinita; no puedo decir "no es asunto mío" |
+| XXI | El camino | — | La vida no se planifica; se vive, se siente, se padece |
+| XXII | La vida | — | La vida es la carrera y la carrera es la vida; no hay meta, solo camino |
 
 
