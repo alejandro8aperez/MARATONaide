@@ -10,7 +10,7 @@ Runy se inscribió en la maratón de Medellín. Cada kilómetro encuentra una et
 
 ---
 
-## Versión actual: 4.0
+## Versión actual: 5.0
 
 | # | Km | Etapa | Idea principal |
 |---|---|---|---|
@@ -41,7 +41,7 @@ Runy se inscribió en la maratón de Medellín. Cada kilómetro encuentra una et
 
 ---
 
-## Cambios en 4.0
+## Cambios en 5.0
 
 - **Sin nombres de filósofos en el texto.** Los filósofos aparecen solo en la tabla al final del libro. Las ideas fluyen de forma natural en los diálogos y pensamientos.
 - **La IA aparece desde el capítulo I.** El niño corre con Runy desde el kilómetro cero. Los cuadernos contienen código, no solo reflexiones.
@@ -55,7 +55,7 @@ Runy se inscribió en la maratón de Medellín. Cada kilómetro encuentra una et
 
 | Archivo | Contenido |
 |---|---|
-| `MARATONaide-4.0.md` | Novela completa (versión actual) |
+| `MARATONaide-5.0.md` | Novela completa (versión actual) |
 | `MARATONaide-3.0.md` | Versión anterior |
 | `index.html` | Versión web |
 

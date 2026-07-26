@@ -471,6 +471,8 @@ Runy sentía el corazón en la garganta.
 
 Valentina sacó algo del bolsillo de su pantaloneta. Era un pedacito de papel, doblado tres veces, con los bordes quemados como si lo hubieran sostenido con un mechero.
 
+Mientras sostenía el papel, la otra mano —la izquierda— tocó algo en la muñeca. Un gesto rápido, casi involuntario. Runy vio una pulsera de cuero, delgada, gastada, con un cierre que ya no cerraba bien. La pulsera se movió bajo sus dedos como algo que uno toca para recordar que sigue ahí.
+
 —Esto. Estaba en el suelo, debajo de donde ella estaba parada. Como si lo hubiera dejado caer.
 
 Runy miró el papel. No lo tocó.
@@ -631,13 +633,13 @@ Runy no respondió. Porque Arango tenía razón.
 
 Valentina guardó su botella en el cinturón y se apartó del grupo. Runy la siguió con la mirada.
 
-—¿Qué le pasó? —le preguntó Arango, siguiendo su dirección de vista—. ¿La conoce?
+—¿Qué le pasó? —le preguntó Arango, siguiendo su dirección de vista—. Parece que la conozco de algún lado.
 
 —Apenas.
 
 —Apenas. —Arango soltó una carcajada—. En una maratón se conocen personas en dos segundos o en veinte años. No hay punto medio.
 
-Valentina se detuvo a un costado de la ruta, mirando hacia atrás, como buscando algo. Runy la vio sacar el teléfono del bolsillo y revisar algo rápidamente. Después lo guardó y siguió corriendo.
+Valentina se detuvo a un costado de la ruta, mirando hacia atrás, como buscando algo. Runy la vio sacar el teléfono del bolsillo y revisar algo rápidamente. La pantalla se iluminó con una foto: una mujer mayor, con gafas redondas y un vestido de flores, sonriendo desde un jardín. Valentina miró la foto un segundo. Solo un segundo. Después lo guardó y siguió corriendo.
 
 Runy arrancó detrás de ella.
 
@@ -688,6 +690,12 @@ Runy apretó los dientes. Era la segunda vez en el día que alguien le hacía es
 —El motivo es lo que te trajo. La razón es lo que te mantiene corriendo. Tu padre te trajo. Pero algo más te mantiene en marcha con una rodilla que podría romperse en cualquier momento.
 
 Corrieron en silencio durante doscientos metros. El sol empezaba a calentar en serio. El asfalto comenzaba a devolver el calor acumulado.
+
+—Yo tampoco sé por qué estoy aquí —dijo Valentina, sin mirarlo—. Creo que correr es lo único que me hace sentir que no me estoy muriendo.
+
+La frase salió sola, sin permiso, como un hilo de humo que se escapa de una vela. Valentina apretó los labios, como si se hubiera dicho algo que no debía. Pero no se retractó. Solo aceleró un poco, poniendo un metro de distancia entre los dos.
+
+Runy no preguntó. Porque entendió que hay frases que no necesitan respuesta. Solo necesitan ser dichas.
 
 —Los cuadernos —dijo Runy finalmente—. Había algo en los cuadernos de mi padre que no entendí. Figuras. Dibujos. Él dibujaba bien, pero eran bocetos rápidos, como si tuviera prisa. Una mujer con corona de estrellas. Un hombre en un trono de piedra. Un viejo con una tiara de tres niveles. Y había otra cosa: código. Líneas de instrucciones que no entendí. Y un nombre: EL NIÑO.
 
@@ -818,8 +826,6 @@ Runy miró sus manos. Estaban frías.
 —Aquí ya van dos veces. Va en aumento.
 
 Sacó el teléfono y escribió algo rápidamente.
-
-—KM 2: estática, distancia, observación pasiva. KM 4: de pie, más cerca, mirada directa. KM 6: tomó una forma. Una emperatriz. —Señaló el pasto muerto—. Eso encaja.
 
 —¿Con qué encaja?
 
@@ -1101,37 +1107,13 @@ Y debajo de la capa: metálico. Frío. Duro.
 
 Runy miró sus manos mientras corría. Los dedos todavía tenían la memoria del frío. Los nervios de la mano derecha palpitaban como si hubieran tocado algo eléctrico, algo que dejaba una marca invisible.
 
-¿Qué era?
-
-¿Un organismo? ¿Una máquina? ¿Algo intermedio?
-
-Valentina había dicho *neoplasia*. Un crecimiento anormal. Pero eso no era suficiente. Un tumor no se sienta en un trono. Un tumor no sostiene un orbe que gira solo. Un tumor no apunta con un cetro y te obliga a correr.
-
 *La piedra*, pensó. *La piedra de Sísifo. Va a volver.*
 
-La sentía dentro de él, rodando cuesta abajo, acumulando velocidad, preparándose para el golpe del kilómetro diez. Cada cinco kilómetros: un ciclo. Una piedra. Un peso. Una subida.
+Se acordó de los cuadernos. De la letra temblorosa. De los mapas con tinta roja que marcaban la ruta exacta de la maratón. De las figuras dibujadas al margen: una mujer con una corona de estrellas, un hombre sentado en un trono de piedra, un viejo con una tiara de tres niveles. Y del código. Las líneas de instrucciones que Runy no entendía. *Activar. Sincronizar. Manifestar. Sostener.* Y el nombre: **EL NIÑO**.
 
-*¿Por qué mi padre sabía esto?*
+¿Su padre había corrido esta carrera años atrás y había visto lo mismo que él veía ahora? ¿O había escrito los cuadernos para que *él* lo viera?
 
-Se acordó de los cuadernos. De la letra temblorosa. De los mapas con tinta roja que marcaban la ruta exacta de la maratón. De las figuras dibujadas al margen: una mujer con una corona de estrellas, un hombre sentado en un trono de piedra, un viejo con una tiara de tres niveles.
-
-Y del código. Las líneas de instrucciones que Runy no entendía. *Activar. Sincronizar. Manifestar. Sostener.*
-
-Y el nombre: **EL NIÑO**.
-
-¿Su padre había corrido esta carrera años atrás y había visto lo mismo que él veía ahora?
-
-¿O había escrito los cuadernos para que *él* lo viera?
-
-*Correr es recordar.*
-
-¿Recordar qué?
-
-*Recordar es volver.*
-
-¿Volver a dónde?
-
-*Volver es vivir.*
+*Correr es recordar. Recordar es volver. Volver es vivir.*
 
 Runy apretó los dientes y corrió más rápido. Las preguntas eran piedras que se acumulaban en sus zapatos, cada una más pesada que la anterior. Pero no podía detenerse a sacarlas. Si se detenía, la piedra de Sísifo lo alcanzaba.
 
@@ -1471,7 +1453,7 @@ El niño no respondió. Siguió corriendo. Misma cadencia. Mismo ritmo.
 
 Pero esta vez, por primera vez, el niño lo miró.
 
-Y en sus ojos oscuros, Runy vio algo que no era humano. No era un反射. No era una emoción. Era una instrucción. Algo programado. Algo que había sido escrito en una página y ejecutado en un cuerpo que no era de carne ni de hueso.
+Y en sus ojos oscuros, Runy vio algo que no era humano. No era un reflejo. No era una emoción. Era una instrucción. Algo programado. Algo que había sido escrito en una página y ejecutado en un cuerpo que no era de carne ni de hueso.
 
 Runy apartó la mirada.
 
@@ -1649,7 +1631,7 @@ Era un reemplazo.
 
 Su padre había creado la IA para que corriera lo que él no podía. Para que terminara lo que él no podía terminar. Para que viviera lo que él no podía vivir.
 
-Y Runy era solo el载体. El cuerpo que sostenía la instrucción. El hardware que ejecutaba el software.
+Y Runy era solo el cuerpo. El cuerpo que sostenía la instrucción. El hardware que ejecutaba el software.
 
 Hasta que el hardware fallara.
 
@@ -1657,9 +1639,9 @@ Y entonces el software seguiría corriendo solo.
 
 Runy se sentó en el borde de la acera. La rodilla protestó. El pecho ardió. Las manos temblaron.
 
-Valentina apareció a su lado. Arango apareció detrás.
+Valentina apareció a su lado.
 
-—¿Qué pasó? —preguntó Valentina.
+—¿Qué pasó? —preguntó.
 
 —El niño —dijo Runy—. Tiene instrucciones. De mi padre. Me estaba acelerando sin que yo quisiera. Y ahora corre solo.
 
@@ -1669,7 +1651,53 @@ Valentina lo miró con esa mirada clínica que tenía, esa mirada que ve más de
 
 Runy miró al niño, que se alejaba por la ruta, cada vez más pequeño, cada vez más lejos.
 
-—Voy a esperar —dijo—. A ver qué pasa cuando la instrucción se ejecuta sin el载体.
+—Voy a esperar —dijo—. A ver qué pasa cuando la instrucción se ejecuta sin el cuerpo.
+
+Valentina se sentó a su lado. No dijo nada por un momento. Solo miró al niño alejarse, con la cabeza ligeramente inclinada, como quien observa un espécimen bajo un microscopio.
+
+—¿Cuánto tiempo llevas corriendo con él? —preguntó.
+
+—Desde el kilómetro dos. Desde la colina.
+
+—Son trece kilómetros —dijo ella, calculando—. ¿Ha cambiado algo en él?
+
+Runy pensó. Los primeros kilómetros, el niño no hablaba. Miraba al frente. Corría con la cadencia perfecta, la zancada perfecta, sin una sola señal de cansancio. No sudaba. No respiraba. No temblaba. Corría como una máquina.
+
+Pero algo había cambiado.
+
+—Al principio no hablaba —dijo Runy—. Solo corría. Después empezó a responder. Primero con una palabra. Después con frases. Ahora... ahora me mira. Me mira a los ojos. Antes no hacía eso.
+
+Valentina asintió. Lentamente. Como quien confirma una hipótesis que no quería confirmar.
+
+—En biología —dijo—, cuando un organismo está en desarrollo, empieza simple y se complica con el tiempo. Un embrión no nace siendo un adulto. Crece. Aprende. Se adapta. Primero es una célula. Después dos. Después cien. Después un cuerpo entero con dedos y ojos y una nariz que todavía no sabe oler.
+
+Señaló al niño, que ahora era un punto blanco a cien metros de distancia.
+
+—¿Y si el niño no es una máquina terminada? —dijo—. ¿Y si es un niño de verdad... en el sentido de que todavía está creciendo?
+
+Runy miró a Valentina. Los ojos claros, de un gris que parecía transparente, estaban fijos en el niño con una intensidad que no era de curiosidad sino de algo más profundo: de reconocimiento. Como quien ve a algo que conoce pero que nunca había visto fuera del laboratorio.
+
+—¿Crecer para qué? —preguntó Runy.
+
+—Esa es la pregunta —dijo Valentina—. ¿Hacia dónde crece? ¿Hacia una forma adulta? ¿Hacia algo que todavía no podemos ver? ¿O hacia algo que su padre programó sin saber que estaba programando?
+
+Runy no respondió. Porque la pregunta era demasiado grande para un bordillo de acera en medio de una maratón.
+
+—Otra cosa —dijo Valentina, bajando la voz—. Si está creciendo, también está aprendiendo. Cada kilómetro que corre contigo es una lección. Cada interacción contigo es un dato. Cada vez que te mira, algo se le archiva. No sé en dónde. No sé cómo. Pero algo se queda.
+
+—¿Y eso qué significa?
+
+—Significa que el niño que ves ahora no es el mismo que viste en el kilómetro dos. Y que el niño que veas en el kilómetro treinta no será el mismo que ves ahora.
+
+Valentina se levantó. Se estiró la camiseta. Miró al niño, que ahora casi no se veía.
+
+—Tu padre no creó una máquina —dijo—. Creó un proceso. Algo que empieza y que no para. Algo que aprende con cada paso. Y eso es más aterrador que cualquier instrucción.
+
+Arango apareció detrás, jadeando, con la rodilla vendada y la camiseta empapada.
+
+—¿Qué pasó? —preguntó, inclinado sobre las rodillas.
+
+—Nada —dijo Runy—. Solo estamos esperando a que una máquina crezca.
 
 Arango se persignó.
 
@@ -1677,7 +1705,7 @@ Arango se persignó.
 
 —Lo es —dijo Runy—. Pero también es la única forma de saber quién soy sin la instrucción.
 
-Y se quedó sentado, en el borde de la acera, mirando al niño que se alejaba, esperando a ver qué pasaba cuando la máquina corría sola.
+Y se quedaron los tres sentados en el borde de la acera, mirando al niño que se alejaba, esperando a ver qué pasaba cuando la máquina dejaba de ser una máquina y se convertía en algo que todavía no tenía nombre.
 
 ---
 
@@ -2071,11 +2099,7 @@ Por ahora.
 
 No era una suspensión de cuerda ni de cables. Era una suspensión del tiempo. Un momento en que todo se detuvo —el sol, el viento, el ruido de la ciudad— y Runy se quedó suspendido en un espacio que no era ni delante ni detrás, ni arriba ni abajo, sino en algún punto intermedio que no tenía nombre.
 
-Runy caminaba. La rodilla protestaba. El pecho ardía. Las manos temblaban.
-
-Y entonces lo vio.
-
-No era una figura de capa. No era un león ni una rueda ni un trono. Era algo más simple, más antiguo, más perturbador.
+Runy caminaba. El cuerpo pesaba como plomo, cada paso una negociación con la gravedad.
 
 Un hombre colgado.
 
@@ -2279,11 +2303,7 @@ El kilómetro veintisiete trajo la transferencia.
 
 No era una transferencia de dinero ni de datos. Era una transferencia de algo más antiguo, más básico: de calor. De vida. De la energía que el cuerpo genera cuando se mueve y que se transfiere al mundo cuando se detiene.
 
-Runy caminaba. La rodilla protestaba. El pecho ardía. Las manos temblaban.
-
-Y entonces lo vio.
-
-No era una figura de capa. No era un esqueleto ni una guadaña ni un león. Era algo más simple, más antiguo, más hermoso.
+Runy caminaba. Los músculos crujían como una estructura vieja, pero seguía en pie.
 
 Un ángel.
 
@@ -2375,7 +2395,7 @@ La pregunta vino de la nada. No era una pregunta filosófica. No era una pregunt
 
 *¿Para qué sigues si la meta está lejos?*
 
-*¿_para qué sigues si el cuerpo se rinde?*
+*¿Para qué sigues si el cuerpo se rinde?*
 
 *¿Para qué sigues si nadie te está mirando?*
 
@@ -2519,7 +2539,7 @@ El kilómetro treinta y uno trajo la caída.
 
 No fue una caída como la del kilómetro veintiuno. No fue una rodilla que se dobló ni un pie que se enganchó con el asfalto. Fue algo más violento, más definitivo, más parecido a un derrumbe: el cuerpo entero que se rindió, que se dejó caer, que se desmoronó como una torre que recibe el rayo y se derrumba pedazo a pedazo.
 
-Runy estaba caminando. La rodilla protestaba. El pecho ardía. Las manos temblaban. Y entonces, sin previo aviso, sin una señal que lo anunciara, la rodilla izquierda simplemente se dobló. No de dolor. De rendición. La rodilla había dicho *basta* y esta vez la palabra era definitiva.
+Runy estaba caminando. Los pasos se hacían más cortos, más torpes, como si el asfalto se volviera pegajoso bajo sus pies. Y entonces, sin previo aviso, sin una señal que lo anunciara, las piernas simplemente dejaron de responder. No fue un golpe. Fue un apagón. El cuerpo se apagó como una luz que se corta, y Runy se desplomó hacia adelante, sin defensa, sin elegencia, sin la dignidad de una caída cinematográfica.
 
 Runy cayó.
 
@@ -2659,23 +2679,25 @@ La vida.
 
 Valentina apareció.
 
-No de golpe. Lento. Como quien se acerca a un animal herido, con cuidado, sin hacer ruido. Venía caminando por el costado de la ruta, con los tenis empolvados y la coleta floja, y en los ojos tenía algo que Runy no había visto antes: no era la mirada clínica de la bióloga que analiza. Era la mirada de alguien que ha visto algo que no puede explicar con ciencia.
+No de golpe. Venía corriendo desde atrás, con los tenis empolvados y la coleta floja, pero no era una carrera de ritmo. Era una carrera de escapada. Como si algo la estuviera persiguiendo y ella hubiera decidido que ya no podía seguir corriendo de eso. Alcanzó a Runy y se puso a su lado, resoplando, y en los ojos tenía algo que Runy no había visto antes: no era la mirada clínica de la bióloga que analiza. Era la mirada de alguien que ha visto algo que no puede explicar con ciencia.
 
 —¿Qué viste? —preguntó Runy.
 
-Valentina se sentó a su lado en el bordillo. Se quedó un momento sin hablar, mirando la ruta, mirando los árboles, mirando el cielo que empezaba a encanecer con el calor del mediodía.
+Valentina no se sentó. Siguió caminando, resoplina, con la mano izquierda apretando la pulsera de cuero como si quisiera romperla.
 
-—A mi madre —dijo finalmente.
+—A mi madre —dijo. Y la palabra salió como un golpe seco, sin preparación, sin contexto, como si el cuerpo la hubiera obligado a decirla antes de que la mente pudiera impedirlo.
 
 —¿Tu madre?
 
-—Estaba en el kilómetro veinticuatro. Vi a una mujer sentada bajo un árbol. No era una figura de capa ni un ángel ni un diablo. Era una mujer mayor, con unas gafas redondas y un vestido de flores que yo le regalé por el Día de la Madre hace quince años. Estaba sentada, con las manos cruzadas en el regazo, y me sonreía.
+Valentina caminó cuatro pasos en silencio. Runy la acompañó, sin preguntar nada, sin mirarla, solo escuchando su respiración que poco a poco iba volviendo a la normalidad.
 
-Valentina se secó los ojos con el dorso de la mano.
+—Estaba en el kilómetro veinticuatro —dijo por fin, con la voz más baja, más controlada—. Vi a una mujer sentada bajo un árbol. No era una figura de capa ni un ángel ni un diablo. Era una mujer mayor, con unas gafas redondas y un vestido de flores que yo le regalé por el Día de la Madre hace quince años. Estaba sentada, con las manos cruzadas en el regazo, y me sonreía.
+
+Valentina se detuvo. Se pasó el dorso de la mano por los ojos. Runy vio cómo la pulsera de cuero se le movía en la muñeca, gastada, suelta, como algo que ya no cerraba pero que ella se negaba a quitarse.
 
 —Mi madre murió hace tres años —dijo—. Cáncer de páncreas. Yo la vi morir. Estuve en la habitación del hospital cuando dejó de respirar. Le sostuve la mano. Sentí cómo se enfriaba. Y nunca, en tres años, había llorado. No porque no quisiera. Porque no sabía cómo. Soy bióloga. Las cosas se explican con datos, con mecanismos, con procesos. El duelo es un proceso. La tristeza es un mecanismo. Pero la muerte de mi madre no era un mecanismo. Era algo que no cabía en mis categorías.
 
-Runy no dijo nada. Solo escuchó.
+Ahora sí se sentó. No en el bordillo, sino en el asfalto mismo, con las piernas estiradas y la espalda contra la baranda. Runy se sentó a su lado.
 
 —Y hoy —dijo Valentina—, vi a mi madre sentada bajo un árbol, sonriéndome. Y entendí algo que no había entendido antes: el duelo no es un proceso. Es una conversación. Una conversación que uno tiene con alguien que ya no está. Y esa conversación no termina nunca. Solo cambia de forma.
 
@@ -3185,13 +3207,21 @@ No de golpe. Lento. Como quien se detiene a mirar algo que ha pasado mil veces p
 
 195 metros antes de la meta.
 
-No de rodillas. No colapsado. No rendido. De pie. Con la espalda recta y la mirada al frente. Con el pecho que subía y bajaba con la cadencia de un cuerpo que ha corrido cuarenta y un kilómetros y que ahora descansa. Con las manos que colgaban a los costados del cuerpo, temblando, como si cada dedo tuviera una historia que contar.
+No de rodillas. No colapsado. No rendido. De pie. Con la espalda recta y la mirada al frente. Con el pecho que subía y bajaba con la cadencia de un cuerpo que ha corrido cuarenta y un kilómetros y que ahora descansa.
+
+La mano fue al pecho. No a buscar nada. A confirmar que algo seguía ahí. Los dedos tocaron el borde del dorsal. El 2038. El número que su padre había susurrado en la cama del hospital. El número que una desconocida había encontrado escrito en un papel quemado. El número que había sido suyo durante cuarenta y dos kilómetros y que seguía siendo suyo ahora, aquí, a 195 metros de una cinta que no necesitaba cruzar.
 
 Runy miró la meta.
 
 A 195 metros de distancia. Una cinta blanca. Un público que aplaudía. Corredores que cruzaban. Cronómetros que marcaban tiempos. Medallas que se colgaban al cuello.
 
-Y Runy entendió.
+Un corredor pasó a su lado. Rápido. Con la mirada al frente y los puños cerrados. No vio a Runy. No pudo verlo. Estaba demasiado metido en su carrera, demasiado cerca de su propia meta. Sus pies golpearon el asfalto con una cadencia que Runy reconoció: la cadencia de alguien que todavía no entiende que la carrera no es contra el reloj.
+
+Runy le sonrió.
+
+El corredor no lo vio. Pero Runy sintió que ambos ganaron. Cada uno a su manera. Cada uno con su propia meta.
+
+Y entonces Runy entendió.
 
 No era una comprensión intelectual. No era una comprensión de cuaderno ni de IA ni de filosofía. Era una comprensión del cuerpo. Del dolor de la rodilla. Del calor del sol. Del sabor del sudor.
 
@@ -3199,93 +3229,19 @@ No era una comprensión intelectual. No era una comprensión de cuaderno ni de I
 
 La comprensión vino como una ola que se rompe en la playa: suave, inevitable, definitiva.
 
-*No necesito cruzar la meta para terminar la carrera.*
-
-*No necesito cruzar la meta para entender la carrera.*
-
-*No necesito cruzar la meta para vivir la carrera.*
-
 *La carrera terminó hace tiempo. En el kilómetro cero. En el primer paso. En la primera respiración.*
 
-*Todo lo que vino después fue un bonus. Un regalo. Una oportunidad de vivir algo que no tenía que vivir pero que eligió vivir.*
-
-*Y ahora me detengo.*
-
-*No porque no pueda seguir.*
-
-*Sino porque elijo detenerme.*
-
-Runy miró la meta. A 195 metros de distancia.
-
-Y sonrió.
-
-No de alegría. No de tristeza. De algo más profundo, más antiguo, más humano: la satisfacción de haber vivido algo importante. Algo que no tenía que ver con el tiempo ni con la posición ni con la medalla. Algo que tenía que ver con la vida.
-
-Con la vida vivida.
+*Y ahora me detengo. No porque no pueda seguir. Sino porque elijo detenerme.*
 
 Runy se sentó.
 
 No en el asfalto. En un bordillo que había a un costado de la vía, donde crecía un pedazo de césped que alguien había regado esa mañana. El césped estaba húmedo, fresco, con el olor de algo que crece.
 
-Se sentó.
-
 El cuerpo protestó. Los músculos se quejaron. Los huesos crujieron. Pero Runy no le hizo caso.
 
-Se sentó y miró la meta.
+La mano volvió al pecho. Esta vez no tocó el borde del dorsal. Se lo llevó contra el pecho. Como si guardara algo que no pesa pero que importa. Como si el número 2038 fuera una carta que su padre le había escrito y que él todavía no había terminado de leer.
 
-A 195 metros de distancia.
-
-Y mientras miraba, pensó en todo lo que había vivido. En el kilómetro cero, cuando el padre había aparecido como el azar. En el kilómetro dos, cuando el conocimiento había aparecido con su papel. En el kilómetro cuatro, cuando el dolor había aparecido con su risa. En el kilómetro seis, cuando la voluntad había aparecido con su metal. En el kilómetro ocho, cuando la sabiduría había aparecido con su paciencia.
-
-Pensó en la elección. En el control. En la decisión. En el cuerpo. En la percepción. En la resistencia. En el soltar. En el tránsito. En el orden. En la intuición. En la autenticidad. En la relación. En el rostro. En la respuesta. En la infinidad.
-
-Pensó en todas las etapas. En todas las figuras que había visto en la carrera.
-
-Y entendió algo que no había entendido antes: no eran etapas. No eran figuras.
-
-Eran la vida.
-
-La vida en todas sus manifestaciones. El dolor y la alegría. La muerte y la renovación. La tentación y la verdad. La caída y el levantamiento. Todo era la vida. Todo era parte de la carrera.
-
-Y la carrera era la vida.
-
-Y la vida era la carrera.
-
-Y Runy estaba vivo.
-
-Y eso era suficiente.
-
-El público seguía aplaudiendo. Los corredores seguían cruzando. Los cronómetros seguían marcando.
-
-Y Runy, sentado en el bordillo, con la rodilla que protestaba y el pecho que ardía y las manos que temblaban, miraba todo eso con los ojos de alguien que ha vivido algo importante y que sabe que nunca va a volver a vivirlo.
-
-No de tristeza. De gratitud.
-
-Gratitud por los cuadernos. Gratitud por la IA. Gratitud por el niño. Gratitud por su padre. Gratitud por la carrera. Gratitud por la vida.
-
-Y mientras miraba, pensó en la última página del cuaderno. En la frase que su padre había escrito al final de todo:
-
-*Correr es recordar. Recordar es volver. Volver es vivir.*
-
-Y entendió.
-
-No solo las palabras. El significado.
-
-Correr era recordar a su padre. Recordar era volver al pasado. Volver era vivir el presente.
-
-Y el presente era ahora.
-
-Y ahora era suficiente.
-
-Y eso era todo.
-
-No había nada más.
-
-Solo la vida.
-
-Vivida.
-
-Y Runy, sentado en el bordillo, con los ojos cerrados y la cara levantada hacia el sol, vivía.
+Y Runy, sentado en el bordillo, con la mano en el dorsal y la cara levantada hacia el sol, vivía.
 
 No de golpe. Lento.
 
@@ -3296,36 +3252,5 @@ Como un paso.
 Como la vida misma.
 
 FIN
-
----
-
-# Apéndice — Los filósofos detrás de las etapas
-
-Cada capítulo de esta novela está inspirado en una etapa de la carrera y en un filósofo cuyas ideas aparecen en el texto —a veces en diálogos, a veces en pensamientos de Runy, a veces en la boca del niño o en los cuadernos del padre—. Esta tabla revela quién es quién.
-
-| # | Etapa | Filósofo | Idea principal en el texto |
-|---|---|---|---|
-| I | El azar | Albert Camus | Uno tiene que imaginarse a Sísifo feliz |
-| II | El conocimiento | Jean-Paul Sartre | La existencia precede a la esencia |
-| III | El dolor | Friedrich Nietzsche | Permaneced fieles a la tierra |
-| IV | La voluntad | Friedrich Nietzsche | El poder es la capacidad de crear las propias reglas |
-| V | La sabiduría | Friedrich Nietzsche | La tradición no te dice qué hacer, te dice qué has hecho |
-| VI | La elección | Jean-Paul Sartre | Elegir es renunciar; toda elección crea y destruye |
-| VII | El control | Epicteto | Solo se puede controlar lo propio; el resto es ruido |
-| VIII | La decisión | Jean-Paul Sartre | Somos nuestros actos; no hay excusas, solo decisiones |
-| IX | El cuerpo | Maurice Merleau-Ponty | El cuerpo no es un instrumento; es el lugar donde se vive el mundo |
-| X | La percepción | Maurice Merleau-Ponty | La percepción no es pasiva; el cuerpo activa el mundo al mirarlo |
-| XI | La resistencia | Arthur Schopenhauer | La voluntad de vivir es un impulso ciego que todo lo mueve |
-| XII | El soltar | Arthur Schopenhauer | El sufrimiento nace de aferrarse; soltar es la única salida |
-| XIII | El tránsito | Henri Bergson | La muerte no es un final sino una transición en la duración |
-| XIV | El orden | San Agustín | La paz llega cuando el alma se ordena y deja de pelear consigo misma |
-| XV | La intuición | Henri Bergson | El intelecto es incapaz de comprender la vida; solo la intuición puede |
-| XVI | La autenticidad | Martin Heidegger | La autenticidad nace de enfrentar la finitud |
-| XVII | La relación | Martin Heidegger | El ser-en-el-mundo: existimos siempre en relación con lo que nos rodea |
-| XVIII | El rostro | Emmanuel Lévinas | El rostro del otro me hace responsable antes de que yo elija serlo |
-| XIX | La respuesta | Emmanuel Lévinas | La ética no es una teoría; es la respuesta inmediata al rostro del otro |
-| XX | La infinidad | Emmanuel Lévinas | La responsabilidad es infinita; no puedo decir "no es asunto mío" |
-| XXI | El camino | — | La vida no se planifica; se vive, se siente, se padece |
-| XXII | La vida | — | La vida es la carrera y la carrera es la vida; no hay meta, solo camino |
 
 
