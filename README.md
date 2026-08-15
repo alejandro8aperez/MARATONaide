@@ -56,11 +56,8 @@ Runy se inscribió en la maratón de Medellín. Cada kilómetro encuentra una et
 | Archivo | Contenido |
 |---|---|
 | `MARATONaide-9.0.md` | Novela completa (versión actual) |
-| `MARATONaide-5.0.md` | Versión anterior |
-| `MARATONaide-3.0.md` | Versión anterior |
 | `index.html` | Página principal de la web |
 | `leer/maratonaide-9-0.html` | Lector web (versión actual) |
-| `leer/maratonaide-7-0.html` | Lector web (versión anterior) |
 
 ---
 
