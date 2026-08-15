@@ -10,7 +10,7 @@ Runy se inscribió en la maratón de Medellín. Cada kilómetro encuentra una et
 
 ---
 
-## Versión actual: 5.0
+## Versión actual: 9.0
 
 | # | Km | Etapa | Idea principal |
 |---|---|---|---|
@@ -37,17 +37,17 @@ Runy se inscribió en la maratón de Medellín. Cada kilómetro encuentra una et
 | XXI | 40–42 | El camino | La vida no se planifica; se padece |
 | XXII | meta | La vida | La vida es la carrera y la carrera es la vida |
 
-**~3,200 líneas · 22 capítulos · 42 km**
+**~17.300 palabras · 22 capítulos · 42 km**
 
 ---
 
-## Cambios en 5.0
+## Cambios en 9.0
 
-- **Sin nombres de filósofos en el texto.** Los filósofos aparecen solo en la tabla al final del libro. Las ideas fluyen de forma natural en los diálogos y pensamientos.
-- **La IA aparece desde el capítulo I.** El niño corre con Runy desde el kilómetro cero. Los cuadernos contienen código, no solo reflexiones.
-- **Conflicto externo.** La IA no es solo un tema; es una amenaza. El niño toma control del cuerpo de Runy (cap. VII), revela instrucciones ocultas (cap. VIII) y Runy debe decidir si confiar o resistir.
-- **Más corto y directo.** 3,200 líneas vs. 3,963 de la 3.0. Sin filler, sin repeticiones.
-- **Tabla de filósofos al final.** El lector descubre al final qué filósofo estaba detrás de cada etapa.
+- **Reescritura completa con acabado de bestseller.** Prosa más seca y cinematográfica, sin exposición filosófica que sonara a ensayo: las ideas actúan en cuerpo, diálogo y sensación.
+- **Eliminación de los tics del borrador.** Se retiraron por completo las muletillas repetidas de versiones anteriores ("Y eso era suficiente", "Por ahora.", "una intensidad que no era de curiosidad sino…").
+- **Personajes y promesas sembrados antes.** El dorsal 2038 entregado ya impreso (misterio desde la primera página), el celador, la pulsera de cuero y la historia de Valentina y de Arango pagan su arco.
+- **Escena reciclada diferenciada.** La caída del capítulo VIII y el final (XXII) ya no comparten el mismo párrafo.
+- **Nota final con los filósofos.** El lector descubre al final qué pensador está detrás de cada etapa.
 
 ---
 
@@ -55,18 +55,21 @@ Runy se inscribió en la maratón de Medellín. Cada kilómetro encuentra una et
 
 | Archivo | Contenido |
 |---|---|
-| `MARATONaide-5.0.md` | Novela completa (versión actual) |
+| `MARATONaide-9.0.md` | Novela completa (versión actual) |
+| `MARATONaide-5.0.md` | Versión anterior |
 | `MARATONaide-3.0.md` | Versión anterior |
-| `index.html` | Versión web |
+| `index.html` | Página principal de la web |
+| `leer/maratonaide-9-0.html` | Lector web (versión actual) |
+| `leer/maratonaide-7-0.html` | Lector web (versión anterior) |
 
 ---
 
 ## Inspiración
 
-- Filosofía: existencialismo, fenomenología, Bergson, Schopenhauer
+- Filosofía: existencialismo, fenomenología, Bergson, Schopenhauer, Lévinas
 - Medellín: la maratón de la ciudad como escenario
 - Running: el acto de correr como metáfora de la vida
 
 ---
 
-Julio 2026. Medellín, Colombia.
+Medellín, Colombia.
