@@ -2,3 +2,5 @@
 ~$*
 ~WRL*.tmp
 Portada en ingles
+__pycache__/
+*.pyc
